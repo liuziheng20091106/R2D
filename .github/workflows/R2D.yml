@@ -1,6 +1,8 @@
 name: Multiple RSS Feeds to Markdown
 
 on:
+  workflow_dispatch:
+  push:
   schedule:
     - cron: "0 2 * * *"
 
