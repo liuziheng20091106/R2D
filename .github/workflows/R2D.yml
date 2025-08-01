@@ -1,0 +1,32 @@
+name: Multiple RSS Feeds to Markdown
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  convert_feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+      - name: Run RSS Feed to Markdown Action
+        uses: keiranlovett/rss-feed-to-markdown@main
+        with:
+          feed_urls_file: 'feed_urls.txt'
+          template_file: 'template.md'
+          output_dir: '_posts/events/'
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Action Update Post Files"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
