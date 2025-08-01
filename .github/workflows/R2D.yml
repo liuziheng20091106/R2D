@@ -19,7 +19,7 @@ jobs:
       - name: Run RSS Feed to Markdown Action
         uses: keiranlovett/rss-feed-to-markdown@main
         with:
-          feed_urls_file: 'feed_urls.txt'
+          feed_urls_file: 'feed_urls.json'
           template_file: 'template.md'
           output_dir: '_posts/events/'
       - name: Commit files
