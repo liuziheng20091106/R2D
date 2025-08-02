@@ -1,5 +1,5 @@
 [
   "https://www.ithome.com/rss/",
-  "https://sspai.com/feed",
-  "https://feeds.appinn.com/appinns/"
+  "http://tkcloud.space:4080/sspai.xml",
+  "http://tkcloud.space:4080/appinn.xml"
 ]
