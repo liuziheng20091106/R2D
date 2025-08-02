@@ -1,17 +1,10 @@
----
-id: https://www.appinn.com/bitchat-mesh/-full
-link: https://www.appinn.com/bitchat-mesh/
-title: BitChat Mesh Twitter
-date: Tue, 29 Jul 2025 09:06:35 +0000
-author: 青小蛙
-keywords: iOS,Android,iPhone,IM,聊天,蓝牙
-image: 
-images: 
-description: >
-  BitChat 是一款不需要网络就能使用的聊天应用，它基于蓝牙小范围连接，不需要服务器、账户或用户信息，适合在没有网络的情况下使用。@Appinn但是有个问题：蓝牙的连接范围，是否可以通过人类最伟大的器官之一：嘴巴，来实现沟通？BitChat 之所以一诞生起就引起很多用户的注意，完全因为这是 Twitter 联合创始人 Jack Dorsey 的周末开源项目，源代码托管在 GitHub。主要特点使用了复古的 IRC 风格隐私优先设计： 无需创建帐户或验证电话号码。无需中央服务器存储您的消息。消息仅保留在您的设备和收件人的本地设备上。不会基于您的聊天内容进行数据挖掘或广告投放。自动用户发现和自动重连。高效省电的低功耗蓝牙 (BLE) 操作。占用极少的系统资源。支持短信和小文件传输。适用于：偏远地区（露营、徒步旅行、旅行）互联网中断或灾区网络拥堵的场所信号较差的地下区域使用范围最远 100 米（最佳条件下）。获取目前已经上架 App Store 和 Goole Play。原文：https://www.appinn.com/bitchat-mesh/
----
+> id: https://www.appinn.com/bitchat-mesh/-full
+
+> link: https://www.appinn.com/bitchat-mesh/
+
+> title: BitChat Mesh Twitter
+
 # BitChat Mesh Twitter
-##### By 青小蛙
 _Published on Tue, 29 Jul 2025 09:06:35 +0000_
 
 **BitChat** 是一款不需要网络就能使用的聊天应用，它基于蓝牙小范围连接，不需要服务器、账户或用户信息，适合在没有网络的情况下使用。@[Appinn](https://www.appinn.com/bitchat-mesh/)
@@ -55,6 +48,3 @@ BitChat 之所以一诞生起就引起很多用户的注意，完全因为这是
 * * *
 
 原文：https://www.appinn.com/bitchat-mesh/
-
----
-Categories: iOS,Android,iPhone,IM,聊天,蓝牙

@@ -1,17 +1,10 @@
----
-id: https://www.appinn.com/regdict/-full
-link: https://www.appinn.com/regdict/
-title: regdict Wordle
-date: Wed, 30 Jul 2025 07:19:04 +0000
-author: 青小蛙
-keywords: 在线应用,Wordle,外挂,词典
-image: 
-images: 
-description: >
-  regdict 是一款开源英语词典，使用了简单的规则，实现了类似正则表达式的查询方式，非常适合充当单词游戏 Wordle 外挂。@Appinn感谢 @无宝 的推荐。regdict 规则基本规则. 匹配任意一个字母/音标+ 匹配一个或多个字母/音标* 匹配零个或多个字母/音标? 匹配一个可选项(abc) 匹配一个括号内的字母/音标精确查询前缀查询后缀查询以&nbsp;ed&nbsp;结尾，且在它前面可能有一个可选的&nbsp;i，前面还至少有一个字母的单词长度查询查询长度为 4 且以 s 结尾的单词或查询查询后缀为 er 或 or 单词解决今天的 Wordle先在 regdict 中随便输入 …..：将 aaron 输入 Wordle，但是不认可，那就输入 aback：看起来，这个单词有两个 A，其中第一个 A 位置正确，第二个不正确。继续，现在只需要 regdict 中搜索 AA…、A..A.，或者 A…A 就行了，那么拼一下运气，搜索 A..A.：这次确定了两个字母 A 的位置，那就继续从刚刚的搜索结果中查找，但目前已经排除了上面的 B、C、D、E、H、K 几个字母：algal、alias、asian、array，先随便试两个个：又可以更换 regdict 关键词了：a..ay：妥了！获取原文：https://www.appinn.com/regdict/
----
+> id: https://www.appinn.com/regdict/-full
+
+> link: https://www.appinn.com/regdict/
+
+> title: regdict Wordle
+
 # regdict Wordle
-##### By 青小蛙
 _Published on Wed, 30 Jul 2025 07:19:04 +0000_
 
 **regdict** 是一款开源英语词典，使用了简单的规则，实现了类似正则表达式的查询方式，非常适合充当单词游戏 Wordle 外挂。@[Appinn](https://www.appinn.com/regdict/)
@@ -80,6 +73,3 @@ regdict 规则
 * * *
 
 原文：https://www.appinn.com/regdict/
-
----
-Categories: 在线应用,Wordle,外挂,词典

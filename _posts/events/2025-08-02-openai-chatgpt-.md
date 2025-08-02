@@ -1,17 +1,10 @@
----
-id: https://www.ithome.com/0/872/594.htm
-link: https://www.ithome.com/0/872/594.htm
-title: OpenAI ChatGPT
-date: Sat, 02 Aug 2025 08:32:43 GMT
-author: Unknown Author
-keywords: 
-image: 
-images: 
-description: >
-  IT之家 8 月 2 日消息，据《商业内幕》今天的报道，OpenAI 教育副总裁 Leah Belsky 说，在一个由 AI 主导的时代，反技术进步的人已经“没有立足之地”，掌握 AI 的职场人士工作效率显著更高。Belsky 自 2024 年起负责领导 OpenAI 的教育业务。她说，学习 AI 应该尽早开始，“当下的高校毕业生必须掌握 AI 工具的基本应用能力，这既是找工作的必备技能，也是进入职场后的关键能力。”但多数学校至今仍在限制学生使用 AI，而不是主动教授或引导。原因之一是校方普遍将使用 AI 视为作弊；还有人担心学生会因此出现所谓“脑力退化”。Belsky 表示，她看问题的方式不同。“AI 本质上就是一种工具，关键在于用法。如果学生只把它当答案机器，就学不到东西。因此我们正努力推动 AI 以更有利于批判性思维和创造力的方式融入学习。”她指出，学生应当培养的“核心素养”是编程。“现在有了 vibe coding，再加上各种简化编程的工具，我认为未来的学生不仅要掌握通用 AI 操作技能，还要学会用 AI 创建图像、开发应用、编写代码。”IT之家注：vibe coding 又译“氛围编程”，指用自然语言向 AI 发出提示，让它根据用户需求生成代码。这种方法虽然广泛流行，但由于 AI 编写的代码容易出错，涉及关键技术时仍不常用。使用者必须懂一定编程，或者有懂编程的人帮助验证 AI 的结果。Belsky 说，人们最担心的是 AI 会消除“有益的挣扎”这一学习过程中不可或缺的环节。“我们正在开发技术，弥补这一部分。”本周，OpenAI 推出 ChatGPT 的“学习模式（Study Mode）”。官网介绍称，该功能能为学生提供引导式问题，并根据目标与技能水平调整回答，帮助其加深理解。
----
+> id: https://www.ithome.com/0/872/594.htm
+
+> link: https://www.ithome.com/0/872/594.htm
+
+> title: OpenAI ChatGPT
+
 # OpenAI ChatGPT
-##### By Unknown Author
 _Published on Sat, 02 Aug 2025 08:32:43 GMT_
 
 IT之家 8 月 2 日消息，据《商业内幕》今天的报道，OpenAI 教育副总裁 Leah Belsky 说，在一个由 AI 主导的时代，反技术进步的人已经“没有立足之地”，掌握 AI 的职场人士工作效率显著更高。
@@ -31,6 +24,3 @@ IT之家注：vibe coding 又译“氛围编程”，指用自然语言向 AI �
 Belsky 说，人们最担心的是 AI 会消除“有益的挣扎”这一学习过程中不可或缺的环节。“我们正在开发技术，弥补这一部分。”
 
 本周，OpenAI 推出 ChatGPT 的“学习模式（Study Mode）”。官网介绍称，该功能能为学生提供引导式问题，并根据目标与技能水平调整回答，帮助其加深理解。
-
----
-Categories: 

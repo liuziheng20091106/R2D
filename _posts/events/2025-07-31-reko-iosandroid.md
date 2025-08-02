@@ -1,17 +1,10 @@
----
-id: https://www.appinn.com/reko-subscription-manager/-full
-link: https://www.appinn.com/reko-subscription-manager/
-title: Reko iOSAndroid
-date: Thu, 31 Jul 2025 06:38:43 +0000
-author: 青小蛙
-keywords: iOS,Android,iPad,iPhone,订阅,订阅制,订阅管理
-image: 
-images: 
-description: >
-  Reko 订阅经理是一款专门用来管理用户各种订阅的手机应用，支持 iPhone 与 Android。它内置了大量的订阅服务，如 Spotify、Netflix、Apple TV+ 等流媒体、Xbox、任天堂等游戏、1Password、Figma、Microsoft 365 等软件，但注意无国内服务，需要自定义添加。@Appinn另外，目前 iPhone 版本正在内购限免，Android 版本内购需要 7 刀。获取感谢小众软件群组的 Max 的推荐。上几张图：有几个小问题：暂无国内服务 Logo（自定义时无法上传）暂无多货币（只能选择一种货币）其他倒没什么了。不过还有一个日历，挺好用的：原文：https://www.appinn.com/reko-subscription-manager/另外，如果有实力的同学，可以使用开源自部署的方式来管理订阅：
----
+> id: https://www.appinn.com/reko-subscription-manager/-full
+
+> link: https://www.appinn.com/reko-subscription-manager/
+
+> title: Reko iOSAndroid
+
 # Reko iOSAndroid
-##### By 青小蛙
 _Published on Thu, 31 Jul 2025 06:38:43 +0000_
 
 **Reko 订阅经理**是一款专门用来管理用户各种订阅的手机应用，支持 iPhone 与 Android。它内置了大量的订阅服务，如 Spotify、Netflix、Apple TV+ 等流媒体、Xbox、任天堂等游戏、1Password、Figma、Microsoft 365 等软件，但注意无国内服务，需要自定义添加。@[Appinn](https://www.appinn.com/reko-subscription-manager/)
@@ -45,6 +38,3 @@ _Published on Thu, 31 Jul 2025 06:38:43 +0000_
 原文：https://www.appinn.com/reko-subscription-manager/
 
 另外，如果有实力的同学，可以使用开源自部署的方式来管理订阅：
-
----
-Categories: iOS,Android,iPad,iPhone,订阅,订阅制,订阅管理

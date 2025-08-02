@@ -1,17 +1,10 @@
----
-id: https://www.ithome.com/0/872/570.htm
-link: https://www.ithome.com/0/872/570.htm
-title: AI IMO OpenAI
-date: Sat, 02 Aug 2025 06:56:54 GMT
-author: Unknown Author
-keywords: 
-image: 
-images: 
-description: >
-  这一次，“不会”竟成了大模型的高光时刻。虽然在 IMO 第 6 题上得了零分，OpenAI 的金牌模型却展现了“高智商的诚实”。正如 OpenAI 研究员 Noam Brown 在最新访谈中所揭示的：当 IMO 推理模型会在缺乏有效证据时表示“我不确定”，这会显著减少隐藏错误。在 AI 摘下 IMO 金牌后，OpenAI 金牌小分队成员 Alex Wei、Sheryl Hsu 和 Noam Brown 参与了红杉资本组织的一场对话，揭秘模型攻克精英数学难题的底层突破。有网友帮忙总结了个太长不看版：与过去那些“看起来完美，实则错误”的幻觉式答案不同，这一代大模型开始学会“承认自己不会”。它标志着模型正在从胡编乱造的幻觉式回答，转向更加可靠且具有“自我认意识”的全新阶段。三位成员还在这场对话中，分享了更多关于冲刺 IMO 的有趣细节。IMO 金牌模型能承认自己不知道尽管数学家与计算机科学家一致认可 IMO 金牌模型的价值。但他们常常抱怨，当模型遇到知识盲区时，它总会输出一个令人信服但错误的答案。他们不得不耗费大量精力逐行验算，才能甄别那些幻觉陷阱。IMO 第 6 题让大模型全军覆没，当然，OpenAI 也对其进行了大量计算。有一个由 2025×2025 个单位正方形组成的网格。Matilda 希望在网格上放置一些矩形图块，这些图块的大小不同，但每个图块的每一条边都位于网格线上，并且每个单位正方形最多被一个图块覆盖。网格的每一行和每一列都恰好有一个未被任何瓷砖覆盖的单位正方形，求出 Matilda 需要放置的最少瓷砖数量。虽然投入海量算力最终仅得到一句“我无法回答”令人有些失望，但 Alex Wei 表示：能看到模型避免产生幻觉是很好的。Noam Brown 也对模型的这一转变表示赞赏，“如果它不知道，它就会承认它不知道。”这代表模型开始具备“自我意识”。这种“自我意识”可以帮助模型在面对困难问题时，承认自己的无能为力，而不是生成一个看似合理实则错误的解决方案。有趣的是，在 Alex Wei 2024 年刚加入 OpenAI 一周时，Noam
----
+> id: https://www.ithome.com/0/872/570.htm
+
+> link: https://www.ithome.com/0/872/570.htm
+
+> title: AI IMO OpenAI
+
 # AI IMO OpenAI
-##### By Unknown Author
 _Published on Sat, 02 Aug 2025 06:56:54 GMT_
 
 这一次，“不会”竟成了大模型的高光时刻。
@@ -104,6 +97,3 @@ Alex 还曾在谷歌、微软和 Meta 实习，后于 2024 年 1 月加入 OpenA
     
 
 本文来自微信公众号：[量子位（ID：QbitAI）](https://mp.weixin.qq.com/s/BZBrnMxqSWaKaNiEUBf61g)，作者：时令
-
----
-Categories: 

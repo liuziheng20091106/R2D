@@ -1,17 +1,10 @@
----
-id: https://www.appinn.com/annas-mcp/-full
-link: https://www.appinn.com/annas-mcp/
-title: annas-mcp MCP CLI
-date: Thu, 31 Jul 2025 07:53:23 +0000
-author: 青小蛙
-keywords: AI,MCP,安娜的档案
-image: 
-images: 
-description: >
-  annas-mcp 是一个从安娜的档案（Anna’s Archive）搜索和下载文档的 MCP 服务器和 CLI 工具。其中 CLI 提供了 Windows、macOS 与 Linux 版本。但注意需要拥有安娜的档案 API KEY 才可以使用。@Appinn上次介绍安娜的档案的时候，还是去年：从目前的统计来看，现在的种子已经累计了 1.1PB 的数据！annas-mcpannas-mcp 可以同时作为：mcp 服务器cli 命令行工具当使用 mcp 继承到客户端的时候，先下载，然后："anna-mcp": { "command": "/Users/iosifache/Downloads/annas-mcp", "args": ["mcp"], "env": { "ANNAS_SECRET_KEY": "feedfacecafebeef", 
----
+> id: https://www.appinn.com/annas-mcp/-full
+
+> link: https://www.appinn.com/annas-mcp/
+
+> title: annas-mcp MCP CLI
+
 # annas-mcp MCP CLI
-##### By 青小蛙
 _Published on Thu, 31 Jul 2025 07:53:23 +0000_
 
 **annas-mcp** 是一个从安娜的档案（Anna’s Archive）搜索和下载文档的 MCP 服务器和 CLI 工具。其中 CLI 提供了 Windows、macOS 与 Linux 版本。但注意需要拥有安娜的档案 API KEY 才可以使用。@Appinn
@@ -51,6 +44,3 @@ annas-mcp 可以同时作为：
 * * *
 
 原文：https://www.appinn.com/annas-mcp/
-
----
-Categories: AI,MCP,安娜的档案
