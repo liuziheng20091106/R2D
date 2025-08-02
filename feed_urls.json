@@ -1,8 +1,8 @@
 [
-  "https://www.ithome.com/rss/",
-  "http://tkcloud.space:4080/sspai.xml",
+  "https://rss.watchrss.cn/ithome/ranking/7days",
   "http://tkcloud.space:4080/appinn.xml",
-  "http://feeds.feedburner.com/ruanyifeng",
-  "https://rsshub.app/3dmgame/news",
-  "https://rsshub.app/nature/research/ng"
+  "https://rss.watchrss.cn/sspai/index",
+  "https://rss.watchrss.cn/3dmgame/news",
+  "https://rss.watchrss.cn/36kr/hot-list",
+  "https://rss.watchrss.cn/nature/research/ng"
 ]
