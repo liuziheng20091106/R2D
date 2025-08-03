@@ -14,6 +14,12 @@ Sheath blight (ShB), caused by necrotrophic fungus _Rhizoctonia solani_, is one 
 
 ### Similar content being viewed by others
 
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-025-85918-y/MediaObjects/41598_2025_85918_Fig1_HTML.png)
+
+### [Quantitative proteomic analysis deciphers mechanisms of sheath blight resistance in novel rice landrace against _Rhizoctonia solani_](https://www.nature.com/articles/s41598-025-85918-y?fromPaywallRec=false)
+
+Article Open access 02 August 2025
+
 ![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-021-00759-9/MediaObjects/41598_2021_759_Fig1_HTML.png)
 
 ### [Accumulating candidate genes for broad-spectrum resistance to rice blast in a drought-tolerant rice cultivar](https://www.nature.com/articles/s41598-021-00759-9?fromPaywallRec=false)
@@ -25,12 +31,6 @@ Article Open access 02 November 2021
 ### [Superior haplotypes of key drought-responsive genes reveal opportunities for the development of climate-resilient rice varieties](https://www.nature.com/articles/s42003-024-05769-7?fromPaywallRec=false)
 
 Article Open access 12 January 2024
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-020-20685-0/MediaObjects/41467_2020_20685_Fig1_HTML.png)
-
-### [A wheat cysteine-rich receptor-like kinase confers broad-spectrum resistance against Septoria tritici blotch](https://www.nature.com/articles/s41467-020-20685-0?fromPaywallRec=false)
-
-Article Open access 19 January 2021
 
 Main
 ----

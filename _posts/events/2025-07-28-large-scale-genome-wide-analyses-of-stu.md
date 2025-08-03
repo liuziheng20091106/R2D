@@ -20,17 +20,17 @@ Developmental stuttering is a highly heritable, common speech condition characte
 
 Article Open access 27 February 2024
 
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41398-020-00953-9/MediaObjects/41398_2020_953_Fig1_HTML.png)
-
-### [Common genetic risk variants identified in the SPARK cohort support DDHD2 as a candidate risk gene for autism](https://www.nature.com/articles/s41398-020-00953-9?fromPaywallRec=false)
-
-Article Open access 03 August 2020
-
 ![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-022-26845-0/MediaObjects/41598_2022_26845_Fig1_HTML.png)
 
 ### [Genome-wide association study of school grades identifies genetic overlap between language ability, psychopathology and creativity](https://www.nature.com/articles/s41598-022-26845-0?fromPaywallRec=false)
 
 Article Open access 09 January 2023
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41380-024-02409-8/MediaObjects/41380_2024_2409_Fig1_HTML.png)
+
+### [Genetic architecture of childhood speech disorder: a review](https://www.nature.com/articles/s41380-024-02409-8?fromPaywallRec=false)
+
+Article Open access 16 February 2024
 
 Main
 ----
