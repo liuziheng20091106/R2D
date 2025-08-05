@@ -273,7 +273,7 @@ References
     
 2.  Okubara, P. A., Dickman, M. B. & Blechl, A. E. Molecular and genetic aspects of controlling the soilborne necrotrophic pathogens _Rhizoctonia_ and _Pythium_. _Plant Sci._ **228**, 61–70 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXjsVWlsr0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25438786)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Molecular%20and%20genetic%20aspects%20of%20controlling%20the%20soilborne%20necrotrophic%20pathogens%20Rhizoctonia%20and%20Pythium&journal=Plant%20Sci.&volume=228&pages=61-70&publication_year=2014&author=Okubara%2CPA&author=Dickman%2CMB&author=Blechl%2CAE) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXjsVWlsr0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Molecular%20and%20genetic%20aspects%20of%20controlling%20the%20soilborne%20necrotrophic%20pathogens%20Rhizoctonia%20and%20Pythium&journal=Plant%20Sci.&volume=228&pages=61-70&publication_year=2014&author=Okubara%2CPA&author=Dickman%2CMB&author=Blechl%2CAE) 
     
 3.  Marchetti, M. A. & Bollich, C. N. Quantification of the relationship between sheath blight severity and yield loss in rice. _Plant Dis._ **75**, 773–775 (1991).
     
@@ -289,7 +289,7 @@ References
     
 6.  Singh, P., Mazumdar, P., Harikrishna, J. A. & Babu, S. Sheath blight of rice: a review and identification of priorities for future research. _Planta_ **250**, 1387–1407 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsVChu7%2FE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31346804)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sheath%20blight%20of%20rice%3A%20a%20review%20and%20identification%20of%20priorities%20for%20future%20research&journal=Planta&volume=250&pages=1387-1407&publication_year=2019&author=Singh%2CP&author=Mazumdar%2CP&author=Harikrishna%2CJA&author=Babu%2CS) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsVChu7%2FE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sheath%20blight%20of%20rice%3A%20a%20review%20and%20identification%20of%20priorities%20for%20future%20research&journal=Planta&volume=250&pages=1387-1407&publication_year=2019&author=Singh%2CP&author=Mazumdar%2CP&author=Harikrishna%2CJA&author=Babu%2CS) 
     
 7.  Chen, Z. et al. Identification of new resistance loci against sheath blight disease in rice through genome-wide association study. _Rice Sci._ **26**, 21–31 (2019).
     
@@ -297,15 +297,15 @@ References
     
 8.  Zhang, F. et al. Genome-wide association analysis of the genetic basis for sheath blight resistance in rice. _Rice_ **12**, 93 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31853678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6920286)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20analysis%20of%20the%20genetic%20basis%20for%20sheath%20blight%20resistance%20in%20rice&journal=Rice&volume=12&publication_year=2019&author=Zhang%2CF) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20analysis%20of%20the%20genetic%20basis%20for%20sheath%20blight%20resistance%20in%20rice&journal=Rice&volume=12&publication_year=2019&author=Zhang%2CF) 
     
 9.  Molla, K. A. et al. Understanding sheath blight resistance in rice: the road behind and the road ahead. _Plant Biotechnol. J._ **18**, 895–915 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31811745)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7061877)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20sheath%20blight%20resistance%20in%20rice%3A%20the%20road%20behind%20and%20the%20road%20ahead&journal=Plant%20Biotechnol.%20J.&volume=18&pages=895-915&publication_year=2020&author=Molla%2CKA) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20sheath%20blight%20resistance%20in%20rice%3A%20the%20road%20behind%20and%20the%20road%20ahead&journal=Plant%20Biotechnol.%20J.&volume=18&pages=895-915&publication_year=2020&author=Molla%2CKA) 
     
 10.  Cao, W. et al. Suppressing chlorophyll degradation by silencing _OsNYC3_ improves rice resistance to _Rhizoctonia solani_, the causal agent of sheath blight. _Plant Biotechnol. J._ **20**, 335–349 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1OrsLjE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34582620)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Suppressing%20chlorophyll%20degradation%20by%20silencing%20OsNYC3%20improves%20rice%20resistance%20to%20Rhizoctonia%20solani%2C%20the%20causal%20agent%20of%20sheath%20blight&journal=Plant%20Biotechnol.%20J.&volume=20&pages=335-349&publication_year=2022&author=Cao%2CW) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1OrsLjE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Suppressing%20chlorophyll%20degradation%20by%20silencing%20OsNYC3%20improves%20rice%20resistance%20to%20Rhizoctonia%20solani%2C%20the%20causal%20agent%20of%20sheath%20blight&journal=Plant%20Biotechnol.%20J.&volume=20&pages=335-349&publication_year=2022&author=Cao%2CW) 
     
 11.  Jia, L. et al. Searching for germplasm resistant to sheath blight from the USDA rice core collection. _Crop Sci._ **51**, 1507–1517 (2011).
     
@@ -313,11 +313,11 @@ References
     
 12.  Wang, Y. et al. Fine mapping and candidate gene analysis of _qSB12__YSB_, a gene conferring major quantitative resistance to rice sheath blight. _Theor. Appl. Genet._ **136**, 246 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXisFWqsL%2FO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37973669)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine%20mapping%20and%20candidate%20gene%20analysis%20of%20qSB12YSB%2C%20a%20gene%20conferring%20major%20quantitative%20resistance%20to%20rice%20sheath%20blight&journal=Theor.%20Appl.%20Genet.&volume=136&publication_year=2023&author=Wang%2CY) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXisFWqsL%2FO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine%20mapping%20and%20candidate%20gene%20analysis%20of%20qSB12YSB%2C%20a%20gene%20conferring%20major%20quantitative%20resistance%20to%20rice%20sheath%20blight&journal=Theor.%20Appl.%20Genet.&volume=136&publication_year=2023&author=Wang%2CY) 
     
 13.  Zuo, S. et al. Fine mapping of _qSB-11__LE_, the QTL that confers partial resistance to rice sheath blight. _Theor. Appl. Genet._ **126**, 1257–1272 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23423653)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine%20mapping%20of%20qSB-11LE%2C%20the%20QTL%20that%20confers%20partial%20resistance%20to%20rice%20sheath%20blight&journal=Theor.%20Appl.%20Genet.&volume=126&pages=1257-1272&publication_year=2013&author=Zuo%2CS) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine%20mapping%20of%20qSB-11LE%2C%20the%20QTL%20that%20confers%20partial%20resistance%20to%20rice%20sheath%20blight&journal=Theor.%20Appl.%20Genet.&volume=126&pages=1257-1272&publication_year=2013&author=Zuo%2CS) 
     
 14.  Zuo, S. et al. Fine-mapping of _qSB-9__TQ_, a gene conferring major quantitative resistance to rice sheath blight. _Mol. Breed._ **34**, 2191–2203 (2014).
     
@@ -329,23 +329,23 @@ References
     
 16.  Huang, X. et al. Genome-wide association studies of 14 agronomic traits in rice landraces. _Nat. Genet._ **42**, 961–967 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtlahu7rE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20972439)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20studies%20of%2014%20agronomic%20traits%20in%20rice%20landraces&journal=Nat.%20Genet.&volume=42&pages=961-967&publication_year=2010&author=Huang%2CX) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtlahu7rE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20studies%20of%2014%20agronomic%20traits%20in%20rice%20landraces&journal=Nat.%20Genet.&volume=42&pages=961-967&publication_year=2010&author=Huang%2CX) 
     
 17.  Chen, R. et al. Rice functional genomics: decades’ efforts and roads ahead. _Sci. China Life Sci._ **65**, 33–92 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34881420)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Rice%20functional%20genomics%3A%20decades%E2%80%99%20efforts%20and%20roads%20ahead&journal=Sci.%20China%20Life%20Sci.&volume=65&pages=33-92&publication_year=2022&author=Chen%2CR) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Rice%20functional%20genomics%3A%20decades%E2%80%99%20efforts%20and%20roads%20ahead&journal=Sci.%20China%20Life%20Sci.&volume=65&pages=33-92&publication_year=2022&author=Chen%2CR) 
     
 18.  Li, W. et al. A natural allele of a transcription factor in rice confers broad-spectrum blast resistance. _Cell_ **170**, 114–126 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFSqsLfJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28666113)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20natural%20allele%20of%20a%20transcription%20factor%20in%20rice%20confers%20broad-spectrum%20blast%20resistance&journal=Cell&volume=170&pages=114-126&publication_year=2017&author=Li%2CW) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFSqsLfJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20natural%20allele%20of%20a%20transcription%20factor%20in%20rice%20confers%20broad-spectrum%20blast%20resistance&journal=Cell&volume=170&pages=114-126&publication_year=2017&author=Li%2CW) 
     
 19.  Liu, Y. et al. Genomic basis of geographical adaptation to soil nitrogen in rice. _Nature_ **590**, 600–605 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXnsFWktg%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33408412)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20basis%20of%20geographical%20adaptation%20to%20soil%20nitrogen%20in%20rice&journal=Nature&volume=590&pages=600-605&publication_year=2021&author=Liu%2CY) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXnsFWktg%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20basis%20of%20geographical%20adaptation%20to%20soil%20nitrogen%20in%20rice&journal=Nature&volume=590&pages=600-605&publication_year=2021&author=Liu%2CY) 
     
 20.  Wang, A. et al. Identification of rice (_Oryza sativa_ L.) genes involved in sheath blight resistance via a genome-wide association study. _Plant Biotechnol. J._ **19**, 1553–1566 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1Orsr%2FF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33600077)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8384605)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20rice%20%28Oryza%20sativa%20L.%29%20genes%20involved%20in%20sheath%20blight%20resistance%20via%20a%20genome-wide%20association%20study&journal=Plant%20Biotechnol.%20J.&volume=19&pages=1553-1566&publication_year=2021&author=Wang%2CA) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1Orsr%2FF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20rice%20%28Oryza%20sativa%20L.%29%20genes%20involved%20in%20sheath%20blight%20resistance%20via%20a%20genome-wide%20association%20study&journal=Plant%20Biotechnol.%20J.&volume=19&pages=1553-1566&publication_year=2021&author=Wang%2CA) 
     
 21.  Oreiro, E. G. et al. Genome-wide associations and transcriptional profiling reveal ROS regulation as one underlying mechanism of sheath blight resistance in rice. _Mol. Plant Microbe._ **33**, 212–222 (2020).
     
@@ -353,19 +353,19 @@ References
     
 22.  Li, N. et al. Natural variation in _ZmFBL41_ confers banded leaf and sheath blight resistance in maize. _Nat. Genet._ **51**, 1540–1548 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvVOqu7%2FO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31570888)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20variation%20in%20ZmFBL41%20confers%20banded%20leaf%20and%20sheath%20blight%20resistance%20in%20maize&journal=Nat.%20Genet.&volume=51&pages=1540-1548&publication_year=2019&author=Li%2CN) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvVOqu7%2FO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20variation%20in%20ZmFBL41%20confers%20banded%20leaf%20and%20sheath%20blight%20resistance%20in%20maize&journal=Nat.%20Genet.&volume=51&pages=1540-1548&publication_year=2019&author=Li%2CN) 
     
 23.  Gao, M. et al. Ca2+ sensor-mediated ROS scavenging suppresses rice immunity and is exploited by a fungal effector. _Cell_ **184**, 5391–5404 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitFGhtr3F)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34597584)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ca2%2B%20sensor-mediated%20ROS%20scavenging%20suppresses%20rice%20immunity%20and%20is%20exploited%20by%20a%20fungal%20effector&journal=Cell&volume=184&pages=5391-5404&publication_year=2021&author=Gao%2CM) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitFGhtr3F)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ca2%2B%20sensor-mediated%20ROS%20scavenging%20suppresses%20rice%20immunity%20and%20is%20exploited%20by%20a%20fungal%20effector&journal=Cell&volume=184&pages=5391-5404&publication_year=2021&author=Gao%2CM) 
     
 24.  Taylor, S. S. et al. Structural framework for the protein kinase family. _Annu. Rev. Cell Biol._ **8**, 429–462 (1992).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK3sXhvVakuw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=1335745)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20framework%20for%20the%20protein%20kinase%20family&journal=Annu.%20Rev.%20Cell%20Biol.&volume=8&pages=429-462&publication_year=1992&author=Taylor%2CSS) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK3sXhvVakuw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20framework%20for%20the%20protein%20kinase%20family&journal=Annu.%20Rev.%20Cell%20Biol.&volume=8&pages=429-462&publication_year=1992&author=Taylor%2CSS) 
     
 25.  Lemmon, M. A. & Schlessinger, J. Cell signaling by receptor tyrosine kinases. _Cell_ **141**, 1117–1134 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXovFartb0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20602996)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914105)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cell%20signaling%20by%20receptor%20tyrosine%20kinases&journal=Cell&volume=141&pages=1117-1134&publication_year=2010&author=Lemmon%2CMA&author=Schlessinger%2CJ) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXovFartb0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cell%20signaling%20by%20receptor%20tyrosine%20kinases&journal=Cell&volume=141&pages=1117-1134&publication_year=2010&author=Lemmon%2CMA&author=Schlessinger%2CJ) 
     
 26.  Feng, Z. et al. iTRAQ-based quantitative proteomics analysis of defense responses triggered by the pathogen _Rhizoctonia solani_ infection in rice. _J. Integr. Agr._ **21**, 139–152 (2022).
     
@@ -373,23 +373,23 @@ References
     
 27.  Liu, J. et al. OsbHLH057 targets the AATCA cis‑element to regulate disease resistance and drought tolerance in rice. _Plant Cell Rep._ **41**, 1285–1299 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XntVWms7s%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35278106)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=OsbHLH057%20targets%20the%20AATCA%20cis%E2%80%91element%20to%20regulate%20disease%20resistance%20and%20drought%20tolerance%20in%20rice&journal=Plant%20Cell%20Rep.&volume=41&pages=1285-1299&publication_year=2022&author=Liu%2CJ) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XntVWms7s%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=OsbHLH057%20targets%20the%20AATCA%20cis%E2%80%91element%20to%20regulate%20disease%20resistance%20and%20drought%20tolerance%20in%20rice&journal=Plant%20Cell%20Rep.&volume=41&pages=1285-1299&publication_year=2022&author=Liu%2CJ) 
     
 28.  Chen, L. et al. The Hop/Sti1-Hsp90 Chaperone complex facilitates the maturation and transport of a PAMP receptor in rice innate immunity. _Cell Host Microbe_ **7**, 185–196 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXlsVWqurc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20227662)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Hop%2FSti1-Hsp90%20Chaperone%20complex%20facilitates%20the%20maturation%20and%20transport%20of%20a%20PAMP%20receptor%20in%20rice%20innate%20immunity&journal=Cell%20Host%20Microbe&volume=7&pages=185-196&publication_year=2010&author=Chen%2CL) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXlsVWqurc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Hop%2FSti1-Hsp90%20Chaperone%20complex%20facilitates%20the%20maturation%20and%20transport%20of%20a%20PAMP%20receptor%20in%20rice%20innate%20immunity&journal=Cell%20Host%20Microbe&volume=7&pages=185-196&publication_year=2010&author=Chen%2CL) 
     
 29.  Jeon, J. S. et al. T-DNA insertional mutagenesis for functional genomics in rice. _Plant J._ **22**, 561–570 (2000).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3cXltFKksbo%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10886776)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-DNA%20insertional%20mutagenesis%20for%20functional%20genomics%20in%20rice&journal=Plant%20J.&volume=22&pages=561-570&publication_year=2000&author=Jeon%2CJS) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3cXltFKksbo%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-DNA%20insertional%20mutagenesis%20for%20functional%20genomics%20in%20rice&journal=Plant%20J.&volume=22&pages=561-570&publication_year=2000&author=Jeon%2CJS) 
     
 30.  Lipka, A. E. et al. GAPIT: genome association and prediction integrated tool. _Bioinformatics_ **28**, 2397–2399 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtlantbrP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22796960)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GAPIT%3A%20genome%20association%20and%20prediction%20integrated%20tool&journal=Bioinformatics&volume=28&pages=2397-2399&publication_year=2012&author=Lipka%2CAE) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtlantbrP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GAPIT%3A%20genome%20association%20and%20prediction%20integrated%20tool&journal=Bioinformatics&volume=28&pages=2397-2399&publication_year=2012&author=Lipka%2CAE) 
     
 31.  Goodman, S. N. Of p-values and Bayes: a modest proposal. _Epidemiology_ **12**, 295–297 (2001).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BD3MvpsVOhtQ%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11337600)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Of%20p-values%20and%20Bayes%3A%20a%20modest%20proposal&journal=Epidemiology&volume=12&pages=295-297&publication_year=2001&author=Goodman%2CSN) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BD3MvpsVOhtQ%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Of%20p-values%20and%20Bayes%3A%20a%20modest%20proposal&journal=Epidemiology&volume=12&pages=295-297&publication_year=2001&author=Goodman%2CSN) 
     
 32.  Yin, L. et al. rMVP: a memory-efficient, visualization-enhanced, and parallel-accelerated tool for genome-wide association study. _Genom. Proteom. Bioinf._ **19**, 619–628 (2021).
     
@@ -397,23 +397,23 @@ References
     
 33.  Dong, S. et al. LDBlockShow: a fast and convenient tool for visualizing linkage disequilibrium and haplotype blocks based on variant call format files. _Brief. Bioinform._ **22**, bbaa227 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33126247)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LDBlockShow%3A%20a%20fast%20and%20convenient%20tool%20for%20visualizing%20linkage%20disequilibrium%20and%20haplotype%20blocks%20based%20on%20variant%20call%20format%20files&journal=Brief.%20Bioinform.&volume=22&publication_year=2021&author=Dong%2CS) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LDBlockShow%3A%20a%20fast%20and%20convenient%20tool%20for%20visualizing%20linkage%20disequilibrium%20and%20haplotype%20blocks%20based%20on%20variant%20call%20format%20files&journal=Brief.%20Bioinform.&volume=22&publication_year=2021&author=Dong%2CS) 
     
 34.  Hellens, R. P. et al. Transient expression vectors for functional genomics, quantification of promoter activity and RNA silencing in plants. _Plant Methods_ **1**, 13 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16359558)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334188)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transient%20expression%20vectors%20for%20functional%20genomics%2C%20quantification%20of%20promoter%20activity%20and%20RNA%20silencing%20in%20plants&journal=Plant%20Methods&volume=1&publication_year=2005&author=Hellens%2CRP) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transient%20expression%20vectors%20for%20functional%20genomics%2C%20quantification%20of%20promoter%20activity%20and%20RNA%20silencing%20in%20plants&journal=Plant%20Methods&volume=1&publication_year=2005&author=Hellens%2CRP) 
     
 35.  Chern, M. et al. A rice transient assay system identifies a novel domain in NRR required for interaction with NH1/OsNPR1 and inhibition of NH1mediated transcriptional activation. _Plant Methods_ **8**, 6 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XmsF2qurY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22353606)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297495)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20rice%20transient%20assay%20system%20identifies%20a%20novel%20domain%20in%20NRR%20required%20for%20interaction%20with%20NH1%2FOsNPR1%20and%20inhibition%20of%20NH1mediated%20transcriptional%20activation&journal=Plant%20Methods&volume=8&publication_year=2012&author=Chern%2CM) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XmsF2qurY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20rice%20transient%20assay%20system%20identifies%20a%20novel%20domain%20in%20NRR%20required%20for%20interaction%20with%20NH1%2FOsNPR1%20and%20inhibition%20of%20NH1mediated%20transcriptional%20activation&journal=Plant%20Methods&volume=8&publication_year=2012&author=Chern%2CM) 
     
 36.  Ohyanagi, H., Obayashi, T. & Yano, K. _Plant and Cell Physiology_’s 2016 Online Database Issue. _Plant Cell Physiol._ **57**, 1–3 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xhs12is7vK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26801748)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plant%20and%20Cell%20Physiology%E2%80%99s%202016%20Online%20Database%20Issue&journal=Plant%20Cell%20Physiol.&volume=57&pages=1-3&publication_year=2016&author=Ohyanagi%2CH&author=Obayashi%2CT&author=Yano%2CK) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xhs12is7vK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plant%20and%20Cell%20Physiology%E2%80%99s%202016%20Online%20Database%20Issue&journal=Plant%20Cell%20Physiol.&volume=57&pages=1-3&publication_year=2016&author=Ohyanagi%2CH&author=Obayashi%2CT&author=Yano%2CK) 
     
 37.  Sun, C. et al. RPAN: rice pan-genome browser for ~3000 rice genomes. _Nucl. Acids Res._ **45**, 597–605 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXivFais7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27940610)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RPAN%3A%20rice%20pan-genome%20browser%20for%20~3000%20rice%20genomes&journal=Nucl.%20Acids%20Res.&volume=45&pages=597-605&publication_year=2017&author=Sun%2CC) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXivFais7o%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RPAN%3A%20rice%20pan-genome%20browser%20for%20~3000%20rice%20genomes&journal=Nucl.%20Acids%20Res.&volume=45&pages=597-605&publication_year=2017&author=Sun%2CC) 
     
 38.  Elson, P. et al. SciTools/cartopy: v0.22.0. Zenodo (2023).
     
@@ -423,7 +423,7 @@ References
     
 40.  Danecek, P. et al. The variant call format and VCFtools. _Bioinformatics_ **27**, 2156–2158 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXptFCqt7w%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXptFCqt7w%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
     
 41.  Koichiro, T., Glen, S. & Sudhir, K. MEGA11: Molecular evolutionary genetics analysis version 11. _Mol. Biol. Evol._ **38**, 3022–3027 (2021).
     
@@ -431,7 +431,7 @@ References
     
 42.  Paradis, E. pegas: an R package for population genetics with an integrated-modular approach. _Bioinformatics_ **26**, 419–420 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhs1Onsrs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20080509)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=pegas%3A%20an%20R%20package%20for%20population%20genetics%20with%20an%20integrated-modular%20approach&journal=Bioinformatics&volume=26&pages=419-420&publication_year=2010&author=Paradis%2CE) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhs1Onsrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=pegas%3A%20an%20R%20package%20for%20population%20genetics%20with%20an%20integrated-modular%20approach&journal=Bioinformatics&volume=26&pages=419-420&publication_year=2010&author=Paradis%2CE) 
     
 43.  Hunter, J. D. Matplotlib: a 2D graphics environment. _Comput. Sci. Eng._ **9**, 90–95 (2007).
     
@@ -439,11 +439,11 @@ References
     
 44.  Lee, H. K. et al. Drought stress-induced _Rma1H1_, a RING membrane-anchor E3 ubiquitin ligase homolog, regulates aquaporin levels via ubiquitination in transgenic Arabidopsis plants. _Plant Cell_ **21**, 622–641 (2009).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXksVKrt7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19234086)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2660634)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Drought%20stress-induced%20Rma1H1%2C%20a%20RING%20membrane-anchor%20E3%20ubiquitin%20ligase%20homolog%2C%20regulates%20aquaporin%20levels%20via%20ubiquitination%20in%20transgenic%20Arabidopsis%20plants&journal=Plant%20Cell&volume=21&pages=622-641&publication_year=2009&author=Lee%2CHK) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXksVKrt7o%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Drought%20stress-induced%20Rma1H1%2C%20a%20RING%20membrane-anchor%20E3%20ubiquitin%20ligase%20homolog%2C%20regulates%20aquaporin%20levels%20via%20ubiquitination%20in%20transgenic%20Arabidopsis%20plants&journal=Plant%20Cell&volume=21&pages=622-641&publication_year=2009&author=Lee%2CHK) 
     
 45.  Nelson, B. K., Cai, X. & Nebenfuhr, A. A multicolored set of in vivo organelle markers for co-localization studies in _Arabidopsis_ and other plants. _Plant J._ **51**, 1126–1136 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtFKnur%2FO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17666025)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20multicolored%20set%20of%20in%20vivo%20organelle%20markers%20for%20co-localization%20studies%20in%20Arabidopsis%20and%20other%20plants&journal=Plant%20J.&volume=51&pages=1126-1136&publication_year=2007&author=Nelson%2CBK&author=Cai%2CX&author=Nebenfuhr%2CA) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtFKnur%2FO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20multicolored%20set%20of%20in%20vivo%20organelle%20markers%20for%20co-localization%20studies%20in%20Arabidopsis%20and%20other%20plants&journal=Plant%20J.&volume=51&pages=1126-1136&publication_year=2007&author=Nelson%2CBK&author=Cai%2CX&author=Nebenfuhr%2CA) 
     
 46.  Wei, H., Sherman, B. & Lempicki, R. Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. _Nucl. Acids Res._ **37**, 1–13 (2009).
     
@@ -451,11 +451,11 @@ References
     
 47.  Boller, T., Gehri, A., Mauch, F. & Vogeli, U. Chitinase in bean leaves: induction by ethylene, purification, properties, and possible function. _Planta_ **157**, 22–31 (1983).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaL3sXht1WrtLc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24263941)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chitinase%20in%20bean%20leaves%3A%20induction%20by%20ethylene%2C%20purification%2C%20properties%2C%20and%20possible%20function&journal=Planta&volume=157&pages=22-31&publication_year=1983&author=Boller%2CT&author=Gehri%2CA&author=Mauch%2CF&author=Vogeli%2CU) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaL3sXht1WrtLc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chitinase%20in%20bean%20leaves%3A%20induction%20by%20ethylene%2C%20purification%2C%20properties%2C%20and%20possible%20function&journal=Planta&volume=157&pages=22-31&publication_year=1983&author=Boller%2CT&author=Gehri%2CA&author=Mauch%2CF&author=Vogeli%2CU) 
     
 48.  Zhu, M. et al. The ZmCPK39–ZmDi19–ZmPR10 immune module regulates quantitative resistance to multiple foliar diseases in maize. _Nat. Genet._ **56**, 2815–2826 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXisVartrnI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39496881)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11631770)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20ZmCPK39%E2%80%93ZmDi19%E2%80%93ZmPR10%20immune%20module%20regulates%20quantitative%20resistance%20to%20multiple%20foliar%20diseases%20in%20maize&journal=Nat.%20Genet.&volume=56&pages=2815-2826&publication_year=2024&author=Zhu%2CM) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXisVartrnI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20ZmCPK39%E2%80%93ZmDi19%E2%80%93ZmPR10%20immune%20module%20regulates%20quantitative%20resistance%20to%20multiple%20foliar%20diseases%20in%20maize&journal=Nat.%20Genet.&volume=56&pages=2815-2826&publication_year=2024&author=Zhu%2CM) 
     
 
 [Download references](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02281-4?format=refman&flavour=references)
