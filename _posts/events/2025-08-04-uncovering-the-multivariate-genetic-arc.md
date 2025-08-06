@@ -83,11 +83,11 @@ Article Open access 01 June 2024
 
 Article 12 August 2021
 
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-022-32893-x/MediaObjects/41467_2022_32893_Fig1_HTML.png)
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs43587-025-00925-y/MediaObjects/43587_2025_925_Fig1_HTML.png)
 
-### [Derivation and validation of an epigenetic frailty risk score in population-based cohorts of older adults](https://www.nature.com/articles/s41467-022-32893-x?fromPaywallRec=true)
+### [Large-scale genome-wide analyses with proteomics integration reveal novel loci and biological insights into frailty](https://www.nature.com/articles/s43587-025-00925-y?fromPaywallRec=true)
 
-Article Open access 07 September 2022
+Article Open access 05 August 2025
 
 Data availability
 -----------------
