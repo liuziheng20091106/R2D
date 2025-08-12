@@ -73,26 +73,6 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02284-1/MediaObjects/41588_2025_2284_Fig7_HTML.png)
 
-### Similar content being viewed by others
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41593-022-01180-9/MediaObjects/41593_2022_1180_Fig1_HTML.png)
-
-### [CRISPRi screens in human iPSC-derived astrocytes elucidate regulators of distinct inflammatory reactive states](https://www.nature.com/articles/s41593-022-01180-9?fromPaywallRec=true)
-
-Article 27 October 2022
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-024-52490-4/MediaObjects/41467_2024_52490_Fig1_HTML.png)
-
-### [Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements](https://www.nature.com/articles/s41467-024-52490-4?fromPaywallRec=true)
-
-Article Open access 18 September 2024
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-025-09686-5/MediaObjects/41598_2025_9686_Fig1_HTML.png)
-
-### [Induction of cancer stem cells from mouse fibroblasts](https://www.nature.com/articles/s41598-025-09686-5?fromPaywallRec=true)
-
-Article Open access 15 July 2025
-
 Data availability
 -----------------
 

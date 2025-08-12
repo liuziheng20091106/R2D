@@ -359,31 +359,31 @@ References
     
 4.  Sun, B. B. et al. Plasma proteomic associations with genetics and health in the UK Biobank. _Nature_ **622**, 329–338 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitVGqsbbJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37794186)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10567551)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plasma%20proteomic%20associations%20with%20genetics%20and%20health%20in%20the%20UK%20Biobank&journal=Nature&volume=622&pages=329-338&publication_year=2023&author=Sun%2CBB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37794186)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10567551)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plasma%20proteomic%20associations%20with%20genetics%20and%20health%20in%20the%20UK%20Biobank&journal=Nature&volume=622&pages=329-338&publication_year=2023&author=Sun%2CBB) 
     
 5.  Qin, Y. et al. Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort. _Nat. Genet._ **54**, 134–142 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XislKnsLo%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35115689)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9883041)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Combined%20effects%20of%20host%20genetics%20and%20diet%20on%20human%20gut%20microbiota%20and%20incident%20disease%20in%20a%20single%20population%20cohort&journal=Nat.%20Genet.&volume=54&pages=134-142&publication_year=2022&author=Qin%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35115689)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9883041)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Combined%20effects%20of%20host%20genetics%20and%20diet%20on%20human%20gut%20microbiota%20and%20incident%20disease%20in%20a%20single%20population%20cohort&journal=Nat.%20Genet.&volume=54&pages=134-142&publication_year=2022&author=Qin%2CY) 
     
 6.  Yazar, S. et al. Single-cell eQTL mapping identifies cell type-specific genetic control of autoimmune disease. _Science_ **376**, eabf3041 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XpvVynt7c%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35389779)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20eQTL%20mapping%20identifies%20cell%20type-specific%20genetic%20control%20of%20autoimmune%20disease&journal=Science&volume=376&publication_year=2022&author=Yazar%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35389779)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20eQTL%20mapping%20identifies%20cell%20type-specific%20genetic%20control%20of%20autoimmune%20disease&journal=Science&volume=376&publication_year=2022&author=Yazar%2CS) 
     
 7.  Perez, R. K. et al. Single-cell RNA-seq reveals cell type-specific molecular and genetic associations to lupus. _Science_ **376**, eabf1970 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XpvVynt7k%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35389781)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9297655)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20RNA-seq%20reveals%20cell%20type-specific%20molecular%20and%20genetic%20associations%20to%20lupus&journal=Science&volume=376&publication_year=2022&author=Perez%2CRK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35389781)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9297655)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20RNA-seq%20reveals%20cell%20type-specific%20molecular%20and%20genetic%20associations%20to%20lupus&journal=Science&volume=376&publication_year=2022&author=Perez%2CRK) 
     
 8.  Soskic, B. et al. Immune disease risk variants regulate gene expression dynamics during CD4+ T cell activation. _Nat. Genet._ **54**, 817–826 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhsVSqu73J)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35618845)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9197762)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Immune%20disease%20risk%20variants%20regulate%20gene%20expression%20dynamics%20during%20CD4%2B%20T%20cell%20activation&journal=Nat.%20Genet.&volume=54&pages=817-826&publication_year=2022&author=Soskic%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35618845)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9197762)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Immune%20disease%20risk%20variants%20regulate%20gene%20expression%20dynamics%20during%20CD4%2B%20T%20cell%20activation&journal=Nat.%20Genet.&volume=54&pages=817-826&publication_year=2022&author=Soskic%2CB) 
     
 9.  Nathan, A. et al. Single-cell eQTL models reveal dynamic T cell state dependence of disease loci. _Nature_ **606**, 120–128 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1Krsb7I)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35545678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9842455)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20eQTL%20models%20reveal%20dynamic%20T%20cell%20state%20dependence%20of%20disease%20loci&journal=Nature&volume=606&pages=120-128&publication_year=2022&author=Nathan%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35545678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9842455)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20eQTL%20models%20reveal%20dynamic%20T%20cell%20state%20dependence%20of%20disease%20loci&journal=Nature&volume=606&pages=120-128&publication_year=2022&author=Nathan%2CA) 
     
 10.  Kumasaka, N. et al. Mapping interindividual dynamics of innate immune response at single-cell resolution. _Nat. Genet._ **55**, 1066–1075 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXht1WlsL7E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37308670)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10260404)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20interindividual%20dynamics%20of%20innate%20immune%20response%20at%20single-cell%20resolution&journal=Nat.%20Genet.&volume=55&pages=1066-1075&publication_year=2023&author=Kumasaka%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37308670)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10260404)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20interindividual%20dynamics%20of%20innate%20immune%20response%20at%20single-cell%20resolution&journal=Nat.%20Genet.&volume=55&pages=1066-1075&publication_year=2023&author=Kumasaka%2CN) 
     
 11.  Zheng, L. et al. Pan-cancer single-cell landscape of tumor-infiltrating T cells. _Science_ **374**, abe6474 (2021).
     
@@ -391,23 +391,23 @@ References
     
 12.  Yoshida, M. et al. Local and systemic responses to SARS-CoV-2 infection in children and adults. _Nature_ **602**, 321–327 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xisleltrw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34937051)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Local%20and%20systemic%20responses%20to%20SARS-CoV-2%20infection%20in%20children%20and%20adults&journal=Nature&volume=602&pages=321-327&publication_year=2022&author=Yoshida%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34937051)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Local%20and%20systemic%20responses%20to%20SARS-CoV-2%20infection%20in%20children%20and%20adults&journal=Nature&volume=602&pages=321-327&publication_year=2022&author=Yoshida%2CM) 
     
 13.  Oelen, R. et al. Single-cell RNA-sequencing of peripheral blood mononuclear cells reveals widespread, context-specific gene expression regulation upon pathogenic exposure. _Nat. Commun._ **13**, 3267 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhsF2msLvK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35672358)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9174272)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20RNA-sequencing%20of%20peripheral%20blood%20mononuclear%20cells%20reveals%20widespread%2C%20context-specific%20gene%20expression%20regulation%20upon%20pathogenic%20exposure&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Oelen%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35672358)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9174272)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20RNA-sequencing%20of%20peripheral%20blood%20mononuclear%20cells%20reveals%20widespread%2C%20context-specific%20gene%20expression%20regulation%20upon%20pathogenic%20exposure&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Oelen%2CR) 
     
 14.  Loh, P., Genovese, G. & McCarroll, S. A. Monogenic and polygenic inheritance become instruments for clonal selection. _Nature_ **584**, 136–141 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXht1Cmu7nJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32581363)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7415571)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Monogenic%20and%20polygenic%20inheritance%20become%20instruments%20for%20clonal%20selection&journal=Nature&volume=584&pages=136-141&publication_year=2020&author=Loh%2CP&author=Genovese%2CG&author=McCarroll%2CSA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32581363)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7415571)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Monogenic%20and%20polygenic%20inheritance%20become%20instruments%20for%20clonal%20selection&journal=Nature&volume=584&pages=136-141&publication_year=2020&author=Loh%2CP&author=Genovese%2CG&author=McCarroll%2CSA) 
     
 15.  Thompson, D. J. et al. Genetic predisposition to mosaic Y chromosome loss in blood. _Nature_ **575**, 652–657 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitF2qt7bO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31748747)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6887549)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20predisposition%20to%20mosaic%20Y%20chromosome%20loss%20in%20blood&journal=Nature&volume=575&pages=652-657&publication_year=2019&author=Thompson%2CDJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31748747)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6887549)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20predisposition%20to%20mosaic%20Y%20chromosome%20loss%20in%20blood&journal=Nature&volume=575&pages=652-657&publication_year=2019&author=Thompson%2CDJ) 
     
 16.  Laurie, C. C. et al. Detectable clonal mosaicism from birth to old age and its relationship to cancer. _Nat. Genet._ **44**, 642–650 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XmsFOrt7k%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22561516)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3366033)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detectable%20clonal%20mosaicism%20from%20birth%20to%20old%20age%20and%20its%20relationship%20to%20cancer&journal=Nat.%20Genet.&volume=44&pages=642-650&publication_year=2012&author=Laurie%2CCC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22561516)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3366033)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detectable%20clonal%20mosaicism%20from%20birth%20to%20old%20age%20and%20its%20relationship%20to%20cancer&journal=Nat.%20Genet.&volume=44&pages=642-650&publication_year=2012&author=Laurie%2CCC) 
     
 17.  Genovese, G. et al. Clonal hematopoiesis and blood-cancer risk inferred from blood DNA sequence. _N. Engl. J. Med._ **371**, 2477–2487 (2014).
     
@@ -415,7 +415,7 @@ References
     
 18.  Saiki, R. et al. Combined landscape of single-nucleotide variants and copy number alterations in clonal hematopoiesis. _Nat. Med._ **27**, 1239–1249 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhsFSktL3E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34239136)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Combined%20landscape%20of%20single-nucleotide%20variants%20and%20copy%20number%20alterations%20in%20clonal%20hematopoiesis&journal=Nat.%20Med.&volume=27&pages=1239-1249&publication_year=2021&author=Saiki%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34239136)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Combined%20landscape%20of%20single-nucleotide%20variants%20and%20copy%20number%20alterations%20in%20clonal%20hematopoiesis&journal=Nat.%20Med.&volume=27&pages=1239-1249&publication_year=2021&author=Saiki%2CR) 
     
 19.  Jaiswal, S. et al. Clonal hematopoiesis and risk of atherosclerotic cardiovascular disease. _N. Engl. J. Med._ **377**, 111–121 (2017).
     
@@ -423,47 +423,47 @@ References
     
 20.  Sano, S. et al. Hematopoietic loss of Y chromosome leads to cardiac fibrosis and heart failure mortality. _Science_ **377**, 292–297 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitVWrtL3P)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35857592)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9437978)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hematopoietic%20loss%20of%20Y%20chromosome%20leads%20to%20cardiac%20fibrosis%20and%20heart%20failure%20mortality&journal=Science&volume=377&pages=292-297&publication_year=2022&author=Sano%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35857592)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9437978)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hematopoietic%20loss%20of%20Y%20chromosome%20leads%20to%20cardiac%20fibrosis%20and%20heart%20failure%20mortality&journal=Science&volume=377&pages=292-297&publication_year=2022&author=Sano%2CS) 
     
 21.  Zekavat, S. M. et al. Hematopoietic mosaic chromosomal alterations increase the risk for diverse types of infection. _Nat. Med._ **27**, 1012–1024 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXht1Kgt7jJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34099924)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8245201)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hematopoietic%20mosaic%20chromosomal%20alterations%20increase%20the%20risk%20for%20diverse%20types%20of%20infection&journal=Nat.%20Med.&volume=27&pages=1012-1024&publication_year=2021&author=Zekavat%2CSM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34099924)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8245201)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hematopoietic%20mosaic%20chromosomal%20alterations%20increase%20the%20risk%20for%20diverse%20types%20of%20infection&journal=Nat.%20Med.&volume=27&pages=1012-1024&publication_year=2021&author=Zekavat%2CSM) 
     
 22.  Bruhn-Olszewska, B. et al. Loss of Y in leukocytes as a risk factor for critical COVID-19 in men. _Genome Med._ **14**, 139 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjtFSltLnO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36514076)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747543)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Loss%20of%20Y%20in%20leukocytes%20as%20a%20risk%20factor%20for%20critical%20COVID-19%20in%20men&journal=Genome%20Med.&volume=14&publication_year=2022&author=Bruhn-Olszewska%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36514076)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747543)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Loss%20of%20Y%20in%20leukocytes%20as%20a%20risk%20factor%20for%20critical%20COVID-19%20in%20men&journal=Genome%20Med.&volume=14&publication_year=2022&author=Bruhn-Olszewska%2CB) 
     
 23.  Nam, A. S. et al. Single-cell multi-omics of human clonal hematopoiesis reveals that _DNMT3A_ R882 mutations perturb early progenitor states through selective hypomethylation. _Nat. Genet._ **54**, 1514–1526 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XisVKns7fO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36138229)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068894)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20multi-omics%20of%20human%20clonal%20hematopoiesis%20reveals%20that%20DNMT3A%20R882%20mutations%20perturb%20early%20progenitor%20states%20through%20selective%20hypomethylation&journal=Nat.%20Genet.&volume=54&pages=1514-1526&publication_year=2022&author=Nam%2CAS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36138229)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10068894)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20multi-omics%20of%20human%20clonal%20hematopoiesis%20reveals%20that%20DNMT3A%20R882%20mutations%20perturb%20early%20progenitor%20states%20through%20selective%20hypomethylation&journal=Nat.%20Genet.&volume=54&pages=1514-1526&publication_year=2022&author=Nam%2CAS) 
     
 24.  Gao, T. et al. A pan-tissue survey of mosaic chromosomal alterations in 948 individuals. _Nat. Genet._ **55**, 1901–1911 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXit1KgsrbK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37904053)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10838621)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20pan-tissue%20survey%20of%20mosaic%20chromosomal%20alterations%20in%20948%20individuals&journal=Nat.%20Genet.&volume=55&pages=1901-1911&publication_year=2023&author=Gao%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37904053)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10838621)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20pan-tissue%20survey%20of%20mosaic%20chromosomal%20alterations%20in%20948%20individuals&journal=Nat.%20Genet.&volume=55&pages=1901-1911&publication_year=2023&author=Gao%2CT) 
     
 25.  Abdel-Hafiz, H. A. et al. Y chromosome loss in cancer drives growth by evasion of adaptive immunity. _Nature_ **619**, 624–631 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXht1OntLjK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37344596)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10975863)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Y%20chromosome%20loss%20in%20cancer%20drives%20growth%20by%20evasion%20of%20adaptive%20immunity&journal=Nature&volume=619&pages=624-631&publication_year=2023&author=Abdel-Hafiz%2CHA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37344596)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10975863)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Y%20chromosome%20loss%20in%20cancer%20drives%20growth%20by%20evasion%20of%20adaptive%20immunity&journal=Nature&volume=619&pages=624-631&publication_year=2023&author=Abdel-Hafiz%2CHA) 
     
 26.  Lareau, C. A. et al. Single-cell multi-omics of mitochondrial DNA disorders reveals dynamics of purifying selection across human immune cells. _Nat. Genet._ **55**, 1198–1209 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtlKjsr3E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37386249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10548551)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20multi-omics%20of%20mitochondrial%20DNA%20disorders%20reveals%20dynamics%20of%20purifying%20selection%20across%20human%20immune%20cells&journal=Nat.%20Genet.&volume=55&pages=1198-1209&publication_year=2023&author=Lareau%2CCA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37386249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10548551)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20multi-omics%20of%20mitochondrial%20DNA%20disorders%20reveals%20dynamics%20of%20purifying%20selection%20across%20human%20immune%20cells&journal=Nat.%20Genet.&volume=55&pages=1198-1209&publication_year=2023&author=Lareau%2CCA) 
     
 27.  Hao, Y. et al. Integrated analysis of multimodal single-cell data. _Cell_ **184**, 3573–3587 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtlSrtrvE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34062119)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238499)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrated%20analysis%20of%20multimodal%20single-cell%20data&journal=Cell&volume=184&pages=3573-3587&publication_year=2021&author=Hao%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34062119)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238499)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrated%20analysis%20of%20multimodal%20single-cell%20data&journal=Cell&volume=184&pages=3573-3587&publication_year=2021&author=Hao%2CY) 
     
 28.  Mulder, K. et al. Cross-tissue single-cell landscape of human monocytes and macrophages in health and disease. _Immunity_ **54**, 1883–1900 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhs1yiu7zK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34331874)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cross-tissue%20single-cell%20landscape%20of%20human%20monocytes%20and%20macrophages%20in%20health%20and%20disease&journal=Immunity&volume=54&pages=1883-1900&publication_year=2021&author=Mulder%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34331874)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cross-tissue%20single-cell%20landscape%20of%20human%20monocytes%20and%20macrophages%20in%20health%20and%20disease&journal=Immunity&volume=54&pages=1883-1900&publication_year=2021&author=Mulder%2CK) 
     
 29.  Turner, J. S. et al. Human germinal centres engage memory and naive B cells after influenza vaccination. _Nature_ **586**, 127–132 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvVClur3E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32866963)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566073)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Human%20germinal%20centres%20engage%20memory%20and%20naive%20B%20cells%20after%20influenza%20vaccination&journal=Nature&volume=586&pages=127-132&publication_year=2020&author=Turner%2CJS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32866963)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566073)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Human%20germinal%20centres%20engage%20memory%20and%20naive%20B%20cells%20after%20influenza%20vaccination&journal=Nature&volume=586&pages=127-132&publication_year=2020&author=Turner%2CJS) 
     
 30.  Ren, X. et al. COVID-19 immune features revealed by a large-scale single-cell transcriptome atlas. _Cell_ **184**, 1895–1913 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXlsFSgtrc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33657410)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7857060)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=COVID-19%20immune%20features%20revealed%20by%20a%20large-scale%20single-cell%20transcriptome%20atlas&journal=Cell&volume=184&pages=1895-1913&publication_year=2021&author=Ren%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33657410)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7857060)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=COVID-19%20immune%20features%20revealed%20by%20a%20large-scale%20single-cell%20transcriptome%20atlas&journal=Cell&volume=184&pages=1895-1913&publication_year=2021&author=Ren%2CX) 
     
 31.  Krämer, B. et al. Early IFN-α signatures and persistent dysfunction are distinguishing features of NK cells in severe COVID-19. _Immunity_ **54**, 2650–2669 (2021).
     
@@ -471,15 +471,15 @@ References
     
 32.  Alquicira-Hernandez, J., Sathe, A., Ji, H. P., Nguyen, Q. & Powell, J. E. ScPred: accurate supervised method for cell-type classification from single-cell RNA-seq data. _Genome Biol._ **20**, 264 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitlyntLvM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31829268)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6907144)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ScPred%3A%20accurate%20supervised%20method%20for%20cell-type%20classification%20from%20single-cell%20RNA-seq%20data&journal=Genome%20Biol.&volume=20&publication_year=2019&author=Alquicira-Hernandez%2CJ&author=Sathe%2CA&author=Ji%2CHP&author=Nguyen%2CQ&author=Powell%2CJE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31829268)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6907144)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ScPred%3A%20accurate%20supervised%20method%20for%20cell-type%20classification%20from%20single-cell%20RNA-seq%20data&journal=Genome%20Biol.&volume=20&publication_year=2019&author=Alquicira-Hernandez%2CJ&author=Sathe%2CA&author=Ji%2CHP&author=Nguyen%2CQ&author=Powell%2CJE) 
     
 33.  Ota, M. et al. Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases. _Cell_ **184**, 3006–3021 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtVSqtrvO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33930287)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dynamic%20landscape%20of%20immune%20cell-specific%20gene%20regulation%20in%20immune-mediated%20diseases&journal=Cell&volume=184&pages=3006-3021&publication_year=2021&author=Ota%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33930287)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dynamic%20landscape%20of%20immune%20cell-specific%20gene%20regulation%20in%20immune-mediated%20diseases&journal=Cell&volume=184&pages=3006-3021&publication_year=2021&author=Ota%2CM) 
     
 34.  Urbut, S. M., Wang, G., Carbonetto, P. & Stephens, M. Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions. _Nat. Genet._ **51**, 187–195 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXitlWnu77K)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30478440)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Flexible%20statistical%20methods%20for%20estimating%20and%20testing%20effects%20in%20genomic%20studies%20with%20multiple%20conditions&journal=Nat.%20Genet.&volume=51&pages=187-195&publication_year=2019&author=Urbut%2CSM&author=Wang%2CG&author=Carbonetto%2CP&author=Stephens%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30478440)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Flexible%20statistical%20methods%20for%20estimating%20and%20testing%20effects%20in%20genomic%20studies%20with%20multiple%20conditions&journal=Nat.%20Genet.&volume=51&pages=187-195&publication_year=2019&author=Urbut%2CSM&author=Wang%2CG&author=Carbonetto%2CP&author=Stephens%2CM) 
     
 35.  Roadmap Epigenomics Consortium et al. Integrative analysis of 111 reference human epigenomes. _Nature_ **518**, 317–329 (2015).
     
@@ -487,23 +487,23 @@ References
     
 36.  Farh, K. K.-H. et al. Genetic and epigenetic fine mapping of causal autoimmune disease variants. _Nature_ **518**, 337–343 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhvVemtrbP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25363779)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20and%20epigenetic%20fine%20mapping%20of%20causal%20autoimmune%20disease%20variants&journal=Nature&volume=518&pages=337-343&publication_year=2015&author=Farh%2CKK-H) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25363779)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20and%20epigenetic%20fine%20mapping%20of%20causal%20autoimmune%20disease%20variants&journal=Nature&volume=518&pages=337-343&publication_year=2015&author=Farh%2CKK-H) 
     
 37.  Dann, E., Henderson, N. C., Teichmann, S. A., Morgan, M. D. & Marioni, J. C. Differential abundance testing on single-cell data using _k_\-nearest neighbor graphs. _Nat. Biotechnol._ **40**, 245–253 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitFGru7vN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34594043)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Differential%20abundance%20testing%20on%20single-cell%20data%20using%20k-nearest%20neighbor%20graphs&journal=Nat.%20Biotechnol.&volume=40&pages=245-253&publication_year=2022&author=Dann%2CE&author=Henderson%2CNC&author=Teichmann%2CSA&author=Morgan%2CMD&author=Marioni%2CJC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34594043)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Differential%20abundance%20testing%20on%20single-cell%20data%20using%20k-nearest%20neighbor%20graphs&journal=Nat.%20Biotechnol.&volume=40&pages=245-253&publication_year=2022&author=Dann%2CE&author=Henderson%2CNC&author=Teichmann%2CSA&author=Morgan%2CMD&author=Marioni%2CJC) 
     
 38.  Franzosa, E. A. et al. Gut microbiome structure and metabolic activity in inflammatory bowel disease. _Nat. Microbiol._ **4**, 293–305 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXisVyhtbnM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30531976)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gut%20microbiome%20structure%20and%20metabolic%20activity%20in%20inflammatory%20bowel%20disease&journal=Nat.%20Microbiol.&volume=4&pages=293-305&publication_year=2019&author=Franzosa%2CEA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30531976)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gut%20microbiome%20structure%20and%20metabolic%20activity%20in%20inflammatory%20bowel%20disease&journal=Nat.%20Microbiol.&volume=4&pages=293-305&publication_year=2019&author=Franzosa%2CEA) 
     
 39.  Nii, T. et al. Genomic repertoires linked with pathogenic potency of arthritogenic _Prevotella copri_ isolated from the gut of patients with rheumatoid arthritis. _Ann. Rheum. Dis._ **82**, 621–629 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtVKlt77J)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36627170)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20repertoires%20linked%20with%20pathogenic%20potency%20of%20arthritogenic%20Prevotella%20copri%20isolated%20from%20the%20gut%20of%20patients%20with%20rheumatoid%20arthritis&journal=Ann.%20Rheum.%20Dis.&volume=82&pages=621-629&publication_year=2023&author=Nii%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36627170)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20repertoires%20linked%20with%20pathogenic%20potency%20of%20arthritogenic%20Prevotella%20copri%20isolated%20from%20the%20gut%20of%20patients%20with%20rheumatoid%20arthritis&journal=Ann.%20Rheum.%20Dis.&volume=82&pages=621-629&publication_year=2023&author=Nii%2CT) 
     
 40.  Mills, R. H. et al. Multi-omics analyses of the ulcerative colitis gut microbiome link _Bacteroides vulgatus_ proteases with disease severity. _Nat. Microbiol._ **7**, 262–276 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitlGhsLc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35087228)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852248)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-omics%20analyses%20of%20the%20ulcerative%20colitis%20gut%20microbiome%20link%20Bacteroides%20vulgatus%20proteases%20with%20disease%20severity&journal=Nat.%20Microbiol.&volume=7&pages=262-276&publication_year=2022&author=Mills%2CRH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35087228)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852248)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-omics%20analyses%20of%20the%20ulcerative%20colitis%20gut%20microbiome%20link%20Bacteroides%20vulgatus%20proteases%20with%20disease%20severity&journal=Nat.%20Microbiol.&volume=7&pages=262-276&publication_year=2022&author=Mills%2CRH) 
     
 41.  La Gruta, N. L., Gras, S., Daley, S. R., Thomas, P. G. & Rossjohn, J. Understanding the drivers of MHC restriction of T cell receptors. _Nat. Rev. Immunol._ **18**, 467–478 (2018).
     
@@ -511,39 +511,39 @@ References
     
 42.  Nagafuchi, Y. et al. Control of naive and effector CD4 T cell receptor repertoires by rheumatoid-arthritis-risk HLA alleles. _J. Autoimmun._ **133**, 102907 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XisFOlsLvL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36126366)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Control%20of%20naive%20and%20effector%20CD4%20T%20cell%20receptor%20repertoires%20by%20rheumatoid-arthritis-risk%20HLA%20alleles&journal=J.%20Autoimmun.&volume=133&publication_year=2022&author=Nagafuchi%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36126366)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Control%20of%20naive%20and%20effector%20CD4%20T%20cell%20receptor%20repertoires%20by%20rheumatoid-arthritis-risk%20HLA%20alleles&journal=J.%20Autoimmun.&volume=133&publication_year=2022&author=Nagafuchi%2CY) 
     
 43.  Ishigaki, K. et al. HLA autoimmune risk alleles restrict the hypervariable region of T cell receptors. _Nat. Genet._ **54**, 393–402 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XotVGit7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35332318)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9010379)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA%20autoimmune%20risk%20alleles%20restrict%20the%20hypervariable%20region%20of%20T%20cell%20receptors&journal=Nat.%20Genet.&volume=54&pages=393-402&publication_year=2022&author=Ishigaki%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35332318)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9010379)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA%20autoimmune%20risk%20alleles%20restrict%20the%20hypervariable%20region%20of%20T%20cell%20receptors&journal=Nat.%20Genet.&volume=54&pages=393-402&publication_year=2022&author=Ishigaki%2CK) 
     
 44.  Edahiro, R. et al. Single-cell analyses and host genetics highlight the role of innate immune cells in COVID-19 severity. _Nat. Genet._ **55**, 753–767 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXosVKru7s%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37095364)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10181941)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20analyses%20and%20host%20genetics%20highlight%20the%20role%20of%20innate%20immune%20cells%20in%20COVID-19%20severity&journal=Nat.%20Genet.&volume=55&pages=753-767&publication_year=2023&author=Edahiro%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37095364)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10181941)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20analyses%20and%20host%20genetics%20highlight%20the%20role%20of%20innate%20immune%20cells%20in%20COVID-19%20severity&journal=Nat.%20Genet.&volume=55&pages=753-767&publication_year=2023&author=Edahiro%2CR) 
     
 45.  Ruan, Y. et al. Improving polygenic prediction in ancestrally diverse populations. _Nat. Genet._ **54**, 573–580 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1agt7fK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35513724)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9117455)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20polygenic%20prediction%20in%20ancestrally%20diverse%20populations&journal=Nat.%20Genet.&volume=54&pages=573-580&publication_year=2022&author=Ruan%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35513724)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9117455)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20polygenic%20prediction%20in%20ancestrally%20diverse%20populations&journal=Nat.%20Genet.&volume=54&pages=573-580&publication_year=2022&author=Ruan%2CY) 
     
 46.  The COVID-19 Host Genetics Initiative. A second update on mapping the human genetic architecture of COVID-19. _Nature_ **621**, E7–E26 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhvVGrtbbN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20second%20update%20on%20mapping%20the%20human%20genetic%20architecture%20of%20COVID-19&journal=Nature&volume=621&pages=E7-E26&publication_year=2023) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20second%20update%20on%20mapping%20the%20human%20genetic%20architecture%20of%20COVID-19&journal=Nature&volume=621&pages=E7-E26&publication_year=2023) 
     
 47.  Namkoong, H. et al. DOCK2 is involved in the host genetics and biology of severe COVID-19. _Nature_ **609**, 754–760 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xitl2nurrO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35940203)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9492544)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DOCK2%20is%20involved%20in%20the%20host%20genetics%20and%20biology%20of%20severe%20COVID-19&journal=Nature&volume=609&pages=754-760&publication_year=2022&author=Namkoong%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35940203)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9492544)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DOCK2%20is%20involved%20in%20the%20host%20genetics%20and%20biology%20of%20severe%20COVID-19&journal=Nature&volume=609&pages=754-760&publication_year=2022&author=Namkoong%2CH) 
     
 48.  Wang, Q. S. et al. The whole blood transcriptional regulation landscape in 465 COVID-19 infected samples from Japan COVID-19 Task Force. _Nat. Commun._ **13**, 4830 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xit1SksbrO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35995775)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9395416)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20whole%20blood%20transcriptional%20regulation%20landscape%20in%20465%20COVID-19%20infected%20samples%20from%20Japan%20COVID-19%20Task%20Force&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Wang%2CQS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35995775)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9395416)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20whole%20blood%20transcriptional%20regulation%20landscape%20in%20465%20COVID-19%20infected%20samples%20from%20Japan%20COVID-19%20Task%20Force&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Wang%2CQS) 
     
 49.  Loh, P. R. et al. Insights into clonal haematopoiesis from 8,342 mosaic chromosomal alterations. _Nature_ **559**, 350–355 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhtlWjsbbJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29995854)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6054542)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Insights%20into%20clonal%20haematopoiesis%20from%208%2C342%20mosaic%20chromosomal%20alterations&journal=Nature&volume=559&pages=350-355&publication_year=2018&author=Loh%2CPR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29995854)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6054542)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Insights%20into%20clonal%20haematopoiesis%20from%208%2C342%20mosaic%20chromosomal%20alterations&journal=Nature&volume=559&pages=350-355&publication_year=2018&author=Loh%2CPR) 
     
 50.  Gao, T. et al. Haplotype-aware analysis of somatic copy number variations from single-cell transcriptomes. _Nat. Biotechnol._ **41**, 417–426 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XisV2nsrrJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36163550)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-aware%20analysis%20of%20somatic%20copy%20number%20variations%20from%20single-cell%20transcriptomes&journal=Nat.%20Biotechnol.&volume=41&pages=417-426&publication_year=2023&author=Gao%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36163550)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-aware%20analysis%20of%20somatic%20copy%20number%20variations%20from%20single-cell%20transcriptomes&journal=Nat.%20Biotechnol.&volume=41&pages=417-426&publication_year=2023&author=Gao%2CT) 
     
 51.  Ahern, D. J. et al. A blood atlas of COVID-19 defines hallmarks of disease severity and specificity. _Cell_ **185**, 916–938 (2022).
     
@@ -551,7 +551,7 @@ References
     
 52.  Laricchia, K. M. et al. Mitochondrial DNA variation across 56,434 individuals in gnomAD. _Genome Res._ **32**, 569–582 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXit1CmsLbI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35074858)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896463)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mitochondrial%20DNA%20variation%20across%2056%2C434%20individuals%20in%20gnomAD&journal=Genome%20Res.&volume=32&pages=569-582&publication_year=2022&author=Laricchia%2CKM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35074858)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896463)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mitochondrial%20DNA%20variation%20across%2056%2C434%20individuals%20in%20gnomAD&journal=Genome%20Res.&volume=32&pages=569-582&publication_year=2022&author=Laricchia%2CKM) 
     
 53.  Zou, T. et al. Impacts of impaired mitochondrial dynamics in hearing loss: potential therapeutic targets. _Front. Neurosci._ **16**, 998507 (2022).
     
@@ -561,7 +561,7 @@ References
     
 55.  Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. _Bioinformatics_ **29**, 15–21 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhvV2gsbnF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23104886)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=STAR%3A%20ultrafast%20universal%20RNA-seq%20aligner&journal=Bioinformatics&volume=29&pages=15-21&publication_year=2013&author=Dobin%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23104886)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=STAR%3A%20ultrafast%20universal%20RNA-seq%20aligner&journal=Bioinformatics&volume=29&pages=15-21&publication_year=2013&author=Dobin%2CA) 
     
 56.  Lun, A. T. L., Bach, K. & Marioni, J. C. Pooling across cells to normalize single-cell RNA sequencing data with many zero counts. _Genome Biol._ **17**, 75 (2016).
     
@@ -573,27 +573,27 @@ References
     
 58.  Tomofuji, Y. et al. Metagenome-wide association study revealed disease-specific landscape of the gut microbiome of systemic lupus erythematosus in Japanese. _Ann. Rheum. Dis._ **80**, 1575–1583 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXisleisLjE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34426398)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Metagenome-wide%20association%20study%20revealed%20disease-specific%20landscape%20of%20the%20gut%20microbiome%20of%20systemic%20lupus%20erythematosus%20in%20Japanese&journal=Ann.%20Rheum.%20Dis.&volume=80&pages=1575-1583&publication_year=2021&author=Tomofuji%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34426398)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Metagenome-wide%20association%20study%20revealed%20disease-specific%20landscape%20of%20the%20gut%20microbiome%20of%20systemic%20lupus%20erythematosus%20in%20Japanese&journal=Ann.%20Rheum.%20Dis.&volume=80&pages=1575-1583&publication_year=2021&author=Tomofuji%2CY) 
     
 59.  Tomofuji, Y. et al. Prokaryotic and viral genomes recovered from 787 Japanese gut metagenomes revealed microbial features linked to diets, populations, and diseases. _Cell Genom._ **2**, 100219 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjtVWhtbbI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36778050)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9903723)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prokaryotic%20and%20viral%20genomes%20recovered%20from%20787%20Japanese%20gut%20metagenomes%20revealed%20microbial%20features%20linked%20to%20diets%2C%20populations%2C%20and%20diseases&journal=Cell%20Genom.&volume=2&publication_year=2022&author=Tomofuji%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36778050)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9903723)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prokaryotic%20and%20viral%20genomes%20recovered%20from%20787%20Japanese%20gut%20metagenomes%20revealed%20microbial%20features%20linked%20to%20diets%2C%20populations%2C%20and%20diseases&journal=Cell%20Genom.&volume=2&publication_year=2022&author=Tomofuji%2CY) 
     
 60.  Sturm, G. et al. Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data. _Bioinformatics_ **36**, 4817–4818 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXpsVWqsbw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32614448)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7751015)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scirpy%3A%20a%20Scanpy%20extension%20for%20analyzing%20single-cell%20T-cell%20receptor-sequencing%20data&journal=Bioinformatics&volume=36&pages=4817-4818&publication_year=2020&author=Sturm%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32614448)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7751015)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scirpy%3A%20a%20Scanpy%20extension%20for%20analyzing%20single-cell%20T-cell%20receptor-sequencing%20data&journal=Bioinformatics&volume=36&pages=4817-4818&publication_year=2020&author=Sturm%2CG) 
     
 61.  Hirata, J. et al. Genetic and phenotypic landscape of the major histocompatibilty complex region in the Japanese population. _Nat. Genet._ **51**, 470–480 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXmtFKjsLs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30692682)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20and%20phenotypic%20landscape%20of%20the%20major%20histocompatibilty%20complex%20region%20in%20the%20Japanese%20population&journal=Nat.%20Genet.&volume=51&pages=470-480&publication_year=2019&author=Hirata%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30692682)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20and%20phenotypic%20landscape%20of%20the%20major%20histocompatibilty%20complex%20region%20in%20the%20Japanese%20population&journal=Nat.%20Genet.&volume=51&pages=470-480&publication_year=2019&author=Hirata%2CJ) 
     
 62.  Naito, T. et al. A deep learning method for HLA imputation and trans-ethnic MHC fine-mapping of type 1 diabetes. _Nat. Commun._ **12**, 1639 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXmslKju7k%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33712626)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7955122)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20deep%20learning%20method%20for%20HLA%20imputation%20and%20trans-ethnic%20MHC%20fine-mapping%20of%20type%201%20diabetes&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Naito%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33712626)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7955122)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20deep%20learning%20method%20for%20HLA%20imputation%20and%20trans-ethnic%20MHC%20fine-mapping%20of%20type%201%20diabetes&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Naito%2CT) 
     
 63.  Naito, T. & Okada, Y. HLA imputation and its application to genetic and molecular fine-mapping of the MHC region in autoimmune diseases. _Semin. Immunopathol._ **44**, 15–28 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xmtlalt7g%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34786601)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA%20imputation%20and%20its%20application%20to%20genetic%20and%20molecular%20fine-mapping%20of%20the%20MHC%20region%20in%20autoimmune%20diseases&journal=Semin.%20Immunopathol.&volume=44&pages=15-28&publication_year=2022&author=Naito%2CT&author=Okada%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34786601)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA%20imputation%20and%20its%20application%20to%20genetic%20and%20molecular%20fine-mapping%20of%20the%20MHC%20region%20in%20autoimmune%20diseases&journal=Semin.%20Immunopathol.&volume=44&pages=15-28&publication_year=2022&author=Naito%2CT&author=Okada%2CY) 
     
 64.  Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. _Genome Biol._ **15**, 550 (2014).
     
@@ -601,43 +601,43 @@ References
     
 65.  Kanai, M., Tanaka, T. & Okada, Y. Empirical estimation of genome-wide significance thresholds based on the 1000 Genomes Project data set. _J. Hum. Genet._ **61**, 861–866 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhslKgtbzE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27305981)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5090169)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Empirical%20estimation%20of%20genome-wide%20significance%20thresholds%20based%20on%20the%201000%20Genomes%20Project%20data%20set&journal=J.%20Hum.%20Genet.&volume=61&pages=861-866&publication_year=2016&author=Kanai%2CM&author=Tanaka%2CT&author=Okada%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27305981)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5090169)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Empirical%20estimation%20of%20genome-wide%20significance%20thresholds%20based%20on%20the%201000%20Genomes%20Project%20data%20set&journal=J.%20Hum.%20Genet.&volume=61&pages=861-866&publication_year=2016&author=Kanai%2CM&author=Tanaka%2CT&author=Okada%2CY) 
     
 66.  Gupta, N. T. et al. Change-O: a toolkit for analyzing large-scale B cell immunoglobulin repertoire sequencing data. _Bioinformatics_ **31**, 3356–3358 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xhs1Git7%2FE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26069265)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4793929)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Change-O%3A%20a%20toolkit%20for%20analyzing%20large-scale%20B%20cell%20immunoglobulin%20repertoire%20sequencing%20data&journal=Bioinformatics&volume=31&pages=3356-3358&publication_year=2015&author=Gupta%2CNT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26069265)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4793929)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Change-O%3A%20a%20toolkit%20for%20analyzing%20large-scale%20B%20cell%20immunoglobulin%20repertoire%20sequencing%20data&journal=Bioinformatics&volume=31&pages=3356-3358&publication_year=2015&author=Gupta%2CNT) 
     
 67.  Yu, G., Wang, L.-G., Han, Y. & He, Q.-Y. clusterProfiler: an R package for comparing biological themes among gene clusters. _Omics_ **16**, 284–287 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XmsFarsLw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22455463)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339379)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=clusterProfiler%3A%20an%20R%20package%20for%20comparing%20biological%20themes%20among%20gene%20clusters&journal=Omics&volume=16&pages=284-287&publication_year=2012&author=Yu%2CG&author=Wang%2CL-G&author=Han%2CY&author=He%2CQ-Y) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22455463)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339379)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=clusterProfiler%3A%20an%20R%20package%20for%20comparing%20biological%20themes%20among%20gene%20clusters&journal=Omics&volume=16&pages=284-287&publication_year=2012&author=Yu%2CG&author=Wang%2CL-G&author=Han%2CY&author=He%2CQ-Y) 
     
 68.  Kang, J. B. et al. Mapping the dynamic genetic regulatory architecture of HLA genes at single-cell resolution. _Nat. Genet._ **55**, 2255–2268 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXisFSmu7rL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38036787)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10787945)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20dynamic%20genetic%20regulatory%20architecture%20of%20HLA%20genes%20at%20single-cell%20resolution&journal=Nat.%20Genet.&volume=55&pages=2255-2268&publication_year=2023&author=Kang%2CJB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38036787)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10787945)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20dynamic%20genetic%20regulatory%20architecture%20of%20HLA%20genes%20at%20single-cell%20resolution&journal=Nat.%20Genet.&volume=55&pages=2255-2268&publication_year=2023&author=Kang%2CJB) 
     
 69.  Korsunsky, I. et al. Fast, sensitive and accurate integration of single-cell data with Harmony. _Nat. Methods_ **16**, 1289–1296 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitFOqsr7N)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31740819)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6884693)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%2C%20sensitive%20and%20accurate%20integration%20of%20single-cell%20data%20with%20Harmony&journal=Nat.%20Methods&volume=16&pages=1289-1296&publication_year=2019&author=Korsunsky%2CI) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31740819)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6884693)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%2C%20sensitive%20and%20accurate%20integration%20of%20single-cell%20data%20with%20Harmony&journal=Nat.%20Methods&volume=16&pages=1289-1296&publication_year=2019&author=Korsunsky%2CI) 
     
 70.  Ishigaki, K. et al. Multi-ancestry genome-wide association analyses identify novel genetic mechanisms in rheumatoid arthritis. _Nat. Genet._ **54**, 1640–1651 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XivVWqt7nJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36333501)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10165422)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-ancestry%20genome-wide%20association%20analyses%20identify%20novel%20genetic%20mechanisms%20in%20rheumatoid%20arthritis&journal=Nat.%20Genet.&volume=54&pages=1640-1651&publication_year=2022&author=Ishigaki%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36333501)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10165422)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-ancestry%20genome-wide%20association%20analyses%20identify%20novel%20genetic%20mechanisms%20in%20rheumatoid%20arthritis&journal=Nat.%20Genet.&volume=54&pages=1640-1651&publication_year=2022&author=Ishigaki%2CK) 
     
 71.  Wang, Y. F. et al. Identification of 38 novel loci for systemic lupus erythematosus and genetic heterogeneity between ancestral groups. _Nat. Commun._ **12**, 772 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXjsVGrur0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33536424)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7858632)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%2038%20novel%20loci%20for%20systemic%20lupus%20erythematosus%20and%20genetic%20heterogeneity%20between%20ancestral%20groups&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Wang%2CYF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33536424)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7858632)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%2038%20novel%20loci%20for%20systemic%20lupus%20erythematosus%20and%20genetic%20heterogeneity%20between%20ancestral%20groups&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Wang%2CYF) 
     
 72.  Liu, Z. et al. Genetic architecture of the inflammatory bowel diseases across East Asian and European ancestries. _Nat. Genet._ **55**, 796–806 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXps1KntrY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37156999)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10290755)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%20the%20inflammatory%20bowel%20diseases%20across%20East%20Asian%20and%20European%20ancestries&journal=Nat.%20Genet.&volume=55&pages=796-806&publication_year=2023&author=Liu%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37156999)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10290755)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%20the%20inflammatory%20bowel%20diseases%20across%20East%20Asian%20and%20European%20ancestries&journal=Nat.%20Genet.&volume=55&pages=796-806&publication_year=2023&author=Liu%2CZ) 
     
 73.  Sakaue, S. et al. A cross-population atlas of genetic associations for 220 human phenotypes. _Nat. Genet._ **53**, 1415–1424 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitFGru7fO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34594039)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12208603)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20cross-population%20atlas%20of%20genetic%20associations%20for%20220%20human%20phenotypes&journal=Nat.%20Genet.&volume=53&pages=1415-1424&publication_year=2021&author=Sakaue%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34594039)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12208603)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20cross-population%20atlas%20of%20genetic%20associations%20for%20220%20human%20phenotypes&journal=Nat.%20Genet.&volume=53&pages=1415-1424&publication_year=2021&author=Sakaue%2CS) 
     
 74.  Shirai, Y. et al. Multi-trait and cross-population genome-wide association studies across autoimmune and allergic diseases identify shared and distinct genetic component. _Ann. Rheum. Dis._ **81**, 1301–1312 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xis1yntLfN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35753705)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-trait%20and%20cross-population%20genome-wide%20association%20studies%20across%20autoimmune%20and%20allergic%20diseases%20identify%20shared%20and%20distinct%20genetic%20component&journal=Ann.%20Rheum.%20Dis.&volume=81&pages=1301-1312&publication_year=2022&author=Shirai%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35753705)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-trait%20and%20cross-population%20genome-wide%20association%20studies%20across%20autoimmune%20and%20allergic%20diseases%20identify%20shared%20and%20distinct%20genetic%20component&journal=Ann.%20Rheum.%20Dis.&volume=81&pages=1301-1312&publication_year=2022&author=Shirai%2CY) 
     
 75.  Giambartolomei, C. et al. Bayesian test for colocalisation between pairs of genetic association studies using summary statistics. _PLoS Genet._ **10**, e1004383 (2014).
     
@@ -645,19 +645,19 @@ References
     
 76.  Bentham, J. et al. Genetic association analyses implicate aberrant regulation of innate and adaptive immunity genes in the pathogenesis of systemic lupus erythematosus. _Nat. Genet._ **47**, 1457–1464 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhslant7nF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26502338)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4668589)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20association%20analyses%20implicate%20aberrant%20regulation%20of%20innate%20and%20adaptive%20immunity%20genes%20in%20the%20pathogenesis%20of%20systemic%20lupus%20erythematosus&journal=Nat.%20Genet.&volume=47&pages=1457-1464&publication_year=2015&author=Bentham%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26502338)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4668589)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20association%20analyses%20implicate%20aberrant%20regulation%20of%20innate%20and%20adaptive%20immunity%20genes%20in%20the%20pathogenesis%20of%20systemic%20lupus%20erythematosus&journal=Nat.%20Genet.&volume=47&pages=1457-1464&publication_year=2015&author=Bentham%2CJ) 
     
 77.  Vuckovic, D. et al. The polygenic and monogenic basis of blood traits and diseases. _Cell_ **182**, 1214–1231 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsl2itbbP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32888494)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7482360)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20polygenic%20and%20monogenic%20basis%20of%20blood%20traits%20and%20diseases&journal=Cell&volume=182&pages=1214-1231&publication_year=2020&author=Vuckovic%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32888494)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7482360)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20polygenic%20and%20monogenic%20basis%20of%20blood%20traits%20and%20diseases&journal=Cell&volume=182&pages=1214-1231&publication_year=2020&author=Vuckovic%2CD) 
     
 78.  Robinson, M. D., McCarthy, D. J. & Smyth, G. K. edgeR: a Bioconductor package for differential expression analysis of digital gene expression data. _Bioinformatics_ **26**, 139–140 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXhs1WlurvO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19910308)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=edgeR%3A%20a%20Bioconductor%20package%20for%20differential%20expression%20analysis%20of%20digital%20gene%20expression%20data&journal=Bioinformatics&volume=26&pages=139-140&publication_year=2010&author=Robinson%2CMD&author=McCarthy%2CDJ&author=Smyth%2CGK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19910308)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=edgeR%3A%20a%20Bioconductor%20package%20for%20differential%20expression%20analysis%20of%20digital%20gene%20expression%20data&journal=Bioinformatics&volume=26&pages=139-140&publication_year=2010&author=Robinson%2CMD&author=McCarthy%2CDJ&author=Smyth%2CGK) 
     
 79.  Huang, X. & Huang, Y. Cellsnp-lite: an efficient tool for genotyping single cells. _Bioinformatics_ **37**, 4569–4571 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhsFKjsrw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33963851)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cellsnp-lite%3A%20an%20efficient%20tool%20for%20genotyping%20single%20cells&journal=Bioinformatics&volume=37&pages=4569-4571&publication_year=2021&author=Huang%2CX&author=Huang%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33963851)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cellsnp-lite%3A%20an%20efficient%20tool%20for%20genotyping%20single%20cells&journal=Bioinformatics&volume=37&pages=4569-4571&publication_year=2021&author=Huang%2CX&author=Huang%2CY) 
     
 80.  Huang, Y., McCarthy, D. J. & Stegle, O. Vireo: Bayesian demultiplexing of pooled single-cell RNA-seq data without genotype reference. _Genome Biol._ **20**, 273 (2019).
     
@@ -2144,7 +2144,7 @@ About this article
 
 ### Cite this article
 
-Edahiro, R., Sato, G., Naito, T. _et al._ Deciphering state-dependent immune features from multi-layer omics data at single-cell resolution. _Nat Genet_ (2025). https://doi.org/10.1038/s41588-025-02266-3
+Edahiro, R., Sato, G., Naito, T. _et al._ Deciphering state-dependent immune features from multi-layer omics data at single-cell resolution. _Nat Genet_ **57**, 1905–1921 (2025). https://doi.org/10.1038/s41588-025-02266-3
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02266-3?format=refman&flavour=citation)
 
@@ -2153,6 +2153,8 @@ Edahiro, R., Sato, G., Naito, T. _et al._ Deciphering state-dependent immune fea
 -   Accepted: 16 June 2025
     
 -   Published: 28 July 2025
+    
+-   Issue Date: August 2025
     
 -   DOI: https://doi.org/10.1038/s41588-025-02266-3
     

@@ -112,7 +112,7 @@ References
     
 3.  Schmutz, J. et al. Genome sequence of the palaeopolyploid soybean. _Nature_ **463**, 178–183 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXntVClsQ%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20075913)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20sequence%20of%20the%20palaeopolyploid%20soybean&journal=Nature&volume=463&pages=178-183&publication_year=2010&author=Schmutz%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20075913)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20sequence%20of%20the%20palaeopolyploid%20soybean&journal=Nature&volume=463&pages=178-183&publication_year=2010&author=Schmutz%2CJ) 
     
 4.  Abbo, S. et al. Reconsidering domestication of legumes versus cereals in the ancient near east. _Q. Rev. Biol._ **84**, 29–50 (2009).
     
@@ -124,41 +124,41 @@ References
     
 6.  Schmutz, J. et al. A reference genome for common bean and genome-wide analysis of dual domestications. _Nat. Genet._ **46**, 707–713 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXpsVamtr4%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24908249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7048698)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20reference%20genome%20for%20common%20bean%20and%20genome-wide%20analysis%20of%20dual%20domestications&journal=Nat.%20Genet.&volume=46&pages=707-713&publication_year=2014&author=Schmutz%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24908249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7048698)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20reference%20genome%20for%20common%20bean%20and%20genome-wide%20analysis%20of%20dual%20domestications&journal=Nat.%20Genet.&volume=46&pages=707-713&publication_year=2014&author=Schmutz%2CJ) 
     
 7.  Wu, X. et al. Differential selection of yield and quality traits has shaped genomic signatures of cowpea domestication and improvement. _Nat. Genet._ **56**, 992–1005 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXovF2itLs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38649710)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Differential%20selection%20of%20yield%20and%20quality%20traits%20has%20shaped%20genomic%20signatures%20of%20cowpea%20domestication%20and%20improvement&journal=Nat.%20Genet.&volume=56&pages=992-1005&publication_year=2024&author=Wu%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38649710)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Differential%20selection%20of%20yield%20and%20quality%20traits%20has%20shaped%20genomic%20signatures%20of%20cowpea%20domestication%20and%20improvement&journal=Nat.%20Genet.&volume=56&pages=992-1005&publication_year=2024&author=Wu%2CX) 
     
 8.  Liu, C. et al. High-quality genome assembly and pan-genome studies facilitate genetic discovery in mung bean and its improvement. _Plant Commun._ **3**, 100352 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xit1Onsb7K)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35752938)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9700124)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-quality%20genome%20assembly%20and%20pan-genome%20studies%20facilitate%20genetic%20discovery%20in%20mung%20bean%20and%20its%20improvement&journal=Plant%20Commun.&volume=3&publication_year=2022&author=Liu%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35752938)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9700124)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-quality%20genome%20assembly%20and%20pan-genome%20studies%20facilitate%20genetic%20discovery%20in%20mung%20bean%20and%20its%20improvement&journal=Plant%20Commun.&volume=3&publication_year=2022&author=Liu%2CC) 
     
 9.  Njaci, I. et al. Chromosome-level genome assembly and population genomic resource to accelerate orphan crop lablab breeding. _Nat. Commun._ **14**, 1915 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXot1WrtbY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37069152)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10110558)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chromosome-level%20genome%20assembly%20and%20population%20genomic%20resource%20to%20accelerate%20orphan%20crop%20lablab%20breeding&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Njaci%2CI) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37069152)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10110558)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chromosome-level%20genome%20assembly%20and%20population%20genomic%20resource%20to%20accelerate%20orphan%20crop%20lablab%20breeding&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Njaci%2CI) 
     
 10.  Garg, V. et al. Chromosome-length genome assemblies of six legume species provide insights into genome organization, evolution, and agronomic traits for crop improvement. _J. Adv. Res._ **42**, 315–329 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XmvVGqsL0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36513421)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chromosome-length%20genome%20assemblies%20of%20six%20legume%20species%20provide%20insights%20into%20genome%20organization%2C%20evolution%2C%20and%20agronomic%20traits%20for%20crop%20improvement&journal=J.%20Adv.%20Res.&volume=42&pages=315-329&publication_year=2022&author=Garg%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36513421)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chromosome-length%20genome%20assemblies%20of%20six%20legume%20species%20provide%20insights%20into%20genome%20organization%2C%20evolution%2C%20and%20agronomic%20traits%20for%20crop%20improvement&journal=J.%20Adv.%20Res.&volume=42&pages=315-329&publication_year=2022&author=Garg%2CV) 
     
 11.  Yang, T. et al. Improved pea reference genome and pan-genome highlight genomic features and evolutionary characteristics. _Nat. Genet._ **54**, 1553–1563 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XisVKns7fM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36138232)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9534762)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improved%20pea%20reference%20genome%20and%20pan-genome%20highlight%20genomic%20features%20and%20evolutionary%20characteristics&journal=Nat.%20Genet.&volume=54&pages=1553-1563&publication_year=2022&author=Yang%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36138232)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9534762)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improved%20pea%20reference%20genome%20and%20pan-genome%20highlight%20genomic%20features%20and%20evolutionary%20characteristics&journal=Nat.%20Genet.&volume=54&pages=1553-1563&publication_year=2022&author=Yang%2CT) 
     
 12.  Jayakodi, M. et al. The giant diploid faba genome unlocks variation in a global protein crop. _Nature_ **615**, 652–659 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXkslymsL0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36890232)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10033403)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20giant%20diploid%20faba%20genome%20unlocks%20variation%20in%20a%20global%20protein%20crop&journal=Nature&volume=615&pages=652-659&publication_year=2023&author=Jayakodi%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36890232)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10033403)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20giant%20diploid%20faba%20genome%20unlocks%20variation%20in%20a%20global%20protein%20crop&journal=Nature&volume=615&pages=652-659&publication_year=2023&author=Jayakodi%2CM) 
     
 13.  Ramsay, L. et al. Genomic rearrangements have consequences for introgression breeding as revealed by genome assemblies of wild and cultivated lentil species. Preprint at _bioRxiv_ [https://doi.org/10.1101/2021.07.23.453237](https://doi.org/10.1101/2021.07.23.453237) (2021).
     
 14.  Varshney, R. K. et al. Draft genome sequence of chickpea (_Cicer arietinum_) provides a resource for trait improvement. _Nat. Biotechnol._ **31**, 240–246 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhsVymtrY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23354103)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Draft%20genome%20sequence%20of%20chickpea%20%28Cicer%20arietinum%29%20provides%20a%20resource%20for%20trait%20improvement&journal=Nat.%20Biotechnol.&volume=31&pages=240-246&publication_year=2013&author=Varshney%2CRK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23354103)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Draft%20genome%20sequence%20of%20chickpea%20%28Cicer%20arietinum%29%20provides%20a%20resource%20for%20trait%20improvement&journal=Nat.%20Biotechnol.&volume=31&pages=240-246&publication_year=2013&author=Varshney%2CRK) 
     
 15.  Wang, L. et al. A telomere-to-telomere gap-free assembly of soybean genome. _Mol. Plant_ **16**, 1711–1714 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhvVOnsb3I)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37634078)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20telomere-to-telomere%20gap-free%20assembly%20of%20soybean%20genome&journal=Mol.%20Plant&volume=16&pages=1711-1714&publication_year=2023&author=Wang%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37634078)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20telomere-to-telomere%20gap-free%20assembly%20of%20soybean%20genome&journal=Mol.%20Plant&volume=16&pages=1711-1714&publication_year=2023&author=Wang%2CL) 
     
 16.  Xie, M. et al. A reference-grade wild soybean genome. _Nat. Commun._ **10**, 1216 (2019).
     
@@ -166,7 +166,7 @@ References
     
 17.  Hufnagel, B. et al. High-quality genome sequence of white lupin provides insight into soil exploration and seed quality. _Nat. Commun._ **11**, 492 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXksFantbw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31980615)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981116)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-quality%20genome%20sequence%20of%20white%20lupin%20provides%20insight%20into%20soil%20exploration%20and%20seed%20quality&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Hufnagel%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31980615)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981116)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-quality%20genome%20sequence%20of%20white%20lupin%20provides%20insight%20into%20soil%20exploration%20and%20seed%20quality&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Hufnagel%2CB) 
     
 18.  Van Velzen, R., Doyle, J. J. & Geurts, R. A resurrected scenario: single gain and massive loss of nitrogen-fixing nodulation. _Trends Plant Sci._ **24**, 49–57 (2019).
     
@@ -174,7 +174,7 @@ References
     
 19.  Roy, S. et al. Celebrating 20 years of genetic discoveries in legume nodulation and symbiotic nitrogen fixation. _Plant Cell_ **32**, 15–41 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXltFCmu7Y%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31649123)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Celebrating%2020%20years%20of%20genetic%20discoveries%20in%20legume%20nodulation%20and%20symbiotic%20nitrogen%20fixation&journal=Plant%20Cell&volume=32&pages=15-41&publication_year=2020&author=Roy%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31649123)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Celebrating%2020%20years%20of%20genetic%20discoveries%20in%20legume%20nodulation%20and%20symbiotic%20nitrogen%20fixation&journal=Plant%20Cell&volume=32&pages=15-41&publication_year=2020&author=Roy%2CS) 
     
 20.  Markmann, K., Giczey, G. & Parniske, M. Functional adaptation of a plant receptor-kinase paved the way for the evolution of intracellular root symbioses with bacteria. _PLoS Biol._ **6**, e68 (2008).
     
@@ -186,27 +186,27 @@ References
     
 22.  Smit, P. et al. Medicago LYK3, an entry receptor in rhizobial nodulation factor signaling. _Plant Physiol._ **145**, 183–191 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtVKqtr7L)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17586690)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1976573)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Medicago%20LYK3%2C%20an%20entry%20receptor%20in%20rhizobial%20nodulation%20factor%20signaling&journal=Plant%20Physiol.&volume=145&pages=183-191&publication_year=2007&author=Smit%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17586690)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1976573)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Medicago%20LYK3%2C%20an%20entry%20receptor%20in%20rhizobial%20nodulation%20factor%20signaling&journal=Plant%20Physiol.&volume=145&pages=183-191&publication_year=2007&author=Smit%2CP) 
     
 23.  Catoira, R. et al. Four genes of _Medicago truncatula_ controlling components of a nod factor transduction pathway. _Plant Cell_ **12**, 1647–1666 (2000).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3cXnsVyltrg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11006338)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC149076)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Four%20genes%20of%20Medicago%20truncatula%20controlling%20components%20of%20a%20nod%20factor%20transduction%20pathway&journal=Plant%20Cell&volume=12&pages=1647-1666&publication_year=2000&author=Catoira%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11006338)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC149076)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Four%20genes%20of%20Medicago%20truncatula%20controlling%20components%20of%20a%20nod%20factor%20transduction%20pathway&journal=Plant%20Cell&volume=12&pages=1647-1666&publication_year=2000&author=Catoira%2CR) 
     
 24.  Horvath, B. et al. _Medicago truncatula_ IPD3 is a member of the common symbiotic signaling pathway required for rhizobial and mycorrhizal symbioses. _Mol. Plant Microbe Interact._ **24**, 1345–1358 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhtlyhtrnE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21692638)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Medicago%20truncatula%20IPD3%20is%20a%20member%20of%20the%20common%20symbiotic%20signaling%20pathway%20required%20for%20rhizobial%20and%20mycorrhizal%20symbioses&journal=Mol.%20Plant%20Microbe%20Interact.&volume=24&pages=1345-1358&publication_year=2011&author=Horvath%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21692638)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Medicago%20truncatula%20IPD3%20is%20a%20member%20of%20the%20common%20symbiotic%20signaling%20pathway%20required%20for%20rhizobial%20and%20mycorrhizal%20symbioses&journal=Mol.%20Plant%20Microbe%20Interact.&volume=24&pages=1345-1358&publication_year=2011&author=Horvath%2CB) 
     
 25.  Carvunis, A. R. et al. Proto-genes and de novo gene birth. _Nature_ **487**, 370–374 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtVKntLzN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22722833)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401362)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Proto-genes%20and%20de%20novo%20gene%20birth&journal=Nature&volume=487&pages=370-374&publication_year=2012&author=Carvunis%2CAR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22722833)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401362)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Proto-genes%20and%20de%20novo%20gene%20birth&journal=Nature&volume=487&pages=370-374&publication_year=2012&author=Carvunis%2CAR) 
     
 26.  Reid, D. E., Ferguson, B. J. & Gresshoff, P. M. Inoculation- and nitrate-induced CLE peptides of soybean control NARK-dependent nodule formation. _Mol. Plant Microbe Interact._ **24**, 606–618 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXltF2ltrY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21198362)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inoculation-%20and%20nitrate-induced%20CLE%20peptides%20of%20soybean%20control%20NARK-dependent%20nodule%20formation&journal=Mol.%20Plant%20Microbe%20Interact.&volume=24&pages=606-618&publication_year=2011&author=Reid%2CDE&author=Ferguson%2CBJ&author=Gresshoff%2CPM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21198362)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inoculation-%20and%20nitrate-induced%20CLE%20peptides%20of%20soybean%20control%20NARK-dependent%20nodule%20formation&journal=Mol.%20Plant%20Microbe%20Interact.&volume=24&pages=606-618&publication_year=2011&author=Reid%2CDE&author=Ferguson%2CBJ&author=Gresshoff%2CPM) 
     
 27.  Schauser, L., Roussis, A., Stiller, J. & Stougaard, J. A plant regulator controlling development of symbiotic root nodules. _Nature_ **402**, 191–195 (1999).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1MXnsVektb0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10647012)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20plant%20regulator%20controlling%20development%20of%20symbiotic%20root%20nodules&journal=Nature&volume=402&pages=191-195&publication_year=1999&author=Schauser%2CL&author=Roussis%2CA&author=Stiller%2CJ&author=Stougaard%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10647012)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20plant%20regulator%20controlling%20development%20of%20symbiotic%20root%20nodules&journal=Nature&volume=402&pages=191-195&publication_year=1999&author=Schauser%2CL&author=Roussis%2CA&author=Stiller%2CJ&author=Stougaard%2CJ) 
     
 28.  Griesmann, M. et al. Phylogenomics reveals multiple losses of nitrogen-fixing root nodule symbiosis. _Science_ **361**, eaat1743 (2018).
     
@@ -214,15 +214,15 @@ References
     
 29.  Ding, Y., Shi, Y. & Yang, S. Molecular regulation of plant responses to environmental temperatures. _Mol. Plant_ **13**, 544–564 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXltV2rtbo%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32068158)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Molecular%20regulation%20of%20plant%20responses%20to%20environmental%20temperatures&journal=Mol.%20Plant&volume=13&pages=544-564&publication_year=2020&author=Ding%2CY&author=Shi%2CY&author=Yang%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32068158)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Molecular%20regulation%20of%20plant%20responses%20to%20environmental%20temperatures&journal=Mol.%20Plant&volume=13&pages=544-564&publication_year=2020&author=Ding%2CY&author=Shi%2CY&author=Yang%2CS) 
     
 30.  Zhou, J. M. & Zhang, Y. Plant immunity: danger perception and signaling. _Cell_ **181**, 978–989 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtVSjsrnL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32442407)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plant%20immunity%3A%20danger%20perception%20and%20signaling&journal=Cell&volume=181&pages=978-989&publication_year=2020&author=Zhou%2CJM&author=Zhang%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32442407)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plant%20immunity%3A%20danger%20perception%20and%20signaling&journal=Cell&volume=181&pages=978-989&publication_year=2020&author=Zhou%2CJM&author=Zhang%2CY) 
     
 31.  Li, Z. et al. Patterns and processes of diploidization in land plants. _Annu. Rev. Plant Biol._ **72**, 387–410 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXlvFSrsro%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33684297)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Patterns%20and%20processes%20of%20diploidization%20in%20land%20plants&journal=Annu.%20Rev.%20Plant%20Biol.&volume=72&pages=387-410&publication_year=2021&author=Li%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33684297)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Patterns%20and%20processes%20of%20diploidization%20in%20land%20plants&journal=Annu.%20Rev.%20Plant%20Biol.&volume=72&pages=387-410&publication_year=2021&author=Li%2CZ) 
     
 32.  Wang, L. et al. Altered chromatin architecture and gene expression during polyploidization and domestication of soybean. _Plant Cell_ **33**, 1430–1446 (2021).
     
@@ -230,19 +230,19 @@ References
     
 33.  Wang, M. et al. Parallel selection on a dormancy gene during domestication of crops from multiple families. _Nat. Genet._ **50**, 1435–1441 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhslymtrnI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30250128)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Parallel%20selection%20on%20a%20dormancy%20gene%20during%20domestication%20of%20crops%20from%20multiple%20families&journal=Nat.%20Genet.&volume=50&pages=1435-1441&publication_year=2018&author=Wang%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30250128)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Parallel%20selection%20on%20a%20dormancy%20gene%20during%20domestication%20of%20crops%20from%20multiple%20families&journal=Nat.%20Genet.&volume=50&pages=1435-1441&publication_year=2018&author=Wang%2CM) 
     
 34.  Zhou, Z. et al. Resequencing 302 wild and cultivated accessions identifies genes related to domestication and improvement in soybean. _Nat. Biotechnol._ **33**, 408–414 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXitVGju7Y%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25643055)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Resequencing%20302%20wild%20and%20cultivated%20accessions%20identifies%20genes%20related%20to%20domestication%20and%20improvement%20in%20soybean&journal=Nat.%20Biotechnol.&volume=33&pages=408-414&publication_year=2015&author=Zhou%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25643055)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Resequencing%20302%20wild%20and%20cultivated%20accessions%20identifies%20genes%20related%20to%20domestication%20and%20improvement%20in%20soybean&journal=Nat.%20Biotechnol.&volume=33&pages=408-414&publication_year=2015&author=Zhou%2CZ) 
     
 35.  Varshney, R. K. et al. Whole-genome resequencing of 292 pigeonpea accessions identifies genomic regions associated with domestication and agronomic traits. _Nat. Genet._ **49**, 1082–1088 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXotVOksr8%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28530677)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Whole-genome%20resequencing%20of%20292%20pigeonpea%20accessions%20identifies%20genomic%20regions%20associated%20with%20domestication%20and%20agronomic%20traits&journal=Nat.%20Genet.&volume=49&pages=1082-1088&publication_year=2017&author=Varshney%2CRK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28530677)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Whole-genome%20resequencing%20of%20292%20pigeonpea%20accessions%20identifies%20genomic%20regions%20associated%20with%20domestication%20and%20agronomic%20traits&journal=Nat.%20Genet.&volume=49&pages=1082-1088&publication_year=2017&author=Varshney%2CRK) 
     
 36.  Varshney, R. K. et al. A chickpea genetic variation map based on the sequencing of 3,366 genomes. _Nature_ **599**, 622–627 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXisVOltLbO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34759320)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8612933)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20chickpea%20genetic%20variation%20map%20based%20on%20the%20sequencing%20of%203%2C366%20genomes&journal=Nature&volume=599&pages=622-627&publication_year=2021&author=Varshney%2CRK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34759320)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8612933)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20chickpea%20genetic%20variation%20map%20based%20on%20the%20sequencing%20of%203%2C366%20genomes&journal=Nature&volume=599&pages=622-627&publication_year=2021&author=Varshney%2CRK) 
     
 37.  Li, Y. J., Yu, Y., Liu, X., Zhang, X. S. & Su, Y. H. The _Arabidopsis_ MATERNAL EFFECT EMBRYO ARREST45 protein modulates maternal auxin biosynthesis and controls seed size by inducing AINTEGUMENTA. _Plant Cell_ **33**, 1907–1926 (2021).
     
@@ -250,7 +250,7 @@ References
     
 38.  Liu, Y. et al. SoyOmics: a deeply integrated database on soybean multi-omics. _Mol. Plant_ **16**, 794–797 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXotVSnurw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36950735)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=SoyOmics%3A%20a%20deeply%20integrated%20database%20on%20soybean%20multi-omics&journal=Mol.%20Plant&volume=16&pages=794-797&publication_year=2023&author=Liu%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36950735)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=SoyOmics%3A%20a%20deeply%20integrated%20database%20on%20soybean%20multi-omics&journal=Mol.%20Plant&volume=16&pages=794-797&publication_year=2023&author=Liu%2CY) 
     
 39.  Zheng, H. et al. Construction of chromosome segment substitution lines and inheritance of seed-pod characteristics in wild soybean. _Front. Plant Sci._ **13**, 869455 (2022).
     
@@ -258,11 +258,11 @@ References
     
 40.  Wicker, T. et al. A unified classification system for eukaryotic transposable elements. _Nat. Rev. Genet._ **8**, 973–982 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtlajtrnF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17984973)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20unified%20classification%20system%20for%20eukaryotic%20transposable%20elements&journal=Nat.%20Rev.%20Genet.&volume=8&pages=973-982&publication_year=2007&author=Wicker%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17984973)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20unified%20classification%20system%20for%20eukaryotic%20transposable%20elements&journal=Nat.%20Rev.%20Genet.&volume=8&pages=973-982&publication_year=2007&author=Wicker%2CT) 
     
 41.  Kreplak, J. et al. A reference genome for pea provides insight into legume genome evolution. _Nat. Genet._ **51**, 1411–1422 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhs12nsrnI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31477930)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20reference%20genome%20for%20pea%20provides%20insight%20into%20legume%20genome%20evolution&journal=Nat.%20Genet.&volume=51&pages=1411-1422&publication_year=2019&author=Kreplak%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31477930)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20reference%20genome%20for%20pea%20provides%20insight%20into%20legume%20genome%20evolution&journal=Nat.%20Genet.&volume=51&pages=1411-1422&publication_year=2019&author=Kreplak%2CJ) 
     
 42.  International Brachypodium Initiative. Genome sequencing and analysis of the model grass _Brachypodium distachyon_. _Nature_ **463**, 763–768 (2010).
     
@@ -270,11 +270,11 @@ References
     
 43.  Zhu, T. et al. Optical maps refine the bread wheat _Triticum aestivum_ cv. Chinese Spring genome assembly. _Plant J._ **107**, 303–314 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtFCls7jN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33893684)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8360199)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Optical%20maps%20refine%20the%20bread%20wheat%20Triticum%20aestivum%20cv.%20Chinese%20Spring%20genome%20assembly&journal=Plant%20J.&volume=107&pages=303-314&publication_year=2021&author=Zhu%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33893684)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8360199)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Optical%20maps%20refine%20the%20bread%20wheat%20Triticum%20aestivum%20cv.%20Chinese%20Spring%20genome%20assembly&journal=Plant%20J.&volume=107&pages=303-314&publication_year=2021&author=Zhu%2CT) 
     
 44.  Chuong, E. B., Elde, N. C. & Feschotte, C. Regulatory activities of transposable elements: from conflicts to benefits. _Nat. Rev. Genet._ **18**, 71–86 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhvV2iur7P)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27867194)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Regulatory%20activities%20of%20transposable%20elements%3A%20from%20conflicts%20to%20benefits&journal=Nat.%20Rev.%20Genet.&volume=18&pages=71-86&publication_year=2017&author=Chuong%2CEB&author=Elde%2CNC&author=Feschotte%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27867194)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Regulatory%20activities%20of%20transposable%20elements%3A%20from%20conflicts%20to%20benefits&journal=Nat.%20Rev.%20Genet.&volume=18&pages=71-86&publication_year=2017&author=Chuong%2CEB&author=Elde%2CNC&author=Feschotte%2CC) 
     
 45.  Noshay, J. M. et al. Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons. _Genetics_ **217**, 1–13 (2021).
     
@@ -282,47 +282,47 @@ References
     
 46.  Crisp, P. A. et al. Stable unmethylated DNA demarcates expressed genes and their _cis_\-regulatory space in plant genomes. _Proc. Natl Acad. Sci. USA_ **117**, 23991–24000 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvFSitLnE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32879011)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519222)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Stable%20unmethylated%20DNA%20demarcates%20expressed%20genes%20and%20their%20cis-regulatory%20space%20in%20plant%20genomes&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=23991-24000&publication_year=2020&author=Crisp%2CPA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32879011)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519222)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Stable%20unmethylated%20DNA%20demarcates%20expressed%20genes%20and%20their%20cis-regulatory%20space%20in%20plant%20genomes&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=23991-24000&publication_year=2020&author=Crisp%2CPA) 
     
 47.  Chen, W. et al. Convergent selection of a WD40 protein that enhances grain yield in maize and rice. _Science_ **375**, eabg7985 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XpvVygu78%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35324310)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Convergent%20selection%20of%20a%20WD40%20protein%20that%20enhances%20grain%20yield%20in%20maize%20and%20rice&journal=Science&volume=375&publication_year=2022&author=Chen%2CW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35324310)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Convergent%20selection%20of%20a%20WD40%20protein%20that%20enhances%20grain%20yield%20in%20maize%20and%20rice&journal=Science&volume=375&publication_year=2022&author=Chen%2CW) 
     
 48.  McGurk, M. P. & Barbash, D. A. Double insertion of transposable elements provides a substrate for the evolution of satellite DNA. _Genome Res._ **28**, 714–725 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhsFSjs7nN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29588362)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5932611)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Double%20insertion%20of%20transposable%20elements%20provides%20a%20substrate%20for%20the%20evolution%20of%20satellite%20DNA&journal=Genome%20Res.&volume=28&pages=714-725&publication_year=2018&author=McGurk%2CMP&author=Barbash%2CDA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29588362)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5932611)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Double%20insertion%20of%20transposable%20elements%20provides%20a%20substrate%20for%20the%20evolution%20of%20satellite%20DNA&journal=Genome%20Res.&volume=28&pages=714-725&publication_year=2018&author=McGurk%2CMP&author=Barbash%2CDA) 
     
 49.  Zhang, Y. et al. Evolutionary rewiring of the wheat transcriptional regulatory network by lineage-specific transposable elements. _Genome Res._ **31**, 2276–2289 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXit1CmsL3K)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34503979)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8647832)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evolutionary%20rewiring%20of%20the%20wheat%20transcriptional%20regulatory%20network%20by%20lineage-specific%20transposable%20elements&journal=Genome%20Res.&volume=31&pages=2276-2289&publication_year=2021&author=Zhang%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34503979)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8647832)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evolutionary%20rewiring%20of%20the%20wheat%20transcriptional%20regulatory%20network%20by%20lineage-specific%20transposable%20elements&journal=Genome%20Res.&volume=31&pages=2276-2289&publication_year=2021&author=Zhang%2CY) 
     
 50.  Cheng, H., Concepcion, G. T., Feng, X., Zhang, H. & Li, H. Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm. _Nat. Methods_ **18**, 170–175 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1OntL0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33526886)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961889)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20de%20novo%20assembly%20using%20phased%20assembly%20graphs%20with%20hifiasm&journal=Nat.%20Methods&volume=18&pages=170-175&publication_year=2021&author=Cheng%2CH&author=Concepcion%2CGT&author=Feng%2CX&author=Zhang%2CH&author=Li%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33526886)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961889)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20de%20novo%20assembly%20using%20phased%20assembly%20graphs%20with%20hifiasm&journal=Nat.%20Methods&volume=18&pages=170-175&publication_year=2021&author=Cheng%2CH&author=Concepcion%2CGT&author=Feng%2CX&author=Zhang%2CH&author=Li%2CH) 
     
 51.  Li, H. Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences. _Bioinformatics_ **32**, 2103–2110 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhvVekt7bL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27153593)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937194)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Minimap%20and%20miniasm%3A%20fast%20mapping%20and%20de%20novo%20assembly%20for%20noisy%20long%20sequences&journal=Bioinformatics&volume=32&pages=2103-2110&publication_year=2016&author=Li%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27153593)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937194)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Minimap%20and%20miniasm%3A%20fast%20mapping%20and%20de%20novo%20assembly%20for%20noisy%20long%20sequences&journal=Bioinformatics&volume=32&pages=2103-2110&publication_year=2016&author=Li%2CH) 
     
 52.  Alonge, M. et al. Automated assembly scaffolding using RagTag elevates a new tomato system for high-throughput genome editing. _Genome Biol._ **23**, 258 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjtF2kt7rM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36522651)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9753292)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Automated%20assembly%20scaffolding%20using%20RagTag%20elevates%20a%20new%20tomato%20system%20for%20high-throughput%20genome%20editing&journal=Genome%20Biol.&volume=23&publication_year=2022&author=Alonge%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36522651)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9753292)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Automated%20assembly%20scaffolding%20using%20RagTag%20elevates%20a%20new%20tomato%20system%20for%20high-throughput%20genome%20editing&journal=Genome%20Biol.&volume=23&publication_year=2022&author=Alonge%2CM) 
     
 53.  Guan, D. et al. Identifying and removing haplotypic duplication in primary genome assemblies. _Bioinformatics_ **36**, 2896–2898 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXisFCktb%2FO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31971576)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203741)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identifying%20and%20removing%20haplotypic%20duplication%20in%20primary%20genome%20assemblies&journal=Bioinformatics&volume=36&pages=2896-2898&publication_year=2020&author=Guan%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31971576)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203741)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identifying%20and%20removing%20haplotypic%20duplication%20in%20primary%20genome%20assemblies&journal=Bioinformatics&volume=36&pages=2896-2898&publication_year=2020&author=Guan%2CD) 
     
 54.  Dudchenko, O. et al. De novo assembly of the _Aedes aegypti_ genome using Hi-C yields chromosome-length scaffolds. _Science_ **356**, 92–95 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXlsVymsbo%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28336562)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635820)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20assembly%20of%20the%20Aedes%20aegypti%20genome%20using%20Hi-C%20yields%20chromosome-length%20scaffolds&journal=Science&volume=356&pages=92-95&publication_year=2017&author=Dudchenko%2CO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28336562)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635820)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20assembly%20of%20the%20Aedes%20aegypti%20genome%20using%20Hi-C%20yields%20chromosome-length%20scaffolds&journal=Science&volume=356&pages=92-95&publication_year=2017&author=Dudchenko%2CO) 
     
 55.  Durand, N. C. et al. Juicer provides a one-click system for analyzing loop-resolution Hi-C experiments. _Cell Syst._ **3**, 95–98 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFKksbk%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27467249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846465)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Juicer%20provides%20a%20one-click%20system%20for%20analyzing%20loop-resolution%20Hi-C%20experiments&journal=Cell%20Syst.&volume=3&pages=95-98&publication_year=2016&author=Durand%2CNC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27467249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846465)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Juicer%20provides%20a%20one-click%20system%20for%20analyzing%20loop-resolution%20Hi-C%20experiments&journal=Cell%20Syst.&volume=3&pages=95-98&publication_year=2016&author=Durand%2CNC) 
     
 56.  Durand, N. C. et al. Juicebox provides a visualization system for Hi-C contact maps with unlimited zoom. _Cell Syst._ **3**, 99–101 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFKks7w%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27467250)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596920)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Juicebox%20provides%20a%20visualization%20system%20for%20Hi-C%20contact%20maps%20with%20unlimited%20zoom&journal=Cell%20Syst.&volume=3&pages=99-101&publication_year=2016&author=Durand%2CNC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27467250)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596920)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Juicebox%20provides%20a%20visualization%20system%20for%20Hi-C%20contact%20maps%20with%20unlimited%20zoom&journal=Cell%20Syst.&volume=3&pages=99-101&publication_year=2016&author=Durand%2CNC) 
     
 57.  Ellinghaus, D., Kurtz, S. & Willhoeft, U. LTRharvest, an efficient and flexible software for de novo detection of LTR retrotransposons. _BMC Bioinformatics_ **9**, 18 (2008).
     
@@ -330,19 +330,19 @@ References
     
 58.  Ou, S. & Jiang, N. LTR\_FINDER\_parallel: parallelization of LTR\_FINDER enabling rapid identification of long terminal repeat retrotransposons. _Mob. DNA_ **10**, 48 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXisVykurjE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31857828)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6909508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LTR_FINDER_parallel%3A%20parallelization%20of%20LTR_FINDER%20enabling%20rapid%20identification%20of%20long%20terminal%20repeat%20retrotransposons&journal=Mob.%20DNA&volume=10&publication_year=2019&author=Ou%2CS&author=Jiang%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31857828)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6909508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LTR_FINDER_parallel%3A%20parallelization%20of%20LTR_FINDER%20enabling%20rapid%20identification%20of%20long%20terminal%20repeat%20retrotransposons&journal=Mob.%20DNA&volume=10&publication_year=2019&author=Ou%2CS&author=Jiang%2CN) 
     
 59.  Ou, S. & Jiang, N. LTR\_retriever: a highly accurate and sensitive program for identification of long terminal repeat retrotransposons. _Plant Physiol._ **176**, 1410–1422 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhs1CjtbzO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29233850)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LTR_retriever%3A%20a%20highly%20accurate%20and%20sensitive%20program%20for%20identification%20of%20long%20terminal%20repeat%20retrotransposons&journal=Plant%20Physiol.&volume=176&pages=1410-1422&publication_year=2018&author=Ou%2CS&author=Jiang%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29233850)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LTR_retriever%3A%20a%20highly%20accurate%20and%20sensitive%20program%20for%20identification%20of%20long%20terminal%20repeat%20retrotransposons&journal=Plant%20Physiol.&volume=176&pages=1410-1422&publication_year=2018&author=Ou%2CS&author=Jiang%2CN) 
     
 60.  Flynn, J. M. et al. RepeatModeler2 for automated genomic discovery of transposable element families. _Proc. Natl Acad. Sci. USA_ **117**, 9451–9457 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXnvFeqt74%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32300014)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196820)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RepeatModeler2%20for%20automated%20genomic%20discovery%20of%20transposable%20element%20families&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=9451-9457&publication_year=2020&author=Flynn%2CJM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32300014)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196820)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RepeatModeler2%20for%20automated%20genomic%20discovery%20of%20transposable%20element%20families&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=9451-9457&publication_year=2020&author=Flynn%2CJM) 
     
 61.  Yan, H., Bombarely, A. & Li, S. DeepTE: a computational method for de novo classification of transposons with convolutional neural network. _Bioinformatics_ **36**, 4269–4275 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXisVylsbfO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32415954)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DeepTE%3A%20a%20computational%20method%20for%20de%20novo%20classification%20of%20transposons%20with%20convolutional%20neural%20network&journal=Bioinformatics&volume=36&pages=4269-4275&publication_year=2020&author=Yan%2CH&author=Bombarely%2CA&author=Li%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32415954)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DeepTE%3A%20a%20computational%20method%20for%20de%20novo%20classification%20of%20transposons%20with%20convolutional%20neural%20network&journal=Bioinformatics&volume=36&pages=4269-4275&publication_year=2020&author=Yan%2CH&author=Bombarely%2CA&author=Li%2CS) 
     
 62.  Bao, W., Kojima, K. K. & Kohany, O. Repbase Update, a database of repetitive elements in eukaryotic genomes. _Mob. DNA_ **6**, 11 (2015).
     
@@ -350,19 +350,19 @@ References
     
 63.  Kim, D., Langmead, B. & Salzberg, S. L. HISAT: a fast spliced aligner with low memory requirements. _Nat. Methods_ **12**, 357–360 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXjvFOnsL0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25751142)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655817)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HISAT%3A%20a%20fast%20spliced%20aligner%20with%20low%20memory%20requirements&journal=Nat.%20Methods&volume=12&pages=357-360&publication_year=2015&author=Kim%2CD&author=Langmead%2CB&author=Salzberg%2CSL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25751142)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655817)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HISAT%3A%20a%20fast%20spliced%20aligner%20with%20low%20memory%20requirements&journal=Nat.%20Methods&volume=12&pages=357-360&publication_year=2015&author=Kim%2CD&author=Langmead%2CB&author=Salzberg%2CSL) 
     
 64.  Pertea, M. et al. StringTie enables improved reconstruction of a transcriptome from RNA-seq reads. _Nat. Biotechnol._ **33**, 290–295 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXivFais70%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25690850)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643835)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=StringTie%20enables%20improved%20reconstruction%20of%20a%20transcriptome%20from%20RNA-seq%20reads&journal=Nat.%20Biotechnol.&volume=33&pages=290-295&publication_year=2015&author=Pertea%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25690850)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643835)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=StringTie%20enables%20improved%20reconstruction%20of%20a%20transcriptome%20from%20RNA-seq%20reads&journal=Nat.%20Biotechnol.&volume=33&pages=290-295&publication_year=2015&author=Pertea%2CM) 
     
 65.  Grabherr, M. G. et al. Full-length transcriptome assembly from RNA-seq data without a reference genome. _Nat. Biotechnol._ **29**, 644–652 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXmtV2hsbc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21572440)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571712)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Full-length%20transcriptome%20assembly%20from%20RNA-seq%20data%20without%20a%20reference%20genome&journal=Nat.%20Biotechnol.&volume=29&pages=644-652&publication_year=2011&author=Grabherr%2CMG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21572440)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571712)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Full-length%20transcriptome%20assembly%20from%20RNA-seq%20data%20without%20a%20reference%20genome&journal=Nat.%20Biotechnol.&volume=29&pages=644-652&publication_year=2011&author=Grabherr%2CMG) 
     
 66.  Haas, B. J. et al. Improving the _Arabidopsis_ genome annotation using maximal transcript alignment assemblies. _Nucleic Acids Res._ **31**, 5654–5666 (2003).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3sXns1Cntbs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14500829)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC206470)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20the%20Arabidopsis%20genome%20annotation%20using%20maximal%20transcript%20alignment%20assemblies&journal=Nucleic%20Acids%20Res.&volume=31&pages=5654-5666&publication_year=2003&author=Haas%2CBJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14500829)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC206470)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20the%20Arabidopsis%20genome%20annotation%20using%20maximal%20transcript%20alignment%20assemblies&journal=Nucleic%20Acids%20Res.&volume=31&pages=5654-5666&publication_year=2003&author=Haas%2CBJ) 
     
 67.  Keilwagen, J., Hartung, F., Paulini, M., Twardziok, S. O. & Grau, J. Combining RNA-seq data and homology-based gene prediction for plants, animals and fungi. _BMC Bioinformatics_ **19**, 189 (2018).
     
@@ -370,15 +370,15 @@ References
     
 68.  Zhuang, Y. et al. Phylogenomics of the genus _Glycine_ sheds light on polyploid evolution and life-strategy transition. _Nat. Plants_ **8**, 233–244 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xptlels74%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35288665)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phylogenomics%20of%20the%20genus%20Glycine%20sheds%20light%20on%20polyploid%20evolution%20and%20life-strategy%20transition&journal=Nat.%20Plants&volume=8&pages=233-244&publication_year=2022&author=Zhuang%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35288665)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phylogenomics%20of%20the%20genus%20Glycine%20sheds%20light%20on%20polyploid%20evolution%20and%20life-strategy%20transition&journal=Nat.%20Plants&volume=8&pages=233-244&publication_year=2022&author=Zhuang%2CY) 
     
 69.  Lonardi, S. et al. The genome of cowpea (_Vigna unguiculata_ (L.) Walp.). _Plant J._ **98**, 767–782 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhtVegu7%2FK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31017340)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6852540)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20genome%20of%20cowpea%20%28Vigna%20unguiculata%20%28L.%29%20Walp.%29&journal=Plant%20J.&volume=98&pages=767-782&publication_year=2019&author=Lonardi%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31017340)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6852540)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20genome%20of%20cowpea%20%28Vigna%20unguiculata%20%28L.%29%20Walp.%29&journal=Plant%20J.&volume=98&pages=767-782&publication_year=2019&author=Lonardi%2CS) 
     
 70.  Kang, Y. J. et al. Genome sequence of mungbean and insights into evolution within _Vigna_ species. _Nat. Commun._ **5**, 5443 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhvFans7vJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25384727)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20sequence%20of%20mungbean%20and%20insights%20into%20evolution%20within%20Vigna%20species&journal=Nat.%20Commun.&volume=5&publication_year=2014&author=Kang%2CYJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25384727)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20sequence%20of%20mungbean%20and%20insights%20into%20evolution%20within%20Vigna%20species&journal=Nat.%20Commun.&volume=5&publication_year=2014&author=Kang%2CYJ) 
     
 71.  Varshney, R. K. et al. Draft genome sequence of pigeonpea (_Cajanus cajan_), an orphan legume crop of resource-poor farmers. _Nat. Biotechnol._ **30**, 83–89 (2011).
     
@@ -386,19 +386,19 @@ References
     
 72.  Young, N. D. et al. The Medicago genome provides insight into the evolution of rhizobial symbioses. _Nature_ **480**, 520–524 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhsVOitr7N)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22089132)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272368)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Medicago%20genome%20provides%20insight%20into%20the%20evolution%20of%20rhizobial%20symbioses&journal=Nature&volume=480&pages=520-524&publication_year=2011&author=Young%2CND) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22089132)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272368)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Medicago%20genome%20provides%20insight%20into%20the%20evolution%20of%20rhizobial%20symbioses&journal=Nature&volume=480&pages=520-524&publication_year=2011&author=Young%2CND) 
     
 73.  Ouyang, S. et al. The TIGR rice genome annotation resource: improvements and new features. _Nucleic Acids Res._ **35**, D883–7 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXivFKmuw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17145706)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20TIGR%20rice%20genome%20annotation%20resource%3A%20improvements%20and%20new%20features&journal=Nucleic%20Acids%20Res.&volume=35&pages=D883-7&publication_year=2007&author=Ouyang%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17145706)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20TIGR%20rice%20genome%20annotation%20resource%3A%20improvements%20and%20new%20features&journal=Nucleic%20Acids%20Res.&volume=35&pages=D883-7&publication_year=2007&author=Ouyang%2CS) 
     
 74.  Lamesch, P. et al. The Arabidopsis Information Resource (TAIR): improved gene annotation and new tools. _Nucleic Acids Res._ **40**, D1202–10 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhs12htbjM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22140109)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Arabidopsis%20Information%20Resource%20%28TAIR%29%3A%20improved%20gene%20annotation%20and%20new%20tools&journal=Nucleic%20Acids%20Res.&volume=40&pages=D1202-10&publication_year=2012&author=Lamesch%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22140109)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Arabidopsis%20Information%20Resource%20%28TAIR%29%3A%20improved%20gene%20annotation%20and%20new%20tools&journal=Nucleic%20Acids%20Res.&volume=40&pages=D1202-10&publication_year=2012&author=Lamesch%2CP) 
     
 75.  Stanke, M. et al. AUGUSTUS: ab initio prediction of alternative transcripts. _Nucleic Acids Res._ **34**, W435–W439 (2006).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD28Xps1yiu78%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16845043)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1538822)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AUGUSTUS%3A%20ab%20initio%20prediction%20of%20alternative%20transcripts&journal=Nucleic%20Acids%20Res.&volume=34&pages=W435-W439&publication_year=2006&author=Stanke%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16845043)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1538822)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AUGUSTUS%3A%20ab%20initio%20prediction%20of%20alternative%20transcripts&journal=Nucleic%20Acids%20Res.&volume=34&pages=W435-W439&publication_year=2006&author=Stanke%2CM) 
     
 76.  Haas, B. J. et al. Automated eukaryotic gene structure annotation using EVidenceModeler and the Program to Assemble Spliced Alignments. _Genome Biol._ **9**, R7 (2008).
     
@@ -406,11 +406,11 @@ References
     
 77.  Manni, M., Berkeley, M. R., Seppey, M., Simao, F. A. & Zdobnov, E. M. BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes. _Mol. Biol. Evol._ **38**, 4647–4654 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhslaktbzF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34320186)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476166)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=BUSCO%20update%3A%20novel%20and%20streamlined%20workflows%20along%20with%20broader%20and%20deeper%20phylogenetic%20coverage%20for%20scoring%20of%20eukaryotic%2C%20prokaryotic%2C%20and%20viral%20genomes&journal=Mol.%20Biol.%20Evol.&volume=38&pages=4647-4654&publication_year=2021&author=Manni%2CM&author=Berkeley%2CMR&author=Seppey%2CM&author=Simao%2CFA&author=Zdobnov%2CEM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34320186)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476166)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=BUSCO%20update%3A%20novel%20and%20streamlined%20workflows%20along%20with%20broader%20and%20deeper%20phylogenetic%20coverage%20for%20scoring%20of%20eukaryotic%2C%20prokaryotic%2C%20and%20viral%20genomes&journal=Mol.%20Biol.%20Evol.&volume=38&pages=4647-4654&publication_year=2021&author=Manni%2CM&author=Berkeley%2CMR&author=Seppey%2CM&author=Simao%2CFA&author=Zdobnov%2CEM) 
     
 78.  Jones, P. et al. InterProScan 5: genome-scale protein function classification. _Bioinformatics_ **30**, 1236–1240 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXmvFCjsr4%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24451626)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998142)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=InterProScan%205%3A%20genome-scale%20protein%20function%20classification&journal=Bioinformatics&volume=30&pages=1236-1240&publication_year=2014&author=Jones%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24451626)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998142)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=InterProScan%205%3A%20genome-scale%20protein%20function%20classification&journal=Bioinformatics&volume=30&pages=1236-1240&publication_year=2014&author=Jones%2CP) 
     
 79.  Emms, D. M. & Kelly, S. OrthoFinder: phylogenetic orthology inference for comparative genomics. _Genome Biol._ **20**, 238 (2019).
     
@@ -418,23 +418,23 @@ References
     
 80.  Liu, Y. et al. Pan-genome of wild and cultivated soybeans. _Cell_ **182**, 162–176 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtFyktrjI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32553274)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pan-genome%20of%20wild%20and%20cultivated%20soybeans&journal=Cell&volume=182&pages=162-176&publication_year=2020&author=Liu%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32553274)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pan-genome%20of%20wild%20and%20cultivated%20soybeans&journal=Cell&volume=182&pages=162-176&publication_year=2020&author=Liu%2CY) 
     
 81.  Sun, P. et al. WGDI: a user-friendly toolkit for evolutionary analyses of whole-genome duplications and ancestral karyotypes. _Mol. Plant_ **15**, 1841–1851 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XivFSrsrfL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36307977)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=WGDI%3A%20a%20user-friendly%20toolkit%20for%20evolutionary%20analyses%20of%20whole-genome%20duplications%20and%20ancestral%20karyotypes&journal=Mol.%20Plant&volume=15&pages=1841-1851&publication_year=2022&author=Sun%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36307977)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=WGDI%3A%20a%20user-friendly%20toolkit%20for%20evolutionary%20analyses%20of%20whole-genome%20duplications%20and%20ancestral%20karyotypes&journal=Mol.%20Plant&volume=15&pages=1841-1851&publication_year=2022&author=Sun%2CP) 
     
 82.  Nguyen, L. T., Schmidt, H. A., von Haeseler, A. & Minh, B. Q. IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. _Mol. Biol. Evol._ **32**, 268–274 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXivFGltrs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25371430)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=IQ-TREE%3A%20a%20fast%20and%20effective%20stochastic%20algorithm%20for%20estimating%20maximum-likelihood%20phylogenies&journal=Mol.%20Biol.%20Evol.&volume=32&pages=268-274&publication_year=2015&author=Nguyen%2CLT&author=Schmidt%2CHA&author=Haeseler%2CA&author=Minh%2CBQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25371430)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=IQ-TREE%3A%20a%20fast%20and%20effective%20stochastic%20algorithm%20for%20estimating%20maximum-likelihood%20phylogenies&journal=Mol.%20Biol.%20Evol.&volume=32&pages=268-274&publication_year=2015&author=Nguyen%2CLT&author=Schmidt%2CHA&author=Haeseler%2CA&author=Minh%2CBQ) 
     
 83.  Yang, Z. PAML 4: phylogenetic analysis by maximum likelihood. _Mol. Biol. Evol._ **24**, 1586–1591 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXpsVGrs7c%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17483113)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood&journal=Mol.%20Biol.%20Evol.&volume=24&pages=1586-1591&publication_year=2007&author=Yang%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17483113)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood&journal=Mol.%20Biol.%20Evol.&volume=24&pages=1586-1591&publication_year=2007&author=Yang%2CZ) 
     
 84.  Kumar, S. et al. TimeTree 5: an expanded resource for species divergence times. _Mol. Biol. Evol._ **39**, msac174 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsVCjtb4%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35932227)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9400175)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=TimeTree%205%3A%20an%20expanded%20resource%20for%20species%20divergence%20times&journal=Mol.%20Biol.%20Evol.&volume=39&publication_year=2022&author=Kumar%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35932227)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9400175)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=TimeTree%205%3A%20an%20expanded%20resource%20for%20species%20divergence%20times&journal=Mol.%20Biol.%20Evol.&volume=39&publication_year=2022&author=Kumar%2CS) 
     
 85.  Mendes, F. K., Vanderpool, D., Fulton, B. & Hahn, M. W. CAFE 5 models variation in evolutionary rates among gene families. _Bioinformatics_ **36**, 5516–5518 (2021).
     
@@ -442,11 +442,11 @@ References
     
 86.  Letunic, I. & Bork, P. Interactive Tree of Life (iTOL) v5: an online tool for phylogenetic tree display and annotation. _Nucleic Acids Res._ **49**, W293–W296 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhvV2isLvM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33885785)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8265157)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20Tree%20of%20Life%20%28iTOL%29%20v5%3A%20an%20online%20tool%20for%20phylogenetic%20tree%20display%20and%20annotation&journal=Nucleic%20Acids%20Res.&volume=49&pages=W293-W296&publication_year=2021&author=Letunic%2CI&author=Bork%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33885785)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8265157)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20Tree%20of%20Life%20%28iTOL%29%20v5%3A%20an%20online%20tool%20for%20phylogenetic%20tree%20display%20and%20annotation&journal=Nucleic%20Acids%20Res.&volume=49&pages=W293-W296&publication_year=2021&author=Letunic%2CI&author=Bork%2CP) 
     
 87.  Niyikiza, D. et al. Interactions of gene expression, alternative splicing, and DNA methylation in determining nodule identity. _Plant J._ **103**, 1744–1766 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXht1WisrjF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32491251)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactions%20of%20gene%20expression%2C%20alternative%20splicing%2C%20and%20DNA%20methylation%20in%20determining%20nodule%20identity&journal=Plant%20J.&volume=103&pages=1744-1766&publication_year=2020&author=Niyikiza%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32491251)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactions%20of%20gene%20expression%2C%20alternative%20splicing%2C%20and%20DNA%20methylation%20in%20determining%20nodule%20identity&journal=Plant%20J.&volume=103&pages=1744-1766&publication_year=2020&author=Niyikiza%2CD) 
     
 88.  Xue, Y. et al. Genome wide transcriptome analysis reveals complex regulatory mechanisms underlying phosphate homeostasis in soybean nodules. _Int. J. Mol. Sci._ **19**, 2924 (2018).
     
@@ -454,7 +454,7 @@ References
     
 89.  Shen, Y. et al. Global dissection of alternative splicing in paleopolyploid soybean. _Plant Cell_ **26**, 996–1008 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXotV2kt7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24681622)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4001406)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Global%20dissection%20of%20alternative%20splicing%20in%20paleopolyploid%20soybean&journal=Plant%20Cell&volume=26&pages=996-1008&publication_year=2014&author=Shen%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24681622)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4001406)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Global%20dissection%20of%20alternative%20splicing%20in%20paleopolyploid%20soybean&journal=Plant%20Cell&volume=26&pages=996-1008&publication_year=2014&author=Shen%2CY) 
     
 90.  Adhikari, S., Damodaran, S. & Subramanian, S. Lateral root and nodule transcriptomes of soybean. _Data_ **4**, 64 (2019).
     
@@ -462,7 +462,7 @@ References
     
 91.  Stein, J. C. et al. Genomes of 13 domesticated and wild rice relatives highlight genetic conservation, turnover and innovation across the genus _Oryza_. _Nat. Genet._ **50**, 285–296 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXkslGiur0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29358651)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomes%20of%2013%20domesticated%20and%20wild%20rice%20relatives%20highlight%20genetic%20conservation%2C%20turnover%20and%20innovation%20across%20the%20genus%20Oryza&journal=Nat.%20Genet.&volume=50&pages=285-296&publication_year=2018&author=Stein%2CJC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29358651)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomes%20of%2013%20domesticated%20and%20wild%20rice%20relatives%20highlight%20genetic%20conservation%2C%20turnover%20and%20innovation%20across%20the%20genus%20Oryza&journal=Nat.%20Genet.&volume=50&pages=285-296&publication_year=2018&author=Stein%2CJC) 
     
 92.  Mount, D. W. Using the Basic Local Alignment Search Tool (BLAST). _CSH Protoc._ **2007**, pdb top17 (2007).
     
@@ -470,7 +470,7 @@ References
     
 93.  Ngou, B. P. M., Heal, R., Wyler, M., Schmid, M. W. & Jones, J. D. G. Concerted expansion and contraction of immune receptor gene repertoires in plant genomes. _Nat. Plants_ **8**, 1146–1152 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xis1GmtbbL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36241733)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9579050)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Concerted%20expansion%20and%20contraction%20of%20immune%20receptor%20gene%20repertoires%20in%20plant%20genomes&journal=Nat.%20Plants&volume=8&pages=1146-1152&publication_year=2022&author=Ngou%2CBPM&author=Heal%2CR&author=Wyler%2CM&author=Schmid%2CMW&author=Jones%2CJDG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36241733)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9579050)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Concerted%20expansion%20and%20contraction%20of%20immune%20receptor%20gene%20repertoires%20in%20plant%20genomes&journal=Nat.%20Plants&volume=8&pages=1146-1152&publication_year=2022&author=Ngou%2CBPM&author=Heal%2CR&author=Wyler%2CM&author=Schmid%2CMW&author=Jones%2CJDG) 
     
 94.  Van de Weyer, A. L. et al. A species-wide inventory of NLR genes and alleles in _Arabidopsis thaliana_. _Cell_ **178**, 1260–1272 (2019).
     
@@ -478,7 +478,7 @@ References
     
 95.  Wang, Y. et al. MCScanX: a toolkit for detection and evolutionary analysis of gene synteny and collinearity. _Nucleic Acids Res._ **40**, e49 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38Xls1SmsL0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22217600)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326336)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MCScanX%3A%20a%20toolkit%20for%20detection%20and%20evolutionary%20analysis%20of%20gene%20synteny%20and%20collinearity&journal=Nucleic%20Acids%20Res.&volume=40&publication_year=2012&author=Wang%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22217600)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326336)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MCScanX%3A%20a%20toolkit%20for%20detection%20and%20evolutionary%20analysis%20of%20gene%20synteny%20and%20collinearity&journal=Nucleic%20Acids%20Res.&volume=40&publication_year=2012&author=Wang%2CY) 
     
 96.  Li, H. & Durbin, R. Fast and accurate long-read alignment with Burrows–Wheeler transform. _Bioinformatics_ **26**, 589–595 (2010).
     
@@ -486,23 +486,23 @@ References
     
 97.  McKenna, A. et al. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. _Genome Res._ **20**, 1297–1303 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtFeru7jM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20644199)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Genome%20Analysis%20Toolkit%3A%20a%20MapReduce%20framework%20for%20analyzing%20next-generation%20DNA%20sequencing%20data&journal=Genome%20Res.&volume=20&pages=1297-1303&publication_year=2010&author=McKenna%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20644199)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Genome%20Analysis%20Toolkit%3A%20a%20MapReduce%20framework%20for%20analyzing%20next-generation%20DNA%20sequencing%20data&journal=Genome%20Res.&volume=20&pages=1297-1303&publication_year=2010&author=McKenna%2CA) 
     
 98.  Purcell, S. et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. _Am. J. Hum. Genet._ **81**, 559–575 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtVSqurrL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet.&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet.&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
     
 99.  Danecek, P. et al. The variant call format and VCFtools. _Bioinformatics_ **27**, 2156–2158 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXptFCqt7w%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
     
 100.  Krueger, F. & Andrews, S. R. Bismark: a flexible aligner and methylation caller for Bisulfite-seq applications. _Bioinformatics_ **27**, 1571–1572 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXmvVWqurw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21493656)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102221)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bismark%3A%20a%20flexible%20aligner%20and%20methylation%20caller%20for%20Bisulfite-seq%20applications&journal=Bioinformatics&volume=27&pages=1571-1572&publication_year=2011&author=Krueger%2CF&author=Andrews%2CSR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21493656)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102221)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bismark%3A%20a%20flexible%20aligner%20and%20methylation%20caller%20for%20Bisulfite-seq%20applications&journal=Bioinformatics&volume=27&pages=1571-1572&publication_year=2011&author=Krueger%2CF&author=Andrews%2CSR) 
     
 101.  Langmead, B. & Salzberg, S. L. Fast gapped-read alignment with Bowtie 2. _Nat. Methods_ **9**, 357–359 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38Xjt1Oqt7c%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22388286)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322381)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%20gapped-read%20alignment%20with%20Bowtie%202&journal=Nat.%20Methods&volume=9&pages=357-359&publication_year=2012&author=Langmead%2CB&author=Salzberg%2CSL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22388286)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322381)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%20gapped-read%20alignment%20with%20Bowtie%202&journal=Nat.%20Methods&volume=9&pages=357-359&publication_year=2012&author=Langmead%2CB&author=Salzberg%2CSL) 
     
 102.  Zhang, Y. et al. Model-based analysis of ChIP–seq (MACS). _Genome Biol._ **9**, R137 (2008).
     
@@ -755,7 +755,7 @@ About this article
 
 ### Cite this article
 
-Wang, L., Jiang, X., Jiao, W. _et al._ Pangenome analysis provides insights into legume evolution and breeding. _Nat Genet_ (2025). https://doi.org/10.1038/s41588-025-02280-5
+Wang, L., Jiang, X., Jiao, W. _et al._ Pangenome analysis provides insights into legume evolution and breeding. _Nat Genet_ **57**, 2052–2061 (2025). https://doi.org/10.1038/s41588-025-02280-5
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02280-5?format=refman&flavour=citation)
 
@@ -764,6 +764,8 @@ Wang, L., Jiang, X., Jiao, W. _et al._ Pangenome analysis provides insights into
 -   Accepted: 27 June 2025
     
 -   Published: 30 July 2025
+    
+-   Issue Date: August 2025
     
 -   DOI: https://doi.org/10.1038/s41588-025-02280-5
     

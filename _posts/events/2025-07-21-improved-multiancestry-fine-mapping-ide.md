@@ -104,11 +104,11 @@ References
 
 1.  Cheung, V. G. et al. Mapping determinants of human gene expression by regional and genome-wide association. _Nature_ **437**, 1365–1369 (2005).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXhtFCrurrN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16251966)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005311)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20determinants%20of%20human%20gene%20expression%20by%20regional%20and%20genome-wide%20association&journal=Nature&volume=437&pages=1365-1369&publication_year=2005&author=Cheung%2CVG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16251966)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005311)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20determinants%20of%20human%20gene%20expression%20by%20regional%20and%20genome-wide%20association&journal=Nature&volume=437&pages=1365-1369&publication_year=2005&author=Cheung%2CVG) 
     
 2.  Aguet, F. et al. Molecular quantitative trait loci. _Nat. Rev. Methods Prim._ **3**, 4 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhvVyhtbk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Molecular%20quantitative%20trait%20loci&journal=Nat.%20Rev.%20Methods%20Prim.&volume=3&publication_year=2023&author=Aguet%2CF) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Molecular%20quantitative%20trait%20loci&journal=Nat.%20Rev.%20Methods%20Prim.&volume=3&publication_year=2023&author=Aguet%2CF) 
     
 3.  Wang, G., Sarkar, A., Carbonetto, P. & Stephens, M. A simple new approach to variable selection in regression, with application to genetic fine mapping. _J. R. Stat. Soc. Ser. B_ **82**, 1273–1300 (2020).
     
@@ -120,31 +120,31 @@ References
     
 5.  Kichaev, G. & Pasaniuc, B. Leveraging functional-annotation data in trans-ethnic fine-mapping studies. _Am. J. Hum. Genet._ **97**, 260–271 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhtF2ksL%2FL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26189819)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4573268)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Leveraging%20functional-annotation%20data%20in%20trans-ethnic%20fine-mapping%20studies&journal=Am.%20J.%20Hum.%20Genet.&volume=97&pages=260-271&publication_year=2015&author=Kichaev%2CG&author=Pasaniuc%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26189819)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4573268)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Leveraging%20functional-annotation%20data%20in%20trans-ethnic%20fine-mapping%20studies&journal=Am.%20J.%20Hum.%20Genet.&volume=97&pages=260-271&publication_year=2015&author=Kichaev%2CG&author=Pasaniuc%2CB) 
     
 6.  LaPierre, N. et al. Identifying causal variants by fine mapping across multiple studies. _PLoS Genet._ **17**, e1009733 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXit1Wnt7vP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34543273)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8491908)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identifying%20causal%20variants%20by%20fine%20mapping%20across%20multiple%20studies&journal=PLoS%20Genet.&volume=17&publication_year=2021&author=LaPierre%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34543273)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8491908)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identifying%20causal%20variants%20by%20fine%20mapping%20across%20multiple%20studies&journal=PLoS%20Genet.&volume=17&publication_year=2021&author=LaPierre%2CN) 
     
 7.  Yuan, K. et al. Fine-mapping across diverse ancestries drives the discovery of putative causal variants underlying human complex traits and diseases. _Nat. Genet._ **56**, 1841–1850 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhvVeku7%2FO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39187616)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11888783)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine-mapping%20across%20diverse%20ancestries%20drives%20the%20discovery%20of%20putative%20causal%20variants%20underlying%20human%20complex%20traits%20and%20diseases&journal=Nat.%20Genet.&volume=56&pages=1841-1850&publication_year=2024&author=Yuan%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39187616)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11888783)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine-mapping%20across%20diverse%20ancestries%20drives%20the%20discovery%20of%20putative%20causal%20variants%20underlying%20human%20complex%20traits%20and%20diseases&journal=Nat.%20Genet.&volume=56&pages=1841-1850&publication_year=2024&author=Yuan%2CK) 
     
 8.  Gao, B. & Zhou, X. MESuSiE enables scalable and powerful multi-ancestry fine-mapping of causal variants in genome-wide association studies. _Nat. Genet._ **56**, 170–179 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXlvVGitw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38168930)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11849347)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MESuSiE%20enables%20scalable%20and%20powerful%20multi-ancestry%20fine-mapping%20of%20causal%20variants%20in%20genome-wide%20association%20studies&journal=Nat.%20Genet.&volume=56&pages=170-179&publication_year=2024&author=Gao%2CB&author=Zhou%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38168930)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11849347)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MESuSiE%20enables%20scalable%20and%20powerful%20multi-ancestry%20fine-mapping%20of%20causal%20variants%20in%20genome-wide%20association%20studies&journal=Nat.%20Genet.&volume=56&pages=170-179&publication_year=2024&author=Gao%2CB&author=Zhou%2CX) 
     
 9.  Cai, M. et al. XMAP: cross-population fine-mapping by leveraging genetic diversity and accounting for confounding bias. _Nat. Commun._ **14**, 6870 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXit1CnsrbL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37898663)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10613261)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=XMAP%3A%20cross-population%20fine-mapping%20by%20leveraging%20genetic%20diversity%20and%20accounting%20for%20confounding%20bias&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Cai%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37898663)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10613261)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=XMAP%3A%20cross-population%20fine-mapping%20by%20leveraging%20genetic%20diversity%20and%20accounting%20for%20confounding%20bias&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Cai%2CM) 
     
 10.  Gusev, A. et al. Integrative approaches for large-scale transcriptome-wide association studies. _Nat. Genet._ **48**, 245–252 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xit1ajtbc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26854917)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767558)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrative%20approaches%20for%20large-scale%20transcriptome-wide%20association%20studies&journal=Nat.%20Genet.&volume=48&pages=245-252&publication_year=2016&author=Gusev%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26854917)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767558)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrative%20approaches%20for%20large-scale%20transcriptome-wide%20association%20studies&journal=Nat.%20Genet.&volume=48&pages=245-252&publication_year=2016&author=Gusev%2CA) 
     
 11.  Gamazon, E. R. et al. A gene-based association method for mapping traits using reference transcriptome data. _Nat. Genet._ **47**, 1091–1098 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhtlSnurbM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26258848)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552594)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20gene-based%20association%20method%20for%20mapping%20traits%20using%20reference%20transcriptome%20data&journal=Nat.%20Genet.&volume=47&pages=1091-1098&publication_year=2015&author=Gamazon%2CER) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26258848)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552594)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20gene-based%20association%20method%20for%20mapping%20traits%20using%20reference%20transcriptome%20data&journal=Nat.%20Genet.&volume=47&pages=1091-1098&publication_year=2015&author=Gamazon%2CER) 
     
 12.  Bild, D. E. et al. Ethnic differences in coronary calcification: the Multi-Ethnic Study of Atherosclerosis (MESA). _Circulation_ **111**, 1313–1320 (2005).
     
@@ -152,17 +152,17 @@ References
     
 13.  Taliun, D. et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program. _Nature_ **590**, 290–299 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXjslKnsrY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33568819)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7875770)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sequencing%20of%2053%2C831%20diverse%20genomes%20from%20the%20NHLBI%20TOPMed%20Program&journal=Nature&volume=590&pages=290-299&publication_year=2021&author=Taliun%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33568819)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7875770)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sequencing%20of%2053%2C831%20diverse%20genomes%20from%20the%20NHLBI%20TOPMed%20Program&journal=Nature&volume=590&pages=290-299&publication_year=2021&author=Taliun%2CD) 
     
 14.  Shang, L. et al. Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA. _Am. J. Hum. Genet._ **106**, 496–512 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXlslKks7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32220292)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118581)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%20gene%20expression%20in%20European%20and%20African%20Americans%3A%20an%20eQTL%20mapping%20study%20in%20GENOA&journal=Am.%20J.%20Hum.%20Genet.&volume=106&pages=496-512&publication_year=2020&author=Shang%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32220292)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118581)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%20gene%20expression%20in%20European%20and%20African%20Americans%3A%20an%20eQTL%20mapping%20study%20in%20GENOA&journal=Am.%20J.%20Hum.%20Genet.&volume=106&pages=496-512&publication_year=2020&author=Shang%2CL) 
     
 15.  The All of Us Research Program Genomics Investigators. Genomic data in the All of Us Research Program. _Nature_ **627**, 340–346 (2024).
     
 16.  Zou, Y., Carbonetto, P., Wang, G. & Stephens, M. Fine-mapping from summary data with the ‘Sum of Single Effects’ model. _PLoS Genet._ **18**, e1010299 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitVeku7jF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35853082)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9337707)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine-mapping%20from%20summary%20data%20with%20the%20%E2%80%98Sum%20of%20Single%20Effects%E2%80%99%20model&journal=PLoS%20Genet.&volume=18&publication_year=2022&author=Zou%2CY&author=Carbonetto%2CP&author=Wang%2CG&author=Stephens%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35853082)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9337707)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fine-mapping%20from%20summary%20data%20with%20the%20%E2%80%98Sum%20of%20Single%20Effects%E2%80%99%20model&journal=PLoS%20Genet.&volume=18&publication_year=2022&author=Zou%2CY&author=Carbonetto%2CP&author=Wang%2CG&author=Stephens%2CM) 
     
 17.  Tibshirani, R. Regression shrinkage and selection via the LASSO. _J. R. Stat. Soc. Ser. B_ **58**, 267–288 (1996).
     
@@ -186,7 +186,7 @@ References
     
 22.  Mostafavi, H., Spence, J. P., Naqvi, S. & Pritchard, J. K. Systematic differences in discovery of genetic effects on gene expression and complex traits. _Nat. Genet._ **55**, 1866–1875 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitFOqsL%2FN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37857933)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20differences%20in%20discovery%20of%20genetic%20effects%20on%20gene%20expression%20and%20complex%20traits&journal=Nat.%20Genet.&volume=55&pages=1866-1875&publication_year=2023&author=Mostafavi%2CH&author=Spence%2CJP&author=Naqvi%2CS&author=Pritchard%2CJK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37857933)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12270542)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20differences%20in%20discovery%20of%20genetic%20effects%20on%20gene%20expression%20and%20complex%20traits&journal=Nat.%20Genet.&volume=55&pages=1866-1875&publication_year=2023&author=Mostafavi%2CH&author=Spence%2CJP&author=Naqvi%2CS&author=Pritchard%2CJK) 
     
 23.  ENCODE Project Consortium et al. Expanded encyclopaedias of DNA elements in the human and mouse genomes. _Nature_ **583**, 699–710 (2020).
     
@@ -194,19 +194,19 @@ References
     
 24.  Chiou, J. et al. Interpreting type 1 diabetes risk with genetics and single-cell epigenomics. _Nature_ **594**, 398–402 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtFantbvJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34012112)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10560508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpreting%20type%201%20diabetes%20risk%20with%20genetics%20and%20single-cell%20epigenomics&journal=Nature&volume=594&pages=398-402&publication_year=2021&author=Chiou%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34012112)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10560508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpreting%20type%201%20diabetes%20risk%20with%20genetics%20and%20single-cell%20epigenomics&journal=Nature&volume=594&pages=398-402&publication_year=2021&author=Chiou%2CJ) 
     
 25.  Satpathy, A. T. et al. Massively parallel single-cell chromatin landscapes of human immune cell development and intratumoral T cell exhaustion. _Nat. Biotechnol._ **37**, 925–936 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsFWqt7fO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31375813)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299161)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Massively%20parallel%20single-cell%20chromatin%20landscapes%20of%20human%20immune%20cell%20development%20and%20intratumoral%20T%20cell%20exhaustion&journal=Nat.%20Biotechnol.&volume=37&pages=925-936&publication_year=2019&author=Satpathy%2CAT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31375813)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299161)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Massively%20parallel%20single-cell%20chromatin%20landscapes%20of%20human%20immune%20cell%20development%20and%20intratumoral%20T%20cell%20exhaustion&journal=Nat.%20Biotechnol.&volume=37&pages=925-936&publication_year=2019&author=Satpathy%2CAT) 
     
 26.  Lappalainen, T. et al. Transcriptome and genome sequencing uncovers functional variation in humans. _Nature_ **501**, 506–511 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhsVertLzN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24037378)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918453)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome%20and%20genome%20sequencing%20uncovers%20functional%20variation%20in%20humans&journal=Nature&volume=501&pages=506-511&publication_year=2013&author=Lappalainen%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24037378)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918453)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome%20and%20genome%20sequencing%20uncovers%20functional%20variation%20in%20humans&journal=Nature&volume=501&pages=506-511&publication_year=2013&author=Lappalainen%2CT) 
     
 27.  Sun, B. B. et al. Genomic atlas of the human plasma proteome. _Nature_ **558**, 73–79 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhtV2lsr3E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29875488)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697541)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20atlas%20of%20the%20human%20plasma%20proteome&journal=Nature&volume=558&pages=73-79&publication_year=2018&author=Sun%2CBB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29875488)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697541)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20atlas%20of%20the%20human%20plasma%20proteome&journal=Nature&volume=558&pages=73-79&publication_year=2018&author=Sun%2CBB) 
     
 28.  Cai, J. et al. URGCP promotes non-small cell lung cancer invasiveness by activating the NF-κB–MMP-9 pathway. _Oncotarget_ **6**, 36489–36504 (2015).
     
@@ -214,55 +214,55 @@ References
     
 29.  Kachuri, L. et al. Gene expression in African Americans, Puerto Ricans and Mexican Americans reveals ancestry-specific patterns of genetic architecture. _Nat. Genet._ **55**, 952–963 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtFSisbvF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37231098)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10260401)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20expression%20in%20African%20Americans%2C%20Puerto%20Ricans%20and%20Mexican%20Americans%20reveals%20ancestry-specific%20patterns%20of%20genetic%20architecture&journal=Nat.%20Genet.&volume=55&pages=952-963&publication_year=2023&author=Kachuri%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37231098)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10260401)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20expression%20in%20African%20Americans%2C%20Puerto%20Ricans%20and%20Mexican%20Americans%20reveals%20ancestry-specific%20patterns%20of%20genetic%20architecture&journal=Nat.%20Genet.&volume=55&pages=952-963&publication_year=2023&author=Kachuri%2CL) 
     
 30.  Shi, H. et al. Localizing components of shared transethnic genetic architecture of complex traits from GWAS summary data. _Am. J. Hum. Genet._ **106**, 805–817 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtVejtLbO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32442408)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7273527)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Localizing%20components%20of%20shared%20transethnic%20genetic%20architecture%20of%20complex%20traits%20from%20GWAS%20summary%20data&journal=Am.%20J.%20Hum.%20Genet.&volume=106&pages=805-817&publication_year=2020&author=Shi%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32442408)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7273527)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Localizing%20components%20of%20shared%20transethnic%20genetic%20architecture%20of%20complex%20traits%20from%20GWAS%20summary%20data&journal=Am.%20J.%20Hum.%20Genet.&volume=106&pages=805-817&publication_year=2020&author=Shi%2CH) 
     
 31.  Shi, H. et al. Population-specific causal disease effect sizes in functionally important regions impacted by selection. _Nat. Commun._ **12**, 1098 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXksFSmsrY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33597505)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7889654)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Population-specific%20causal%20disease%20effect%20sizes%20in%20functionally%20important%20regions%20impacted%20by%20selection&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Shi%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33597505)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7889654)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Population-specific%20causal%20disease%20effect%20sizes%20in%20functionally%20important%20regions%20impacted%20by%20selection&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Shi%2CH) 
     
 32.  Hou, K. et al. Causal effects on complex traits are similar for common variants across segments of different continental ancestries within admixed individuals. _Nat. Genet._ **55**, 549–558 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXlslajuro%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36941441)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11120833)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Causal%20effects%20on%20complex%20traits%20are%20similar%20for%20common%20variants%20across%20segments%20of%20different%20continental%20ancestries%20within%20admixed%20individuals&journal=Nat.%20Genet.&volume=55&pages=549-558&publication_year=2023&author=Hou%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36941441)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11120833)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Causal%20effects%20on%20complex%20traits%20are%20similar%20for%20common%20variants%20across%20segments%20of%20different%20continental%20ancestries%20within%20admixed%20individuals&journal=Nat.%20Genet.&volume=55&pages=549-558&publication_year=2023&author=Hou%2CK) 
     
 33.  Saito, S. et al. Gene-specific somatic epigenetic mosaicism of FDFT1 underlies a non-hereditary localized form of porokeratosis. _Am. J. Hum. Genet._ **111**, 896–912 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXovVSrs74%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38653249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11080608)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene-specific%20somatic%20epigenetic%20mosaicism%20of%20FDFT1%20underlies%20a%20non-hereditary%20localized%20form%20of%20porokeratosis&journal=Am.%20J.%20Hum.%20Genet.&volume=111&pages=896-912&publication_year=2024&author=Saito%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38653249)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11080608)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene-specific%20somatic%20epigenetic%20mosaicism%20of%20FDFT1%20underlies%20a%20non-hereditary%20localized%20form%20of%20porokeratosis&journal=Am.%20J.%20Hum.%20Genet.&volume=111&pages=896-912&publication_year=2024&author=Saito%2CS) 
     
 34.  Taylor, D. J. et al. Sources of gene expression variation in a globally diverse human cohort. _Nature_ **632**, 122–130 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhsFOmtL7O)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39020179)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11291278)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sources%20of%20gene%20expression%20variation%20in%20a%20globally%20diverse%20human%20cohort&journal=Nature&volume=632&pages=122-130&publication_year=2024&author=Taylor%2CDJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39020179)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11291278)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sources%20of%20gene%20expression%20variation%20in%20a%20globally%20diverse%20human%20cohort&journal=Nature&volume=632&pages=122-130&publication_year=2024&author=Taylor%2CDJ) 
     
 35.  Brown, B. C., Asian Genetic Epidemiology Network Type 2 Diabetes Consortium, Ye, C. J., Price, A. L. & Zaitlen, N. Transethnic genetic-correlation estimates from summary statistics. _Am. J. Hum. Genet._ **99**, 76–88 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhtVWnsLbP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27321947)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005434)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transethnic%20genetic-correlation%20estimates%20from%20summary%20statistics&journal=Am.%20J.%20Hum.%20Genet.&volume=99&pages=76-88&publication_year=2016&author=Brown%2CBC&author=Ye%2CCJ&author=Price%2CAL&author=Zaitlen%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27321947)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005434)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transethnic%20genetic-correlation%20estimates%20from%20summary%20statistics&journal=Am.%20J.%20Hum.%20Genet.&volume=99&pages=76-88&publication_year=2016&author=Brown%2CBC&author=Ye%2CCJ&author=Price%2CAL&author=Zaitlen%2CN) 
     
 36.  Lek, M. et al. Analysis of protein-coding genetic variation in 60,706 humans. _Nature_ **536**, 285–291 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhtlOnsbbP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27535533)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018207)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analysis%20of%20protein-coding%20genetic%20variation%20in%2060%2C706%20humans&journal=Nature&volume=536&pages=285-291&publication_year=2016&author=Lek%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27535533)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018207)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analysis%20of%20protein-coding%20genetic%20variation%20in%2060%2C706%20humans&journal=Nature&volume=536&pages=285-291&publication_year=2016&author=Lek%2CM) 
     
 37.  Karczewski, K. J. et al. The mutational constraint spectrum quantified from variation in 141,456 humans. _Nature_ **581**, 434–443 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtVanu7jF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32461654)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334197)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20mutational%20constraint%20spectrum%20quantified%20from%20variation%20in%20141%2C456%20humans&journal=Nature&volume=581&pages=434-443&publication_year=2020&author=Karczewski%2CKJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32461654)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334197)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20mutational%20constraint%20spectrum%20quantified%20from%20variation%20in%20141%2C456%20humans&journal=Nature&volume=581&pages=434-443&publication_year=2020&author=Karczewski%2CKJ) 
     
 38.  Wang, X. & Goldstein, D. B. Enhancer domains predict gene pathogenicity and inform gene discovery in complex disease. _Am. J. Hum. Genet._ **106**, 215–233 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXotlSru70%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32032514)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010980)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancer%20domains%20predict%20gene%20pathogenicity%20and%20inform%20gene%20discovery%20in%20complex%20disease&journal=Am.%20J.%20Hum.%20Genet.&volume=106&pages=215-233&publication_year=2020&author=Wang%2CX&author=Goldstein%2CDB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32032514)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010980)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancer%20domains%20predict%20gene%20pathogenicity%20and%20inform%20gene%20discovery%20in%20complex%20disease&journal=Am.%20J.%20Hum.%20Genet.&volume=106&pages=215-233&publication_year=2020&author=Wang%2CX&author=Goldstein%2CDB) 
     
 39.  Petrovski, S., Wang, Q., Heinzen, E. L., Allen, A. S. & Goldstein, D. B. Genic intolerance to functional variation and the interpretation of personal genomes. _PLoS Genet._ **9**, e1003709 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhsVCku7rJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23990802)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3749936)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genic%20intolerance%20to%20functional%20variation%20and%20the%20interpretation%20of%20personal%20genomes&journal=PLoS%20Genet.&volume=9&publication_year=2013&author=Petrovski%2CS&author=Wang%2CQ&author=Heinzen%2CEL&author=Allen%2CAS&author=Goldstein%2CDB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23990802)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3749936)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genic%20intolerance%20to%20functional%20variation%20and%20the%20interpretation%20of%20personal%20genomes&journal=PLoS%20Genet.&volume=9&publication_year=2013&author=Petrovski%2CS&author=Wang%2CQ&author=Heinzen%2CEL&author=Allen%2CAS&author=Goldstein%2CDB) 
     
 40.  Zeng, T., Spence, J. P., Mostafavi, H. & Pritchard, J. K. Bayesian estimation of gene constraint from an evolutionary model with gene features. _Nat. Genet._ **56**, 1632–1643 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhsFWhsbvN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38977852)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bayesian%20estimation%20of%20gene%20constraint%20from%20an%20evolutionary%20model%20with%20gene%20features&journal=Nat.%20Genet.&volume=56&pages=1632-1643&publication_year=2024&author=Zeng%2CT&author=Spence%2CJP&author=Mostafavi%2CH&author=Pritchard%2CJK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38977852)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bayesian%20estimation%20of%20gene%20constraint%20from%20an%20evolutionary%20model%20with%20gene%20features&journal=Nat.%20Genet.&volume=56&pages=1632-1643&publication_year=2024&author=Zeng%2CT&author=Spence%2CJP&author=Mostafavi%2CH&author=Pritchard%2CJK) 
     
 41.  Lu, Z. et al. Multi-ancestry fine-mapping improves precision to identify causal genes in transcriptome-wide association studies. _Am. J. Hum. Genet._ **109**, 1388–1404 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitVGns7fK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35931050)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9388396)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-ancestry%20fine-mapping%20improves%20precision%20to%20identify%20causal%20genes%20in%20transcriptome-wide%20association%20studies&journal=Am.%20J.%20Hum.%20Genet.&volume=109&pages=1388-1404&publication_year=2022&author=Lu%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35931050)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9388396)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-ancestry%20fine-mapping%20improves%20precision%20to%20identify%20causal%20genes%20in%20transcriptome-wide%20association%20studies&journal=Am.%20J.%20Hum.%20Genet.&volume=109&pages=1388-1404&publication_year=2022&author=Lu%2CZ) 
     
 42.  Tapia, A. L. et al. A large-scale transcriptome-wide association study (TWAS) of 10 blood cell phenotypes reveals complexities of TWAS fine-mapping. _Genet. Epidemiol._ **46**, 3–16 (2022).
     
@@ -270,61 +270,61 @@ References
     
 43.  Wen, J. et al. Transcriptome-wide association study of blood cell traits in African ancestry and Hispanic/Latino populations. _Genes_ **12**, 1049 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitlWjsLbK)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34356065)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8307403)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome-wide%20association%20study%20of%20blood%20cell%20traits%20in%20African%20ancestry%20and%20Hispanic%2FLatino%20populations&journal=Genes&volume=12&publication_year=2021&author=Wen%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34356065)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8307403)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome-wide%20association%20study%20of%20blood%20cell%20traits%20in%20African%20ancestry%20and%20Hispanic%2FLatino%20populations&journal=Genes&volume=12&publication_year=2021&author=Wen%2CJ) 
     
 44.  Rowland, B. et al. Transcriptome-wide association study in UK Biobank Europeans identifies associations with blood cell traits. _Hum. Mol. Genet._ **31**, 2333–2347 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitFWjsLvN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35138379)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307312)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome-wide%20association%20study%20in%20UK%20Biobank%20Europeans%20identifies%20associations%20with%20blood%20cell%20traits&journal=Hum.%20Mol.%20Genet.&volume=31&pages=2333-2347&publication_year=2022&author=Rowland%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35138379)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307312)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome-wide%20association%20study%20in%20UK%20Biobank%20Europeans%20identifies%20associations%20with%20blood%20cell%20traits&journal=Hum.%20Mol.%20Genet.&volume=31&pages=2333-2347&publication_year=2022&author=Rowland%2CB) 
     
 45.  Chen, M.-H. et al. Trans-ethnic and ancestry-specific blood-cell genetics in 746,667 individuals from 5 global populations. _Cell_ **182**, 1198–1213.e14 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsl2itbbM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32888493)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480402)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trans-ethnic%20and%20ancestry-specific%20blood-cell%20genetics%20in%20746%2C667%20individuals%20from%205%20global%20populations&journal=Cell&volume=182&pages=1198-1213.e14&publication_year=2020&author=Chen%2CM-H) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32888493)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480402)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trans-ethnic%20and%20ancestry-specific%20blood-cell%20genetics%20in%20746%2C667%20individuals%20from%205%20global%20populations&journal=Cell&volume=182&pages=1198-1213.e14&publication_year=2020&author=Chen%2CM-H) 
     
 46.  Ding, Y. et al. Polygenic scoring accuracy varies across the genetic ancestry continuum. _Nature_ **618**, 774–781 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtVejsbzJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37198491)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10284707)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Polygenic%20scoring%20accuracy%20varies%20across%20the%20genetic%20ancestry%20continuum&journal=Nature&volume=618&pages=774-781&publication_year=2023&author=Ding%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37198491)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10284707)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Polygenic%20scoring%20accuracy%20varies%20across%20the%20genetic%20ancestry%20continuum&journal=Nature&volume=618&pages=774-781&publication_year=2023&author=Ding%2CY) 
     
 47.  Mester, R. et al. Impact of cross-ancestry genetic architecture on GWASs in admixed populations. _Am. J. Hum. Genet._ **110**, 927–939 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtVKgsb7O)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37224807)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257009)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20cross-ancestry%20genetic%20architecture%20on%20GWASs%20in%20admixed%20populations&journal=Am.%20J.%20Hum.%20Genet.&volume=110&pages=927-939&publication_year=2023&author=Mester%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37224807)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257009)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20cross-ancestry%20genetic%20architecture%20on%20GWASs%20in%20admixed%20populations&journal=Am.%20J.%20Hum.%20Genet.&volume=110&pages=927-939&publication_year=2023&author=Mester%2CR) 
     
 48.  Zhang, J. & Stram, D. O. The role of local ancestry adjustment in association studies using admixed populations. _Genet. Epidemiol._ **38**, 502–515 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhs12ktb3F)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25043967)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079159)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20role%20of%20local%20ancestry%20adjustment%20in%20association%20studies%20using%20admixed%20populations&journal=Genet.%20Epidemiol.&volume=38&pages=502-515&publication_year=2014&author=Zhang%2CJ&author=Stram%2CDO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25043967)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079159)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20role%20of%20local%20ancestry%20adjustment%20in%20association%20studies%20using%20admixed%20populations&journal=Genet.%20Epidemiol.&volume=38&pages=502-515&publication_year=2014&author=Zhang%2CJ&author=Stram%2CDO) 
     
 49.  Wang, L. et al. Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes. _Nat. Commun._ **15**, 4260 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXitlyiu7jO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38769300)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11519974)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20single%20cell%20expression%20quantitative%20trait%20loci%20summary%20statistics%20to%20understand%20complex%20trait%20risk%20genes&journal=Nat.%20Commun.&volume=15&publication_year=2024&author=Wang%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38769300)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11519974)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20single%20cell%20expression%20quantitative%20trait%20loci%20summary%20statistics%20to%20understand%20complex%20trait%20risk%20genes&journal=Nat.%20Commun.&volume=15&publication_year=2024&author=Wang%2CL) 
     
 50.  Bhattacharya, A. et al. Best practices for multi-ancestry, meta-analytic transcriptome-wide association studies: lessons from the Global Biobank Meta-analysis Initiative. _Cell Genom._ **2**, 100180 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xis1eit73L)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36341024)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631681)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Best%20practices%20for%20multi-ancestry%2C%20meta-analytic%20transcriptome-wide%20association%20studies%3A%20lessons%20from%20the%20Global%20Biobank%20Meta-analysis%20Initiative&journal=Cell%20Genom.&volume=2&publication_year=2022&author=Bhattacharya%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36341024)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631681)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Best%20practices%20for%20multi-ancestry%2C%20meta-analytic%20transcriptome-wide%20association%20studies%3A%20lessons%20from%20the%20Global%20Biobank%20Meta-analysis%20Initiative&journal=Cell%20Genom.&volume=2&publication_year=2022&author=Bhattacharya%2CA) 
     
 51.  Wainberg, M. et al. Opportunities and challenges for transcriptome-wide association studies. _Nat. Genet._ **51**, 592–599 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXoslGlt7w%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30926968)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6777347)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Opportunities%20and%20challenges%20for%20transcriptome-wide%20association%20studies&journal=Nat.%20Genet.&volume=51&pages=592-599&publication_year=2019&author=Wainberg%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30926968)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6777347)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Opportunities%20and%20challenges%20for%20transcriptome-wide%20association%20studies&journal=Nat.%20Genet.&volume=51&pages=592-599&publication_year=2019&author=Wainberg%2CM) 
     
 52.  Mancuso, N. et al. Probabilistic fine-mapping of transcriptome-wide association studies. _Nat. Genet._ **51**, 675–682 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXoslGlt7g%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30926970)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6619422)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Probabilistic%20fine-mapping%20of%20transcriptome-wide%20association%20studies&journal=Nat.%20Genet.&volume=51&pages=675-682&publication_year=2019&author=Mancuso%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30926970)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6619422)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Probabilistic%20fine-mapping%20of%20transcriptome-wide%20association%20studies&journal=Nat.%20Genet.&volume=51&pages=675-682&publication_year=2019&author=Mancuso%2CN) 
     
 53.  Blei, D. M., Kucukelbir, A. & McAuliffe, J. D. Variational inference: a review for statisticians. _J. Am. Stat. Assoc._ **112**, 859–877 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFKrtrzM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Variational%20inference%3A%20a%20review%20for%20statisticians&journal=J.%20Am.%20Stat.%20Assoc.&volume=112&pages=859-877&publication_year=2017&author=Blei%2CDM&author=Kucukelbir%2CA&author=McAuliffe%2CJD) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Variational%20inference%3A%20a%20review%20for%20statisticians&journal=J.%20Am.%20Stat.%20Assoc.&volume=112&pages=859-877&publication_year=2017&author=Blei%2CDM&author=Kucukelbir%2CA&author=McAuliffe%2CJD) 
     
 54.  Blei, D. M., Ng, A. Y. & Jordan, M. I. Latent Dirichlet Allocation. In _Advances in Neural Information Processing Systems_ Vol. 14, 601–608 (MIT Press, 2002).
     
 55.  Frankish, A. et al. GENCODE reference annotation for the human and mouse genomes. _Nucleic Acids Res._ **47**, D766–D773 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhs1Clu7rM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30357393)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GENCODE%20reference%20annotation%20for%20the%20human%20and%20mouse%20genomes&journal=Nucleic%20Acids%20Res.&volume=47&pages=D766-D773&publication_year=2019&author=Frankish%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30357393)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GENCODE%20reference%20annotation%20for%20the%20human%20and%20mouse%20genomes&journal=Nucleic%20Acids%20Res.&volume=47&pages=D766-D773&publication_year=2019&author=Frankish%2CA) 
     
 56.  Frankish, A. et al. GENCODE 2021. _Nucleic Acids Res._ **49**, D916–D923 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXntlejtbY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33270111)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GENCODE%202021&journal=Nucleic%20Acids%20Res.&volume=49&pages=D916-D923&publication_year=2021&author=Frankish%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33270111)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GENCODE%202021&journal=Nucleic%20Acids%20Res.&volume=49&pages=D916-D923&publication_year=2021&author=Frankish%2CA) 
     
 57.  Purcell, S. et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. _Am. J. Hum. Genet._ **81**, 559–575 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtVSqurrL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet.&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet.&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
     
 58.  Chang, C. C. et al. Second-generation PLINK: rising to the challenge of larger and richer datasets. _GigaScience_ **4**, 7 (2015).
     
@@ -336,15 +336,15 @@ References
     
 60.  Danecek, P. et al. The variant call format and VCFtools. _Bioinformatics_ **27**, 2156–2158 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXptFCqt7w%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
     
 61.  Finucane, H. K. et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. _Nat. Genet._ **47**, 1228–1235 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhsFKqu7rF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26414678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626285)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Partitioning%20heritability%20by%20functional%20annotation%20using%20genome-wide%20association%20summary%20statistics&journal=Nat.%20Genet.&volume=47&pages=1228-1235&publication_year=2015&author=Finucane%2CHK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26414678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626285)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Partitioning%20heritability%20by%20functional%20annotation%20using%20genome-wide%20association%20summary%20statistics&journal=Nat.%20Genet.&volume=47&pages=1228-1235&publication_year=2015&author=Finucane%2CHK) 
     
 62.  Hujoel, M. L. A., Gazal, S., Hormozdiari, F., van de Geijn, B. & Price, A. L. Disease heritability enrichment of regulatory elements is concentrated in elements with ancient sequence age and conserved function across species. _Am. J. Hum. Genet._ **104**, 611–624 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXlvVWhsLo%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30905396)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6451699)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Disease%20heritability%20enrichment%20of%20regulatory%20elements%20is%20concentrated%20in%20elements%20with%20ancient%20sequence%20age%20and%20conserved%20function%20across%20species&journal=Am.%20J.%20Hum.%20Genet.&volume=104&pages=611-624&publication_year=2019&author=Hujoel%2CMLA&author=Gazal%2CS&author=Hormozdiari%2CF&author=Geijn%2CB&author=Price%2CAL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30905396)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6451699)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Disease%20heritability%20enrichment%20of%20regulatory%20elements%20is%20concentrated%20in%20elements%20with%20ancient%20sequence%20age%20and%20conserved%20function%20across%20species&journal=Am.%20J.%20Hum.%20Genet.&volume=104&pages=611-624&publication_year=2019&author=Hujoel%2CMLA&author=Gazal%2CS&author=Hormozdiari%2CF&author=Geijn%2CB&author=Price%2CAL) 
     
 63.  Wen, X. Molecular QTL discovery incorporating genomic annotations using Bayesian false discovery rate control. _Ann. Appl. Stat._ **10**, 1619–1638 (2016).
     
@@ -352,29 +352,29 @@ References
     
 64.  Liu, Z. et al. Annotation Query (AnnoQ): an integrated and interactive platform for large-scale genetic variant annotation. _Nucleic Acids Res._ **50**, W57–W65 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXpslWitLg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35640593)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252745)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Annotation%20Query%20%28AnnoQ%29%3A%20an%20integrated%20and%20interactive%20platform%20for%20large-scale%20genetic%20variant%20annotation&journal=Nucleic%20Acids%20Res.&volume=50&pages=W57-W65&publication_year=2022&author=Liu%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35640593)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252745)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Annotation%20Query%20%28AnnoQ%29%3A%20an%20integrated%20and%20interactive%20platform%20for%20large-scale%20genetic%20variant%20annotation&journal=Nucleic%20Acids%20Res.&volume=50&pages=W57-W65&publication_year=2022&author=Liu%2CZ) 
     
 65.  Li, D. et al. WashU Epigenome Browser update 2022. _Nucleic Acids Res._ **50**, W774–W781 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXptlKjs7k%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35412637)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252771)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=WashU%20Epigenome%20Browser%20update%202022&journal=Nucleic%20Acids%20Res.&volume=50&pages=W774-W781&publication_year=2022&author=Li%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35412637)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252771)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=WashU%20Epigenome%20Browser%20update%202022&journal=Nucleic%20Acids%20Res.&volume=50&pages=W774-W781&publication_year=2022&author=Li%2CD) 
     
 66.  Kramer, N. E. et al. Plotgardener: cultivating precise multi-panel figures in R. _Bioinformatics_ **38**, 2042–2045 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhtFygs7jM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35134826)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963281)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plotgardener%3A%20cultivating%20precise%20multi-panel%20figures%20in%20R&journal=Bioinformatics&volume=38&pages=2042-2045&publication_year=2022&author=Kramer%2CNE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35134826)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8963281)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plotgardener%3A%20cultivating%20precise%20multi-panel%20figures%20in%20R&journal=Bioinformatics&volume=38&pages=2042-2045&publication_year=2022&author=Kramer%2CNE) 
     
 67.  Hudson, R. R., Slatkin, M. & Maddison, W. P. Estimation of levels of gene flow from DNA sequence data. _Genetics_ **132**, 583–589 (1992).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK3sXhsVSku7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=1427045)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205159)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimation%20of%20levels%20of%20gene%20flow%20from%20DNA%20sequence%20data&journal=Genetics&volume=132&pages=583-589&publication_year=1992&author=Hudson%2CRR&author=Slatkin%2CM&author=Maddison%2CWP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=1427045)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205159)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimation%20of%20levels%20of%20gene%20flow%20from%20DNA%20sequence%20data&journal=Genetics&volume=132&pages=583-589&publication_year=1992&author=Hudson%2CRR&author=Slatkin%2CM&author=Maddison%2CWP) 
     
 68.  Bhatia, G., Patterson, N., Sankararaman, S. & Price, A. L. Estimating and interpreting FST: the impact of rare variants. _Genome Res._ **23**, 1514–1521 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhsVOls7fN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23861382)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3759727)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20and%20interpreting%20FST%3A%20the%20impact%20of%20rare%20variants&journal=Genome%20Res.&volume=23&pages=1514-1521&publication_year=2013&author=Bhatia%2CG&author=Patterson%2CN&author=Sankararaman%2CS&author=Price%2CAL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23861382)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3759727)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20and%20interpreting%20FST%3A%20the%20impact%20of%20rare%20variants&journal=Genome%20Res.&volume=23&pages=1514-1521&publication_year=2013&author=Bhatia%2CG&author=Patterson%2CN&author=Sankararaman%2CS&author=Price%2CAL) 
     
 69.  Lu, Z. et al. Improved multi-ancestry fine-mapping identifies _cis_\-regulatory variants underlying molecular traits and disease risk. _Zenodo_ [https://doi.org/10.5281/zenodo.10963033](https://doi.org/10.5281/zenodo.10963033) (2025).
     
 70.  Zeng, T., Spence, J. P., Mostafavi, H. & Pritchard, J. K.and found highly significantraint from an evolutionary model with gene features. _Nat. Genet._ **56**, 1632–1643 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhsFWhsbvN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38977852)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=K.and%20found%20highly%20significantraint%20from%20an%20evolutionary%20model%20with%20gene%20features&journal=Nat.%20Genet.&volume=56&pages=1632-1643&publication_year=2024&author=Zeng%2CT&author=Spence%2CJP&author=Mostafavi%2CH&author=Pritchard%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38977852)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=K.and%20found%20highly%20significantraint%20from%20an%20evolutionary%20model%20with%20gene%20features&journal=Nat.%20Genet.&volume=56&pages=1632-1643&publication_year=2024&author=Zeng%2CT&author=Spence%2CJP&author=Mostafavi%2CH&author=Pritchard%2CJ) 
     
 
 [Download references](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02262-7?format=refman&flavour=references)
@@ -559,7 +559,7 @@ About this article
 
 ### Cite this article
 
-Lu, Z., Wang, X., Carr, M. _et al._ Improved multiancestry fine-mapping identifies _cis_\-regulatory variants underlying molecular traits and disease risk. _Nat Genet_ (2025). https://doi.org/10.1038/s41588-025-02262-7
+Lu, Z., Wang, X., Carr, M. _et al._ Improved multiancestry fine-mapping identifies _cis_\-regulatory variants underlying molecular traits and disease risk. _Nat Genet_ **57**, 1881–1889 (2025). https://doi.org/10.1038/s41588-025-02262-7
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02262-7?format=refman&flavour=citation)
 
@@ -568,6 +568,8 @@ Lu, Z., Wang, X., Carr, M. _et al._ Improved multiancestry fine-mapping identifi
 -   Accepted: 09 June 2025
     
 -   Published: 21 July 2025
+    
+-   Issue Date: August 2025
     
 -   DOI: https://doi.org/10.1038/s41588-025-02262-7
     

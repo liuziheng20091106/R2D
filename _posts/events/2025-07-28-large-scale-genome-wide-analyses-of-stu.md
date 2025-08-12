@@ -291,7 +291,7 @@ References
     
 5.  Yairi, E. & Ambrose, N. A longitudinal study of stuttering in children: a preliminary report. _J. Speech Hear. Res._ **35**, 755–760 (1992).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaK3s%2Fit1Gqtg%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=1405530)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20longitudinal%20study%20of%20stuttering%20in%20children%3A%20a%20preliminary%20report&journal=J.%20Speech%20Hear.%20Res.&volume=35&pages=755-760&publication_year=1992&author=Yairi%2CE&author=Ambrose%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=1405530)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20longitudinal%20study%20of%20stuttering%20in%20children%3A%20a%20preliminary%20report&journal=J.%20Speech%20Hear.%20Res.&volume=35&pages=755-760&publication_year=1992&author=Yairi%2CE&author=Ambrose%2CN) 
     
 6.  Baxter, S. et al. The state of the art in non‐pharmacological interventions for developmental stuttering. Part 1: a systematic review of effectiveness. _Int. J. Lang. Commun. Disord._ **50**, 676–718 (2015).
     
@@ -335,11 +335,11 @@ References
     
 16.  Riaz, N. et al. Genomewide significant linkage to stuttering on chromosome 12. _Am. J. Hum. Genet._ **76**, 647–651 (2005).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXisleisLs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15714404)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1199301)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomewide%20significant%20linkage%20to%20stuttering%20on%20chromosome%2012&journal=Am.%20J.%20Hum.%20Genet.&volume=76&pages=647-651&publication_year=2005&author=Riaz%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15714404)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1199301)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomewide%20significant%20linkage%20to%20stuttering%20on%20chromosome%2012&journal=Am.%20J.%20Hum.%20Genet.&volume=76&pages=647-651&publication_year=2005&author=Riaz%2CN) 
     
 17.  Suresh, R. et al. New complexities in the genetics of stuttering: significant sex-specific linkage signals. _Am. J. Hum. Genet._ **78**, 554–563 (2006).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD28Xjt1GlsLg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16532387)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1424690)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=New%20complexities%20in%20the%20genetics%20of%20stuttering%3A%20significant%20sex-specific%20linkage%20signals&journal=Am.%20J.%20Hum.%20Genet.&volume=78&pages=554-563&publication_year=2006&author=Suresh%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16532387)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1424690)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=New%20complexities%20in%20the%20genetics%20of%20stuttering%3A%20significant%20sex-specific%20linkage%20signals&journal=Am.%20J.%20Hum.%20Genet.&volume=78&pages=554-563&publication_year=2006&author=Suresh%2CR) 
     
 18.  Wittke-Thompson, J. K. et al. Genetic studies of stuttering in a founder population. _J. Fluen. Disord._ **32**, 33–50 (2007).
     
@@ -347,15 +347,15 @@ References
     
 19.  Kang, C. et al. Mutations in the lysosomal enzyme-targeting pathway and persistent stuttering. _N. Engl. J. Med._ **362**, 677–685 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXisFOqsr0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20147709)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936507)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mutations%20in%20the%20lysosomal%20enzyme-targeting%20pathway%20and%20persistent%20stuttering&journal=N.%20Engl.%20J.%20Med.&volume=362&pages=677-685&publication_year=2010&author=Kang%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20147709)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936507)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mutations%20in%20the%20lysosomal%20enzyme-targeting%20pathway%20and%20persistent%20stuttering&journal=N.%20Engl.%20J.%20Med.&volume=362&pages=677-685&publication_year=2010&author=Kang%2CC) 
     
 20.  Lan, J. et al. Association between dopaminergic genes (_SLC6A3_ and _DRD2_) and stuttering among Han Chinese. _J. Hum. Genet._ **54**, 457–460 (2009).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXht1ansrzJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19590515)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20between%20dopaminergic%20genes%20%28SLC6A3%20and%20DRD2%29%20and%20stuttering%20among%20Han%20Chinese&journal=J.%20Hum.%20Genet.&volume=54&pages=457-460&publication_year=2009&author=Lan%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19590515)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20between%20dopaminergic%20genes%20%28SLC6A3%20and%20DRD2%29%20and%20stuttering%20among%20Han%20Chinese&journal=J.%20Hum.%20Genet.&volume=54&pages=457-460&publication_year=2009&author=Lan%2CJ) 
     
 21.  Domingues, C. E. F. et al. A genetic linkage study in Brazil identifies a new locus for persistent developmental stuttering on chromosome 10. _Genet. Mol. Res._ **13**, 2094–2101 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhsVSlu77F)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24737434)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genetic%20linkage%20study%20in%20Brazil%20identifies%20a%20new%20locus%20for%20persistent%20developmental%20stuttering%20on%20chromosome%2010&journal=Genet.%20Mol.%20Res.&volume=13&pages=2094-2101&publication_year=2014&author=Domingues%2CCEF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24737434)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genetic%20linkage%20study%20in%20Brazil%20identifies%20a%20new%20locus%20for%20persistent%20developmental%20stuttering%20on%20chromosome%2010&journal=Genet.%20Mol.%20Res.&volume=13&pages=2094-2101&publication_year=2014&author=Domingues%2CCEF) 
     
 22.  Mohammadi, H. et al. Sex steroid hormones and sex hormone binding globulin levels, CYP17 MSP AI (−34 T:C) and CYP19 codon 39 (Trp:Arg) variants in children with developmental stuttering. _Brain Lang._ **175**, 47–56 (2017).
     
@@ -367,7 +367,7 @@ References
     
 24.  Raza, M. H. et al. Association between rare variants in AP4E1, a component of intracellular trafficking, and persistent stuttering. _Am. J. Hum. Genet._ **97**, 715–725 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhsleksbfI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26544806)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667129)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20between%20rare%20variants%20in%20AP4E1%2C%20a%20component%20of%20intracellular%20trafficking%2C%20and%20persistent%20stuttering&journal=Am.%20J.%20Hum.%20Genet.&volume=97&pages=715-725&publication_year=2015&author=Raza%2CMH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26544806)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667129)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20between%20rare%20variants%20in%20AP4E1%2C%20a%20component%20of%20intracellular%20trafficking%2C%20and%20persistent%20stuttering&journal=Am.%20J.%20Hum.%20Genet.&volume=97&pages=715-725&publication_year=2015&author=Raza%2CMH) 
     
 25.  van Beijsterveldt, C. E. M., Felsenfeld, S. & Boomsma, D. I. Bivariate genetic analyses of stuttering and nonfluency in a large sample of 5-year-old twins. _J. Speech Lang. Hear. Res._ **53**, 609–619 (2010).
     
@@ -379,11 +379,11 @@ References
     
 27.  Kazemi, N., Estiar, M. A., Fazilaty, H. & Sakhinia, E. Variants in _GNPTAB_, _GNPTG_ and _NAGPA_ genes are associated with stutterers. _Gene_ **647**, 93–100 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXlvFehug%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29289611)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Variants%20in%20GNPTAB%2C%20GNPTG%20and%20NAGPA%20genes%20are%20associated%20with%20stutterers&journal=Gene&volume=647&pages=93-100&publication_year=2018&author=Kazemi%2CN&author=Estiar%2CMA&author=Fazilaty%2CH&author=Sakhinia%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29289611)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Variants%20in%20GNPTAB%2C%20GNPTG%20and%20NAGPA%20genes%20are%20associated%20with%20stutterers&journal=Gene&volume=647&pages=93-100&publication_year=2018&author=Kazemi%2CN&author=Estiar%2CMA&author=Fazilaty%2CH&author=Sakhinia%2CE) 
     
 28.  Kang, C. et al. Evaluation of the association between polymorphisms at the _DRD2_ locus and stuttering. _J. Hum. Genet._ **56**, 472–473 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXnvFOktrg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21390039)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474249)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20the%20association%20between%20polymorphisms%20at%20the%20DRD2%20locus%20and%20stuttering&journal=J.%20Hum.%20Genet.&volume=56&pages=472-473&publication_year=2011&author=Kang%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21390039)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474249)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20the%20association%20between%20polymorphisms%20at%20the%20DRD2%20locus%20and%20stuttering&journal=J.%20Hum.%20Genet.&volume=56&pages=472-473&publication_year=2011&author=Kang%2CC) 
     
 29.  Frigerio Domingues, C. E. et al. Are variants in sex hormone metabolizing genes associated with stuttering? _Brain Lang._ **191**, 28–30 (2019).
     
@@ -395,7 +395,7 @@ References
     
 31.  Shaw, D. M. et al. Phenome risk classification enables phenotypic imputation and gene discovery in developmental stuttering. _Am. J. Hum. Genet._ **108**, 2271–2283 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1KmtL7J)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34861174)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8715184)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phenome%20risk%20classification%20enables%20phenotypic%20imputation%20and%20gene%20discovery%20in%20developmental%20stuttering&journal=Am.%20J.%20Hum.%20Genet.&volume=108&pages=2271-2283&publication_year=2021&author=Shaw%2CDM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34861174)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8715184)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phenome%20risk%20classification%20enables%20phenotypic%20imputation%20and%20gene%20discovery%20in%20developmental%20stuttering&journal=Am.%20J.%20Hum.%20Genet.&volume=108&pages=2271-2283&publication_year=2021&author=Shaw%2CDM) 
     
 32.  Harris, K. M. et al. Cohort profile: the National Longitudinal Study of Adolescent to Adult Health (Add Health). _Int. J. Epidemiol._ **48**, 1415–1415k (2019).
     
@@ -405,15 +405,15 @@ References
     
 34.  Bulik-Sullivan, B. K. et al. LD Score regression distinguishes confounding from polygenicity in genome-wide association studies. _Nat. Genet._ **47**, 291–295 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhvFCntb8%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25642630)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4495769)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LD%20Score%20regression%20distinguishes%20confounding%20from%20polygenicity%20in%20genome-wide%20association%20studies&journal=Nat.%20Genet.&volume=47&pages=291-295&publication_year=2015&author=Bulik-Sullivan%2CBK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25642630)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4495769)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LD%20Score%20regression%20distinguishes%20confounding%20from%20polygenicity%20in%20genome-wide%20association%20studies&journal=Nat.%20Genet.&volume=47&pages=291-295&publication_year=2015&author=Bulik-Sullivan%2CBK) 
     
 35.  Bulik-Sullivan, B. et al. An atlas of genetic correlations across human diseases and traits. _Nat. Genet._ **47**, 1236–1241 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhsFKqu7vM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26414676)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797329)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20atlas%20of%20genetic%20correlations%20across%20human%20diseases%20and%20traits&journal=Nat.%20Genet.&volume=47&pages=1236-1241&publication_year=2015&author=Bulik-Sullivan%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26414676)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797329)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20atlas%20of%20genetic%20correlations%20across%20human%20diseases%20and%20traits&journal=Nat.%20Genet.&volume=47&pages=1236-1241&publication_year=2015&author=Bulik-Sullivan%2CB) 
     
 36.  Willer, C. J., Li, Y. & Abecasis, G. R. METAL: fast and efficient meta-analysis of genomewide association scans. _Bioinformatics_ **26**, 2190–2191 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtVGru73F)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20616382)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2922887)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=METAL%3A%20fast%20and%20efficient%20meta-analysis%20of%20genomewide%20association%20scans&journal=Bioinformatics&volume=26&pages=2190-2191&publication_year=2010&author=Willer%2CCJ&author=Li%2CY&author=Abecasis%2CGR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20616382)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2922887)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=METAL%3A%20fast%20and%20efficient%20meta-analysis%20of%20genomewide%20association%20scans&journal=Bioinformatics&volume=26&pages=2190-2191&publication_year=2010&author=Willer%2CCJ&author=Li%2CY&author=Abecasis%2CGR) 
     
 37.  Mägi, R. et al. Trans-ethnic meta-regression of genome-wide association studies accounting for ancestry increases power for discovery and improves fine-mapping resolution. _Hum. Mol. Genet._ **26**, 3639–3650 (2017).
     
@@ -421,13 +421,13 @@ References
     
 38.  Pirastu, N. et al. Genetic analyses identify widespread sex-differential participation bias. _Nat. Genet._ **53**, 663–671 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXpsVOgsbs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33888908)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7611642)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20analyses%20identify%20widespread%20sex-differential%20participation%20bias&journal=Nat.%20Genet.&volume=53&pages=663-671&publication_year=2021&author=Pirastu%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33888908)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7611642)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20analyses%20identify%20widespread%20sex-differential%20participation%20bias&journal=Nat.%20Genet.&volume=53&pages=663-671&publication_year=2021&author=Pirastu%2CN) 
     
 39.  The Neale Lab. _Insights from estimates of SNP-heritability for >2,000 traits and disorders in UK Biobank_. [http://www.nealelab.is/blog/2017/9/20/insights-from-estimates-of-snp-heritability-for-2000-traits-and-disorders-in-uk-biobank](http://www.nealelab.is/blog/2017/9/20/insights-from-estimates-of-snp-heritability-for-2000-traits-and-disorders-in-uk-biobank) (2017).
     
 40.  Finucane, H. K. et al. Heritability enrichment of specifically expressed genes identifies disease-relevant tissues and cell types. _Nat. Genet._ **50**, 621–629 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXnsVGrtr4%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29632380)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896795)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Heritability%20enrichment%20of%20specifically%20expressed%20genes%20identifies%20disease-relevant%20tissues%20and%20cell%20types&journal=Nat.%20Genet.&volume=50&pages=621-629&publication_year=2018&author=Finucane%2CHK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29632380)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896795)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Heritability%20enrichment%20of%20specifically%20expressed%20genes%20identifies%20disease-relevant%20tissues%20and%20cell%20types&journal=Nat.%20Genet.&volume=50&pages=621-629&publication_year=2018&author=Finucane%2CHK) 
     
 41.  Lu, C. et al. The neural substrates for atypical planning and execution of word production in stuttering. _Exp. Neurol._ **221**, 146–156 (2010).
     
@@ -579,19 +579,19 @@ References
     
 78.  Sanderson, E. et al. Mendelian randomization. _Nat. Rev. Methods Prim._ **2**, 6 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjsVCqtbY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mendelian%20randomization&journal=Nat.%20Rev.%20Methods%20Prim.&volume=2&publication_year=2022&author=Sanderson%2CE) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mendelian%20randomization&journal=Nat.%20Rev.%20Methods%20Prim.&volume=2&publication_year=2022&author=Sanderson%2CE) 
     
 79.  Mahajan, A. et al. Multi-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation. _Nat. Genet._ **54**, 560–572 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1ynsbvJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35551307)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9179018)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-ancestry%20genetic%20study%20of%20type%202%20diabetes%20highlights%20the%20power%20of%20diverse%20populations%20for%20discovery%20and%20translation&journal=Nat.%20Genet.&volume=54&pages=560-572&publication_year=2022&author=Mahajan%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35551307)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9179018)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-ancestry%20genetic%20study%20of%20type%202%20diabetes%20highlights%20the%20power%20of%20diverse%20populations%20for%20discovery%20and%20translation&journal=Nat.%20Genet.&volume=54&pages=560-572&publication_year=2022&author=Mahajan%2CA) 
     
 80.  Hautakangas, H. et al. Genome-wide analysis of 102,084 migraine cases identifies 123 risk loci and subtype-specific risk alleles. _Nat. Genet._ **54**, 152–160 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XislKnsLs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35115687)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8837554)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20analysis%20of%20102%2C084%20migraine%20cases%20identifies%20123%20risk%20loci%20and%20subtype-specific%20risk%20alleles&journal=Nat.%20Genet.&volume=54&pages=152-160&publication_year=2022&author=Hautakangas%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35115687)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8837554)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20analysis%20of%20102%2C084%20migraine%20cases%20identifies%20123%20risk%20loci%20and%20subtype-specific%20risk%20alleles&journal=Nat.%20Genet.&volume=54&pages=152-160&publication_year=2022&author=Hautakangas%2CH) 
     
 81.  Jansen, P. R. et al. Genome-wide analysis of insomnia in 1,331,010 individuals identifies new risk loci and functional pathways. _Nat. Genet._ **51**, 394–403 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXmsVyqs78%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30804565)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20analysis%20of%20insomnia%20in%201%2C331%2C010%20individuals%20identifies%20new%20risk%20loci%20and%20functional%20pathways&journal=Nat.%20Genet.&volume=51&pages=394-403&publication_year=2019&author=Jansen%2CPR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30804565)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20analysis%20of%20insomnia%20in%201%2C331%2C010%20individuals%20identifies%20new%20risk%20loci%20and%20functional%20pathways&journal=Nat.%20Genet.&volume=51&pages=394-403&publication_year=2019&author=Jansen%2CPR) 
     
 82.  Xue, A. et al. Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes. _Nat. Commun._ **9**, 2941 (2018).
     
@@ -603,15 +603,15 @@ References
     
 84.  Mountjoy, E. et al. An open approach to systematically prioritize causal variants and genes at all published human GWAS trait-associated loci. _Nat. Genet._ **53**, 1527–1533 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitlOlurbE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34711957)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7611956)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20open%20approach%20to%20systematically%20prioritize%20causal%20variants%20and%20genes%20at%20all%20published%20human%20GWAS%20trait-associated%20loci&journal=Nat.%20Genet.&volume=53&pages=1527-1533&publication_year=2021&author=Mountjoy%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34711957)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7611956)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20open%20approach%20to%20systematically%20prioritize%20causal%20variants%20and%20genes%20at%20all%20published%20human%20GWAS%20trait-associated%20loci&journal=Nat.%20Genet.&volume=53&pages=1527-1533&publication_year=2021&author=Mountjoy%2CE) 
     
 85.  Ghoussaini, M. et al. Open Targets Genetics: systematic identification of trait-associated genes using large-scale genetics and functional genomics. _Nucleic Acids Res._ **49**, D1311–D1320 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXisFOnsLnI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33045747)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Open%20Targets%20Genetics%3A%20systematic%20identification%20of%20trait-associated%20genes%20using%20large-scale%20genetics%20and%20functional%20genomics&journal=Nucleic%20Acids%20Res.&volume=49&pages=D1311-D1320&publication_year=2021&author=Ghoussaini%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33045747)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Open%20Targets%20Genetics%3A%20systematic%20identification%20of%20trait-associated%20genes%20using%20large-scale%20genetics%20and%20functional%20genomics&journal=Nucleic%20Acids%20Res.&volume=49&pages=D1311-D1320&publication_year=2021&author=Ghoussaini%2CM) 
     
 86.  Machiela, M. J. & Chanock, S. J. LDlink: a web-based application for exploring population-specific haplotype structure and linking correlated alleles of possible functional variants. _Bioinformatics_ **31**, 3555–3557 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsVersbfL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26139635)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626747)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LDlink%3A%20a%20web-based%20application%20for%20exploring%20population-specific%20haplotype%20structure%20and%20linking%20correlated%20alleles%20of%20possible%20functional%20variants&journal=Bioinformatics&volume=31&pages=3555-3557&publication_year=2015&author=Machiela%2CMJ&author=Chanock%2CSJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26139635)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626747)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LDlink%3A%20a%20web-based%20application%20for%20exploring%20population-specific%20haplotype%20structure%20and%20linking%20correlated%20alleles%20of%20possible%20functional%20variants&journal=Bioinformatics&volume=31&pages=3555-3557&publication_year=2015&author=Machiela%2CMJ&author=Chanock%2CSJ) 
     
 87.  Wingate, M. E. & Howell, P. Foundations of stuttering. _J. Acoust. Soc. Am._ **112**, 1229–1231 (2002).
     
@@ -623,7 +623,7 @@ References
     
 89.  Brady, J. P. Studies on the metronome effect on stuttering. _Behav. Res. Ther._ **7**, 197–204 (1969).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaF1M3osVCgsQ%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=5808691)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Studies%20on%20the%20metronome%20effect%20on%20stuttering&journal=Behav.%20Res.%20Ther.&volume=7&pages=197-204&publication_year=1969&author=Brady%2CJP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=5808691)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Studies%20on%20the%20metronome%20effect%20on%20stuttering&journal=Behav.%20Res.%20Ther.&volume=7&pages=197-204&publication_year=1969&author=Brady%2CJP) 
     
 90.  Hosseini, R., Walsh, B., Tian, F. & Wang, S. An fNIRS-based feature learning and classification framework to distinguish hemodynamic patterns in children who stutter. _IEEE Trans. Neural Syst. Rehabil. Eng._ **26**, 1254–1263 (2018).
     
@@ -645,7 +645,7 @@ References
     
 95.  Austin-Zimmerman, I. et al. Genome-wide association studies and cross-population meta-analyses investigating short and long sleep duration. _Nat. Commun._ **14**, 6059 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitVCkt77I)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37770476)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10539313)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20studies%20and%20cross-population%20meta-analyses%20investigating%20short%20and%20long%20sleep%20duration&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Austin-Zimmerman%2CI) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37770476)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10539313)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20studies%20and%20cross-population%20meta-analyses%20investigating%20short%20and%20long%20sleep%20duration&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Austin-Zimmerman%2CI) 
     
 96.  Schoeler, T. et al. Participation bias in the UK Biobank distorts genetic associations and downstream analyses. _Nat. Hum. Behav._ **7**, 1216–1227 (2023).
     
@@ -653,11 +653,11 @@ References
     
 97.  Kim, K. S., Daliri, A., Flanagan, J. R. & Max, L. Dissociated development of speech and limb sensorimotor learning in stuttering: Speech auditory-motor learning is impaired in both children and adults who stutter. _Neuroscience_ **451**, 1–21 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXit1Cqu73E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33091464)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dissociated%20development%20of%20speech%20and%20limb%20sensorimotor%20learning%20in%20stuttering%3A%20Speech%20auditory-motor%20learning%20is%20impaired%20in%20both%20children%20and%20adults%20who%20stutter&journal=Neuroscience&volume=451&pages=1-21&publication_year=2020&author=Kim%2CKS&author=Daliri%2CA&author=Flanagan%2CJR&author=Max%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33091464)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dissociated%20development%20of%20speech%20and%20limb%20sensorimotor%20learning%20in%20stuttering%3A%20Speech%20auditory-motor%20learning%20is%20impaired%20in%20both%20children%20and%20adults%20who%20stutter&journal=Neuroscience&volume=451&pages=1-21&publication_year=2020&author=Kim%2CKS&author=Daliri%2CA&author=Flanagan%2CJR&author=Max%2CL) 
     
 98.  Ardila, A. et al. An epidemiologic study of stuttering. _J. Commun. Disord._ **27**, 37–48 (1994).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaK2c3nsV2isQ%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8006205)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20epidemiologic%20study%20of%20stuttering&journal=J.%20Commun.%20Disord.&volume=27&pages=37-48&publication_year=1994&author=Ardila%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8006205)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20epidemiologic%20study%20of%20stuttering&journal=J.%20Commun.%20Disord.&volume=27&pages=37-48&publication_year=1994&author=Ardila%2CA) 
     
 99.  Corcoran, J. A. & Stewart, M. Stories of stuttering. _J. Fluen. Disord._ **23**, 247–264 (1998).
     
@@ -669,11 +669,11 @@ References
     
 101.  Cox, N. J. & Kidd, K. K. Can recovery from stuttering be considered a genetically milder subtype of stuttering? _Behav. Genet._ **13**, 129–139 (1983).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaL3s3jtVKisg%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6860250)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Can%20recovery%20from%20stuttering%20be%20considered%20a%20genetically%20milder%20subtype%20of%20stuttering%3F&journal=Behav.%20Genet.&volume=13&pages=129-139&publication_year=1983&author=Cox%2CNJ&author=Kidd%2CKK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6860250)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Can%20recovery%20from%20stuttering%20be%20considered%20a%20genetically%20milder%20subtype%20of%20stuttering%3F&journal=Behav.%20Genet.&volume=13&pages=129-139&publication_year=1983&author=Cox%2CNJ&author=Kidd%2CKK) 
     
 102.  Seider, R. A., Kidd, K. K. & Gladstien, K. L. Recovery and persistence of stuttering among relatives of stutterers. _J. Speech Hear. Disord._ **48**, 402–409 (1983).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaL2c%2Fms1WgsQ%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6645435)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Recovery%20and%20persistence%20of%20stuttering%20among%20relatives%20of%20stutterers&journal=J.%20Speech%20Hear.%20Disord.&volume=48&pages=402-409&publication_year=1983&author=Seider%2CRA&author=Kidd%2CKK&author=Gladstien%2CKL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6645435)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Recovery%20and%20persistence%20of%20stuttering%20among%20relatives%20of%20stutterers&journal=J.%20Speech%20Hear.%20Disord.&volume=48&pages=402-409&publication_year=1983&author=Seider%2CRA&author=Kidd%2CKK&author=Gladstien%2CKL) 
     
 103.  Ambrose, N. G., Yairi, E., Loucks, T. M., Seery, C. H. & Throneburg, R. Relation of motor, linguistic and temperament factors in epidemiologic subtypes of persistent and recovered stuttering: initial findings. _J. Fluen. Disord._ **45**, 12–26 (2015).
     
@@ -681,7 +681,7 @@ References
     
 104.  Yairi, E., Ambrose, N. & Cox, N. Genetics of stuttering: a critical review. _J. Speech Lang. Hear. Res._ **39**, 771–784 (1996).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaK2s%2FgtFGltw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetics%20of%20stuttering%3A%20a%20critical%20review&journal=J.%20Speech%20Lang.%20Hear.%20Res.&volume=39&pages=771-784&publication_year=1996&author=Yairi%2CE&author=Ambrose%2CN&author=Cox%2CN) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetics%20of%20stuttering%3A%20a%20critical%20review&journal=J.%20Speech%20Lang.%20Hear.%20Res.&volume=39&pages=771-784&publication_year=1996&author=Yairi%2CE&author=Ambrose%2CN&author=Cox%2CN) 
     
 105.  Yairi, E. Subtyping stuttering I: a review. _J. Fluen. Disord._ **32**, 165–196 (2007).
     
@@ -691,11 +691,11 @@ References
     
 107.  Theys, C., Van Wieringen, A., Sunaert, S., Thijs, V. & De Nil, L. F. A one year prospective study of neurogenic stuttering following stroke: incidence and co-occurring disorders. _J. Commun. Disord._ **44**, 678–687 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BC3Mbos1ektQ%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21807377)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20one%20year%20prospective%20study%20of%20neurogenic%20stuttering%20following%20stroke%3A%20incidence%20and%20co-occurring%20disorders&journal=J.%20Commun.%20Disord.&volume=44&pages=678-687&publication_year=2011&author=Theys%2CC&author=Wieringen%2CA&author=Sunaert%2CS&author=Thijs%2CV&author=Nil%2CLF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21807377)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20one%20year%20prospective%20study%20of%20neurogenic%20stuttering%20following%20stroke%3A%20incidence%20and%20co-occurring%20disorders&journal=J.%20Commun.%20Disord.&volume=44&pages=678-687&publication_year=2011&author=Theys%2CC&author=Wieringen%2CA&author=Sunaert%2CS&author=Thijs%2CV&author=Nil%2CLF) 
     
 108.  Wells, H. R. R. et al. GWAS identifies 44 independent associated genomic loci for self-reported adult hearing difficulty in UK Biobank. _Am. J. Hum. Genet._ **105**, 788–802 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvVylsb3O)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31564434)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6817556)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GWAS%20identifies%2044%20independent%20associated%20genomic%20loci%20for%20self-reported%20adult%20hearing%20difficulty%20in%20UK%20Biobank&journal=Am.%20J.%20Hum.%20Genet.&volume=105&pages=788-802&publication_year=2019&author=Wells%2CHRR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31564434)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6817556)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GWAS%20identifies%2044%20independent%20associated%20genomic%20loci%20for%20self-reported%20adult%20hearing%20difficulty%20in%20UK%20Biobank&journal=Am.%20J.%20Hum.%20Genet.&volume=105&pages=788-802&publication_year=2019&author=Wells%2CHRR) 
     
 109.  Skelton, M. et al. Self‐reported medication use as an alternate phenotyping method for anxiety and depression in the UK Biobank. _Am. J. Med. Genet. B Neuropsychiatr. Genet._ **186**, 389–398 (2021).
     
@@ -703,19 +703,19 @@ References
     
 110.  Hyde, C. L. et al. Identification of 15 genetic loci associated with risk of major depression in individuals of European descent. _Nat. Genet._ **48**, 1031–1036 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xht1KlsrrJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27479909)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706769)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%2015%20genetic%20loci%20associated%20with%20risk%20of%20major%20depression%20in%20individuals%20of%20European%20descent&journal=Nat.%20Genet.&volume=48&pages=1031-1036&publication_year=2016&author=Hyde%2CCL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27479909)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706769)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%2015%20genetic%20loci%20associated%20with%20risk%20of%20major%20depression%20in%20individuals%20of%20European%20descent&journal=Nat.%20Genet.&volume=48&pages=1031-1036&publication_year=2016&author=Hyde%2CCL) 
     
 111.  Purves, K. L. et al. A major role for common genetic variation in anxiety disorders. _Mol. Psychiatry_ **25**, 3292–3303 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitlWqtbvN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31748690)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20major%20role%20for%20common%20genetic%20variation%20in%20anxiety%20disorders&journal=Mol.%20Psychiatry&volume=25&pages=3292-3303&publication_year=2020&author=Purves%2CKL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31748690)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20major%20role%20for%20common%20genetic%20variation%20in%20anxiety%20disorders&journal=Mol.%20Psychiatry&volume=25&pages=3292-3303&publication_year=2020&author=Purves%2CKL) 
     
 112.  Risch, N. & Merikangas, K. The future of genetic studies of complex human diseases. _Science_ **273**, 1516–1517 (1996).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK28Xls1Wqs7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8801636)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20future%20of%20genetic%20studies%20of%20complex%20human%20diseases&journal=Science&volume=273&pages=1516-1517&publication_year=1996&author=Risch%2CN&author=Merikangas%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8801636)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20future%20of%20genetic%20studies%20of%20complex%20human%20diseases&journal=Science&volume=273&pages=1516-1517&publication_year=1996&author=Risch%2CN&author=Merikangas%2CK) 
     
 113.  Luo, Y. et al. Estimating heritability and its enrichment in tissue-specific gene sets in admixed populations. _Hum. Mol. Genet._ **30**, 1521–1534 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXisVCktr%2FP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33987664)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8330913)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20heritability%20and%20its%20enrichment%20in%20tissue-specific%20gene%20sets%20in%20admixed%20populations&journal=Hum.%20Mol.%20Genet.&volume=30&pages=1521-1534&publication_year=2021&author=Luo%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33987664)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8330913)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20heritability%20and%20its%20enrichment%20in%20tissue-specific%20gene%20sets%20in%20admixed%20populations&journal=Hum.%20Mol.%20Genet.&volume=30&pages=1521-1534&publication_year=2021&author=Luo%2CY) 
     
 114.  Clogg, C. C., Petkova, E. & Haritou, A. Statistical methods for comparing regression coefficients between models. _Am. J. Sociol._ **100**, 1261–1293 (1995).
     
@@ -723,7 +723,7 @@ References
     
 115.  Cahoy, J. D. et al. A transcriptome database for astrocytes, neurons, and oligodendrocytes: a new resource for understanding brain development and function. _J. Neurosci._ **28**, 264–278 (2008).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1cXmtV2ltw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18171944)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6671143)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20transcriptome%20database%20for%20astrocytes%2C%20neurons%2C%20and%20oligodendrocytes%3A%20a%20new%20resource%20for%20understanding%20brain%20development%20and%20function&journal=J.%20Neurosci.&volume=28&pages=264-278&publication_year=2008&author=Cahoy%2CJD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18171944)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6671143)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20transcriptome%20database%20for%20astrocytes%2C%20neurons%2C%20and%20oligodendrocytes%3A%20a%20new%20resource%20for%20understanding%20brain%20development%20and%20function&journal=J.%20Neurosci.&volume=28&pages=264-278&publication_year=2008&author=Cahoy%2CJD) 
     
 116.  GTEx Consortium. The Genotype-Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans. _Science_ **348**, 648–660 (2015).
     
@@ -743,7 +743,7 @@ References
     
 120.  Purcell, S. et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. _Am. J. Hum. Genet._ **81**, 559–575 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtVSqurrL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet.&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet.&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
     
 121.  Yavorska, O. O. & Burgess, S. MendelianRandomization: an R package for performing Mendelian randomization analyses using summarized data. _Int. J. Epidemiol._ **46**, 1734–1739 (2017).
     
@@ -755,7 +755,7 @@ References
     
 123.  Buniello, A. et al. The NHGRI-EBI GWAS catalog of published genome-wide association studies, targeted arrays and summary statistics 2019. _Nucleic Acids Res._ **47**, D1005–D1012 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhs1GqtrvO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30445434)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20NHGRI-EBI%20GWAS%20catalog%20of%20published%20genome-wide%20association%20studies%2C%20targeted%20arrays%20and%20summary%20statistics%202019&journal=Nucleic%20Acids%20Res.&volume=47&pages=D1005-D1012&publication_year=2019&author=Buniello%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30445434)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20NHGRI-EBI%20GWAS%20catalog%20of%20published%20genome-wide%20association%20studies%2C%20targeted%20arrays%20and%20summary%20statistics%202019&journal=Nucleic%20Acids%20Res.&volume=47&pages=D1005-D1012&publication_year=2019&author=Buniello%2CA) 
     
 124.  Gerring, Z. F., Gamazon, E. R. & Derks, E. M. A gene co-expression network-based analysis of multiple brain tissues reveals novel genes and molecular pathways underlying major depression. _PLoS Genet._ **15**, e1008245 (2019).
     
@@ -763,7 +763,7 @@ References
     
 125.  Pividori, M. et al. PhenomeXcan: mapping the genome to the phenome through the transcriptome. _Sci. Adv._ **6**, eaba2083 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXit1CmtLfI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32917697)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11206444)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PhenomeXcan%3A%20mapping%20the%20genome%20to%20the%20phenome%20through%20the%20transcriptome&journal=Sci.%20Adv.&volume=6&publication_year=2020&author=Pividori%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32917697)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11206444)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PhenomeXcan%3A%20mapping%20the%20genome%20to%20the%20phenome%20through%20the%20transcriptome&journal=Sci.%20Adv.&volume=6&publication_year=2020&author=Pividori%2CM) 
     
 126.  Wen, X., Pique-Regi, R. & Luca, F. Integrating molecular QTL data into genome-wide genetic association analysis: probabilistic assessment of enrichment and colocalization. _PLoS Genet._ **13**, e1006646 (2017).
     
@@ -775,7 +775,7 @@ References
     
 128.  Hukku, A., Sampson, M. G., Luca, F., Pique-Regi, R. & Wen, X. Analyzing and reconciling colocalization and transcriptome-wide association studies from the perspective of inferential reproducibility. _Am. J. Hum. Genet._ **109**, 825–837 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1WgtrrI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35523146)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9118134)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analyzing%20and%20reconciling%20colocalization%20and%20transcriptome-wide%20association%20studies%20from%20the%20perspective%20of%20inferential%20reproducibility&journal=Am.%20J.%20Hum.%20Genet.&volume=109&pages=825-837&publication_year=2022&author=Hukku%2CA&author=Sampson%2CMG&author=Luca%2CF&author=Pique-Regi%2CR&author=Wen%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35523146)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9118134)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analyzing%20and%20reconciling%20colocalization%20and%20transcriptome-wide%20association%20studies%20from%20the%20perspective%20of%20inferential%20reproducibility&journal=Am.%20J.%20Hum.%20Genet.&volume=109&pages=825-837&publication_year=2022&author=Hukku%2CA&author=Sampson%2CMG&author=Luca%2CF&author=Pique-Regi%2CR&author=Wen%2CX) 
     
 129.  Scartozzi, A. Concordance-analysis, version 1.0. _Zenodo_ [https://doi.org/10.5281/zenodo.14884575](https://doi.org/10.5281/zenodo.14884575) (2025).
     
@@ -1130,7 +1130,7 @@ About this article
 
 ### Cite this article
 
-Polikowsky, H.G., Scartozzi, A.C., Shaw, D.M. _et al._ Large-scale genome-wide analyses of stuttering. _Nat Genet_ (2025). https://doi.org/10.1038/s41588-025-02267-2
+Polikowsky, H.G., Scartozzi, A.C., Shaw, D.M. _et al._ Large-scale genome-wide analyses of stuttering. _Nat Genet_ **57**, 1835–1847 (2025). https://doi.org/10.1038/s41588-025-02267-2
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02267-2?format=refman&flavour=citation)
 
@@ -1139,6 +1139,8 @@ Polikowsky, H.G., Scartozzi, A.C., Shaw, D.M. _et al._ Large-scale genome-wide a
 -   Accepted: 16 June 2025
     
 -   Published: 28 July 2025
+    
+-   Issue Date: August 2025
     
 -   DOI: https://doi.org/10.1038/s41588-025-02267-2
     

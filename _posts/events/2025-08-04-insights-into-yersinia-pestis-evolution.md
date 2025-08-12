@@ -106,27 +106,27 @@ References
 
 1.  Sun, S., Ke, R., Hughes, D., Nilsson, M. & Andersson, D. I. Genome-wide detection of spontaneous chromosomal rearrangements in bacteria. _PLoS ONE_ **7**, e42639 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtFOls7zP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20detection%20of%20spontaneous%20chromosomal%20rearrangements%20in%20bacteria&journal=PLoS%20ONE&volume=7&publication_year=2012&author=Sun%2CS&author=Ke%2CR&author=Hughes%2CD&author=Nilsson%2CM&author=Andersson%2CDI) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22880062)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3411829)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20detection%20of%20spontaneous%20chromosomal%20rearrangements%20in%20bacteria&journal=PLoS%20ONE&volume=7&publication_year=2012&author=Sun%2CS&author=Ke%2CR&author=Hughes%2CD&author=Nilsson%2CM&author=Andersson%2CDI) 
     
 2.  Periwal, V. & Scaria, V. Insights into structural variations and genome rearrangements in prokaryotic genomes. _Bioinformatics_ **31**, 1–9 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXisFalsrw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Insights%20into%20structural%20variations%20and%20genome%20rearrangements%20in%20prokaryotic%20genomes&journal=Bioinformatics&volume=31&pages=1-9&publication_year=2015&author=Periwal%2CV&author=Scaria%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25189783)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Insights%20into%20structural%20variations%20and%20genome%20rearrangements%20in%20prokaryotic%20genomes&journal=Bioinformatics&volume=31&pages=1-9&publication_year=2015&author=Periwal%2CV&author=Scaria%2CV) 
     
 3.  Ho, S. S., Urban, A. E. & Mills, R. E. Structural variation in the sequencing era. _Nat. Rev. Genet._ **21**, 171–189 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitFOisr3N)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20variation%20in%20the%20sequencing%20era&journal=Nat.%20Rev.%20Genet.&volume=21&pages=171-189&publication_year=2020&author=Ho%2CSS&author=Urban%2CAE&author=Mills%2CRE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31729472)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20variation%20in%20the%20sequencing%20era&journal=Nat.%20Rev.%20Genet.&volume=21&pages=171-189&publication_year=2020&author=Ho%2CSS&author=Urban%2CAE&author=Mills%2CRE) 
     
 4.  Raeside, C. et al. Large chromosomal rearrangements during a long-term evolution experiment with _Escherichia coli_. _mBio_ **5**, e01377-14 (2014).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Large%20chromosomal%20rearrangements%20during%20a%20long-term%20evolution%20experiment%20with%20Escherichia%20coli&journal=mBio&volume=5&publication_year=2014&author=Raeside%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25205090)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4173774)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Large%20chromosomal%20rearrangements%20during%20a%20long-term%20evolution%20experiment%20with%20Escherichia%20coli&journal=mBio&volume=5&publication_year=2014&author=Raeside%2CC) 
     
 5.  Yebra, G. et al. Radical genome remodelling accompanied the emergence of a novel host-restricted bacterial pathogen. _PLoS Pathog._ **17**, e1009606 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXht1Gksr7F)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Radical%20genome%20remodelling%20accompanied%20the%20emergence%20of%20a%20novel%20host-restricted%20bacterial%20pathogen&journal=PLoS%20Pathog.&volume=17&publication_year=2021&author=Yebra%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34015034)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8171923)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Radical%20genome%20remodelling%20accompanied%20the%20emergence%20of%20a%20novel%20host-restricted%20bacterial%20pathogen&journal=PLoS%20Pathog.&volume=17&publication_year=2021&author=Yebra%2CG) 
     
 6.  Irvine, S. et al. Genomic and transcriptomic characterization of _Pseudomonas aeruginosa_ small colony variants derived from a chronic infection model. _Microb. Genom._ **5**, e000262 (2019).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20and%20transcriptomic%20characterization%20of%20Pseudomonas%20aeruginosa%20small%20colony%20variants%20derived%20from%20a%20chronic%20infection%20model&journal=Microb.%20Genom.&volume=5&publication_year=2019&author=Irvine%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30920365)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6521587)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20and%20transcriptomic%20characterization%20of%20Pseudomonas%20aeruginosa%20small%20colony%20variants%20derived%20from%20a%20chronic%20infection%20model&journal=Microb.%20Genom.&volume=5&publication_year=2019&author=Irvine%2CS) 
     
 7.  Le, V. V. H., León-Quezada, R. I., Biggs, P. J. & Rakonjac, J. A large chromosomal inversion affects antimicrobial sensitivity of _Escherichia coli_ to sodium deoxycholate. _Microbiology_ **168**, 001232 (2022).
     
@@ -134,227 +134,227 @@ References
     
 8.  Achtman, M. et al. _Yersinia pestis_, the cause of plague, is a recently emerged clone of _Yersinia pseudotuberculosis_. _Proc. Natl Acad. Sci. USA_ **96**, 14043–14048 (1999).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1MXns1Oqu7g%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%2C%20the%20cause%20of%20plague%2C%20is%20a%20recently%20emerged%20clone%20of%20Yersinia%20pseudotuberculosis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=96&pages=14043-14048&publication_year=1999&author=Achtman%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10570195)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC24187)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%2C%20the%20cause%20of%20plague%2C%20is%20a%20recently%20emerged%20clone%20of%20Yersinia%20pseudotuberculosis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=96&pages=14043-14048&publication_year=1999&author=Achtman%2CM) 
     
 9.  Yang, R. et al. _Yersinia pestis_ and plague: some knowns and unknowns. _Zoonoses_ **3**, 5 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXns12iurY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%20and%20plague%3A%20some%20knowns%20and%20unknowns.&journal=Zoonoses&volume=3&publication_year=2023&author=Yang%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37602146)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10438918)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%20and%20plague%3A%20some%20knowns%20and%20unknowns.&journal=Zoonoses&volume=3&publication_year=2023&author=Yang%2CR) 
     
 10.  Morelli, G. et al. _Yersinia pestis_ genome sequencing identifies patterns of global phylogenetic diversity. _Nat. Genet._ **42**, 1140–1143 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtlGrsL3O)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%20genome%20sequencing%20identifies%20patterns%20of%20global%20phylogenetic%20diversity&journal=Nat.%20Genet.&volume=42&pages=1140-1143&publication_year=2010&author=Morelli%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21037571)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999892)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%20genome%20sequencing%20identifies%20patterns%20of%20global%20phylogenetic%20diversity&journal=Nat.%20Genet.&volume=42&pages=1140-1143&publication_year=2010&author=Morelli%2CG) 
     
 11.  Cui, Y. et al. Historical variations in mutation rate in an epidemic pathogen, _Yersinia pestis_. _Proc. Natl Acad. Sci. USA_ **110**, 577–582 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhtFOhur4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Historical%20variations%20in%20mutation%20rate%20in%20an%20epidemic%20pathogen%2C%20Yersinia%20pestis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=110&pages=577-582&publication_year=2013&author=Cui%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23271803)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Historical%20variations%20in%20mutation%20rate%20in%20an%20epidemic%20pathogen%2C%20Yersinia%20pestis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=110&pages=577-582&publication_year=2013&author=Cui%2CY) 
     
 12.  Wu, Y. et al. Hotspots of genetic change in _Yersinia pestis_. _Nat. Commun._ **16**, 388 (2025).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXhtFals74%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hotspots%20of%20genetic%20change%20in%20Yersinia%20pestis&journal=Nat.%20Commun.&volume=16&publication_year=2025&author=Wu%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39755708)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11700214)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hotspots%20of%20genetic%20change%20in%20Yersinia%20pestis&journal=Nat.%20Commun.&volume=16&publication_year=2025&author=Wu%2CY) 
     
 13.  Wu, Y. et al. Small insertions and deletions drive genomic plasticity during adaptive evolution of _Yersinia pestis_. _Microbiol. Spectr._ **10**, e0224221 (2022).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Small%20insertions%20and%20deletions%20drive%20genomic%20plasticity%20during%20adaptive%20evolution%20of%20Yersinia%20pestis&journal=Microbiol.%20Spectr.&volume=10&publication_year=2022&author=Wu%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35438532)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Small%20insertions%20and%20deletions%20drive%20genomic%20plasticity%20during%20adaptive%20evolution%20of%20Yersinia%20pestis&journal=Microbiol.%20Spectr.&volume=10&publication_year=2022&author=Wu%2CY) 
     
 14.  Parkhill, J. et al. Genome sequence of _Yersinia pestis_, the causative agent of plague. _Nature_ **413**, 523–527 (2001).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3MXnsFygurc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20sequence%20of%20Yersinia%20pestis%2C%20the%20causative%20agent%20of%20plague&journal=Nature&volume=413&pages=523-527&publication_year=2001&author=Parkhill%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11586360)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20sequence%20of%20Yersinia%20pestis%2C%20the%20causative%20agent%20of%20plague&journal=Nature&volume=413&pages=523-527&publication_year=2001&author=Parkhill%2CJ) 
     
 15.  Liang, Y. et al. Genome rearrangements of completely sequenced strains of _Yersinia pestis_. _J. Clin. Microbiol._ **48**, 1619–1623 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXnt1Cgur0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20rearrangements%20of%20completely%20sequenced%20strains%20of%20Yersinia%20pestis&journal=J.%20Clin.%20Microbiol.&volume=48&pages=1619-1623&publication_year=2010&author=Liang%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20200297)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863931)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%20rearrangements%20of%20completely%20sequenced%20strains%20of%20Yersinia%20pestis&journal=J.%20Clin.%20Microbiol.&volume=48&pages=1619-1623&publication_year=2010&author=Liang%2CY) 
     
 16.  Darling, A. E., Miklós, I. & Ragan, M. A. Dynamics of genome rearrangement in bacterial populations. _PLoS Genet._ **4**, e1000128 (2008).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dynamics%20of%20genome%20rearrangement%20in%20bacterial%20populations&journal=PLoS%20Genet.&volume=4&publication_year=2008&author=Darling%2CAE&author=Mikl%C3%B3s%2CI&author=Ragan%2CMA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18650965)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2483231)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dynamics%20of%20genome%20rearrangement%20in%20bacterial%20populations&journal=PLoS%20Genet.&volume=4&publication_year=2008&author=Darling%2CAE&author=Mikl%C3%B3s%2CI&author=Ragan%2CMA) 
     
 17.  Li, Y. et al. Different region analysis for genotyping _Yersinia pestis_ isolates from China. _PLoS ONE_ **3**, e2166 (2008).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Different%20region%20analysis%20for%20genotyping%20Yersinia%20pestis%20isolates%20from%20China&journal=PLoS%20ONE&volume=3&publication_year=2008&author=Li%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18478120)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2367435)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Different%20region%20analysis%20for%20genotyping%20Yersinia%20pestis%20isolates%20from%20China&journal=PLoS%20ONE&volume=3&publication_year=2008&author=Li%2CY) 
     
 18.  Anisimov, A. P., Lindler, L. E. & Pier, G. B. Intraspecific diversity of _Yersinia pestis_. _Clin. Microbiol. Rev._ **17**, 434–464 (2004).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2cXktl2isro%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intraspecific%20diversity%20of%20Yersinia%20pestis&journal=Clin.%20Microbiol.%20Rev.&volume=17&pages=434-464&publication_year=2004&author=Anisimov%2CAP&author=Lindler%2CLE&author=Pier%2CGB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15084509)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC387406)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intraspecific%20diversity%20of%20Yersinia%20pestis&journal=Clin.%20Microbiol.%20Rev.&volume=17&pages=434-464&publication_year=2004&author=Anisimov%2CAP&author=Lindler%2CLE&author=Pier%2CGB) 
     
 19.  Li, Y. et al. The GntR-like transcriptional regulator HutC involved in motility, biofilm-forming ability, and virulence in _Vibrio parahaemolyticus_. _Micro. Pathog._ **167**, 105546 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1OmsLrL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20GntR-like%20transcriptional%20regulator%20HutC%20involved%20in%20motility%2C%20biofilm-forming%20ability%2C%20and%20virulence%20in%20Vibrio%20parahaemolyticus&journal=Micro.%20Pathog.&volume=167&publication_year=2022&author=Li%2CY) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20GntR-like%20transcriptional%20regulator%20HutC%20involved%20in%20motility%2C%20biofilm-forming%20ability%2C%20and%20virulence%20in%20Vibrio%20parahaemolyticus&journal=Micro.%20Pathog.&volume=167&publication_year=2022&author=Li%2CY) 
     
 20.  Koebnik, R., Hantke, K. & Braun, V. The TonB-dependent ferrichrome receptor FcuA of _Yersinia enterocolitica_: evidence against a strict co-evolution of receptor structure and substrate specificity. _Mol. Microbiol._ **7**, 383–393 (1993).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK3sXit1Kku7w%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20TonB-dependent%20ferrichrome%20receptor%20FcuA%20of%20Yersinia%20enterocolitica%3A%20evidence%20against%20a%20strict%20co-evolution%20of%20receptor%20structure%20and%20substrate%20specificity&journal=Mol.%20Microbiol.&volume=7&pages=383-393&publication_year=1993&author=Koebnik%2CR&author=Hantke%2CK&author=Braun%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8384682)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20TonB-dependent%20ferrichrome%20receptor%20FcuA%20of%20Yersinia%20enterocolitica%3A%20evidence%20against%20a%20strict%20co-evolution%20of%20receptor%20structure%20and%20substrate%20specificity&journal=Mol.%20Microbiol.&volume=7&pages=383-393&publication_year=1993&author=Koebnik%2CR&author=Hantke%2CK&author=Braun%2CV) 
     
 21.  Islam, M. M., Kim, K., Lee, J. C. & Shin, M. LeuO, a LysR-type transcriptional regulator, is involved in biofilm formation and virulence of _Acinetobacter baumannii_. _Front. Cell. Infect. Microbiol._ **11**, 738706 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XmslWktr8%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LeuO%2C%20a%20LysR-type%20transcriptional%20regulator%2C%20is%20involved%20in%20biofilm%20formation%20and%20virulence%20of%20Acinetobacter%20baumannii&journal=Front.%20Cell.%20Infect.%20Microbiol.&volume=11&publication_year=2021&author=Islam%2CMM&author=Kim%2CK&author=Lee%2CJC&author=Shin%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34708004)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8543017)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LeuO%2C%20a%20LysR-type%20transcriptional%20regulator%2C%20is%20involved%20in%20biofilm%20formation%20and%20virulence%20of%20Acinetobacter%20baumannii&journal=Front.%20Cell.%20Infect.%20Microbiol.&volume=11&publication_year=2021&author=Islam%2CMM&author=Kim%2CK&author=Lee%2CJC&author=Shin%2CM) 
     
 22.  Jiao, W. B. & Schneeberger, K. Chromosome-level assemblies of multiple _Arabidopsis_ genomes reveal hotspots of rearrangements with altered evolutionary dynamics. _Nat. Commun._ **11**, 989 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXlt1Shtrg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chromosome-level%20assemblies%20of%20multiple%20Arabidopsis%20genomes%20reveal%20hotspots%20of%20rearrangements%20with%20altered%20evolutionary%20dynamics&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Jiao%2CWB&author=Schneeberger%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32080174)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033125)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chromosome-level%20assemblies%20of%20multiple%20Arabidopsis%20genomes%20reveal%20hotspots%20of%20rearrangements%20with%20altered%20evolutionary%20dynamics&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Jiao%2CWB&author=Schneeberger%2CK) 
     
 23.  Crow, K. D., Wagner, G. P. & SMBE Tri-National Young Investigators Proceedings of the SMBE Tri-National Young Investigators’ Workshop 2005. What is the role of genome duplication in the evolution of complexity and diversity? _Mol. Biol. Evol._ **23**, 887–892 (2006).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD28XkvVeqtLY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Proceedings%20of%20the%20SMBE%20Tri-National%20Young%20Investigators%E2%80%99%20Workshop%202005.%20What%20is%20the%20role%20of%20genome%20duplication%20in%20the%20evolution%20of%20complexity%20and%20diversity%3F&journal=Mol.%20Biol.%20Evol.&volume=23&pages=887-892&publication_year=2006&author=Crow%2CKD&author=Wagner%2CGP&author=SMBE%20Tri-National%20Young%20Investigators%2C) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16368775)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Proceedings%20of%20the%20SMBE%20Tri-National%20Young%20Investigators%E2%80%99%20Workshop%202005.%20What%20is%20the%20role%20of%20genome%20duplication%20in%20the%20evolution%20of%20complexity%20and%20diversity%3F&journal=Mol.%20Biol.%20Evol.&volume=23&pages=887-892&publication_year=2006&author=Crow%2CKD&author=Wagner%2CGP&author=SMBE%20Tri-National%20Young%20Investigators%2C) 
     
 24.  Hawkey, J., Monk, J. M., Billman-Jacobe, H., Palsson, B. & Holt, K. E. Impact of insertion sequences on convergent evolution of _Shigella_ species. _PLoS Genet._ **16**, e1008931 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsVKhsLrE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20insertion%20sequences%20on%20convergent%20evolution%20of%20Shigella%20species&journal=PLoS%20Genet.&volume=16&publication_year=2020&author=Hawkey%2CJ&author=Monk%2CJM&author=Billman-Jacobe%2CH&author=Palsson%2CB&author=Holt%2CKE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32644999)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373316)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20insertion%20sequences%20on%20convergent%20evolution%20of%20Shigella%20species&journal=PLoS%20Genet.&volume=16&publication_year=2020&author=Hawkey%2CJ&author=Monk%2CJM&author=Billman-Jacobe%2CH&author=Palsson%2CB&author=Holt%2CKE) 
     
 25.  Tenaillon, O. et al. The molecular diversity of adaptive convergence. _Science_ **335**, 457–461 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtFajsbs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20molecular%20diversity%20of%20adaptive%20convergence&journal=Science&volume=335&pages=457-461&publication_year=2012&author=Tenaillon%2CO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22282810)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20molecular%20diversity%20of%20adaptive%20convergence&journal=Science&volume=335&pages=457-461&publication_year=2012&author=Tenaillon%2CO) 
     
 26.  Seferbekova, Z. et al. High rates of genome rearrangements and pathogenicity of _Shigella_ spp. _Front. Microbiol._ **12**, 628622 (2021).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High%20rates%20of%20genome%20rearrangements%20and%20pathogenicity%20of%20Shigella%20spp&journal=Front.%20Microbiol.&volume=12&publication_year=2021&author=Seferbekova%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33912145)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8072062)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High%20rates%20of%20genome%20rearrangements%20and%20pathogenicity%20of%20Shigella%20spp&journal=Front.%20Microbiol.&volume=12&publication_year=2021&author=Seferbekova%2CZ) 
     
 27.  Zabelkin, A., Yakovleva, Y., Bochkareva, O. & Alexeev, N. PaReBrick: PArallel REarrangements and BReaks identification toolkit. _Bioinformatics_ **38**, 357–363 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XmtlyjtLw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PaReBrick%3A%20PArallel%20REarrangements%20and%20BReaks%20identification%20toolkit&journal=Bioinformatics&volume=38&pages=357-363&publication_year=2022&author=Zabelkin%2CA&author=Yakovleva%2CY&author=Bochkareva%2CO&author=Alexeev%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34601581)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PaReBrick%3A%20PArallel%20REarrangements%20and%20BReaks%20identification%20toolkit&journal=Bioinformatics&volume=38&pages=357-363&publication_year=2022&author=Zabelkin%2CA&author=Yakovleva%2CY&author=Bochkareva%2CO&author=Alexeev%2CN) 
     
 28.  Régnier, P. & Portier, C. Initiation, attenuation and RNase III processing of transcripts from the _Escherichia coli_ operon encoding ribosomal protein S15 and polynucleotide phosphorylase. _J. Mol. Biol._ **187**, 23–32 (1986).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Initiation%2C%20attenuation%20and%20RNase%20III%20processing%20of%20transcripts%20from%20the%20Escherichia%20coli%20operon%20encoding%20ribosomal%20protein%20S15%20and%20polynucleotide%20phosphorylase&journal=J.%20Mol.%20Biol.&volume=187&pages=23-32&publication_year=1986&author=R%C3%A9gnier%2CP&author=Portier%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=3007765)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Initiation%2C%20attenuation%20and%20RNase%20III%20processing%20of%20transcripts%20from%20the%20Escherichia%20coli%20operon%20encoding%20ribosomal%20protein%20S15%20and%20polynucleotide%20phosphorylase&journal=J.%20Mol.%20Biol.&volume=187&pages=23-32&publication_year=1986&author=R%C3%A9gnier%2CP&author=Portier%2CC) 
     
 29.  Clarke, D. J. & Dowds, B. C. The gene coding for polynucleotide phosphorylase in _Photorhabdus_ sp. strain K122 is induced at low temperatures. _J. Bacteriol._ **176**, 3775–3784 (1994).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK2cXkslCqu7c%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20gene%20coding%20for%20polynucleotide%20phosphorylase%20in%20Photorhabdus%20sp.%20strain%20K122%20is%20induced%20at%20low%20temperatures&journal=J.%20Bacteriol.&volume=176&pages=3775-3784&publication_year=1994&author=Clarke%2CDJ&author=Dowds%2CBC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8206856)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC205567)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20gene%20coding%20for%20polynucleotide%20phosphorylase%20in%20Photorhabdus%20sp.%20strain%20K122%20is%20induced%20at%20low%20temperatures&journal=J.%20Bacteriol.&volume=176&pages=3775-3784&publication_year=1994&author=Clarke%2CDJ&author=Dowds%2CBC) 
     
 30.  Goverde, R. L., Huis in’t Veld, J. H., Kusters, J. G. & Mooi, F. R. The psychrotrophic bacterium _Yersinia enterocolitica_ requires expression of _pnp_, the gene for polynucleotide phosphorylase, for growth at low temperature (5 °C). _Mol. Microbiol._ **28**, 555–569 (1998).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1cXjtF2mtrw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20psychrotrophic%20bacterium%20Yersinia%20enterocolitica%20requires%20expression%20of%20pnp%2C%20the%20gene%20for%20polynucleotide%20phosphorylase%2C%20for%20growth%20at%20low%20temperature%20%285%E2%80%89%C2%B0C%29&journal=Mol.%20Microbiol.&volume=28&pages=555-569&publication_year=1998&author=Goverde%2CRL&author=Huis%20in%E2%80%99t%20Veld%2CJH&author=Kusters%2CJG&author=Mooi%2CFR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9632258)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20psychrotrophic%20bacterium%20Yersinia%20enterocolitica%20requires%20expression%20of%20pnp%2C%20the%20gene%20for%20polynucleotide%20phosphorylase%2C%20for%20growth%20at%20low%20temperature%20%285%E2%80%89%C2%B0C%29&journal=Mol.%20Microbiol.&volume=28&pages=555-569&publication_year=1998&author=Goverde%2CRL&author=Huis%20in%E2%80%99t%20Veld%2CJH&author=Kusters%2CJG&author=Mooi%2CFR) 
     
 31.  Bralley, P., Gatewood, M. L. & Jones, G. H. Transcription of the _rpsO_\-_pnp_ operon of _Streptomyces coelicolor_ involves four temporally regulated, stress responsive promoters. _Gene_ **536**, 177–185 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhvFOjtbzN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcription%20of%20the%20rpsO-pnp%20operon%20of%20Streptomyces%20coelicolor%20involves%20four%20temporally%20regulated%2C%20stress%20responsive%20promoters&journal=Gene&volume=536&pages=177-185&publication_year=2014&author=Bralley%2CP&author=Gatewood%2CML&author=Jones%2CGH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24211388)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcription%20of%20the%20rpsO-pnp%20operon%20of%20Streptomyces%20coelicolor%20involves%20four%20temporally%20regulated%2C%20stress%20responsive%20promoters&journal=Gene&volume=536&pages=177-185&publication_year=2014&author=Bralley%2CP&author=Gatewood%2CML&author=Jones%2CGH) 
     
 32.  Zhang, Q. et al. _Yersinia pestis_ biovar _Microtus_ strain 201, an avirulent strain to humans, provides protection against bubonic plague in rhesus macaques. _Hum. Vaccin. Immunother._ **10**, 368–377 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhsFCisr3J)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%20biovar%20Microtus%20strain%20201%2C%20an%20avirulent%20strain%20to%20humans%2C%20provides%20protection%20against%20bubonic%20plague%20in%20rhesus%20macaques&journal=Hum.%20Vaccin.%20Immunother.&volume=10&pages=368-377&publication_year=2014&author=Zhang%2CQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24225642)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Yersinia%20pestis%20biovar%20Microtus%20strain%20201%2C%20an%20avirulent%20strain%20to%20humans%2C%20provides%20protection%20against%20bubonic%20plague%20in%20rhesus%20macaques&journal=Hum.%20Vaccin.%20Immunother.&volume=10&pages=368-377&publication_year=2014&author=Zhang%2CQ) 
     
 33.  Song, Y. et al. Complete genome sequence of _Yersinia pestis_ strain 91001, an isolate avirulent to humans. _DNA Res._ **11**, 179–197 (2004).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2cXmtFGqsL0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Complete%20genome%20sequence%20of%20Yersinia%20pestis%20strain%2091001%2C%20an%20isolate%20avirulent%20to%20humans&journal=DNA%20Res.&volume=11&pages=179-197&publication_year=2004&author=Song%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15368893)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Complete%20genome%20sequence%20of%20Yersinia%20pestis%20strain%2091001%2C%20an%20isolate%20avirulent%20to%20humans&journal=DNA%20Res.&volume=11&pages=179-197&publication_year=2004&author=Song%2CY) 
     
 34.  Ellis, M. J., Trussler, R. S., Charles, O. & Haniford, D. B. A transposon-derived small RNA regulates gene expression in _Salmonella typhimurium_. _Nucleic Acids Res._ **45**, 5470–5486 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhsFemsrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20transposon-derived%20small%20RNA%20regulates%20gene%20expression%20in%20Salmonella%20typhimurium&journal=Nucleic%20Acids%20Res.&volume=45&pages=5470-5486&publication_year=2017&author=Ellis%2CMJ&author=Trussler%2CRS&author=Charles%2CO&author=Haniford%2CDB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28335027)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435999)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20transposon-derived%20small%20RNA%20regulates%20gene%20expression%20in%20Salmonella%20typhimurium&journal=Nucleic%20Acids%20Res.&volume=45&pages=5470-5486&publication_year=2017&author=Ellis%2CMJ&author=Trussler%2CRS&author=Charles%2CO&author=Haniford%2CDB) 
     
 35.  Ellis, M. J., Trussler, R. S. & Haniford, D. B. A _cis_\-encoded sRNA, Hfq and mRNA secondary structure act independently to suppress IS_200_ transposition. _Nucleic Acids Res._ **43**, 6511–6527 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhs1Ols7%2FE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20cis-encoded%20sRNA%2C%20Hfq%20and%20mRNA%20secondary%20structure%20act%20independently%20to%20suppress%20IS200%20transposition&journal=Nucleic%20Acids%20Res.&volume=43&pages=6511-6527&publication_year=2015&author=Ellis%2CMJ&author=Trussler%2CRS&author=Haniford%2CDB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26044710)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4513863)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20cis-encoded%20sRNA%2C%20Hfq%20and%20mRNA%20secondary%20structure%20act%20independently%20to%20suppress%20IS200%20transposition&journal=Nucleic%20Acids%20Res.&volume=43&pages=6511-6527&publication_year=2015&author=Ellis%2CMJ&author=Trussler%2CRS&author=Haniford%2CDB) 
     
 36.  Hu, F., Lin, Y. & Tang, J. MLGO: phylogeny reconstruction and ancestral inference from gene-order data. _BMC Bioinformatics_ **15**, 354 (2014).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MLGO%3A%20phylogeny%20reconstruction%20and%20ancestral%20inference%20from%20gene-order%20data&journal=BMC%20Bioinformatics&volume=15&publication_year=2014&author=Hu%2CF&author=Lin%2CY&author=Tang%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25376663)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4236499)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MLGO%3A%20phylogeny%20reconstruction%20and%20ancestral%20inference%20from%20gene-order%20data&journal=BMC%20Bioinformatics&volume=15&publication_year=2014&author=Hu%2CF&author=Lin%2CY&author=Tang%2CJ) 
     
 37.  Drillon, G., Champeimont, R., Oteri, F., Fischer, G. & Carbone, A. Phylogenetic reconstruction based on synteny block and gene adjacencies. _Mol. Biol. Evol._ **37**, 2747–2762 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXis1egu7rF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phylogenetic%20reconstruction%20based%20on%20synteny%20block%20and%20gene%20adjacencies&journal=Mol.%20Biol.%20Evol.&volume=37&pages=2747-2762&publication_year=2020&author=Drillon%2CG&author=Champeimont%2CR&author=Oteri%2CF&author=Fischer%2CG&author=Carbone%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32384156)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7475045)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phylogenetic%20reconstruction%20based%20on%20synteny%20block%20and%20gene%20adjacencies&journal=Mol.%20Biol.%20Evol.&volume=37&pages=2747-2762&publication_year=2020&author=Drillon%2CG&author=Champeimont%2CR&author=Oteri%2CF&author=Fischer%2CG&author=Carbone%2CA) 
     
 38.  Bohnenkämper, L., Braga, M. D. V., Doerr, D. & Stoye, J. Computing the rearrangement distance of natural genomes. _J. Comput. Biol._ **28**, 410–431 (2021).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Computing%20the%20rearrangement%20distance%20of%20natural%20genomes&journal=J.%20Comput.%20Biol.&volume=28&pages=410-431&publication_year=2021&author=Bohnenk%C3%A4mper%2CL&author=Braga%2CMDV&author=Doerr%2CD&author=Stoye%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33393848)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8082732)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Computing%20the%20rearrangement%20distance%20of%20natural%20genomes&journal=J.%20Comput.%20Biol.&volume=28&pages=410-431&publication_year=2021&author=Bohnenk%C3%A4mper%2CL&author=Braga%2CMDV&author=Doerr%2CD&author=Stoye%2CJ) 
     
 39.  Bolger, A. M., Lohse, M. & Usadel, B. Trimmomatic: a flexible trimmer for Illumina sequence data. _Bioinformatics_ **30**, 2114–2120 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXht1Sqt7nP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trimmomatic%3A%20a%20flexible%20trimmer%20for%20Illumina%20sequence%20data&journal=Bioinformatics&volume=30&pages=2114-2120&publication_year=2014&author=Bolger%2CAM&author=Lohse%2CM&author=Usadel%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24695404)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103590)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trimmomatic%3A%20a%20flexible%20trimmer%20for%20Illumina%20sequence%20data&journal=Bioinformatics&volume=30&pages=2114-2120&publication_year=2014&author=Bolger%2CAM&author=Lohse%2CM&author=Usadel%2CB) 
     
 40.  Wick, R. R., Judd, L. M., Gorrie, C. L. & Holt, K. E. Unicycler: resolving bacterial genome assemblies from short and long sequencing reads. _PLoS Comput. Biol._ **13**, e1005595 (2017).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unicycler%3A%20resolving%20bacterial%20genome%20assemblies%20from%20short%20and%20long%20sequencing%20reads&journal=PLoS%20Comput.%20Biol.&volume=13&publication_year=2017&author=Wick%2CRR&author=Judd%2CLM&author=Gorrie%2CCL&author=Holt%2CKE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28594827)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5481147)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unicycler%3A%20resolving%20bacterial%20genome%20assemblies%20from%20short%20and%20long%20sequencing%20reads&journal=PLoS%20Comput.%20Biol.&volume=13&publication_year=2017&author=Wick%2CRR&author=Judd%2CLM&author=Gorrie%2CCL&author=Holt%2CKE) 
     
 41.  Koren, S. et al. Canu: scalable and accurate long-read assembly via adaptive _k_\-mer weighting and repeat separation. _Genome Res._ **27**, 722–736 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFyjsrvI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Canu%3A%20scalable%20and%20accurate%20long-read%20assembly%20via%20adaptive%20k-mer%20weighting%20and%20repeat%20separation&journal=Genome%20Res.&volume=27&pages=722-736&publication_year=2017&author=Koren%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28298431)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5411767)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Canu%3A%20scalable%20and%20accurate%20long-read%20assembly%20via%20adaptive%20k-mer%20weighting%20and%20repeat%20separation&journal=Genome%20Res.&volume=27&pages=722-736&publication_year=2017&author=Koren%2CS) 
     
 42.  Kolmogorov, M., Yuan, J., Lin, Y. & Pevzner, P. A. Assembly of long, error-prone reads using repeat graphs. _Nat. Biotechnol._ **37**, 540–546 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXosV2qsrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assembly%20of%20long%2C%20error-prone%20reads%20using%20repeat%20graphs&journal=Nat.%20Biotechnol.&volume=37&pages=540-546&publication_year=2019&author=Kolmogorov%2CM&author=Yuan%2CJ&author=Lin%2CY&author=Pevzner%2CPA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30936562)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assembly%20of%20long%2C%20error-prone%20reads%20using%20repeat%20graphs&journal=Nat.%20Biotechnol.&volume=37&pages=540-546&publication_year=2019&author=Kolmogorov%2CM&author=Yuan%2CJ&author=Lin%2CY&author=Pevzner%2CPA) 
     
 43.  Hunt, M. et al. Circlator: automated circularization of genome assemblies using long sequencing reads. _Genome Biol._ **16**, 294 (2015).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Circlator%3A%20automated%20circularization%20of%20genome%20assemblies%20using%20long%20sequencing%20reads&journal=Genome%20Biol.&volume=16&publication_year=2015&author=Hunt%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26714481)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4699355)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Circlator%3A%20automated%20circularization%20of%20genome%20assemblies%20using%20long%20sequencing%20reads&journal=Genome%20Biol.&volume=16&publication_year=2015&author=Hunt%2CM) 
     
 44.  Parks, D. H., Imelfort, M., Skennerton, C. T., Hugenholtz, P. & Tyson, G. W. CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes. _Genome Res._ **25**, 1043–1055 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXht1SltbfE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=CheckM%3A%20assessing%20the%20quality%20of%20microbial%20genomes%20recovered%20from%20isolates%2C%20single%20cells%2C%20and%20metagenomes&journal=Genome%20Res.&volume=25&pages=1043-1055&publication_year=2015&author=Parks%2CDH&author=Imelfort%2CM&author=Skennerton%2CCT&author=Hugenholtz%2CP&author=Tyson%2CGW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25977477)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484387)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=CheckM%3A%20assessing%20the%20quality%20of%20microbial%20genomes%20recovered%20from%20isolates%2C%20single%20cells%2C%20and%20metagenomes&journal=Genome%20Res.&volume=25&pages=1043-1055&publication_year=2015&author=Parks%2CDH&author=Imelfort%2CM&author=Skennerton%2CCT&author=Hugenholtz%2CP&author=Tyson%2CGW) 
     
 45.  Kurtz, S. et al. Versatile and open software for comparing large genomes. _Genome Biol._ **5**, R12 (2004).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Versatile%20and%20open%20software%20for%20comparing%20large%20genomes&journal=Genome%20Biol.&volume=5&publication_year=2004&author=Kurtz%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14759262)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC395750)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Versatile%20and%20open%20software%20for%20comparing%20large%20genomes&journal=Genome%20Biol.&volume=5&publication_year=2004&author=Kurtz%2CS) 
     
 46.  Benson, G. Tandem repeats finder: a program to analyze DNA sequences. _Nucleic Acids Res._ **27**, 573–580 (1999).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1MXhtVKmtrg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tandem%20repeats%20finder%3A%20a%20program%20to%20analyze%20DNA%20sequences&journal=Nucleic%20Acids%20Res.&volume=27&pages=573-580&publication_year=1999&author=Benson%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9862982)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC148217)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tandem%20repeats%20finder%3A%20a%20program%20to%20analyze%20DNA%20sequences&journal=Nucleic%20Acids%20Res.&volume=27&pages=573-580&publication_year=1999&author=Benson%2CG) 
     
 47.  Li, H. Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM. Preprint at [https://arxiv.org/abs/1303.3997](https://arxiv.org/abs/1303.3997) (2013).
     
 48.  McKenna, A. et al. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. _Genome Res._ **20**, 1297–1303 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtFeru7jM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Genome%20Analysis%20Toolkit%3A%20a%20MapReduce%20framework%20for%20analyzing%20next-generation%20DNA%20sequencing%20data&journal=Genome%20Res.&volume=20&pages=1297-1303&publication_year=2010&author=McKenna%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20644199)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Genome%20Analysis%20Toolkit%3A%20a%20MapReduce%20framework%20for%20analyzing%20next-generation%20DNA%20sequencing%20data&journal=Genome%20Res.&volume=20&pages=1297-1303&publication_year=2010&author=McKenna%2CA) 
     
 49.  Nguyen, L.-T., Schmidt, H. A., von Haeseler, A. & Minh, B. Q. IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. _Mol. Biol. Evol._ **32**, 268–274 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXivFGltrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=IQ-TREE%3A%20a%20fast%20and%20effective%20stochastic%20algorithm%20for%20estimating%20maximum-likelihood%20phylogenies&journal=Mol.%20Biol.%20Evol.&volume=32&pages=268-274&publication_year=2015&author=Nguyen%2CL-T&author=Schmidt%2CHA&author=von%20Haeseler%2CA&author=Minh%2CBQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25371430)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=IQ-TREE%3A%20a%20fast%20and%20effective%20stochastic%20algorithm%20for%20estimating%20maximum-likelihood%20phylogenies&journal=Mol.%20Biol.%20Evol.&volume=32&pages=268-274&publication_year=2015&author=Nguyen%2CL-T&author=Schmidt%2CHA&author=von%20Haeseler%2CA&author=Minh%2CBQ) 
     
 50.  Hoang, D. T., Chernomor, O., von Haeseler, A., Minh, B. Q. & Vinh, L. S. UFBoot2: improving the ultrafast bootstrap approximation. _Mol. Biol. Evol._ **35**, 518–522 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXitlyjs7rK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=UFBoot2%3A%20improving%20the%20ultrafast%20bootstrap%20approximation&journal=Mol.%20Biol.%20Evol.&volume=35&pages=518-522&publication_year=2018&author=Hoang%2CDT&author=Chernomor%2CO&author=von%20Haeseler%2CA&author=Minh%2CBQ&author=Vinh%2CLS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29077904)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=UFBoot2%3A%20improving%20the%20ultrafast%20bootstrap%20approximation&journal=Mol.%20Biol.%20Evol.&volume=35&pages=518-522&publication_year=2018&author=Hoang%2CDT&author=Chernomor%2CO&author=von%20Haeseler%2CA&author=Minh%2CBQ&author=Vinh%2CLS) 
     
 51.  Letunic, I. & Bork, P. Interactive Tree of Life (iTOL) v6: recent updates to the phylogenetic tree display and annotation tool. _Nucleic Acids Res._ **52**, W78–W82 (2024).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20Tree%20of%20Life%20%28iTOL%29%20v6%3A%20recent%20updates%20to%20the%20phylogenetic%20tree%20display%20and%20annotation%20tool&journal=Nucleic%20Acids%20Res.&volume=52&pages=W78-W82&publication_year=2024&author=Letunic%2CI&author=Bork%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38613393)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11223838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20Tree%20of%20Life%20%28iTOL%29%20v6%3A%20recent%20updates%20to%20the%20phylogenetic%20tree%20display%20and%20annotation%20tool&journal=Nucleic%20Acids%20Res.&volume=52&pages=W78-W82&publication_year=2024&author=Letunic%2CI&author=Bork%2CP) 
     
 52.  Argimón, S. et al. Microreact: visualizing and sharing data for genomic epidemiology and phylogeography. _Microb. Genom._ **2**, e000093 (2016).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Microreact%3A%20visualizing%20and%20sharing%20data%20for%20genomic%20epidemiology%20and%20phylogeography&journal=Microb.%20Genom.&volume=2&publication_year=2016&author=Argim%C3%B3n%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28348833)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320705)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Microreact%3A%20visualizing%20and%20sharing%20data%20for%20genomic%20epidemiology%20and%20phylogeography&journal=Microb.%20Genom.&volume=2&publication_year=2016&author=Argim%C3%B3n%2CS) 
     
 53.  Popescu, A.-A., Huber, K. T. & Paradis, E. ape 3.0: new tools for distance-based phylogenetics and evolutionary analysis in R. _Bioinformatics_ **28**, 1536–1537 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38Xns1Slt70%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ape%203.0%3A%20new%20tools%20for%20distance-based%20phylogenetics%20and%20evolutionary%20analysis%20in%20R&journal=Bioinformatics&volume=28&pages=1536-1537&publication_year=2012&author=Popescu%2CA-A&author=Huber%2CKT&author=Paradis%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22495750)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ape%203.0%3A%20new%20tools%20for%20distance-based%20phylogenetics%20and%20evolutionary%20analysis%20in%20R&journal=Bioinformatics&volume=28&pages=1536-1537&publication_year=2012&author=Popescu%2CA-A&author=Huber%2CKT&author=Paradis%2CE) 
     
 54.  Wu, Y. WuYarong/YP\_Rearrangement\_Analysis: v1.0.0. _Zenodo_ [https://doi.org/10.5281/zenodo.15152926](https://doi.org/10.5281/zenodo.15152926) (2025).
     
 55.  Siguier, P., Perochon, J., Lestrade, L., Mahillon, J. & Chandler, M. ISfinder: the reference centre for bacterial insertion sequences. _Nucleic Acids Res._ **34**, D32–D36 (2006).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD28XisFOhug%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ISfinder%3A%20the%20reference%20centre%20for%20bacterial%20insertion%20sequences&journal=Nucleic%20Acids%20Res.&volume=34&pages=D32-D36&publication_year=2006&author=Siguier%2CP&author=Perochon%2CJ&author=Lestrade%2CL&author=Mahillon%2CJ&author=Chandler%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16381877)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ISfinder%3A%20the%20reference%20centre%20for%20bacterial%20insertion%20sequences&journal=Nucleic%20Acids%20Res.&volume=34&pages=D32-D36&publication_year=2006&author=Siguier%2CP&author=Perochon%2CJ&author=Lestrade%2CL&author=Mahillon%2CJ&author=Chandler%2CM) 
     
 56.  Minkin, I. & Medvedev, P. Scalable multiple whole-genome alignment and locally collinear block construction with SibeliaZ. _Nat. Commun._ **11**, 6327 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXis1Sht73K)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scalable%20multiple%20whole-genome%20alignment%20and%20locally%20collinear%20block%20construction%20with%20SibeliaZ&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Minkin%2CI&author=Medvedev%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33303762)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728760)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scalable%20multiple%20whole-genome%20alignment%20and%20locally%20collinear%20block%20construction%20with%20SibeliaZ&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Minkin%2CI&author=Medvedev%2CP) 
     
 57.  Seemann, T. Prokka: rapid prokaryotic genome annotation. _Bioinformatics_ **30**, 2068–2069 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhtFCrtLjI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prokka%3A%20rapid%20prokaryotic%20genome%20annotation&journal=Bioinformatics&volume=30&pages=2068-2069&publication_year=2014&author=Seemann%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24642063)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prokka%3A%20rapid%20prokaryotic%20genome%20annotation&journal=Bioinformatics&volume=30&pages=2068-2069&publication_year=2014&author=Seemann%2CT) 
     
 58.  Tonkin-Hill, G. et al. Producing polished prokaryotic pangenomes with the Panaroo pipeline. _Genome Biol._ **21**, 180 (2020).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Producing%20polished%20prokaryotic%20pangenomes%20with%20the%20Panaroo%20pipeline&journal=Genome%20Biol.&volume=21&publication_year=2020&author=Tonkin-Hill%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32698896)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376924)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Producing%20polished%20prokaryotic%20pangenomes%20with%20the%20Panaroo%20pipeline&journal=Genome%20Biol.&volume=21&publication_year=2020&author=Tonkin-Hill%2CG) 
     
 59.  Goel, M., Sun, H., Jiao, W.-B. & Schneeberger, K. SyRI: finding genomic rearrangements and local sequence differences from whole-genome assemblies. _Genome Biol._ **20**, 277 (2019).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=SyRI%3A%20finding%20genomic%20rearrangements%20and%20local%20sequence%20differences%20from%20whole-genome%20assemblies&journal=Genome%20Biol.&volume=20&publication_year=2019&author=Goel%2CM&author=Sun%2CH&author=Jiao%2CW-B&author=Schneeberger%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31842948)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913012)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=SyRI%3A%20finding%20genomic%20rearrangements%20and%20local%20sequence%20differences%20from%20whole-genome%20assemblies&journal=Genome%20Biol.&volume=20&publication_year=2019&author=Goel%2CM&author=Sun%2CH&author=Jiao%2CW-B&author=Schneeberger%2CK) 
     
 60.  Goel, M. & Schneeberger, K. plotsr: visualizing structural similarities and rearrangements between multiple genomes. _Bioinformatics_ **38**, 2922–2926 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xhslalur3L)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=plotsr%3A%20visualizing%20structural%20similarities%20and%20rearrangements%20between%20multiple%20genomes&journal=Bioinformatics&volume=38&pages=2922-2926&publication_year=2022&author=Goel%2CM&author=Schneeberger%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35561173)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9113368)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=plotsr%3A%20visualizing%20structural%20similarities%20and%20rearrangements%20between%20multiple%20genomes&journal=Bioinformatics&volume=38&pages=2922-2926&publication_year=2022&author=Goel%2CM&author=Schneeberger%2CK) 
     
 61.  Sedlazeck, F. J. et al. Accurate detection of complex structural variations using single-molecule sequencing. _Nat. Methods_ **15**, 461–468 (2018).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhtFOmtLrP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Accurate%20detection%20of%20complex%20structural%20variations%20using%20single-molecule%20sequencing&journal=Nat.%20Methods&volume=15&pages=461-468&publication_year=2018&author=Sedlazeck%2CFJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29713083)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990442)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Accurate%20detection%20of%20complex%20structural%20variations%20using%20single-molecule%20sequencing&journal=Nat.%20Methods&volume=15&pages=461-468&publication_year=2018&author=Sedlazeck%2CFJ) 
     
 62.  Anders, S., Pyl, P. T. & Huber, W. HTSeq—a Python framework to work with high-throughput sequencing data. _Bioinformatics_ **31**, 166–169 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xht1Sjt7vL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HTSeq%E2%80%94a%20Python%20framework%20to%20work%20with%20high-throughput%20sequencing%20data&journal=Bioinformatics&volume=31&pages=166-169&publication_year=2015&author=Anders%2CS&author=Pyl%2CPT&author=Huber%2CW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25260700)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HTSeq%E2%80%94a%20Python%20framework%20to%20work%20with%20high-throughput%20sequencing%20data&journal=Bioinformatics&volume=31&pages=166-169&publication_year=2015&author=Anders%2CS&author=Pyl%2CPT&author=Huber%2CW) 
     
 63.  Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. _Genome Biol._ **15**, 550 (2014).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Moderated%20estimation%20of%20fold%20change%20and%20dispersion%20for%20RNA-seq%20data%20with%20DESeq2&journal=Genome%20Biol.&volume=15&publication_year=2014&author=Love%2CMI&author=Huber%2CW&author=Anders%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25516281)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302049)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Moderated%20estimation%20of%20fold%20change%20and%20dispersion%20for%20RNA-seq%20data%20with%20DESeq2&journal=Genome%20Biol.&volume=15&publication_year=2014&author=Love%2CMI&author=Huber%2CW&author=Anders%2CS) 
     
 64.  Huerta-Cepas, J. et al. eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses. _Nucleic Acids Res._ **47**, D309–D314 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhs1Gqtr%2FL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=eggNOG%205.0%3A%20a%20hierarchical%2C%20functionally%20and%20phylogenetically%20annotated%20orthology%20resource%20based%20on%205090%20organisms%20and%202502%20viruses&journal=Nucleic%20Acids%20Res.&volume=47&pages=D309-D314&publication_year=2019&author=Huerta-Cepas%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30418610)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=eggNOG%205.0%3A%20a%20hierarchical%2C%20functionally%20and%20phylogenetically%20annotated%20orthology%20resource%20based%20on%205090%20organisms%20and%202502%20viruses&journal=Nucleic%20Acids%20Res.&volume=47&pages=D309-D314&publication_year=2019&author=Huerta-Cepas%2CJ) 
     
 
 [Download references](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02264-5?format=refman&flavour=references)
@@ -551,7 +551,7 @@ About this article
 
 ### Cite this article
 
-Wu, Y., Yang, C., Mu, K. _et al._ Insights into _Yersinia pestis_ evolution through rearrangement analysis of 242 complete genomes. _Nat Genet_ (2025). https://doi.org/10.1038/s41588-025-02264-5
+Wu, Y., Yang, C., Mu, K. _et al._ Insights into _Yersinia pestis_ evolution through rearrangement analysis of 242 complete genomes. _Nat Genet_ **57**, 1994–2003 (2025). https://doi.org/10.1038/s41588-025-02264-5
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02264-5?format=refman&flavour=citation)
 
@@ -560,6 +560,8 @@ Wu, Y., Yang, C., Mu, K. _et al._ Insights into _Yersinia pestis_ evolution thro
 -   Accepted: 11 June 2025
     
 -   Published: 04 August 2025
+    
+-   Issue Date: August 2025
     
 -   DOI: https://doi.org/10.1038/s41588-025-02264-5
     

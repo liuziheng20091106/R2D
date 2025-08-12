@@ -295,11 +295,11 @@ References
 
 1.  Shiina, T., Hosomichi, K., Inoko, H. & Kulski, J. K. The HLA genomic loci map: expression, interaction, diversity and disease. _J. Hum. Genet._ **54**, 15–39 (2009).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXjsVyksb8%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19158813)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20HLA%20genomic%20loci%20map%3A%20expression%2C%20interaction%2C%20diversity%20and%20disease&journal=J.%20Hum.%20Genet.&volume=54&pages=15-39&publication_year=2009&author=Shiina%2CT&author=Hosomichi%2CK&author=Inoko%2CH&author=Kulski%2CJK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19158813)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20HLA%20genomic%20loci%20map%3A%20expression%2C%20interaction%2C%20diversity%20and%20disease&journal=J.%20Hum.%20Genet.&volume=54&pages=15-39&publication_year=2009&author=Shiina%2CT&author=Hosomichi%2CK&author=Inoko%2CH&author=Kulski%2CJK) 
     
 2.  Pamer, E. & Cresswell, P. Mechanisms of MHC class I–restricted antigen processing. _Annu. Rev. Immunol._ **16**, 323–358 (1998).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1cXislyntrw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9597133)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mechanisms%20of%20MHC%20class%20I%E2%80%93restricted%20antigen%20processing&journal=Annu.%20Rev.%20Immunol.&volume=16&pages=323-358&publication_year=1998&author=Pamer%2CE&author=Cresswell%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9597133)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mechanisms%20of%20MHC%20class%20I%E2%80%93restricted%20antigen%20processing&journal=Annu.%20Rev.%20Immunol.&volume=16&pages=323-358&publication_year=1998&author=Pamer%2CE&author=Cresswell%2CP) 
     
 3.  Gutierrez-Arcelus, M., Rich, S. S. & Raychaudhuri, S. Autoimmune diseases – connecting risk alleles with molecular traits of the immune system. _Nat. Rev. Genet._ **17**, 160–174 (2016).
     
@@ -307,11 +307,11 @@ References
     
 4.  Parham, P. & Ohta, T. Population biology of antigen presentation by MHC class I molecules. _Science_ **272**, 67–74 (1996).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK28XitVKkt7o%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8600539)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Population%20biology%20of%20antigen%20presentation%20by%20MHC%20class%20I%20molecules&journal=Science&volume=272&pages=67-74&publication_year=1996&author=Parham%2CP&author=Ohta%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8600539)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Population%20biology%20of%20antigen%20presentation%20by%20MHC%20class%20I%20molecules&journal=Science&volume=272&pages=67-74&publication_year=1996&author=Parham%2CP&author=Ohta%2CT) 
     
 5.  Neefjes, J., Jongsma, M. L. M., Paul, P. & Bakke, O. Towards a systems understanding of MHC class I and MHC class II antigen presentation. _Nat. Rev. Immunol._ **11**, 823–836 (2011).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhsVCntLnF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22076556)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20a%20systems%20understanding%20of%20MHC%20class%20I%20and%20MHC%20class%20II%20antigen%20presentation&journal=Nat.%20Rev.%20Immunol.&volume=11&pages=823-836&publication_year=2011&author=Neefjes%2CJ&author=Jongsma%2CMLM&author=Paul%2CP&author=Bakke%2CO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22076556)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20a%20systems%20understanding%20of%20MHC%20class%20I%20and%20MHC%20class%20II%20antigen%20presentation&journal=Nat.%20Rev.%20Immunol.&volume=11&pages=823-836&publication_year=2011&author=Neefjes%2CJ&author=Jongsma%2CMLM&author=Paul%2CP&author=Bakke%2CO) 
     
 6.  Klatt, M. G. et al. Solving an MHC allele–specific bias in the reported immunopeptidome. _JCI Insight_ **5**, e141264 (2020).
     
@@ -319,7 +319,7 @@ References
     
 7.  Bassani-Sternberg, M. & Gfeller, D. Unsupervised HLA peptidome deconvolution improves ligand prediction accuracy and predicts cooperative effects in peptide-HLA interactions. _J. Immunol._ **197**, 2492–2499 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsVCqtr%2FI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27511729)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unsupervised%20HLA%20peptidome%20deconvolution%20improves%20ligand%20prediction%20accuracy%20and%20predicts%20cooperative%20effects%20in%20peptide-HLA%20interactions&journal=J.%20Immunol.&volume=197&pages=2492-2499&publication_year=2016&author=Bassani-Sternberg%2CM&author=Gfeller%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27511729)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unsupervised%20HLA%20peptidome%20deconvolution%20improves%20ligand%20prediction%20accuracy%20and%20predicts%20cooperative%20effects%20in%20peptide-HLA%20interactions&journal=J.%20Immunol.&volume=197&pages=2492-2499&publication_year=2016&author=Bassani-Sternberg%2CM&author=Gfeller%2CD) 
     
 8.  Pearson, H. et al. MHC class I-associated peptides derive from selective regions of the human genome. _J. Clin. Invest._ **126**, 4690–4701 (2016).
     
@@ -327,11 +327,11 @@ References
     
 9.  McCutcheon, J. A., Gumperz, J., Smith, K. D., Lutz, C. T. & Parham, P. Low HLA-C expression at cell surfaces correlates with increased turnover of heavy chain mRNA. _J. Exp. Med._ **181**, 2085–2095 (1995).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK2MXlvFSjtLg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=7760000)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Low%20HLA-C%20expression%20at%20cell%20surfaces%20correlates%20with%20increased%20turnover%20of%20heavy%20chain%20mRNA&journal=J.%20Exp.%20Med.&volume=181&pages=2085-2095&publication_year=1995&author=McCutcheon%2CJA&author=Gumperz%2CJ&author=Smith%2CKD&author=Lutz%2CCT&author=Parham%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=7760000)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Low%20HLA-C%20expression%20at%20cell%20surfaces%20correlates%20with%20increased%20turnover%20of%20heavy%20chain%20mRNA&journal=J.%20Exp.%20Med.&volume=181&pages=2085-2095&publication_year=1995&author=McCutcheon%2CJA&author=Gumperz%2CJ&author=Smith%2CKD&author=Lutz%2CCT&author=Parham%2CP) 
     
 10.  Jurtz, V. et al. NetMHCpan-4.0: improved peptide-MHC class I interaction predictions integrating eluted ligand and peptide binding affinity data. _J. Immunol._ **199**, 3360–3368 (2017).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhs12mt7nI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28978689)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=NetMHCpan-4.0%3A%20improved%20peptide-MHC%20class%20I%20interaction%20predictions%20integrating%20eluted%20ligand%20and%20peptide%20binding%20affinity%20data&journal=J.%20Immunol.&volume=199&pages=3360-3368&publication_year=2017&author=Jurtz%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28978689)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=NetMHCpan-4.0%3A%20improved%20peptide-MHC%20class%20I%20interaction%20predictions%20integrating%20eluted%20ligand%20and%20peptide%20binding%20affinity%20data&journal=J.%20Immunol.&volume=199&pages=3360-3368&publication_year=2017&author=Jurtz%2CV) 
     
 11.  Olivier, T., Haslam, A., Tuia, J. & Prasad, V. Eligibility for human leukocyte antigen-based therapeutics by race and ethnicity. _JAMA Netw. Open_ **6**, e2338612 (2023).
     
@@ -339,31 +339,31 @@ References
     
 12.  Schmittel, A., Keilholz, U. & Scheibenbogen, C. Evaluation of the interferon-γ ELISPOT-assay for quantification of peptide specific T lymphocytes from peripheral blood. _J. Immunol. Methods_ **210**, 167–174 (1997).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1cXht1Wnur8%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9520299)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20the%20interferon-%CE%B3%20ELISPOT-assay%20for%20quantification%20of%20peptide%20specific%20T%20lymphocytes%20from%20peripheral%20blood&journal=J.%20Immunol.%20Methods&volume=210&pages=167-174&publication_year=1997&author=Schmittel%2CA&author=Keilholz%2CU&author=Scheibenbogen%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9520299)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20the%20interferon-%CE%B3%20ELISPOT-assay%20for%20quantification%20of%20peptide%20specific%20T%20lymphocytes%20from%20peripheral%20blood&journal=J.%20Immunol.%20Methods&volume=210&pages=167-174&publication_year=1997&author=Schmittel%2CA&author=Keilholz%2CU&author=Scheibenbogen%2CC) 
     
 13.  Darwish, M. et al. High-throughput identification of conditional MHCI ligands and scaled-up production of conditional MHCI complexes. _Protein Sci._ **30**, 1169–1183 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXpsVSqsbg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33840137)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8138534)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-throughput%20identification%20of%20conditional%20MHCI%20ligands%20and%20scaled-up%20production%20of%20conditional%20MHCI%20complexes&journal=Protein%20Sci.&volume=30&pages=1169-1183&publication_year=2021&author=Darwish%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33840137)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8138534)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-throughput%20identification%20of%20conditional%20MHCI%20ligands%20and%20scaled-up%20production%20of%20conditional%20MHCI%20complexes&journal=Protein%20Sci.&volume=30&pages=1169-1183&publication_year=2021&author=Darwish%2CM) 
     
 14.  Haj, A. K. et al. High-throughput identification of MHC class I binding peptides using an ultradense peptide array. _J. Immunol._ **204**, 1689–1696 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXptFSgtbY%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32060132)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-throughput%20identification%20of%20MHC%20class%20I%20binding%20peptides%20using%20an%20ultradense%20peptide%20array&journal=J.%20Immunol.&volume=204&pages=1689-1696&publication_year=2020&author=Haj%2CAK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32060132)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-throughput%20identification%20of%20MHC%20class%20I%20binding%20peptides%20using%20an%20ultradense%20peptide%20array&journal=J.%20Immunol.&volume=204&pages=1689-1696&publication_year=2020&author=Haj%2CAK) 
     
 15.  Gurung, H. R. et al. Systematic discovery of neoepitope-HLA pairs for neoantigens shared among patients and tumor types. _Nat. Biotechnol._ **42**, 1107–1117 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitFOqsL%2FM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37857725)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20discovery%20of%20neoepitope-HLA%20pairs%20for%20neoantigens%20shared%20among%20patients%20and%20tumor%20types&journal=Nat.%20Biotechnol.&volume=42&pages=1107-1117&publication_year=2024&author=Gurung%2CHR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37857725)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20discovery%20of%20neoepitope-HLA%20pairs%20for%20neoantigens%20shared%20among%20patients%20and%20tumor%20types&journal=Nat.%20Biotechnol.&volume=42&pages=1107-1117&publication_year=2024&author=Gurung%2CHR) 
     
 16.  Bruno, P. M. et al. High-throughput, targeted MHC class I immunopeptidomics using a functional genetics screening platform. _Nat. Biotechnol._ **41**, 980–992 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitleqtw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36593401)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10314971)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-throughput%2C%20targeted%20MHC%20class%20I%20immunopeptidomics%20using%20a%20functional%20genetics%20screening%20platform&journal=Nat.%20Biotechnol.&volume=41&pages=980-992&publication_year=2023&author=Bruno%2CPM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36593401)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10314971)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-throughput%2C%20targeted%20MHC%20class%20I%20immunopeptidomics%20using%20a%20functional%20genetics%20screening%20platform&journal=Nat.%20Biotechnol.&volume=41&pages=980-992&publication_year=2023&author=Bruno%2CPM) 
     
 17.  Greten, T. F. et al. Peptide–β2-microglobulin–MHC fusion molecules bind antigen-specific T cells and can be used for multivalent MHC–Ig complexes. _J. Immunol. Methods_ **271**, 125–135 (2002).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD38Xoslansbs%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12445736)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Peptide%E2%80%93%CE%B22-microglobulin%E2%80%93MHC%20fusion%20molecules%20bind%20antigen-specific%20T%20cells%20and%20can%20be%20used%20for%20multivalent%20MHC%E2%80%93Ig%20complexes&journal=J.%20Immunol.%20Methods&volume=271&pages=125-135&publication_year=2002&author=Greten%2CTF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12445736)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Peptide%E2%80%93%CE%B22-microglobulin%E2%80%93MHC%20fusion%20molecules%20bind%20antigen-specific%20T%20cells%20and%20can%20be%20used%20for%20multivalent%20MHC%E2%80%93Ig%20complexes&journal=J.%20Immunol.%20Methods&volume=271&pages=125-135&publication_year=2002&author=Greten%2CTF) 
     
 18.  Yu, Y. Y. L., Netuschil, N., Lybarger, L., Connolly, J. M. & Hansen, T. H. Cutting Edge: Single-chain trimers of MHC class I molecules form stable structures that potently stimulate antigen-specific T cells and B cells. _J. Immunol._ **168**, 3145–3149 (2002).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD38Xis1ajs7k%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11907065)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cutting%20Edge%3A%20Single-chain%20trimers%20of%20MHC%20class%20I%20molecules%20form%20stable%20structures%20that%20potently%20stimulate%20antigen-specific%20T%20cells%20and%20B%20cells&journal=J.%20Immunol.&volume=168&pages=3145-3149&publication_year=2002&author=Yu%2CYYL&author=Netuschil%2CN&author=Lybarger%2CL&author=Connolly%2CJM&author=Hansen%2CTH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11907065)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cutting%20Edge%3A%20Single-chain%20trimers%20of%20MHC%20class%20I%20molecules%20form%20stable%20structures%20that%20potently%20stimulate%20antigen-specific%20T%20cells%20and%20B%20cells&journal=J.%20Immunol.&volume=168&pages=3145-3149&publication_year=2002&author=Yu%2CYYL&author=Netuschil%2CN&author=Lybarger%2CL&author=Connolly%2CJM&author=Hansen%2CTH) 
     
 19.  Chour, W. et al. Large libraries of single-chain trimer peptide-MHCs enable antigen-specific CD8+ T cell discovery and analysis. _Commun. Biol._ **6**, 1–13 (2023).
     
@@ -371,23 +371,23 @@ References
     
 20.  Finton, K. A. K. et al. Effects of HLA single chain trimer design on peptide presentation and stability. _Front. Immunol._ **14**, 1170462 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXht1eks7rJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37207206)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10189100)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20HLA%20single%20chain%20trimer%20design%20on%20peptide%20presentation%20and%20stability&journal=Front.%20Immunol.&volume=14&publication_year=2023&author=Finton%2CKAK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37207206)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10189100)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20HLA%20single%20chain%20trimer%20design%20on%20peptide%20presentation%20and%20stability&journal=Front.%20Immunol.&volume=14&publication_year=2023&author=Finton%2CKAK) 
     
 21.  Truscott, S. M. et al. Disulfide bond engineering to trap peptides in the MHC class I binding groove. _J. Immunol._ **178**, 6280–6289 (2007).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXksl2nuro%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17475856)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Disulfide%20bond%20engineering%20to%20trap%20peptides%20in%20the%20MHC%20class%20I%20binding%20groove&journal=J.%20Immunol.&volume=178&pages=6280-6289&publication_year=2007&author=Truscott%2CSM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17475856)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Disulfide%20bond%20engineering%20to%20trap%20peptides%20in%20the%20MHC%20class%20I%20binding%20groove&journal=J.%20Immunol.&volume=178&pages=6280-6289&publication_year=2007&author=Truscott%2CSM) 
     
 22.  Blum, J. S., Wearsch, P. A. & Cresswell, P. Pathways of antigen processing. _Annu. Rev. Immunol._ **31**, 443–473 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXnsFClsb0%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23298205)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4026165)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pathways%20of%20antigen%20processing&journal=Annu.%20Rev.%20Immunol.&volume=31&pages=443-473&publication_year=2013&author=Blum%2CJS&author=Wearsch%2CPA&author=Cresswell%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23298205)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4026165)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pathways%20of%20antigen%20processing&journal=Annu.%20Rev.%20Immunol.&volume=31&pages=443-473&publication_year=2013&author=Blum%2CJS&author=Wearsch%2CPA&author=Cresswell%2CP) 
     
 23.  Pishesha, N., Harmand, T. J. & Ploegh, H. L. A guide to antigen processing and presentation. _Nat. Rev. Immunol._ **22**, 751–764 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XpvV2iurc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35418563)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20guide%20to%20antigen%20processing%20and%20presentation&journal=Nat.%20Rev.%20Immunol.&volume=22&pages=751-764&publication_year=2022&author=Pishesha%2CN&author=Harmand%2CTJ&author=Ploegh%2CHL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35418563)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20guide%20to%20antigen%20processing%20and%20presentation&journal=Nat.%20Rev.%20Immunol.&volume=22&pages=751-764&publication_year=2022&author=Pishesha%2CN&author=Harmand%2CTJ&author=Ploegh%2CHL) 
     
 24.  Reynisson, B., Alvarez, B., Paul, S., Peters, B. & Nielsen, M. NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data. _Nucleic Acids Res._ **48**, W449–W454 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXis1entr7E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32406916)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319546)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=NetMHCpan-4.1%20and%20NetMHCIIpan-4.0%3A%20improved%20predictions%20of%20MHC%20antigen%20presentation%20by%20concurrent%20motif%20deconvolution%20and%20integration%20of%20MS%20MHC%20eluted%20ligand%20data&journal=Nucleic%20Acids%20Res.&volume=48&pages=W449-W454&publication_year=2020&author=Reynisson%2CB&author=Alvarez%2CB&author=Paul%2CS&author=Peters%2CB&author=Nielsen%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32406916)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319546)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=NetMHCpan-4.1%20and%20NetMHCIIpan-4.0%3A%20improved%20predictions%20of%20MHC%20antigen%20presentation%20by%20concurrent%20motif%20deconvolution%20and%20integration%20of%20MS%20MHC%20eluted%20ligand%20data&journal=Nucleic%20Acids%20Res.&volume=48&pages=W449-W454&publication_year=2020&author=Reynisson%2CB&author=Alvarez%2CB&author=Paul%2CS&author=Peters%2CB&author=Nielsen%2CM) 
     
 25.  As, S. et al. SARS-CoV-2 epitopes are recognized by a public and diverse repertoire of human T cell receptors. _Immunity_ **53**, 1245–1257 (2020).
     
@@ -395,35 +395,35 @@ References
     
 26.  Sekine, T. et al. Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19. _Cell_ **183**, 158–168 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvFKjs7jE)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32979941)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7427556)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Robust%20T%20cell%20immunity%20in%20convalescent%20individuals%20with%20asymptomatic%20or%20mild%20COVID-19&journal=Cell&volume=183&pages=158-168&publication_year=2020&author=Sekine%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32979941)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7427556)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Robust%20T%20cell%20immunity%20in%20convalescent%20individuals%20with%20asymptomatic%20or%20mild%20COVID-19&journal=Cell&volume=183&pages=158-168&publication_year=2020&author=Sekine%2CT) 
     
 27.  Sarkizova, S. et al. A large peptidome dataset improves HLA class I epitope prediction across most of the human population. _Nat. Biotechnol._ **38**, 199–209 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXisVSktbvP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31844290)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20large%20peptidome%20dataset%20improves%20HLA%20class%20I%20epitope%20prediction%20across%20most%20of%20the%20human%20population&journal=Nat.%20Biotechnol.&volume=38&pages=199-209&publication_year=2020&author=Sarkizova%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31844290)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20large%20peptidome%20dataset%20improves%20HLA%20class%20I%20epitope%20prediction%20across%20most%20of%20the%20human%20population&journal=Nat.%20Biotechnol.&volume=38&pages=199-209&publication_year=2020&author=Sarkizova%2CS) 
     
 28.  Tate, J. G. et al. COSMIC: the Catalogue Of Somatic Mutations In Cancer. _Nucleic Acids Res._ **47**, D941–D947 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhs1Cgt7bM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30371878)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=COSMIC%3A%20the%20Catalogue%20Of%20Somatic%20Mutations%20In%20Cancer&journal=Nucleic%20Acids%20Res.&volume=47&pages=D941-D947&publication_year=2019&author=Tate%2CJG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30371878)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=COSMIC%3A%20the%20Catalogue%20Of%20Somatic%20Mutations%20In%20Cancer&journal=Nucleic%20Acids%20Res.&volume=47&pages=D941-D947&publication_year=2019&author=Tate%2CJG) 
     
 29.  Tran, E. et al. T-cell transfer therapy targeting mutant KRAS in cancer. _N. Engl. J. Med._ **375**, 2255–2262 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XitFaqt73O)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27959684)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178827)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-cell%20transfer%20therapy%20targeting%20mutant%20KRAS%20in%20cancer&journal=N.%20Engl.%20J.%20Med.&volume=375&pages=2255-2262&publication_year=2016&author=Tran%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27959684)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178827)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-cell%20transfer%20therapy%20targeting%20mutant%20KRAS%20in%20cancer&journal=N.%20Engl.%20J.%20Med.&volume=375&pages=2255-2262&publication_year=2016&author=Tran%2CE) 
     
 30.  Choi, J. et al. Systematic discovery and validation of T cell targets directed against oncogenic KRAS mutations. _Cell Rep. Methods_ **1**, 100084 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitVWgs77E)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35474673)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9017224)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20discovery%20and%20validation%20of%20T%20cell%20targets%20directed%20against%20oncogenic%20KRAS%20mutations&journal=Cell%20Rep.%20Methods&volume=1&publication_year=2021&author=Choi%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35474673)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9017224)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20discovery%20and%20validation%20of%20T%20cell%20targets%20directed%20against%20oncogenic%20KRAS%20mutations&journal=Cell%20Rep.%20Methods&volume=1&publication_year=2021&author=Choi%2CJ) 
     
 31.  Smyth, R. P. et al. Reducing chimera formation during PCR amplification to ensure accurate genotyping. _Gene_ **469**, 45–51 (2010).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXht12nsrvP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20833233)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Reducing%20chimera%20formation%20during%20PCR%20amplification%20to%20ensure%20accurate%20genotyping&journal=Gene&volume=469&pages=45-51&publication_year=2010&author=Smyth%2CRP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20833233)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Reducing%20chimera%20formation%20during%20PCR%20amplification%20to%20ensure%20accurate%20genotyping&journal=Gene&volume=469&pages=45-51&publication_year=2010&author=Smyth%2CRP) 
     
 32.  Jetzt, A. E. et al. High rate of recombination throughout the human immunodeficiency virus type 1 genome. _J. Virol._ **74**, 1234–1240 (2000).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3cXmtFyiuw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10627533)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC111457)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High%20rate%20of%20recombination%20throughout%20the%20human%20immunodeficiency%20virus%20type%201%20genome&journal=J.%20Virol.&volume=74&pages=1234-1240&publication_year=2000&author=Jetzt%2CAE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10627533)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC111457)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High%20rate%20of%20recombination%20throughout%20the%20human%20immunodeficiency%20virus%20type%201%20genome&journal=J.%20Virol.&volume=74&pages=1234-1240&publication_year=2000&author=Jetzt%2CAE) 
     
 33.  Gonzalez-Galarza, F. F. et al. Allele frequency net database (AFND) 2020 update: gold-standard data classification, open access genotype data and new query tools. _Nucleic Acids Res._ **48**, D783–D788 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhs1Glt7%2FI)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31722398)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele%20frequency%20net%20database%20%28AFND%29%202020%20update%3A%20gold-standard%20data%20classification%2C%20open%20access%20genotype%20data%20and%20new%20query%20tools&journal=Nucleic%20Acids%20Res.&volume=48&pages=D783-D788&publication_year=2020&author=Gonzalez-Galarza%2CFF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31722398)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele%20frequency%20net%20database%20%28AFND%29%202020%20update%3A%20gold-standard%20data%20classification%2C%20open%20access%20genotype%20data%20and%20new%20query%20tools&journal=Nucleic%20Acids%20Res.&volume=48&pages=D783-D788&publication_year=2020&author=Gonzalez-Galarza%2CFF) 
     
 34.  Gfeller, D. & Bassani-Sternberg, M. Predicting antigen presentation—what could we learn from a million peptides? _Front. Immunol._ **9**, 1716 (2018).
     
@@ -431,7 +431,7 @@ References
     
 35.  Karnaukhov, V. et al. HLA variants have different preferences to present proteins with specific molecular functions which are complemented in frequent haplotypes. _Front. Immunol._ **13**, 1067463 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXpsFWhsA%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36605212)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9808399)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA%20variants%20have%20different%20preferences%20to%20present%20proteins%20with%20specific%20molecular%20functions%20which%20are%20complemented%20in%20frequent%20haplotypes&journal=Front.%20Immunol.&volume=13&publication_year=2022&author=Karnaukhov%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36605212)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9808399)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA%20variants%20have%20different%20preferences%20to%20present%20proteins%20with%20specific%20molecular%20functions%20which%20are%20complemented%20in%20frequent%20haplotypes&journal=Front.%20Immunol.&volume=13&publication_year=2022&author=Karnaukhov%2CV) 
     
 36.  Sidney, J., Peters, B., Frahm, N., Brander, C. & Sette, A. HLA class I supertypes: a revised and updated classification. _BMC Immunol._ **9**, 1 (2008).
     
@@ -439,55 +439,55 @@ References
     
 37.  Latysheva, N. S. & Babu, M. M. Discovering and understanding oncogenic gene fusions through data intensive computational approaches. _Nucleic Acids Res._ **44**, 4487–4503 (2016).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsFWrtrfN)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27105842)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4889949)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Discovering%20and%20understanding%20oncogenic%20gene%20fusions%20through%20data%20intensive%20computational%20approaches&journal=Nucleic%20Acids%20Res.&volume=44&pages=4487-4503&publication_year=2016&author=Latysheva%2CNS&author=Babu%2CMM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27105842)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4889949)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Discovering%20and%20understanding%20oncogenic%20gene%20fusions%20through%20data%20intensive%20computational%20approaches&journal=Nucleic%20Acids%20Res.&volume=44&pages=4487-4503&publication_year=2016&author=Latysheva%2CNS&author=Babu%2CMM) 
     
 38.  Liu, Y. et al. Etiology of oncogenic fusions in 5,190 childhood cancers and its clinical and therapeutic implication. _Nat. Commun._ **14**, 1739 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXnt1Clu7g%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37019972)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10076316)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Etiology%20of%20oncogenic%20fusions%20in%205%2C190%20childhood%20cancers%20and%20its%20clinical%20and%20therapeutic%20implication&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Liu%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37019972)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10076316)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Etiology%20of%20oncogenic%20fusions%20in%205%2C190%20childhood%20cancers%20and%20its%20clinical%20and%20therapeutic%20implication&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Liu%2CY) 
     
 39.  Zhang, H. et al. Identification of NY-ESO-1157-165 specific murine T cell receptors with distinct recognition pattern for tumor immunotherapy. _Front. Immunol._ **12**, 644520 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXpvVOqtrw%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33833762)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8021954)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20NY-ESO-1157-165%20specific%20murine%20T%20cell%20receptors%20with%20distinct%20recognition%20pattern%20for%20tumor%20immunotherapy&journal=Front.%20Immunol.&volume=12&publication_year=2021&author=Zhang%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33833762)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8021954)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20NY-ESO-1157-165%20specific%20murine%20T%20cell%20receptors%20with%20distinct%20recognition%20pattern%20for%20tumor%20immunotherapy&journal=Front.%20Immunol.&volume=12&publication_year=2021&author=Zhang%2CH) 
     
 40.  Wooldridge, L. et al. A single autoimmune T cell receptor recognizes more than a million different peptides. _J. Biol. Chem._ **287**, 1168–1177 (2012).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38Xjslynuw%3D%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22102287)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20single%20autoimmune%20T%20cell%20receptor%20recognizes%20more%20than%20a%20million%20different%20peptides&journal=J.%20Biol.%20Chem.&volume=287&pages=1168-1177&publication_year=2012&author=Wooldridge%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22102287)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20single%20autoimmune%20T%20cell%20receptor%20recognizes%20more%20than%20a%20million%20different%20peptides&journal=J.%20Biol.%20Chem.&volume=287&pages=1168-1177&publication_year=2012&author=Wooldridge%2CL) 
     
 41.  Birnbaum, M. E. et al. Deconstructing the peptide-MHC specificity of T cell recognition. _Cell_ **157**, 1073–1087 (2014).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXoslynsLc%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24855945)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4071348)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Deconstructing%20the%20peptide-MHC%20specificity%20of%20T%20cell%20recognition&journal=Cell&volume=157&pages=1073-1087&publication_year=2014&author=Birnbaum%2CME) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24855945)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4071348)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Deconstructing%20the%20peptide-MHC%20specificity%20of%20T%20cell%20recognition&journal=Cell&volume=157&pages=1073-1087&publication_year=2014&author=Birnbaum%2CME) 
     
 42.  Giannakopoulou, E. et al. A T cell receptor targeting a recurrent driver mutation in FLT3 mediates elimination of primary human acute myeloid leukemia in vivo. _Nat. Cancer_ **4**, 1474–1490 (2023).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitVeqsrnF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37783807)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597840)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20T%20cell%20receptor%20targeting%20a%20recurrent%20driver%20mutation%20in%20FLT3%20mediates%20elimination%20of%20primary%20human%20acute%20myeloid%20leukemia%20in%20vivo&journal=Nat.%20Cancer&volume=4&pages=1474-1490&publication_year=2023&author=Giannakopoulou%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37783807)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10597840)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20T%20cell%20receptor%20targeting%20a%20recurrent%20driver%20mutation%20in%20FLT3%20mediates%20elimination%20of%20primary%20human%20acute%20myeloid%20leukemia%20in%20vivo&journal=Nat.%20Cancer&volume=4&pages=1474-1490&publication_year=2023&author=Giannakopoulou%2CE) 
     
 43.  Yamada, T. et al. EGFR T790M mutation as a possible target for immunotherapy; identification of HLA-A\*0201-restricted T cell epitopes derived from the EGFR T790M mutation. _PLoS ONE_ **8**, e78389 (2013).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhslGisbvM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24223798)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3818324)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=EGFR%20T790M%20mutation%20as%20a%20possible%20target%20for%20immunotherapy%3B%20identification%20of%20HLA-A%2A0201-restricted%20T%20cell%20epitopes%20derived%20from%20the%20EGFR%20T790M%20mutation&journal=PLoS%20ONE&volume=8&publication_year=2013&author=Yamada%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24223798)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3818324)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=EGFR%20T790M%20mutation%20as%20a%20possible%20target%20for%20immunotherapy%3B%20identification%20of%20HLA-A%2A0201-restricted%20T%20cell%20epitopes%20derived%20from%20the%20EGFR%20T790M%20mutation&journal=PLoS%20ONE&volume=8&publication_year=2013&author=Yamada%2CT) 
     
 44.  Robinson, J. et al. The IPD and IMGT/HLA database: allele variant databases. _Nucleic Acids Res._ **43**, D423–D431 (2015).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtVymtrbF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25414341)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20IPD%20and%20IMGT%2FHLA%20database%3A%20allele%20variant%20databases&journal=Nucleic%20Acids%20Res.&volume=43&pages=D423-D431&publication_year=2015&author=Robinson%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25414341)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20IPD%20and%20IMGT%2FHLA%20database%3A%20allele%20variant%20databases&journal=Nucleic%20Acids%20Res.&volume=43&pages=D423-D431&publication_year=2015&author=Robinson%2CJ) 
     
 45.  Hickman, H. D. et al. Toward a definition of self: proteomic evaluation of the class I peptide repertoire. _J. Immunol._ **172**, 2944–2952 (2004).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2cXhsVCrsbg%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14978097)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Toward%20a%20definition%20of%20self%3A%20proteomic%20evaluation%20of%20the%20class%20I%20peptide%20repertoire&journal=J.%20Immunol.&volume=172&pages=2944-2952&publication_year=2004&author=Hickman%2CHD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14978097)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Toward%20a%20definition%20of%20self%3A%20proteomic%20evaluation%20of%20the%20class%20I%20peptide%20repertoire&journal=J.%20Immunol.&volume=172&pages=2944-2952&publication_year=2004&author=Hickman%2CHD) 
     
 46.  Sachs, A. et al. Impact of cysteine residues on MHC binding predictions and recognition by tumor-reactive T cells. _J. Immunol._ **205**, 539–549 (2020).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsVGhtbjL)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32571843)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20cysteine%20residues%20on%20MHC%20binding%20predictions%20and%20recognition%20by%20tumor-reactive%20T%20cells&journal=J.%20Immunol.&volume=205&pages=539-549&publication_year=2020&author=Sachs%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32571843)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20cysteine%20residues%20on%20MHC%20binding%20predictions%20and%20recognition%20by%20tumor-reactive%20T%20cells&journal=J.%20Immunol.&volume=205&pages=539-549&publication_year=2020&author=Sachs%2CA) 
     
 47.  Kennedy, P. R., Barthen, C., Williamson, D. J. & Davis, D. M. HLA-B and HLA-C differ in their nanoscale organization at cell surfaces. _Front. Immunol._ **10**, 61 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXht12gsr7M)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30761133)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6362897)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA-B%20and%20HLA-C%20differ%20in%20their%20nanoscale%20organization%20at%20cell%20surfaces&journal=Front.%20Immunol.&volume=10&publication_year=2019&author=Kennedy%2CPR&author=Barthen%2CC&author=Williamson%2CDJ&author=Davis%2CDM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30761133)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6362897)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HLA-B%20and%20HLA-C%20differ%20in%20their%20nanoscale%20organization%20at%20cell%20surfaces&journal=Front.%20Immunol.&volume=10&publication_year=2019&author=Kennedy%2CPR&author=Barthen%2CC&author=Williamson%2CDJ&author=Davis%2CDM) 
     
 48.  Pearlman, A. H. et al. Targeting public neoantigens for cancer immunotherapy. _Nat. Cancer_ **2**, 487–497 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjsFeit7s%3D)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34676374)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525885)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Targeting%20public%20neoantigens%20for%20cancer%20immunotherapy&journal=Nat.%20Cancer&volume=2&pages=487-497&publication_year=2021&author=Pearlman%2CAH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34676374)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525885)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Targeting%20public%20neoantigens%20for%20cancer%20immunotherapy&journal=Nat.%20Cancer&volume=2&pages=487-497&publication_year=2021&author=Pearlman%2CAH) 
     
 49.  Gurung, H. R. et al. Systematic discovery of neoepitope–HLA pairs for neoantigens shared among patients and tumor types. _Nat. Biotechnol._ **42**, 1107–1117 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitFOqsL%2FM)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37857725)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20discovery%20of%20neoepitope%E2%80%93HLA%20pairs%20for%20neoantigens%20shared%20among%20patients%20and%20tumor%20types&journal=Nat.%20Biotechnol.&volume=42&pages=1107-1117&publication_year=2024&author=Gurung%2CHR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37857725)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20discovery%20of%20neoepitope%E2%80%93HLA%20pairs%20for%20neoantigens%20shared%20among%20patients%20and%20tumor%20types&journal=Nat.%20Biotechnol.&volume=42&pages=1107-1117&publication_year=2024&author=Gurung%2CHR) 
     
 50.  Li, F. et al. Neoantigen vaccination induces clinical and immunologic responses in non-small cell lung cancer patients harboring EGFR mutations. _J. Immunother. Cancer_ **9**, e002531 (2021).
     
@@ -495,15 +495,15 @@ References
     
 51.  Yu, B. et al. Engineered cell entry links receptor biology with single-cell genomics. _Cell_ **185**, 4904–4920.e22 (2022).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjtV2ktrjP)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36516854)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Engineered%20cell%20entry%20links%20receptor%20biology%20with%20single-cell%20genomics&journal=Cell&volume=185&pages=4904-4920.e22&publication_year=2022&author=Yu%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36516854)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Engineered%20cell%20entry%20links%20receptor%20biology%20with%20single-cell%20genomics&journal=Cell&volume=185&pages=4904-4920.e22&publication_year=2022&author=Yu%2CB) 
     
 52.  Kula, T. et al. T-Scan: a genome-wide method for the systematic discovery of T cell epitopes. _Cell_ **178**, 1016–1028 (2019).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsFKktrvF)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31398327)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6939866)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-Scan%3A%20a%20genome-wide%20method%20for%20the%20systematic%20discovery%20of%20T%20cell%20epitopes&journal=Cell&volume=178&pages=1016-1028&publication_year=2019&author=Kula%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31398327)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6939866)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-Scan%3A%20a%20genome-wide%20method%20for%20the%20systematic%20discovery%20of%20T%20cell%20epitopes&journal=Cell&volume=178&pages=1016-1028&publication_year=2019&author=Kula%2CT) 
     
 53.  Cimen Bozkus, C., Blazquez, A. B., Enokida, T. & Bhardwaj, N. A T-cell-based immunogenicity protocol for evaluating human antigen-specific responses. _STAR Protoc._ **2**, 100758 (2021).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitVKhtLzJ)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34458873)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8377590)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20T-cell-based%20immunogenicity%20protocol%20for%20evaluating%20human%20antigen-specific%20responses&journal=STAR%20Protoc.&volume=2&publication_year=2021&author=Cimen%20Bozkus%2CC&author=Blazquez%2CAB&author=Enokida%2CT&author=Bhardwaj%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34458873)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8377590)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20T-cell-based%20immunogenicity%20protocol%20for%20evaluating%20human%20antigen-specific%20responses&journal=STAR%20Protoc.&volume=2&publication_year=2021&author=Cimen%20Bozkus%2CC&author=Blazquez%2CAB&author=Enokida%2CT&author=Bhardwaj%2CN) 
     
 
 [Download references](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02268-1?format=refman&flavour=references)
@@ -845,7 +845,7 @@ About this article
 
 ### Cite this article
 
-Shi, Q., Simon, E.P., Cimen Bozkus, C. _et al._ Massively parallel immunopeptidome by DNA sequencing provides insights into cancer antigen presentation. _Nat Genet_ (2025). https://doi.org/10.1038/s41588-025-02268-1
+Shi, Q., Simon, E.P., Cimen Bozkus, C. _et al._ Massively parallel immunopeptidome by DNA sequencing provides insights into cancer antigen presentation. _Nat Genet_ **57**, 2062–2073 (2025). https://doi.org/10.1038/s41588-025-02268-1
 
 [Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-025-02268-1?format=refman&flavour=citation)
 
@@ -854,6 +854,8 @@ Shi, Q., Simon, E.P., Cimen Bozkus, C. _et al._ Massively parallel immunopeptido
 -   Accepted: 16 June 2025
     
 -   Published: 28 July 2025
+    
+-   Issue Date: August 2025
     
 -   DOI: https://doi.org/10.1038/s41588-025-02268-1
     
