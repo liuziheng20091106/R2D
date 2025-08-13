@@ -73,6 +73,26 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02284-1/MediaObjects/41588_2025_2284_Fig7_HTML.png)
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41593-022-01180-9/MediaObjects/41593_2022_1180_Fig1_HTML.png)
+
+### [CRISPRi screens in human iPSC-derived astrocytes elucidate regulators of distinct inflammatory reactive states](https://www.nature.com/articles/s41593-022-01180-9?fromPaywallRec=true)
+
+Article 27 October 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-024-52490-4/MediaObjects/41467_2024_52490_Fig1_HTML.png)
+
+### [Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements](https://www.nature.com/articles/s41467-024-52490-4?fromPaywallRec=true)
+
+Article Open access 18 September 2024
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-025-09686-5/MediaObjects/41598_2025_9686_Fig1_HTML.png)
+
+### [Induction of cancer stem cells from mouse fibroblasts](https://www.nature.com/articles/s41598-025-09686-5?fromPaywallRec=true)
+
+Article Open access 15 July 2025
+
 Data availability
 -----------------
 
@@ -242,7 +262,7 @@ References
     
 35.  Amrute, J. M. et al. Targeting immune–fibroblast cell communication in heart failure. _Nature_ **635**, 423–433 (2024).
     
-    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXitlanurrO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39443792)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Targeting%20immune%E2%80%93fibroblast%20cell%20communication%20in%20heart%20failure&journal=Nature&volume=635&pages=423-433&publication_year=2024&author=Amrute%2CJM) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXitlanurrO)  [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39443792)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12334188)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Targeting%20immune%E2%80%93fibroblast%20cell%20communication%20in%20heart%20failure&journal=Nature&volume=635&pages=423-433&publication_year=2024&author=Amrute%2CJM) 
     
 36.  Alexanian, M. et al. Chromatin remodelling drives immune cell–fibroblast communication in heart failure. _Nature_ **635**, 434–443 (2024).
     

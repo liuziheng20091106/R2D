@@ -12,6 +12,26 @@ Abstract
 
 Comprehensive maps of functional variation at transcription factor (TF) binding sites (_cis_\-elements) are crucial for elucidating how genotype shapes phenotype. Here, we report the construction of a pan-cistrome of the maize leaf under well-watered and drought conditions. We quantified haplotype-specific TF footprints across a pan-genome of 25 maize hybrids and mapped over 200,000 variants, genetic, epigenetic, or both (termed binding quantitative trait loci (bQTL)), linked to _cis_\-element occupancy. Three lines of evidence support the functional significance of bQTL: (1) coincidence with causative loci that regulate traits, including _vgt1_, _ZmTRE1_ and the MITE transposon near _ZmNAC111_ under drought; (2) bQTL allelic bias is shared between inbred parents and matches chromatin immunoprecipitation sequencing results; and (3) partitioning genetic variation across genomic regions demonstrates that bQTL capture the majority of heritable trait variation across ~72% of 143 phenotypes. Our study provides an auspicious approach to make functional _cis_\-variation accessible at scale for genetic studies and targeted engineering of complex traits.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41477-025-02007-8/MediaObjects/41477_2025_2007_Fig1_HTML.png)
+
+### [Transcription factor binding divergence drives transcriptional and phenotypic variation in maize](https://www.nature.com/articles/s41477-025-02007-8?fromPaywallRec=false)
+
+Article 12 June 2025
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41437-022-00541-1/MediaObjects/41437_2022_541_Fig1_HTML.png)
+
+### [Assessment of two statistical approaches for variance genome-wide association studies in plants](https://www.nature.com/articles/s41437-022-00541-1?fromPaywallRec=false)
+
+Article 10 May 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41437-022-00503-7/MediaObjects/41437_2022_503_Fig1_HTML.png)
+
+### [Trade-offs in the genetic control of functional and nutritional quality traits in UK winter wheat](https://www.nature.com/articles/s41437-022-00503-7?fromPaywallRec=false)
+
+Article Open access 07 April 2022
+
 Main
 ----
 

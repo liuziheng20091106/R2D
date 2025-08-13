@@ -73,6 +73,26 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02263-6/MediaObjects/41588_2025_2263_Fig7_HTML.png)
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-023-01437-4/MediaObjects/41588_2023_1437_Fig1_HTML.png)
+
+### [G4access identifies G-quadruplexes and their associations with open chromatin and imprinting control regions](https://www.nature.com/articles/s41588-023-01437-4?fromPaywallRec=true)
+
+Article 03 July 2023
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs42003-023-05015-6/MediaObjects/42003_2023_5015_Fig1_HTML.png)
+
+### [Integrative genomic analyses of promoter G-quadruplexes reveal their selective constraint and association with gene activation](https://www.nature.com/articles/s42003-023-05015-6?fromPaywallRec=true)
+
+Article Open access 10 June 2023
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-025-04791-x/MediaObjects/41598_2025_4791_Fig1_HTML.png)
+
+### [The effect of prolonged G-quadruplex stabilization on the functions of human cells](https://www.nature.com/articles/s41598-025-04791-x?fromPaywallRec=true)
+
+Article Open access 04 June 2025
+
 Data availability
 -----------------
 

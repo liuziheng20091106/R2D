@@ -61,6 +61,26 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02286-z/MediaObjects/41588_2025_2286_Fig4_HTML.png)
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-021-24485-y/MediaObjects/41467_2021_24485_Fig1_HTML.png)
+
+### [Improved genetic prediction of complex traits from individual-level data or summary statistics](https://www.nature.com/articles/s41467-021-24485-y?fromPaywallRec=true)
+
+Article Open access 07 July 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-021-00931-x/MediaObjects/41588_2021_931_Fig1_HTML.png)
+
+### [A cross-population atlas of genetic associations for 220 human phenotypes](https://www.nature.com/articles/s41588-021-00931-x?fromPaywallRec=true)
+
+Article 30 September 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-021-00870-7/MediaObjects/41588_2021_870_Fig1_HTML.png)
+
+### [Computationally efficient whole-genome regression for quantitative and binary traits](https://www.nature.com/articles/s41588-021-00870-7?fromPaywallRec=true)
+
+Article 20 May 2021
+
 Data availability
 -----------------
 

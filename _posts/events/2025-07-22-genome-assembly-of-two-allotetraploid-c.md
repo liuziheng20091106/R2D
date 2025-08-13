@@ -73,6 +73,26 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02258-3/MediaObjects/41588_2025_2258_Fig7_HTML.png)
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-025-02130-4/MediaObjects/41588_2025_2130_Fig1_HTML.png)
+
+### [A telomere-to-telomere genome assembly of cotton provides insights into centromere evolution and short-season adaptation](https://www.nature.com/articles/s41588-025-02130-4?fromPaywallRec=true)
+
+Article 17 March 2025
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-024-55309-4/MediaObjects/41467_2024_55309_Fig1_HTML.png)
+
+### [Epigenomic and 3D genomic mapping reveals developmental dynamics and subgenomic asymmetry of transcriptional regulatory architecture in allotetraploid cotton](https://www.nature.com/articles/s41467-024-55309-4?fromPaywallRec=true)
+
+Article Open access 27 December 2024
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-024-01877-6/MediaObjects/41588_2024_1877_Fig1_HTML.png)
+
+### [A telomere-to-telomere cotton genome assembly reveals centromere evolution and a Mutator transposon-linked module regulating embryo development](https://www.nature.com/articles/s41588-024-01877-6?fromPaywallRec=true)
+
+Article 15 August 2024
+
 Data availability
 -----------------
 
