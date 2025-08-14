@@ -26,11 +26,11 @@ Article Open access 18 June 2025
 
 Article Open access 26 October 2024
 
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-024-77532-1/MediaObjects/41598_2024_77532_Fig1_HTML.jpg)
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-025-62850-3/MediaObjects/41467_2025_62850_Fig1_HTML.png)
 
-### [Unlocking Spanish pear genetic diversity: strategies for construction of a national core collection](https://www.nature.com/articles/s41598-024-77532-1?fromPaywallRec=false)
+### [Comparative genomic analyses reveal different genetic basis of two types of fruit in Maloideae](https://www.nature.com/articles/s41467-025-62850-3?fromPaywallRec=false)
 
-Article Open access 04 November 2024
+Article Open access 12 August 2025
 
 Main
 ----
