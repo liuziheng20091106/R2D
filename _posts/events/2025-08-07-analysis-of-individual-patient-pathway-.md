@@ -118,7 +118,7 @@ References
     
 3.  Kalantar-Zadeh, K., Jafar, T. H., Nitsch, D., Neuen, B. L. & Perkovic, V. Chronic kidney disease. _Lancet_ **398**, 786–802 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34175022)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chronic%20kidney%20disease&journal=Lancet&volume=398&pages=786-802&publication_year=2021&author=Kalantar-Zadeh%2CK&author=Jafar%2CTH&author=Nitsch%2CD&author=Neuen%2CBL&author=Perkovic%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34175022)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhsVent7vK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chronic%20kidney%20disease&journal=Lancet&volume=398&pages=786-802&publication_year=2021&author=Kalantar-Zadeh%2CK&author=Jafar%2CTH&author=Nitsch%2CD&author=Neuen%2CBL&author=Perkovic%2CV) 
     
 4.  Muntner, P. Longitudinal measurements of renal function. _Semin. Nephrol._ **29**, 650–657 (2009).
     
@@ -126,7 +126,7 @@ References
     
 5.  Zuk, A. & Bonventre, J. V. Acute kidney injury. _Annu. Rev. Med._ **67**, 293–307 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26768243)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845743)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acute%20kidney%20injury&journal=Annu.%20Rev.%20Med.&volume=67&pages=293-307&publication_year=2016&author=Zuk%2CA&author=Bonventre%2CJV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26768243)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845743)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xps1Wgug%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acute%20kidney%20injury&journal=Annu.%20Rev.%20Med.&volume=67&pages=293-307&publication_year=2016&author=Zuk%2CA&author=Bonventre%2CJV) 
     
 6.  Sethi, S. et al. Mayo clinic/renal pathology society consensus report on pathologic classification, diagnosis, and reporting of GN. _J. Am. Soc. Nephrol._ **27**, 1278–1287 (2016).
     
@@ -138,15 +138,15 @@ References
     
 8.  Lake, B. B. et al. An atlas of healthy and injured cell states and niches in the human kidney. _Nature_ **619**, 585–594 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37468583)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10356613)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20atlas%20of%20healthy%20and%20injured%20cell%20states%20and%20niches%20in%20the%20human%20kidney&journal=Nature&volume=619&pages=585-594&publication_year=2023&author=Lake%2CBB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37468583)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10356613)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsFSmtLnI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20atlas%20of%20healthy%20and%20injured%20cell%20states%20and%20niches%20in%20the%20human%20kidney&journal=Nature&volume=619&pages=585-594&publication_year=2023&author=Lake%2CBB) 
     
 9.  Sikkema, L. et al. An integrated cell atlas of the lung in health and disease. _Nat. Med._ **29**, 1563–1577 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37291214)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10287567)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20integrated%20cell%20atlas%20of%20the%20lung%20in%20health%20and%20disease&journal=Nat.%20Med.&volume=29&pages=1563-1577&publication_year=2023&author=Sikkema%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37291214)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10287567)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtF2itbrE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20integrated%20cell%20atlas%20of%20the%20lung%20in%20health%20and%20disease&journal=Nat.%20Med.&volume=29&pages=1563-1577&publication_year=2023&author=Sikkema%2CL) 
     
 10.  Rood, J. E., Maartens, A., Hupalowska, A., Teichmann, S. A. & Regev, A. Impact of the human cell atlas on medicine. _Nat. Med._ **28**, 2486–2496 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36482102)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20the%20human%20cell%20atlas%20on%20medicine&journal=Nat.%20Med.&volume=28&pages=2486-2496&publication_year=2022&author=Rood%2CJE&author=Maartens%2CA&author=Hupalowska%2CA&author=Teichmann%2CSA&author=Regev%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36482102)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XjtVyltbbO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20the%20human%20cell%20atlas%20on%20medicine&journal=Nat.%20Med.&volume=28&pages=2486-2496&publication_year=2022&author=Rood%2CJE&author=Maartens%2CA&author=Hupalowska%2CA&author=Teichmann%2CSA&author=Regev%2CA) 
     
 11.  Robinson, N. B. et al. The current state of animal models in research: a review. _Int J. Surg._ **72**, 9–13 (2019).
     
@@ -162,31 +162,31 @@ References
     
 14.  Heumos, L. et al. Best practices for single-cell analysis across modalities. _Nat. Rev. Genet._ **24**, 550–572 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37002403)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Best%20practices%20for%20single-cell%20analysis%20across%20modalities&journal=Nat.%20Rev.%20Genet.&volume=24&pages=550-572&publication_year=2023&author=Heumos%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37002403)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXmsl2nsbg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Best%20practices%20for%20single-cell%20analysis%20across%20modalities&journal=Nat.%20Rev.%20Genet.&volume=24&pages=550-572&publication_year=2023&author=Heumos%2CL) 
     
 15.  Squair, J. W. et al. Confronting false discoveries in single-cell differential expression. _Nat. Commun._ **12**, 5692 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34584091)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8479118)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Confronting%20false%20discoveries%20in%20single-cell%20differential%20expression&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Squair%2CJW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34584091)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8479118)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitFamu7vI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Confronting%20false%20discoveries%20in%20single-cell%20differential%20expression&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Squair%2CJW) 
     
 16.  Zhao, K. & Rhee, S. Y. Interpreting omics data with pathway enrichment analysis. _Trends Genet._ **39**, 308–319 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36750393)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpreting%20omics%20data%20with%20pathway%20enrichment%20analysis&journal=Trends%20Genet.&volume=39&pages=308-319&publication_year=2023&author=Zhao%2CK&author=Rhee%2CSY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36750393)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitVCmt74%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpreting%20omics%20data%20with%20pathway%20enrichment%20analysis&journal=Trends%20Genet.&volume=39&pages=308-319&publication_year=2023&author=Zhao%2CK&author=Rhee%2CSY) 
     
 17.  Abedini, A. et al. Single-cell multi-omic and spatial profiling of human kidneys implicates the fibrotic microenvironment in kidney disease progression. _Nat. Genet._ **56**, 1712–1724 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39048792)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11592391)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20multi-omic%20and%20spatial%20profiling%20of%20human%20kidneys%20implicates%20the%20fibrotic%20microenvironment%20in%20kidney%20disease%20progression&journal=Nat.%20Genet.&volume=56&pages=1712-1724&publication_year=2024&author=Abedini%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39048792)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11592391)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhs1ajsbfL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20multi-omic%20and%20spatial%20profiling%20of%20human%20kidneys%20implicates%20the%20fibrotic%20microenvironment%20in%20kidney%20disease%20progression&journal=Nat.%20Genet.&volume=56&pages=1712-1724&publication_year=2024&author=Abedini%2CA) 
     
 18.  Kirita, Y., Wu, H., Uchimura, K., Wilson, P. C. & Humphreys, B. D. Cell profiling of mouse acute kidney injury reveals conserved cellular responses to injury. _Proc. Natl Acad. Sci. USA_ **117**, 15874–15883 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32571916)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355049)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cell%20profiling%20of%20mouse%20acute%20kidney%20injury%20reveals%20conserved%20cellular%20responses%20to%20injury&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=15874-15883&publication_year=2020&author=Kirita%2CY&author=Wu%2CH&author=Uchimura%2CK&author=Wilson%2CPC&author=Humphreys%2CBD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32571916)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355049)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsFSrtL7N)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cell%20profiling%20of%20mouse%20acute%20kidney%20injury%20reveals%20conserved%20cellular%20responses%20to%20injury&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=15874-15883&publication_year=2020&author=Kirita%2CY&author=Wu%2CH&author=Uchimura%2CK&author=Wilson%2CPC&author=Humphreys%2CBD) 
     
 19.  Wu, H. et al. Mapping the single-cell transcriptomic response of murine diabetic kidney disease to therapies. _Cell Metab._ **34**, 1064–1078 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35709763)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9262852)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20single-cell%20transcriptomic%20response%20of%20murine%20diabetic%20kidney%20disease%20to%20therapies&journal=Cell%20Metab.&volume=34&pages=1064-1078&publication_year=2022&author=Wu%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35709763)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9262852)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhsFansLnM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20single-cell%20transcriptomic%20response%20of%20murine%20diabetic%20kidney%20disease%20to%20therapies&journal=Cell%20Metab.&volume=34&pages=1064-1078&publication_year=2022&author=Wu%2CH) 
     
 20.  Abedini, A. et al. Single-cell transcriptomics and chromatin accessibility profiling elucidate the kidney protective mechanism of mineralocorticoid receptor antagonists. _J. Clin. Invest._ **134**, e157165 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37906287)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10760974)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20transcriptomics%20and%20chromatin%20accessibility%20profiling%20elucidate%20the%20kidney%20protective%20mechanism%20of%20mineralocorticoid%20receptor%20antagonists&journal=J.%20Clin.%20Invest.&volume=134&publication_year=2024&author=Abedini%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37906287)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10760974)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhs1OmtLbI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-cell%20transcriptomics%20and%20chromatin%20accessibility%20profiling%20elucidate%20the%20kidney%20protective%20mechanism%20of%20mineralocorticoid%20receptor%20antagonists&journal=J.%20Clin.%20Invest.&volume=134&publication_year=2024&author=Abedini%2CA) 
     
 21.  Balzer, M. S. et al. Treatment effects of soluble guanylate cyclase modulation on diabetic kidney disease at single-cell resolution. _Cell Rep. Med._ **4**, 100992 (2023).
     
@@ -194,31 +194,31 @@ References
     
 22.  Lopez, R., Regier, J., Cole, M. B., Jordan, M. I. & Yosef, N. Deep generative modeling for single-cell transcriptomics. _Nat. Methods_ **15**, 1053–1058 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30504886)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6289068)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Deep%20generative%20modeling%20for%20single-cell%20transcriptomics&journal=Nat.%20Methods&volume=15&pages=1053-1058&publication_year=2018&author=Lopez%2CR&author=Regier%2CJ&author=Cole%2CMB&author=Jordan%2CMI&author=Yosef%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30504886)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6289068)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXitl2hs77J)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Deep%20generative%20modeling%20for%20single-cell%20transcriptomics&journal=Nat.%20Methods&volume=15&pages=1053-1058&publication_year=2018&author=Lopez%2CR&author=Regier%2CJ&author=Cole%2CMB&author=Jordan%2CMI&author=Yosef%2CN) 
     
 23.  Fischer, S. & Gillis, J. How many markers are needed to robustly determine a cell’s type? _iScience_ **24**, 103292 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34765918)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8571500)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20many%20markers%20are%20needed%20to%20robustly%20determine%20a%20cell%E2%80%99s%20type%3F&journal=iScience&volume=24&publication_year=2021&author=Fischer%2CS&author=Gillis%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34765918)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8571500)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XmtVWrtro%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20many%20markers%20are%20needed%20to%20robustly%20determine%20a%20cell%E2%80%99s%20type%3F&journal=iScience&volume=24&publication_year=2021&author=Fischer%2CS&author=Gillis%2CJ) 
     
 24.  Chen, Y. et al. Structural basis of ALDH1A2 inhibition by irreversible and reversible small molecule inhibitors. _ACS Chem. Biol._ **13**, 582–590 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29240402)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089219)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20basis%20of%20ALDH1A2%20inhibition%20by%20irreversible%20and%20reversible%20small%20molecule%20inhibitors&journal=ACS%20Chem.%20Biol.&volume=13&pages=582-590&publication_year=2018&author=Chen%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29240402)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089219)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhvFOgt7bK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20basis%20of%20ALDH1A2%20inhibition%20by%20irreversible%20and%20reversible%20small%20molecule%20inhibitors&journal=ACS%20Chem.%20Biol.&volume=13&pages=582-590&publication_year=2018&author=Chen%2CY) 
     
 25.  Chen, A., Liu, Y., Lu, Y., Lee, K. & He, J. C. Disparate roles of retinoid acid signaling molecules in kidney disease. _Am. J. Physiol. Ren. Physiol._ **320**, F683–F692 (2021).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Disparate%20roles%20of%20retinoid%20acid%20signaling%20molecules%20in%20kidney%20disease&journal=Am.%20J.%20Physiol.%20Ren.%20Physiol.&volume=320&pages=F683-F692&publication_year=2021&author=Chen%2CA&author=Liu%2CY&author=Lu%2CY&author=Lee%2CK&author=He%2CJC) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtlCksL3P)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Disparate%20roles%20of%20retinoid%20acid%20signaling%20molecules%20in%20kidney%20disease&journal=Am.%20J.%20Physiol.%20Ren.%20Physiol.&volume=320&pages=F683-F692&publication_year=2021&author=Chen%2CA&author=Liu%2CY&author=Lu%2CY&author=Lee%2CK&author=He%2CJC) 
     
 26.  Uhlen, M. et al. Towards a knowledge-based Human Protein Atlas. _Nat. Biotechnol._ **28**, 1248–1250 (2010).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21139605)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20a%20knowledge-based%20Human%20Protein%20Atlas&journal=Nat.%20Biotechnol.&volume=28&pages=1248-1250&publication_year=2010&author=Uhlen%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21139605)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhsFals7nO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20a%20knowledge-based%20Human%20Protein%20Atlas&journal=Nat.%20Biotechnol.&volume=28&pages=1248-1250&publication_year=2010&author=Uhlen%2CM) 
     
 27.  Safizadeh Shabestari, S. A. et al. Overlapping pathogenic de novo CNVs in neurodevelopmental disorders and congenital anomalies impacting constraint genes regulating early development. _Hum. Genet._ **142**, 1201–1213 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36383254)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Overlapping%20pathogenic%20de%20novo%20CNVs%20in%20neurodevelopmental%20disorders%20and%20congenital%20anomalies%20impacting%20constraint%20genes%20regulating%20early%20development&journal=Hum.%20Genet.&volume=142&pages=1201-1213&publication_year=2023&author=Safizadeh%20Shabestari%2CSA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36383254)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XivV2ltLnO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Overlapping%20pathogenic%20de%20novo%20CNVs%20in%20neurodevelopmental%20disorders%20and%20congenital%20anomalies%20impacting%20constraint%20genes%20regulating%20early%20development&journal=Hum.%20Genet.&volume=142&pages=1201-1213&publication_year=2023&author=Safizadeh%20Shabestari%2CSA) 
     
 28.  Shi, W., Le, W., Tang, Q., Shi, S. & Shi, J. Regulon analysis identifies protective FXR and CREB5 in proximal tubules in early diabetic kidney disease. _BMC Nephrol._ **24**, 180 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37337149)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10278299)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Regulon%20analysis%20identifies%20protective%20FXR%20and%20CREB5%20in%20proximal%20tubules%20in%20early%20diabetic%20kidney%20disease&journal=BMC%20Nephrol.&volume=24&publication_year=2023&author=Shi%2CW&author=Le%2CW&author=Tang%2CQ&author=Shi%2CS&author=Shi%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37337149)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10278299)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtlGgtLrI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Regulon%20analysis%20identifies%20protective%20FXR%20and%20CREB5%20in%20proximal%20tubules%20in%20early%20diabetic%20kidney%20disease&journal=BMC%20Nephrol.&volume=24&publication_year=2023&author=Shi%2CW&author=Le%2CW&author=Tang%2CQ&author=Shi%2CS&author=Shi%2CJ) 
     
 29.  Crow, M., Paul, A., Ballouz, S., Huang, Z. J. & Gillis, J. Characterizing the replicability of cell types defined by single cell RNA-sequencing data using MetaNeighbor. _Nat. Commun._ **9**, 884 (2018).
     
@@ -226,25 +226,25 @@ References
     
 30.  Kiselev, V. Y., Andrews, T. S. & Hemberg, M. Challenges in unsupervised clustering of single-cell RNA-seq data. _Nat. Rev. Genet._ **20**, 273–282 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30617341)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Challenges%20in%20unsupervised%20clustering%20of%20single-cell%20RNA-seq%20data&journal=Nat.%20Rev.%20Genet.&volume=20&pages=273-282&publication_year=2019&author=Kiselev%2CVY&author=Andrews%2CTS&author=Hemberg%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30617341)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXlvFSit7s%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Challenges%20in%20unsupervised%20clustering%20of%20single-cell%20RNA-seq%20data&journal=Nat.%20Rev.%20Genet.&volume=20&pages=273-282&publication_year=2019&author=Kiselev%2CVY&author=Andrews%2CTS&author=Hemberg%2CM) 
     
 31.  Grabski, I. N., Street, K. & Irizarry, R. A. Significance analysis for clustering with single-cell RNA-sequencing data. _Nat. Methods_ **20**, 1196–1202 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37429993)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11282907)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Significance%20analysis%20for%20clustering%20with%20single-cell%20RNA-sequencing%20data&journal=Nat.%20Methods&volume=20&pages=1196-1202&publication_year=2023&author=Grabski%2CIN&author=Street%2CK&author=Irizarry%2CRA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37429993)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11282907)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsVGrt7vF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Significance%20analysis%20for%20clustering%20with%20single-cell%20RNA-sequencing%20data&journal=Nat.%20Methods&volume=20&pages=1196-1202&publication_year=2023&author=Grabski%2CIN&author=Street%2CK&author=Irizarry%2CRA) 
     
 32.  Hill, R. Z. et al. Renal mechanotransduction is an essential regulator of renin. Preprint at _bioRxiv_ [https://doi.org/10.1101/2023.11.04.565646](https://doi.org/10.1101/2023.11.04.565646) (2023).
     
 33.  Tefft, J. B. et al. Notch1 and Notch3 coordinate for pericyte-induced stabilization of vasculature. _Am. J. Physiol. Cell Physiol._ **322**, C185–C196 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34878922)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Notch1%20and%20Notch3%20coordinate%20for%20pericyte-induced%20stabilization%20of%20vasculature&journal=Am.%20J.%20Physiol.%20Cell%20Physiol.&volume=322&pages=C185-C196&publication_year=2022&author=Tefft%2CJB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34878922)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhtFGktr%2FJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Notch1%20and%20Notch3%20coordinate%20for%20pericyte-induced%20stabilization%20of%20vasculature&journal=Am.%20J.%20Physiol.%20Cell%20Physiol.&volume=322&pages=C185-C196&publication_year=2022&author=Tefft%2CJB) 
     
 34.  Kuppe, C. et al. Decoding myofibroblast origins in human kidney fibrosis. _Nature_ **589**, 281–286 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33176333)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Decoding%20myofibroblast%20origins%20in%20human%20kidney%20fibrosis&journal=Nature&volume=589&pages=281-286&publication_year=2021&author=Kuppe%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33176333)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXnsFSqsw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Decoding%20myofibroblast%20origins%20in%20human%20kidney%20fibrosis&journal=Nature&volume=589&pages=281-286&publication_year=2021&author=Kuppe%2CC) 
     
 35.  Ashburner, M. et al. Gene ontology: tool for the unification of biology. The Gene Ontology Consortium _Nat. Genet._ **25**, 25–29 (2000).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10802651)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037419)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20ontology%3A%20tool%20for%20the%20unification%20of%20biology.%20The%20Gene%20Ontology%20Consortium&journal=Nat.%20Genet.&volume=25&pages=25-29&publication_year=2000&author=Ashburner%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10802651)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037419)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3cXjtFSlsbc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20ontology%3A%20tool%20for%20the%20unification%20of%20biology.%20The%20Gene%20Ontology%20Consortium&journal=Nat.%20Genet.&volume=25&pages=25-29&publication_year=2000&author=Ashburner%2CM) 
     
 36.  Onoda, N. et al. Spatial and single-cell transcriptome analysis reveals changes in gene expression in response to drug perturbation in rat kidney. _DNA Res._ **29**, dsac007 (2022).
     
@@ -256,7 +256,7 @@ References
     
 38.  Meier, M., Menne, J. & Haller, H. Targeting the protein kinase C family in the diabetic kidney: lessons from analysis of mutant mice. _Diabetologia_ **52**, 765–775 (2009).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19238353)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Targeting%20the%20protein%20kinase%20C%20family%20in%20the%20diabetic%20kidney%3A%20lessons%20from%20analysis%20of%20mutant%20mice&journal=Diabetologia&volume=52&pages=765-775&publication_year=2009&author=Meier%2CM&author=Menne%2CJ&author=Haller%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19238353)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXktVOrs7g%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Targeting%20the%20protein%20kinase%20C%20family%20in%20the%20diabetic%20kidney%3A%20lessons%20from%20analysis%20of%20mutant%20mice&journal=Diabetologia&volume=52&pages=765-775&publication_year=2009&author=Meier%2CM&author=Menne%2CJ&author=Haller%2CH) 
     
 39.  Hewitson, T. D. & Smith, E. R. A metabolic reprogramming of glycolysis and glutamine metabolism is a requisite for renal fibrogenesis—why and how? _Front. Physiol._ **12**, 645857 (2021).
     
@@ -264,71 +264,71 @@ References
     
 40.  Kanehisa, M., Furumichi, M., Sato, Y., Kawashima, M. & Ishiguro-Watanabe, M. KEGG for taxonomy-based analysis of pathways and genomes. _Nucleic Acids Res._ **51**, D587–D592 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36300620)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=KEGG%20for%20taxonomy-based%20analysis%20of%20pathways%20and%20genomes&journal=Nucleic%20Acids%20Res.&volume=51&pages=D587-D592&publication_year=2023&author=Kanehisa%2CM&author=Furumichi%2CM&author=Sato%2CY&author=Kawashima%2CM&author=Ishiguro-Watanabe%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36300620)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXht1entLzL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=KEGG%20for%20taxonomy-based%20analysis%20of%20pathways%20and%20genomes&journal=Nucleic%20Acids%20Res.&volume=51&pages=D587-D592&publication_year=2023&author=Kanehisa%2CM&author=Furumichi%2CM&author=Sato%2CY&author=Kawashima%2CM&author=Ishiguro-Watanabe%2CM) 
     
 41.  Bonventre, J. V. & Yang, L. Cellular pathophysiology of ischemic acute kidney injury. _J. Clin. Investig._ **121**, 4210–4221 (2011).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22045571)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204829)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cellular%20pathophysiology%20of%20ischemic%20acute%20kidney%20injury&journal=J.%20Clin.%20Investig.&volume=121&pages=4210-4221&publication_year=2011&author=Bonventre%2CJV&author=Yang%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22045571)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204829)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhsVCksL%2FI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cellular%20pathophysiology%20of%20ischemic%20acute%20kidney%20injury&journal=J.%20Clin.%20Investig.&volume=121&pages=4210-4221&publication_year=2011&author=Bonventre%2CJV&author=Yang%2CL) 
     
 42.  Yan, L. J. Folic acid-induced animal model of kidney disease. _Anim. Model Exp. Med._ **4**, 329–342 (2021).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Folic%20acid-induced%20animal%20model%20of%20kidney%20disease&journal=Anim.%20Model%20Exp.%20Med.&volume=4&pages=329-342&publication_year=2021&author=Yan%2CLJ) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XisFChtL8%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Folic%20acid-induced%20animal%20model%20of%20kidney%20disease&journal=Anim.%20Model%20Exp.%20Med.&volume=4&pages=329-342&publication_year=2021&author=Yan%2CLJ) 
     
 43.  Mootha, V. K. et al. PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes. _Nat. Genet._ **34**, 267–273 (2003).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12808457)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PGC-1%CE%B1-responsive%20genes%20involved%20in%20oxidative%20phosphorylation%20are%20coordinately%20downregulated%20in%20human%20diabetes&journal=Nat.%20Genet.&volume=34&pages=267-273&publication_year=2003&author=Mootha%2CVK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12808457)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3sXkvFSrs7o%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PGC-1%CE%B1-responsive%20genes%20involved%20in%20oxidative%20phosphorylation%20are%20coordinately%20downregulated%20in%20human%20diabetes&journal=Nat.%20Genet.&volume=34&pages=267-273&publication_year=2003&author=Mootha%2CVK) 
     
 44.  Subramanian, A. et al. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. _Proc. Natl Acad. Sci. USA_ **102**, 15545–15550 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16199517)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239896)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20set%20enrichment%20analysis%3A%20a%20knowledge-based%20approach%20for%20interpreting%20genome-wide%20expression%20profiles&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=102&pages=15545-15550&publication_year=2005&author=Subramanian%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16199517)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239896)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXht1ShtrnO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20set%20enrichment%20analysis%3A%20a%20knowledge-based%20approach%20for%20interpreting%20genome-wide%20expression%20profiles&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=102&pages=15545-15550&publication_year=2005&author=Subramanian%2CA) 
     
 45.  Cao, H. et al. Tuberous sclerosis 1 (Tsc1) mediated mTORC1 activation promotes glycolysis in tubular epithelial cells in kidney fibrosis. _Kidney Int._ **98**, 686–698 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32739207)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tuberous%20sclerosis%201%20%28Tsc1%29%20mediated%20mTORC1%20activation%20promotes%20glycolysis%20in%20tubular%20epithelial%20cells%20in%20kidney%20fibrosis&journal=Kidney%20Int.&volume=98&pages=686-698&publication_year=2020&author=Cao%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32739207)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsFehsr7O)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tuberous%20sclerosis%201%20%28Tsc1%29%20mediated%20mTORC1%20activation%20promotes%20glycolysis%20in%20tubular%20epithelial%20cells%20in%20kidney%20fibrosis&journal=Kidney%20Int.&volume=98&pages=686-698&publication_year=2020&author=Cao%2CH) 
     
 46.  Salcher, S. et al. High-resolution single-cell atlas reveals diversity and plasticity of tissue-resident neutrophils in non-small cell lung cancer. _Cancer Cell_ **40**, 1503–1520 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36368318)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9767679)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-resolution%20single-cell%20atlas%20reveals%20diversity%20and%20plasticity%20of%20tissue-resident%20neutrophils%20in%20non-small%20cell%20lung%20cancer&journal=Cancer%20Cell&volume=40&pages=1503-1520&publication_year=2022&author=Salcher%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36368318)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9767679)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XivVGjurvE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High-resolution%20single-cell%20atlas%20reveals%20diversity%20and%20plasticity%20of%20tissue-resident%20neutrophils%20in%20non-small%20cell%20lung%20cancer&journal=Cancer%20Cell&volume=40&pages=1503-1520&publication_year=2022&author=Salcher%2CS) 
     
 47.  Lau, S. C. M., Pan, Y., Velcheti, V. & Wong, K. K. Squamous cell lung cancer: current landscape and future therapeutic options. _Cancer Cell_ **40**, 1279–1293 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36270277)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Squamous%20cell%20lung%20cancer%3A%20current%20landscape%20and%20future%20therapeutic%20options&journal=Cancer%20Cell&volume=40&pages=1279-1293&publication_year=2022&author=Lau%2CSCM&author=Pan%2CY&author=Velcheti%2CV&author=Wong%2CKK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36270277)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xis1Oqu7zF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Squamous%20cell%20lung%20cancer%3A%20current%20landscape%20and%20future%20therapeutic%20options&journal=Cancer%20Cell&volume=40&pages=1279-1293&publication_year=2022&author=Lau%2CSCM&author=Pan%2CY&author=Velcheti%2CV&author=Wong%2CKK) 
     
 48.  Mullen, N. J. & Singh, P. K. Nucleotide metabolism: a pan-cancer metabolic dependency. _Nat. Rev. Cancer_ **23**, 275–294 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36973407)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041518)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Nucleotide%20metabolism%3A%20a%20pan-cancer%20metabolic%20dependency&journal=Nat.%20Rev.%20Cancer&volume=23&pages=275-294&publication_year=2023&author=Mullen%2CNJ&author=Singh%2CPK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36973407)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10041518)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXmt1ajsbw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Nucleotide%20metabolism%3A%20a%20pan-cancer%20metabolic%20dependency&journal=Nat.%20Rev.%20Cancer&volume=23&pages=275-294&publication_year=2023&author=Mullen%2CNJ&author=Singh%2CPK) 
     
 49.  Friedlaender, A., Drilon, A., Banna, G. L., Peters, S. & Addeo, A. The METeoric rise of MET in lung cancer. _Cancer_ **126**, 4826–4837 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32888330)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20METeoric%20rise%20of%20MET%20in%20lung%20cancer&journal=Cancer&volume=126&pages=4826-4837&publication_year=2020&author=Friedlaender%2CA&author=Drilon%2CA&author=Banna%2CGL&author=Peters%2CS&author=Addeo%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32888330)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXitFehsL7E)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20METeoric%20rise%20of%20MET%20in%20lung%20cancer&journal=Cancer&volume=126&pages=4826-4837&publication_year=2020&author=Friedlaender%2CA&author=Drilon%2CA&author=Banna%2CGL&author=Peters%2CS&author=Addeo%2CA) 
     
 50.  Herbst, R. S., Morgensztern, D. & Boshoff, C. The biology and management of non-small cell lung cancer. _Nature_ **553**, 446–454 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29364287)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20biology%20and%20management%20of%20non-small%20cell%20lung%20cancer&journal=Nature&volume=553&pages=446-454&publication_year=2018&author=Herbst%2CRS&author=Morgensztern%2CD&author=Boshoff%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29364287)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhs12itbo%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20biology%20and%20management%20of%20non-small%20cell%20lung%20cancer&journal=Nature&volume=553&pages=446-454&publication_year=2018&author=Herbst%2CRS&author=Morgensztern%2CD&author=Boshoff%2CC) 
     
 51.  Bansal, A. & Simon, M. C. Glutathione metabolism in cancer progression and treatment resistance. _J. Cell Biol._ **217**, 2291–2298 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29915025)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028537)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Glutathione%20metabolism%20in%20cancer%20progression%20and%20treatment%20resistance&journal=J.%20Cell%20Biol.&volume=217&pages=2291-2298&publication_year=2018&author=Bansal%2CA&author=Simon%2CMC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29915025)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028537)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhvFGntb3N)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Glutathione%20metabolism%20in%20cancer%20progression%20and%20treatment%20resistance&journal=J.%20Cell%20Biol.&volume=217&pages=2291-2298&publication_year=2018&author=Bansal%2CA&author=Simon%2CMC) 
     
 52.  Hayes, J. D. & Ashford, M. L. Nrf2 orchestrates fuel partitioning for cell proliferation. _Cell Metab._ **16**, 139–141 (2012).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22883227)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Nrf2%20orchestrates%20fuel%20partitioning%20for%20cell%20proliferation&journal=Cell%20Metab.&volume=16&pages=139-141&publication_year=2012&author=Hayes%2CJD&author=Ashford%2CML) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22883227)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtFKit77J)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Nrf2%20orchestrates%20fuel%20partitioning%20for%20cell%20proliferation&journal=Cell%20Metab.&volume=16&pages=139-141&publication_year=2012&author=Hayes%2CJD&author=Ashford%2CML) 
     
 53.  Leitner, B. P. et al. Multimodal analysis suggests differential immuno-metabolic crosstalk in lung squamous cell carcinoma and adenocarcinoma. _npj Precis. Oncol._ **6**, 8 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35087143)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795406)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multimodal%20analysis%20suggests%20differential%20immuno-metabolic%20crosstalk%20in%20lung%20squamous%20cell%20carcinoma%20and%20adenocarcinoma&journal=npj%20Precis.%20Oncol.&volume=6&publication_year=2022&author=Leitner%2CBP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35087143)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795406)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhtVWkurnE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multimodal%20analysis%20suggests%20differential%20immuno-metabolic%20crosstalk%20in%20lung%20squamous%20cell%20carcinoma%20and%20adenocarcinoma&journal=npj%20Precis.%20Oncol.&volume=6&publication_year=2022&author=Leitner%2CBP) 
     
 54.  Muto, Y. et al. Defining cellular complexity in human autosomal dominant polycystic kidney disease by multimodal single cell analysis. _Nat. Commun._ **13**, 6497 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36310237)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9618568)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Defining%20cellular%20complexity%20in%20human%20autosomal%20dominant%20polycystic%20kidney%20disease%20by%20multimodal%20single%20cell%20analysis&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Muto%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36310237)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9618568)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XivVWru73O)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Defining%20cellular%20complexity%20in%20human%20autosomal%20dominant%20polycystic%20kidney%20disease%20by%20multimodal%20single%20cell%20analysis&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Muto%2CY) 
     
 55.  Wilson, P. C. et al. Multimodal single cell sequencing implicates chromatin accessibility and genetic background in diabetic kidney disease progression. _Nat. Commun._ **13**, 5253 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36068241)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9448792)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multimodal%20single%20cell%20sequencing%20implicates%20chromatin%20accessibility%20and%20genetic%20background%20in%20diabetic%20kidney%20disease%20progression&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Wilson%2CPC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36068241)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9448792)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitlGmu7rN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multimodal%20single%20cell%20sequencing%20implicates%20chromatin%20accessibility%20and%20genetic%20background%20in%20diabetic%20kidney%20disease%20progression&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Wilson%2CPC) 
     
 56.  Liu, H. et al. Kidney multiome-based genetic scorecard reveals convergent coding and regulatory variants. _Science_ **387**, eadp4753 (2025).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39913582)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12013656)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Kidney%20multiome-based%20genetic%20scorecard%20reveals%20convergent%20coding%20and%20regulatory%20variants&journal=Science&volume=387&publication_year=2025&author=Liu%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39913582)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12013656)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXjs1aqtLw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Kidney%20multiome-based%20genetic%20scorecard%20reveals%20convergent%20coding%20and%20regulatory%20variants&journal=Science&volume=387&publication_year=2025&author=Liu%2CH) 
     
 57.  Xu, C. et al. Probabilistic harmonization and annotation of single-cell transcriptomics data with deep generative models. _Mol. Syst. Biol._ **17**, e9620 (2021).
     
@@ -340,23 +340,23 @@ References
     
 59.  Yang, X. et al. Genome-wide linkage and regional association study of blood pressure response to the cold pressor test in Han Chinese: the genetic epidemiology network of salt sensitivity study. _Circ. Cardiovasc. Genet._ **7**, 521–528 (2014).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25028485)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4264620)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20linkage%20and%20regional%20association%20study%20of%20blood%20pressure%20response%20to%20the%20cold%20pressor%20test%20in%20Han%20Chinese%3A%20the%20genetic%20epidemiology%20network%20of%20salt%20sensitivity%20study&journal=Circ.%20Cardiovasc.%20Genet.&volume=7&pages=521-528&publication_year=2014&author=Yang%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25028485)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4264620)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhtlOiurjO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20linkage%20and%20regional%20association%20study%20of%20blood%20pressure%20response%20to%20the%20cold%20pressor%20test%20in%20Han%20Chinese%3A%20the%20genetic%20epidemiology%20network%20of%20salt%20sensitivity%20study&journal=Circ.%20Cardiovasc.%20Genet.&volume=7&pages=521-528&publication_year=2014&author=Yang%2CX) 
     
 60.  Hanukoglu, I. & Hanukoglu, A. Epithelial sodium channel (ENaC) family: phylogeny, structure-function, tissue distribution, and associated inherited diseases. _Gene_ **579**, 95–132 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26772908)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4756657)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Epithelial%20sodium%20channel%20%28ENaC%29%20family%3A%20phylogeny%2C%20structure-function%2C%20tissue%20distribution%2C%20and%20associated%20inherited%20diseases&journal=Gene&volume=579&pages=95-132&publication_year=2016&author=Hanukoglu%2CI&author=Hanukoglu%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26772908)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4756657)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28Xlt1ChtQ%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Epithelial%20sodium%20channel%20%28ENaC%29%20family%3A%20phylogeny%2C%20structure-function%2C%20tissue%20distribution%2C%20and%20associated%20inherited%20diseases&journal=Gene&volume=579&pages=95-132&publication_year=2016&author=Hanukoglu%2CI&author=Hanukoglu%2CA) 
     
 61.  Crowley, S. D. & Coffman, T. M. The inextricable role of the kidney in hypertension. _J. Clin. Invest._ **124**, 2341–2347 (2014).
     
-    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4092877)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20inextricable%20role%20of%20the%20kidney%20in%20hypertension&journal=J.%20Clin.%20Invest.&volume=124&pages=2341-2347&publication_year=2014&author=Crowley%2CSD&author=Coffman%2CTM) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4092877)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXpvFaitbY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20inextricable%20role%20of%20the%20kidney%20in%20hypertension&journal=J.%20Clin.%20Invest.&volume=124&pages=2341-2347&publication_year=2014&author=Crowley%2CSD&author=Coffman%2CTM) 
     
 62.  Russo, C. J. et al. Association of NEDD4L ubiquitin ligase with essential hypertension. _Hypertension_ **46**, 488–491 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16103266)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20of%20NEDD4L%20ubiquitin%20ligase%20with%20essential%20hypertension&journal=Hypertension&volume=46&pages=488-491&publication_year=2005&author=Russo%2CCJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16103266)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXptVWkurk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20of%20NEDD4L%20ubiquitin%20ligase%20with%20essential%20hypertension&journal=Hypertension&volume=46&pages=488-491&publication_year=2005&author=Russo%2CCJ) 
     
 63.  Persu, A. & Devuyst, O. Transepithelial chloride secretion and cystogenesis in autosomal dominant polycystic kidney disease. _Nephrol. Dial. Transplant._ **15**, 747–750 (2000).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10831619)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transepithelial%20chloride%20secretion%20and%20cystogenesis%20in%20autosomal%20dominant%20polycystic%20kidney%20disease&journal=Nephrol.%20Dial.%20Transplant.&volume=15&pages=747-750&publication_year=2000&author=Persu%2CA&author=Devuyst%2CO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10831619)  [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BD3c3ptleiuw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transepithelial%20chloride%20secretion%20and%20cystogenesis%20in%20autosomal%20dominant%20polycystic%20kidney%20disease&journal=Nephrol.%20Dial.%20Transplant.&volume=15&pages=747-750&publication_year=2000&author=Persu%2CA&author=Devuyst%2CO) 
     
 64.  Müller, R. U. et al. An update on the use of tolvaptan for autosomal dominant polycystic kidney disease: consensus statement on behalf of the ERA Working Group on Inherited Kidney Disorders, the European Rare Kidney Disease Reference Network and Polycystic Kidney Disease International. _Nephrol. Dial. Transplant._ **37**, 825–839 (2022).
     
@@ -368,15 +368,15 @@ References
     
 66.  Li, X. et al. A tumor necrosis factor-α-mediated pathway promoting autosomal dominant polycystic kidney disease. _Nat. Med._ **14**, 863–868 (2008).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18552856)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3359869)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20tumor%20necrosis%20factor-%CE%B1-mediated%20pathway%20promoting%20autosomal%20dominant%20polycystic%20kidney%20disease&journal=Nat.%20Med.&volume=14&pages=863-868&publication_year=2008&author=Li%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18552856)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3359869)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1cXptlKltL0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20tumor%20necrosis%20factor-%CE%B1-mediated%20pathway%20promoting%20autosomal%20dominant%20polycystic%20kidney%20disease&journal=Nat.%20Med.&volume=14&pages=863-868&publication_year=2008&author=Li%2CX) 
     
 67.  Song, Y., Miao, Z., Brazma, A. & Papatheodorou, I. Benchmarking strategies for cross-species integration of single-cell RNA sequencing data. _Nat. Commun._ **14**, 6495 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37838716)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576752)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Benchmarking%20strategies%20for%20cross-species%20integration%20of%20single-cell%20RNA%20sequencing%20data&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Song%2CY&author=Miao%2CZ&author=Brazma%2CA&author=Papatheodorou%2CI) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37838716)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576752)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXitFejtrrO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Benchmarking%20strategies%20for%20cross-species%20integration%20of%20single-cell%20RNA%20sequencing%20data&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Song%2CY&author=Miao%2CZ&author=Brazma%2CA&author=Papatheodorou%2CI) 
     
 68.  Rosen, Y. Towards universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN. _Nat. Methods_ **21**, 1492–1500 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38366243)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11310084)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20universal%20cell%20embeddings%3A%20integrating%20single-cell%20RNA-seq%20datasets%20across%20species%20with%20SATURN&journal=Nat.%20Methods&volume=21&pages=1492-1500&publication_year=2024&author=Rosen%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38366243)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11310084)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXjvVaksb0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20universal%20cell%20embeddings%3A%20integrating%20single-cell%20RNA-seq%20datasets%20across%20species%20with%20SATURN&journal=Nat.%20Methods&volume=21&pages=1492-1500&publication_year=2024&author=Rosen%2CY) 
     
 69.  Swamy, V. S., Fufa, T. D., Hufnagel, R. B. & McGaughey, D. M. Building the mega single-cell transcriptome ocular meta-atlas. _GigaScience_ **10**, giab061 (2021).
     
@@ -384,27 +384,27 @@ References
     
 70.  Bakken, T. E. et al. Comparative cellular analysis of motor cortex in human, marmoset and mouse. _Nature_ **598**, 111–119 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34616062)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8494640)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Comparative%20cellular%20analysis%20of%20motor%20cortex%20in%20human%2C%20marmoset%20and%20mouse&journal=Nature&volume=598&pages=111-119&publication_year=2021&author=Bakken%2CTE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34616062)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8494640)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXit1WqsbjM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Comparative%20cellular%20analysis%20of%20motor%20cortex%20in%20human%2C%20marmoset%20and%20mouse&journal=Nature&volume=598&pages=111-119&publication_year=2021&author=Bakken%2CTE) 
     
 71.  Li, H. et al. Cross-species single-cell transcriptomic analysis reveals divergence of cell composition and functions in mammalian ileum epithelium. _Cell Regen._ **11**, 19 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35511361)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072607)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cross-species%20single-cell%20transcriptomic%20analysis%20reveals%20divergence%20of%20cell%20composition%20and%20functions%20in%20mammalian%20ileum%20epithelium&journal=Cell%20Regen.&volume=11&publication_year=2022&author=Li%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35511361)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072607)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1agtLnJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cross-species%20single-cell%20transcriptomic%20analysis%20reveals%20divergence%20of%20cell%20composition%20and%20functions%20in%20mammalian%20ileum%20epithelium&journal=Cell%20Regen.&volume=11&publication_year=2022&author=Li%2CH) 
     
 72.  Chen, D. et al. Single cell atlas for 11 non-model mammals, reptiles and birds. _Nat. Commun._ **12**, 7083 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34873160)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648889)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single%20cell%20atlas%20for%2011%20non-model%20mammals%2C%20reptiles%20and%20birds&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Chen%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34873160)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648889)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1Oru77M)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single%20cell%20atlas%20for%2011%20non-model%20mammals%2C%20reptiles%20and%20birds&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Chen%2CD) 
     
 73.  Song, Y., Hu, Y., Dow, J., Perrimon, N. & Papatheodorou, I. ScGOclust: leveraging gene ontology to find functionally analogous cell types between distant species. _Bioinformatics_ **41**, i571–i579 (2025).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=40662793)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12261464)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ScGOclust%3A%20leveraging%20gene%20ontology%20to%20find%20functionally%20analogous%20cell%20types%20between%20distant%20species&journal=Bioinformatics&volume=41&pages=i571-i579&publication_year=2025&author=Song%2CY&author=Hu%2CY&author=Dow%2CJ&author=Perrimon%2CN&author=Papatheodorou%2CI) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=40662793)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12261464)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXhs1SnsLbI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ScGOclust%3A%20leveraging%20gene%20ontology%20to%20find%20functionally%20analogous%20cell%20types%20between%20distant%20species&journal=Bioinformatics&volume=41&pages=i571-i579&publication_year=2025&author=Song%2CY&author=Hu%2CY&author=Dow%2CJ&author=Perrimon%2CN&author=Papatheodorou%2CI) 
     
 74.  Andreatta, M. & Carmona, S. J. UCell: robust and scalable single-cell gene signature scoring. _Comput. Struct. Biotechnol. J._ **19**, 3796–3798 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34285779)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8271111)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=UCell%3A%20robust%20and%20scalable%20single-cell%20gene%20signature%20scoring&journal=Comput.%20Struct.%20Biotechnol.%20J.&volume=19&pages=3796-3798&publication_year=2021&author=Andreatta%2CM&author=Carmona%2CSJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34285779)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8271111)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXisF2gsr%2FF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=UCell%3A%20robust%20and%20scalable%20single-cell%20gene%20signature%20scoring&journal=Comput.%20Struct.%20Biotechnol.%20J.&volume=19&pages=3796-3798&publication_year=2021&author=Andreatta%2CM&author=Carmona%2CSJ) 
     
 75.  Noureen, N., Ye, Z., Chen, Y., Wang, X. & Zheng, S. Signature-scoring methods developed for bulk samples are not adequate for cancer single-cell RNA sequencing data. _eLife_ **11**, e71994 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35212622)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8916770)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Signature-scoring%20methods%20developed%20for%20bulk%20samples%20are%20not%20adequate%20for%20cancer%20single-cell%20RNA%20sequencing%20data&journal=eLife&volume=11&publication_year=2022&author=Noureen%2CN&author=Ye%2CZ&author=Chen%2CY&author=Wang%2CX&author=Zheng%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35212622)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8916770)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhvF2hu7jI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Signature-scoring%20methods%20developed%20for%20bulk%20samples%20are%20not%20adequate%20for%20cancer%20single-cell%20RNA%20sequencing%20data&journal=eLife&volume=11&publication_year=2022&author=Noureen%2CN&author=Ye%2CZ&author=Chen%2CY&author=Wang%2CX&author=Zheng%2CS) 
     
 76.  Tomfohr, J., Lu, J. & Kepler, T. B. Pathway level analysis of gene expression using singular value decomposition. _BMC Bioinformatics_ **6**, 225 (2005).
     
@@ -412,39 +412,39 @@ References
     
 77.  Ozerov, I. V. et al. In silico Pathway Activation Network Decomposition Analysis (iPANDA) as a method for biomarker development. _Nat. Commun._ **7**, 13427 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27848968)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116087)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=In%20silico%20Pathway%20Activation%20Network%20Decomposition%20Analysis%20%28iPANDA%29%20as%20a%20method%20for%20biomarker%20development&journal=Nat.%20Commun.&volume=7&publication_year=2016&author=Ozerov%2CIV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27848968)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116087)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhvVygu77M)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=In%20silico%20Pathway%20Activation%20Network%20Decomposition%20Analysis%20%28iPANDA%29%20as%20a%20method%20for%20biomarker%20development&journal=Nat.%20Commun.&volume=7&publication_year=2016&author=Ozerov%2CIV) 
     
 78.  Barbie, D. A. et al. Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1. _Nature_ **462**, 108–112 (2009).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19847166)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2783335)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20RNA%20interference%20reveals%20that%20oncogenic%20KRAS-driven%20cancers%20require%20TBK1&journal=Nature&volume=462&pages=108-112&publication_year=2009&author=Barbie%2CDA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19847166)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2783335)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXht12gtrvL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20RNA%20interference%20reveals%20that%20oncogenic%20KRAS-driven%20cancers%20require%20TBK1&journal=Nature&volume=462&pages=108-112&publication_year=2009&author=Barbie%2CDA) 
     
 79.  Levy, O. et al. Age-related loss of gene-to-gene transcriptional coordination among single cells. _Nat. Metab._ **2**, 1305–1315 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33139959)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Age-related%20loss%20of%20gene-to-gene%20transcriptional%20coordination%20among%20single%20cells&journal=Nat.%20Metab.&volume=2&pages=1305-1315&publication_year=2020&author=Levy%2CO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33139959)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXitlCmtb3E)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Age-related%20loss%20of%20gene-to-gene%20transcriptional%20coordination%20among%20single%20cells&journal=Nat.%20Metab.&volume=2&pages=1305-1315&publication_year=2020&author=Levy%2CO) 
     
 80.  Yu, T. & Bai, Y. Capturing changes in gene expression dynamics by gene set differential coordination analysis. _Genomics_ **98**, 469–477 (2011).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21971296)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Capturing%20changes%20in%20gene%20expression%20dynamics%20by%20gene%20set%20differential%20coordination%20analysis&journal=Genomics&volume=98&pages=469-477&publication_year=2011&author=Yu%2CT&author=Bai%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21971296)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhsFWqsLrM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Capturing%20changes%20in%20gene%20expression%20dynamics%20by%20gene%20set%20differential%20coordination%20analysis&journal=Genomics&volume=98&pages=469-477&publication_year=2011&author=Yu%2CT&author=Bai%2CY) 
     
 81.  Leote, A. C., Lopes, F. & Beyer, A. Loss of coordination between basic cellular processes in human aging. _Nat. Aging_ **4**, 1432–1445 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39227753)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11485205)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Loss%20of%20coordination%20between%20basic%20cellular%20processes%20in%20human%20aging&journal=Nat.%20Aging&volume=4&pages=1432-1445&publication_year=2024&author=Leote%2CAC&author=Lopes%2CF&author=Beyer%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39227753)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11485205)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhvFalsbfK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Loss%20of%20coordination%20between%20basic%20cellular%20processes%20in%20human%20aging&journal=Nat.%20Aging&volume=4&pages=1432-1445&publication_year=2024&author=Leote%2CAC&author=Lopes%2CF&author=Beyer%2CA) 
     
 82.  Fischer, S., Crow, M., Harris, B. D. & Gillis, J. Scaling up reproducible research for single-cell transcriptomics using MetaNeighbor. _Nat. Protoc._ **16**, 4031–4067 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34234317)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826496)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scaling%20up%20reproducible%20research%20for%20single-cell%20transcriptomics%20using%20MetaNeighbor&journal=Nat.%20Protoc.&volume=16&pages=4031-4067&publication_year=2021&author=Fischer%2CS&author=Crow%2CM&author=Harris%2CBD&author=Gillis%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34234317)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826496)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhsFSnsbzM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scaling%20up%20reproducible%20research%20for%20single-cell%20transcriptomics%20using%20MetaNeighbor&journal=Nat.%20Protoc.&volume=16&pages=4031-4067&publication_year=2021&author=Fischer%2CS&author=Crow%2CM&author=Harris%2CBD&author=Gillis%2CJ) 
     
 83.  Maan, H. et al. Characterizing the impacts of dataset imbalance on single-cell data integration. _Nat. Biotechnol._ **42**, 1899–1908 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38429430)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Characterizing%20the%20impacts%20of%20dataset%20imbalance%20on%20single-cell%20data%20integration&journal=Nat.%20Biotechnol.&volume=42&pages=1899-1908&publication_year=2024&author=Maan%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38429430)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXkvFGltLk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Characterizing%20the%20impacts%20of%20dataset%20imbalance%20on%20single-cell%20data%20integration&journal=Nat.%20Biotechnol.&volume=42&pages=1899-1908&publication_year=2024&author=Maan%2CH) 
     
 84.  Beckerman, P. et al. Transgenic expression of human APOL1 risk variants in podocytes induces kidney disease in mice. _Nat. Med._ **23**, 429–438 (2017).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28218918)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5603285)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transgenic%20expression%20of%20human%20APOL1%20risk%20variants%20in%20podocytes%20induces%20kidney%20disease%20in%20mice&journal=Nat.%20Med.&volume=23&pages=429-438&publication_year=2017&author=Beckerman%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28218918)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5603285)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXjtVeqtro%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transgenic%20expression%20of%20human%20APOL1%20risk%20variants%20in%20podocytes%20induces%20kidney%20disease%20in%20mice&journal=Nat.%20Med.&volume=23&pages=429-438&publication_year=2017&author=Beckerman%2CP) 
     
 85.  McGinnis, C. S., Murrow, L. M. & Gartner, Z. J. DoubletFinder: doublet detection in single-cell RNA sequencing data using artificial nearest neighbors. _Cell Syst._ **8**, 329–337 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30954475)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853612)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DoubletFinder%3A%20doublet%20detection%20in%20single-cell%20RNA%20sequencing%20data%20using%20artificial%20nearest%20neighbors&journal=Cell%20Syst.&volume=8&pages=329-337&publication_year=2019&author=McGinnis%2CCS&author=Murrow%2CLM&author=Gartner%2CZJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30954475)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853612)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXosVyhtbk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DoubletFinder%3A%20doublet%20detection%20in%20single-cell%20RNA%20sequencing%20data%20using%20artificial%20nearest%20neighbors&journal=Cell%20Syst.&volume=8&pages=329-337&publication_year=2019&author=McGinnis%2CCS&author=Murrow%2CLM&author=Gartner%2CZJ) 
     
 86.  Young, M. D. & Behjati, S. SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data. _GigaScience_ **9**, giaa151 (2020).
     
@@ -452,7 +452,7 @@ References
     
 87.  Martin, F. J. et al. Ensembl 2023. _Nucleic Acids Res._ **51**, D933–D941 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36318249)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ensembl%202023&journal=Nucleic%20Acids%20Res.&volume=51&pages=D933-D941&publication_year=2023&author=Martin%2CFJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36318249)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXht1GhsLrL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ensembl%202023&journal=Nucleic%20Acids%20Res.&volume=51&pages=D933-D941&publication_year=2023&author=Martin%2CFJ) 
     
 88.  Cakir, B. et al. Comparison of visualization tools for single-cell RNAseq data. _NAR Genom. Bioinform._ **2**, lqaa052 (2020).
     
@@ -464,11 +464,11 @@ References
     
 90.  Traag, V. A., Waltman, L. & van Eck, N. J. From Louvain to Leiden: guaranteeing well-connected communities. _Sci. Rep._ **9**, 5233 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30914743)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435756)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=From%20Louvain%20to%20Leiden%3A%20guaranteeing%20well-connected%20communities&journal=Sci.%20Rep.&volume=9&publication_year=2019&author=Traag%2CVA&author=Waltman%2CL&author=Eck%2CNJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30914743)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6435756)  [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BB3cbosVGisQ%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=From%20Louvain%20to%20Leiden%3A%20guaranteeing%20well-connected%20communities&journal=Sci.%20Rep.&volume=9&publication_year=2019&author=Traag%2CVA&author=Waltman%2CL&author=Eck%2CNJ) 
     
 91.  Kuleshov, M. V. et al. Enrichr: a comprehensive gene set enrichment analysis web server 2016 update. _Nucleic Acids Res._ **44**, W90–W97 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27141961)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987924)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enrichr%3A%20a%20comprehensive%20gene%20set%20enrichment%20analysis%20web%20server%202016%20update&journal=Nucleic%20Acids%20Res.&volume=44&pages=W90-W97&publication_year=2016&author=Kuleshov%2CMV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27141961)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987924)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtV2itrfF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enrichr%3A%20a%20comprehensive%20gene%20set%20enrichment%20analysis%20web%20server%202016%20update&journal=Nucleic%20Acids%20Res.&volume=44&pages=W90-W97&publication_year=2016&author=Kuleshov%2CMV) 
     
 92.  Szklarczyk, D. et al. The STRING database in 2023: protein–protein association networks and functional enrichment analyses for any sequenced genome of interest. _Nucleic Acids Res._ **51**, D638–D646 (2022).
     
@@ -480,7 +480,7 @@ References
     
 95.  Kleshchevnikov, V. et al. Cell2location maps fine-grained cell types in spatial transcriptomics. _Nat. Biotechnol._ **40**, 661–671 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35027729)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cell2location%20maps%20fine-grained%20cell%20types%20in%20spatial%20transcriptomics&journal=Nat.%20Biotechnol.&volume=40&pages=661-671&publication_year=2022&author=Kleshchevnikov%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35027729)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1KqsL8%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cell2location%20maps%20fine-grained%20cell%20types%20in%20spatial%20transcriptomics&journal=Nat.%20Biotechnol.&volume=40&pages=661-671&publication_year=2022&author=Kleshchevnikov%2CV) 
     
 96.  Megill, C. et al. cellxgene: a performant, scalable exploration platform for high dimensional sparse matrices. Preprint at _bioRxiv_ [https://doi.org/10.1101/2021.04.05.438318](https://doi.org/10.1101/2021.04.05.438318) (2021).
     

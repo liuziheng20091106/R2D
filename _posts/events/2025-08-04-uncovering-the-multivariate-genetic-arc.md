@@ -126,11 +126,11 @@ References
     
 6.  Mitnitski, A. B., Mogilner, A. J. & Rockwood, K. Accumulation of deficits as a proxy measure of aging. _Sci. World J._ **1**, 323–336 (2001).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Accumulation%20of%20deficits%20as%20a%20proxy%20measure%20of%20aging&journal=Sci.%20World%20J.&volume=1&pages=323-336&publication_year=2001&author=Mitnitski%2CAB&author=Mogilner%2CAJ&author=Rockwood%2CK) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BD3s3nvV2quw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Accumulation%20of%20deficits%20as%20a%20proxy%20measure%20of%20aging&journal=Sci.%20World%20J.&volume=1&pages=323-336&publication_year=2001&author=Mitnitski%2CAB&author=Mogilner%2CAJ&author=Rockwood%2CK) 
     
 7.  Fried, L. P. et al. Frailty in older adults: evidence for a phenotype. _J. Gerontol. A_ **56**, M146–M157 (2001).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Frailty%20in%20older%20adults%3A%20evidence%20for%20a%20phenotype&journal=J.%20Gerontol.%20A&volume=56&pages=M146-M157&publication_year=2001&author=Fried%2CLP) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BD3M7osFejuw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Frailty%20in%20older%20adults%3A%20evidence%20for%20a%20phenotype&journal=J.%20Gerontol.%20A&volume=56&pages=M146-M157&publication_year=2001&author=Fried%2CLP) 
     
 8.  Howlett, S. E., Rutenberg, A. D. & Rockwood, K. The degree of frailty as a translational measure of health in aging. _Nat. Aging_ **1**, 651–665 (2021).
     
@@ -146,7 +146,7 @@ References
     
 11.  Lachmann, R. et al. The accumulation of deficits approach to describe frailty. _PLoS ONE_ **14**, e0223449 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31613904)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6793873)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20accumulation%20of%20deficits%20approach%20to%20describe%20frailty&journal=PLoS%20ONE&volume=14&publication_year=2019&author=Lachmann%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31613904)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6793873)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXit1WisLbO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20accumulation%20of%20deficits%20approach%20to%20describe%20frailty&journal=PLoS%20ONE&volume=14&publication_year=2019&author=Lachmann%2CR) 
     
 12.  Pridham, G., Rockwood, K. & Rutenberg, A. Efficient representations of binarized health deficit data: the frailty index and beyond. _Geroscience_ **45**, 1687–1711 (2023).
     
@@ -162,31 +162,31 @@ References
     
 15.  Wray, N. R. et al. Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression. _Nat. Genet._ **50**, 668–681 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29700475)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934326)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20analyses%20identify%2044%20risk%20variants%20and%20refine%20the%20genetic%20architecture%20of%20major%20depression&journal=Nat.%20Genet.&volume=50&pages=668-681&publication_year=2018&author=Wray%2CNR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29700475)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934326)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXosVCks74%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20analyses%20identify%2044%20risk%20variants%20and%20refine%20the%20genetic%20architecture%20of%20major%20depression&journal=Nat.%20Genet.&volume=50&pages=668-681&publication_year=2018&author=Wray%2CNR) 
     
 16.  Trpchevska, N. et al. Genome-wide association meta-analysis identifies 48 risk variants and highlights the role of the stria vascularis in hearing loss. _Am. J. Hum. Genet._ **109**, 1077–1091 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35580588)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9247887)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20meta-analysis%20identifies%2048%20risk%20variants%20and%20highlights%20the%20role%20of%20the%20stria%20vascularis%20in%20hearing%20loss&journal=Am.%20J.%20Hum.%20Genet.&volume=109&pages=1077-1091&publication_year=2022&author=Trpchevska%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35580588)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9247887)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhtlSnu7zM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20meta-analysis%20identifies%2048%20risk%20variants%20and%20highlights%20the%20role%20of%20the%20stria%20vascularis%20in%20hearing%20loss&journal=Am.%20J.%20Hum.%20Genet.&volume=109&pages=1077-1091&publication_year=2022&author=Trpchevska%2CN) 
     
 17.  Watanabe, K. et al. Genome-wide meta-analysis of insomnia prioritizes genes associated with metabolic and psychiatric pathways. _Nat. Genet._ **54**, 1125–1132 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35835914)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%20of%20insomnia%20prioritizes%20genes%20associated%20with%20metabolic%20and%20psychiatric%20pathways&journal=Nat.%20Genet.&volume=54&pages=1125-1132&publication_year=2022&author=Watanabe%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35835914)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhvVaqsrzK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%20of%20insomnia%20prioritizes%20genes%20associated%20with%20metabolic%20and%20psychiatric%20pathways&journal=Nat.%20Genet.&volume=54&pages=1125-1132&publication_year=2022&author=Watanabe%2CK) 
     
 18.  Liu, M. et al. Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use. _Nat. Genet._ **51**, 237–244 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30643251)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6358542)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20studies%20of%20up%20to%201.2%20million%20individuals%20yield%20new%20insights%20into%20the%20genetic%20etiology%20of%20tobacco%20and%20alcohol%20use&journal=Nat.%20Genet.&volume=51&pages=237-244&publication_year=2019&author=Liu%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30643251)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6358542)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXlvFSns7g%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Association%20studies%20of%20up%20to%201.2%20million%20individuals%20yield%20new%20insights%20into%20the%20genetic%20etiology%20of%20tobacco%20and%20alcohol%20use&journal=Nat.%20Genet.&volume=51&pages=237-244&publication_year=2019&author=Liu%2CM) 
     
 19.  Jones, G. et al. Genome-wide meta-analysis of muscle weakness identifies 15 susceptibility loci in older men and women. _Nat. Commun._ **12**, 654 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33510174)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7844411)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%20of%20muscle%20weakness%20identifies%2015%20susceptibility%20loci%20in%20older%20men%20and%20women&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Jones%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33510174)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7844411)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXivVWitLc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%20of%20muscle%20weakness%20identifies%2015%20susceptibility%20loci%20in%20older%20men%20and%20women&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Jones%2CG) 
     
 20.  Atkins, J. L. et al. A genome-wide association study of the frailty index highlights brain pathways in ageing. _Aging Cell_ **20**, e13459 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34431594)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8441299)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20association%20study%20of%20the%20frailty%20index%20highlights%20brain%20pathways%20in%20ageing&journal=Aging%20Cell&volume=20&publication_year=2021&author=Atkins%2CJL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34431594)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8441299)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhvVOrtrzK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20association%20study%20of%20the%20frailty%20index%20highlights%20brain%20pathways%20in%20ageing&journal=Aging%20Cell&volume=20&publication_year=2021&author=Atkins%2CJL) 
     
 21.  Ye, Y. et al. A genome-wide association study of frailty identifies significant genetic correlation with neuropsychiatric, cardiovascular, and inflammation pathways. _Geroscience_ **45**, 2511–2523 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36928559)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10651618)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20association%20study%20of%20frailty%20identifies%20significant%20genetic%20correlation%20with%20neuropsychiatric%2C%20cardiovascular%2C%20and%20inflammation%20pathways&journal=Geroscience&volume=45&pages=2511-2523&publication_year=2023&author=Ye%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36928559)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10651618)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXlsFWltbw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20association%20study%20of%20frailty%20identifies%20significant%20genetic%20correlation%20with%20neuropsychiatric%2C%20cardiovascular%2C%20and%20inflammation%20pathways&journal=Geroscience&volume=45&pages=2511-2523&publication_year=2023&author=Ye%2CY) 
     
 22.  Zhou, Y. et al. Metascape provides a biologist-oriented resource for the analysis of systems-level datasets. _Nat. Commun._ **10**, 1523 (2019).
     
@@ -194,7 +194,7 @@ References
     
 23.  Pebrel-Richard, C. et al. An unusual clinical severity of 16p11.2 deletion syndrome caused by unmasked recessive mutation of _CLN3_. _Eur. J. Hum. Genet._ **22**, 369–373 (2014).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23860047)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20unusual%20clinical%20severity%20of%2016p11.2%20deletion%20syndrome%20caused%20by%20unmasked%20recessive%20mutation%20of%20CLN3&journal=Eur.%20J.%20Hum.%20Genet.&volume=22&pages=369-373&publication_year=2014&author=Pebrel-Richard%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23860047)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXis1Wqsbc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20unusual%20clinical%20severity%20of%2016p11.2%20deletion%20syndrome%20caused%20by%20unmasked%20recessive%20mutation%20of%20CLN3&journal=Eur.%20J.%20Hum.%20Genet.&volume=22&pages=369-373&publication_year=2014&author=Pebrel-Richard%2CC) 
     
 24.  Liotta, G. et al. Exploratory factor analysis (EFA) of the Short Functional Geriatric Evaluation (SFGE) to assess the multidimensionality of frailty in community-dwelling older adults. _Int. J. Environ. Res. Public Health_ **20**, 4129 (2023).
     
@@ -206,7 +206,7 @@ References
     
 26.  Soysal, P. et al. Inflammation and frailty in the elderly: a systematic review and meta-analysis. _Ageing Res. Rev._ **31**, 1–8 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27592340)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inflammation%20and%20frailty%20in%20the%20elderly%3A%20a%20systematic%20review%20and%20meta-analysis&journal=Ageing%20Res.%20Rev.&volume=31&pages=1-8&publication_year=2016&author=Soysal%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27592340)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsVyksrnL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inflammation%20and%20frailty%20in%20the%20elderly%3A%20a%20systematic%20review%20and%20meta-analysis&journal=Ageing%20Res.%20Rev.&volume=31&pages=1-8&publication_year=2016&author=Soysal%2CP) 
     
 27.  Pothier, K., Gana, W., Bailly, N. & Fougère, B. Associations between frailty and inflammation, physical, and psycho-social health in older adults: a systematic review. _Front. Psychol._ **13**, 805501 (2022).
     
@@ -214,7 +214,7 @@ References
     
 28.  Cheng, Z. et al. C-reactive protein and white blood cell are associated with frailty progression: a longitudinal study. _Immun. Ageing_ **19**, 29 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35659691)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9164533)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=C-reactive%20protein%20and%20white%20blood%20cell%20are%20associated%20with%20frailty%20progression%3A%20a%20longitudinal%20study&journal=Immun.%20Ageing&volume=19&publication_year=2022&author=Cheng%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35659691)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9164533)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhvFGhurnJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=C-reactive%20protein%20and%20white%20blood%20cell%20are%20associated%20with%20frailty%20progression%3A%20a%20longitudinal%20study&journal=Immun.%20Ageing&volume=19&publication_year=2022&author=Cheng%2CZ) 
     
 29.  Li, C.-M., Chao, C.-T., Chen, S.-I., Han, D.-S. & Huang, K.-C. Elevated red cell distribution width is independently associated with a higher frailty risk among 2,932 community-dwelling older adults. _Front. Med._ **7**, 470 (2020).
     
@@ -222,7 +222,7 @@ References
     
 30.  Iwai-Saito, K., Shobugawa, Y., Aida, J. & Kondo, K. Frailty is associated with susceptibility and severity of pneumonia in older adults (a JAGES multilevel cross-sectional study). _Sci. Rep._ **11**, 7966 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33846416)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8041848)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Frailty%20is%20associated%20with%20susceptibility%20and%20severity%20of%20pneumonia%20in%20older%20adults%20%28a%20JAGES%20multilevel%20cross-sectional%20study%29&journal=Sci.%20Rep.&volume=11&publication_year=2021&author=Iwai-Saito%2CK&author=Shobugawa%2CY&author=Aida%2CJ&author=Kondo%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33846416)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8041848)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXptFOmt7s%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Frailty%20is%20associated%20with%20susceptibility%20and%20severity%20of%20pneumonia%20in%20older%20adults%20%28a%20JAGES%20multilevel%20cross-sectional%20study%29&journal=Sci.%20Rep.&volume=11&publication_year=2021&author=Iwai-Saito%2CK&author=Shobugawa%2CY&author=Aida%2CJ&author=Kondo%2CK) 
     
 31.  Sablerolles, R. S. G. et al. Association between Clinical Frailty Scale score and hospital mortality in adult patients with COVID-19 (COMET): an international, multicentre, retrospective, observational cohort study. _Lancet Healthy Longev._ **2**, e163–e170 (2021).
     
@@ -234,15 +234,15 @@ References
     
 33.  Verschoor, C. P. et al. Epigenetic age is associated with baseline and 3-year change in frailty in the Canadian Longitudinal Study on Aging. _Clin. Epigenetics_ **13**, 163 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34425884)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8381580)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Epigenetic%20age%20is%20associated%20with%20baseline%20and%203-year%20change%20in%20frailty%20in%20the%20Canadian%20Longitudinal%20Study%20on%20Aging&journal=Clin.%20Epigenetics&volume=13&publication_year=2021&author=Verschoor%2CCP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34425884)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8381580)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXitVGgtbrK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Epigenetic%20age%20is%20associated%20with%20baseline%20and%203-year%20change%20in%20frailty%20in%20the%20Canadian%20Longitudinal%20Study%20on%20Aging&journal=Clin.%20Epigenetics&volume=13&publication_year=2021&author=Verschoor%2CCP) 
     
 34.  Li, X. et al. Derivation and validation of an epigenetic frailty risk score in population-based cohorts of older adults. _Nat. Commun._ **13**, 5269 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36071044)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450828)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Derivation%20and%20validation%20of%20an%20epigenetic%20frailty%20risk%20score%20in%20population-based%20cohorts%20of%20older%20adults&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Li%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36071044)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450828)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitlGlsLbL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Derivation%20and%20validation%20of%20an%20epigenetic%20frailty%20risk%20score%20in%20population-based%20cohorts%20of%20older%20adults&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Li%2CX) 
     
 35.  Materna, S. C., Sinha, T., Barnes, R. M., Lammerts van Bueren, K. & Black, B. L. Cardiovascular development and survival require _Mef2c_ function in the myocardial but not the endothelial lineage. _Dev. Biol._ **445**, 170–177 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30521808)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cardiovascular%20development%20and%20survival%20require%20Mef2c%20function%20in%20the%20myocardial%20but%20not%20the%20endothelial%20lineage&journal=Dev.%20Biol.&volume=445&pages=170-177&publication_year=2019&author=Materna%2CSC&author=Sinha%2CT&author=Barnes%2CRM&author=Lammerts%20van%20Bueren%2CK&author=Black%2CBL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30521808)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXisVKitb7N)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cardiovascular%20development%20and%20survival%20require%20Mef2c%20function%20in%20the%20myocardial%20but%20not%20the%20endothelial%20lineage&journal=Dev.%20Biol.&volume=445&pages=170-177&publication_year=2019&author=Materna%2CSC&author=Sinha%2CT&author=Barnes%2CRM&author=Lammerts%20van%20Bueren%2CK&author=Black%2CBL) 
     
 36.  Anderson, C. M. et al. Myocyte enhancer factor 2C function in skeletal muscle is required for normal growth and glucose metabolism in mice. _Skelet. Muscle_ **5**, 7 (2015).
     
@@ -254,19 +254,19 @@ References
     
 38.  Barker, S. J. et al. MEF2 is a key regulator of cognitive potential and confers resilience to neurodegeneration. _Sci. Transl. Med._ **13**, eabd7695 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34731014)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258338)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MEF2%20is%20a%20key%20regulator%20of%20cognitive%20potential%20and%20confers%20resilience%20to%20neurodegeneration&journal=Sci.%20Transl.%20Med.&volume=13&publication_year=2021&author=Barker%2CSJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34731014)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258338)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXisF2jsb7K)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MEF2%20is%20a%20key%20regulator%20of%20cognitive%20potential%20and%20confers%20resilience%20to%20neurodegeneration&journal=Sci.%20Transl.%20Med.&volume=13&publication_year=2021&author=Barker%2CSJ) 
     
 39.  Bellenguez, C. et al. New insights into the genetic etiology of Alzheimer’s disease and related dementias. _Nat. Genet._ **54**, 412–436 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35379992)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9005347)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=New%20insights%20into%20the%20genetic%20etiology%20of%20Alzheimer%E2%80%99s%20disease%20and%20related%20dementias&journal=Nat.%20Genet.&volume=54&pages=412-436&publication_year=2022&author=Bellenguez%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35379992)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9005347)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XptVShtrg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=New%20insights%20into%20the%20genetic%20etiology%20of%20Alzheimer%E2%80%99s%20disease%20and%20related%20dementias&journal=Nat.%20Genet.&volume=54&pages=412-436&publication_year=2022&author=Bellenguez%2CC) 
     
 40.  Wightman, D. P. et al. A genome-wide association study with 1,126,563 individuals identifies new risk loci for Alzheimer’s disease. _Nat. Genet._ **53**, 1276–1282 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34493870)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10243600)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20association%20study%20with%201%2C126%2C563%20individuals%20identifies%20new%20risk%20loci%20for%20Alzheimer%E2%80%99s%20disease&journal=Nat.%20Genet.&volume=53&pages=1276-1282&publication_year=2021&author=Wightman%2CDP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34493870)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10243600)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhvFyjtbbF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20association%20study%20with%201%2C126%2C563%20individuals%20identifies%20new%20risk%20loci%20for%20Alzheimer%E2%80%99s%20disease&journal=Nat.%20Genet.&volume=53&pages=1276-1282&publication_year=2021&author=Wightman%2CDP) 
     
 41.  Schwartzentruber, J. et al. Genome-wide meta-analysis, fine-mapping and integrative prioritization implicate new Alzheimer’s disease risk genes. _Nat. Genet._ **53**, 392–402 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33589840)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610386)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%2C%20fine-mapping%20and%20integrative%20prioritization%20implicate%20new%20Alzheimer%E2%80%99s%20disease%20risk%20genes&journal=Nat.%20Genet.&volume=53&pages=392-402&publication_year=2021&author=Schwartzentruber%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33589840)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610386)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXktF2iurc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%2C%20fine-mapping%20and%20integrative%20prioritization%20implicate%20new%20Alzheimer%E2%80%99s%20disease%20risk%20genes&journal=Nat.%20Genet.&volume=53&pages=392-402&publication_year=2021&author=Schwartzentruber%2CJ) 
     
 42.  Parfenov, V. A., Zakharov, V. V., Kabaeva, A. R. & Vakhnina, N. V. Subjective cognitive decline as a predictor of future cognitive decline: a systematic review. _Dement. Neuropsychol._ **14**, 248–257 (2020).
     
@@ -274,7 +274,7 @@ References
     
 43.  Gao, P.-Y. et al. Physical frailty, genetic predisposition, and incident dementia: a large prospective cohort study. _Transl. Psychiatry_ **14**, 212 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38802408)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11130190)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Physical%20frailty%2C%20genetic%20predisposition%2C%20and%20incident%20dementia%3A%20a%20large%20prospective%20cohort%20study&journal=Transl.%20Psychiatry&volume=14&publication_year=2024&author=Gao%2CP-Y) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38802408)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11130190)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXht1WnsLfK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Physical%20frailty%2C%20genetic%20predisposition%2C%20and%20incident%20dementia%3A%20a%20large%20prospective%20cohort%20study&journal=Transl.%20Psychiatry&volume=14&publication_year=2024&author=Gao%2CP-Y) 
     
 44.  Mullin, D. S., Gadd, D., Russ, T. C., Luciano, M. & Muniz-Terrera, G. Motoric cognitive risk syndrome trajectories and incident dementia over 10 years. _Cereb. Circ. Cogn. Behav._ **5**, 100178 (2023).
     
@@ -286,11 +286,11 @@ References
     
 46.  Rosoff, D. B. et al. Multivariate genome-wide analysis of aging-related traits identifies novel loci and new drug targets for healthy aging. _Nat. Aging_ **3**, 1020–1035 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37550455)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10432278)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multivariate%20genome-wide%20analysis%20of%20aging-related%20traits%20identifies%20novel%20loci%20and%20new%20drug%20targets%20for%20healthy%20aging&journal=Nat.%20Aging&volume=3&pages=1020-1035&publication_year=2023&author=Rosoff%2CDB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37550455)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10432278)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhslSnsLjJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multivariate%20genome-wide%20analysis%20of%20aging-related%20traits%20identifies%20novel%20loci%20and%20new%20drug%20targets%20for%20healthy%20aging&journal=Nat.%20Aging&volume=3&pages=1020-1035&publication_year=2023&author=Rosoff%2CDB) 
     
 47.  Grunewald, M. et al. Counteracting age-related VEGF signaling insufficiency promotes healthy aging and extends life span. _Science_ **373**, eabc8479 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34326210)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Counteracting%20age-related%20VEGF%20signaling%20insufficiency%20promotes%20healthy%20aging%20and%20extends%20life%20span&journal=Science&volume=373&publication_year=2021&author=Grunewald%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34326210)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhslOisrbE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Counteracting%20age-related%20VEGF%20signaling%20insufficiency%20promotes%20healthy%20aging%20and%20extends%20life%20span&journal=Science&volume=373&publication_year=2021&author=Grunewald%2CM) 
     
 48.  Sierra, F. & Kohanski, R. Geroscience and the trans-NIH Geroscience Interest Group, GSIG. _Geroscience_ **39**, 1–5 (2017).
     
@@ -298,11 +298,11 @@ References
     
 49.  Gordon, E. H. et al. Sex differences in frailty: a systematic review and meta-analysis. _Exp. Gerontol._ **89**, 30–40 (2017).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28043934)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sex%20differences%20in%20frailty%3A%20a%20systematic%20review%20and%20meta-analysis&journal=Exp.%20Gerontol.&volume=89&pages=30-40&publication_year=2017&author=Gordon%2CEH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28043934)  [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BC1c7htl2kuw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sex%20differences%20in%20frailty%3A%20a%20systematic%20review%20and%20meta-analysis&journal=Exp.%20Gerontol.&volume=89&pages=30-40&publication_year=2017&author=Gordon%2CEH) 
     
 50.  Sun, L., Wang, Z., Lu, T., Manolio, T. A. & Paterson, A. D. eXclusionarY: 10 years later, where are the sex chromosomes in GWASs? _Am. J. Hum. Genet._ **110**, 903–912 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37267899)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257007)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=eXclusionarY%3A%2010%20years%20later%2C%20where%20are%20the%20sex%20chromosomes%20in%20GWASs%3F&journal=Am.%20J.%20Hum.%20Genet.&volume=110&pages=903-912&publication_year=2023&author=Sun%2CL&author=Wang%2CZ&author=Lu%2CT&author=Manolio%2CTA&author=Paterson%2CAD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37267899)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257007)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtFegu7nO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=eXclusionarY%3A%2010%20years%20later%2C%20where%20are%20the%20sex%20chromosomes%20in%20GWASs%3F&journal=Am.%20J.%20Hum.%20Genet.&volume=110&pages=903-912&publication_year=2023&author=Sun%2CL&author=Wang%2CZ&author=Lu%2CT&author=Manolio%2CTA&author=Paterson%2CAD) 
     
 51.  Sepehri, K. et al. A computerized frailty assessment tool at points-of-care: development of a standalone electronic Comprehensive Geriatric Assessment/Frailty Index (eFI-CGA). _Front. Public Health_ **8**, 89 (2020).
     
@@ -310,11 +310,11 @@ References
     
 52.  Howard, D. M. et al. Genome-wide meta-analysis of depression identifies 102 independent variants and highlights the importance of the prefrontal brain regions. _Nat. Neurosci._ **22**, 343–352 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30718901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6522363)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%20of%20depression%20identifies%20102%20independent%20variants%20and%20highlights%20the%20importance%20of%20the%20prefrontal%20brain%20regions&journal=Nat.%20Neurosci.&volume=22&pages=343-352&publication_year=2019&author=Howard%2CDM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30718901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6522363)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXmtF2ntrw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20meta-analysis%20of%20depression%20identifies%20102%20independent%20variants%20and%20highlights%20the%20importance%20of%20the%20prefrontal%20brain%20regions&journal=Nat.%20Neurosci.&volume=22&pages=343-352&publication_year=2019&author=Howard%2CDM) 
     
 53.  Purves, K. L. et al. A major role for common genetic variation in anxiety disorders. _Mol. Psychiatry_ **25**, 3292–3303 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31748690)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20major%20role%20for%20common%20genetic%20variation%20in%20anxiety%20disorders&journal=Mol.%20Psychiatry&volume=25&pages=3292-3303&publication_year=2020&author=Purves%2CKL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31748690)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitlWqtbvN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20major%20role%20for%20common%20genetic%20variation%20in%20anxiety%20disorders&journal=Mol.%20Psychiatry&volume=25&pages=3292-3303&publication_year=2020&author=Purves%2CKL) 
     
 54.  Wang, H. et al. Genome-wide association analysis of self-reported daytime sleepiness identifies 42 loci that suggest biological subtypes. _Nat. Commun._ **10**, 3503 (2019).
     
@@ -322,15 +322,15 @@ References
     
 55.  Trajanoska, K. et al. Genetic basis of falling risk susceptibility in the UK Biobank Study. _Commun. Biol._ **3**, 543 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32999390)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7527955)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20basis%20of%20falling%20risk%20susceptibility%20in%20the%20UK%20Biobank%20Study&journal=Commun.%20Biol.&volume=3&publication_year=2020&author=Trajanoska%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32999390)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7527955)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXitVagsrjK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20basis%20of%20falling%20risk%20susceptibility%20in%20the%20UK%20Biobank%20Study&journal=Commun.%20Biol.&volume=3&publication_year=2020&author=Trajanoska%2CK) 
     
 56.  Kemp, J. P. et al. Identification of 153 new loci associated with heel bone mineral density and functional involvement of GPC6 in osteoporosis. _Nat. Genet._ **49**, 1468–1475 (2017).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28869591)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621629)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20153%20new%20loci%20associated%20with%20heel%20bone%20mineral%20density%20and%20functional%20involvement%20of%20GPC6%20in%20osteoporosis&journal=Nat.%20Genet.&volume=49&pages=1468-1475&publication_year=2017&author=Kemp%2CJP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28869591)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621629)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhsVCitLvF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20153%20new%20loci%20associated%20with%20heel%20bone%20mineral%20density%20and%20functional%20involvement%20of%20GPC6%20in%20osteoporosis&journal=Nat.%20Genet.&volume=49&pages=1468-1475&publication_year=2017&author=Kemp%2CJP) 
     
 57.  Bonfiglio, F. et al. GWAS of stool frequency provides insights into gastrointestinal motility and irritable bowel syndrome. _Cell Genom._ **1**, 100069 (2021).
     
-    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8654685)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GWAS%20of%20stool%20frequency%20provides%20insights%20into%20gastrointestinal%20motility%20and%20irritable%20bowel%20syndrome&journal=Cell%20Genom.&volume=1&publication_year=2021&author=Bonfiglio%2CF) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8654685)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1ylur%2FE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GWAS%20of%20stool%20frequency%20provides%20insights%20into%20gastrointestinal%20motility%20and%20irritable%20bowel%20syndrome&journal=Cell%20Genom.&volume=1&publication_year=2021&author=Bonfiglio%2CF) 
     
 58.  Kaiser, H. F. The application of electronic computers to factor analysis. _Educ. Psychol. Meas._ **20**, 141–151 (1960).
     
@@ -350,27 +350,27 @@ References
     
 62.  Kunkle, B. W. et al. Genetic meta-analysis of diagnosed Alzheimer’s disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing. _Nat. Genet._ **51**, 414–430 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30820047)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463297)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20meta-analysis%20of%20diagnosed%20Alzheimer%E2%80%99s%20disease%20identifies%20new%20risk%20loci%20and%20implicates%20A%CE%B2%2C%20tau%2C%20immunity%20and%20lipid%20processing&journal=Nat.%20Genet.&volume=51&pages=414-430&publication_year=2019&author=Kunkle%2CBW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30820047)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463297)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXnslOks7o%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20meta-analysis%20of%20diagnosed%20Alzheimer%E2%80%99s%20disease%20identifies%20new%20risk%20loci%20and%20implicates%20A%CE%B2%2C%20tau%2C%20immunity%20and%20lipid%20processing&journal=Nat.%20Genet.&volume=51&pages=414-430&publication_year=2019&author=Kunkle%2CBW) 
     
 63.  Nalls, M. A. et al. Identification of novel risk loci, causal insights, and heritable risk for Parkinson’s disease: a meta-analysis of genome-wide association studies. _Lancet Neurol._ **18**, 1091–1102 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31701892)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8422160)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20novel%20risk%20loci%2C%20causal%20insights%2C%20and%20heritable%20risk%20for%20Parkinson%E2%80%99s%20disease%3A%20a%20meta-analysis%20of%20genome-wide%20association%20studies&journal=Lancet%20Neurol.&volume=18&pages=1091-1102&publication_year=2019&author=Nalls%2CMA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31701892)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8422160)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXitFemsbbF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Identification%20of%20novel%20risk%20loci%2C%20causal%20insights%2C%20and%20heritable%20risk%20for%20Parkinson%E2%80%99s%20disease%3A%20a%20meta-analysis%20of%20genome-wide%20association%20studies&journal=Lancet%20Neurol.&volume=18&pages=1091-1102&publication_year=2019&author=Nalls%2CMA) 
     
 64.  van Rheenen, W. et al. Common and rare variant association analyses in amyotrophic lateral sclerosis identify 15 risk loci with distinct genetic architectures and neuron-specific biology. _Nat. Genet._ **53**, 1636–1648 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34873335)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648564)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Common%20and%20rare%20variant%20association%20analyses%20in%20amyotrophic%20lateral%20sclerosis%20identify%2015%20risk%20loci%20with%20distinct%20genetic%20architectures%20and%20neuron-specific%20biology&journal=Nat.%20Genet.&volume=53&pages=1636-1648&publication_year=2021&author=van%20Rheenen%2CW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34873335)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648564)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1OrurbL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Common%20and%20rare%20variant%20association%20analyses%20in%20amyotrophic%20lateral%20sclerosis%20identify%2015%20risk%20loci%20with%20distinct%20genetic%20architectures%20and%20neuron-specific%20biology&journal=Nat.%20Genet.&volume=53&pages=1636-1648&publication_year=2021&author=van%20Rheenen%2CW) 
     
 65.  Persyn, E. et al. Genome-wide association study of MRI markers of cerebral small vessel disease in 42,310 participants. _Nat. Commun._ **11**, 2175 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32358547)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195435)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20study%20of%20MRI%20markers%20of%20cerebral%20small%20vessel%20disease%20in%2042%2C310%20participants&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Persyn%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32358547)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195435)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXoslarsbg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20study%20of%20MRI%20markers%20of%20cerebral%20small%20vessel%20disease%20in%2042%2C310%20participants&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Persyn%2CE) 
     
 66.  Bell, S., Tozer, D. J. & Markus, H. S. Genome-wide association study of the human brain functional connectome reveals strong vascular component underlying global network efficiency. _Sci. Rep._ **12**, 14938 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36056064)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9440133)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20study%20of%20the%20human%20brain%20functional%20connectome%20reveals%20strong%20vascular%20component%20underlying%20global%20network%20efficiency&journal=Sci.%20Rep.&volume=12&publication_year=2022&author=Bell%2CS&author=Tozer%2CDJ&author=Markus%2CHS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36056064)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9440133)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitlWmsLbI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20study%20of%20the%20human%20brain%20functional%20connectome%20reveals%20strong%20vascular%20component%20underlying%20global%20network%20efficiency&journal=Sci.%20Rep.&volume=12&publication_year=2022&author=Bell%2CS&author=Tozer%2CDJ&author=Markus%2CHS) 
     
 67.  Kaufmann, T. et al. Common brain disorders are associated with heritable patterns of apparent aging of the brain. _Nat. Neurosci._ **22**, 1617–1623 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31551603)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6823048)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Common%20brain%20disorders%20are%20associated%20with%20heritable%20patterns%20of%20apparent%20aging%20of%20the%20brain&journal=Nat.%20Neurosci.&volume=22&pages=1617-1623&publication_year=2019&author=Kaufmann%2CT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31551603)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6823048)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvVCmt7rF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Common%20brain%20disorders%20are%20associated%20with%20heritable%20patterns%20of%20apparent%20aging%20of%20the%20brain&journal=Nat.%20Neurosci.&volume=22&pages=1617-1623&publication_year=2019&author=Kaufmann%2CT) 
     
 68.  Fürtjes, A. E. et al. General dimensions of human brain morphometry inferred from genome-wide association data. _Hum. Brain Mapp._ **44**, 3311–3323 (2023).
     
@@ -378,15 +378,15 @@ References
     
 69.  Wainberg, M. et al. Genetic architecture of the structural connectome. _Nat. Commun._ **15**, 1962 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38438384)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10912129)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%20the%20structural%20connectome&journal=Nat.%20Commun.&volume=15&publication_year=2024&author=Wainberg%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38438384)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10912129)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXlsVKlt78%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%20the%20structural%20connectome&journal=Nat.%20Commun.&volume=15&publication_year=2024&author=Wainberg%2CM) 
     
 70.  Traylor, M. et al. Genetic basis of lacunar stroke: a pooled analysis of individual patient data and genome-wide association studies. _Lancet Neurol._ **20**, 351–361 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33773637)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8062914)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20basis%20of%20lacunar%20stroke%3A%20a%20pooled%20analysis%20of%20individual%20patient%20data%20and%20genome-wide%20association%20studies&journal=Lancet%20Neurol.&volume=20&pages=351-361&publication_year=2021&author=Traylor%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33773637)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8062914)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtVOmurbI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20basis%20of%20lacunar%20stroke%3A%20a%20pooled%20analysis%20of%20individual%20patient%20data%20and%20genome-wide%20association%20studies&journal=Lancet%20Neurol.&volume=20&pages=351-361&publication_year=2021&author=Traylor%2CM) 
     
 71.  Mishra, A. et al. Stroke genetics informs drug discovery and risk prediction across ancestries. _Nature_ **611**, 115–123 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36180795)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524349)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Stroke%20genetics%20informs%20drug%20discovery%20and%20risk%20prediction%20across%20ancestries&journal=Nature&volume=611&pages=115-123&publication_year=2022&author=Mishra%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36180795)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524349)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XisFCjsrrP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Stroke%20genetics%20informs%20drug%20discovery%20and%20risk%20prediction%20across%20ancestries&journal=Nature&volume=611&pages=115-123&publication_year=2022&author=Mishra%2CA) 
     
 72.  Timmers, P. R. et al. Genomics of 1 million parent lifespans implicates novel pathways and common diseases and distinguishes survival chances. _eLife_ **8**, e39856 (2019).
     
@@ -398,7 +398,7 @@ References
     
 74.  Nethander, M. et al. Assessment of the genetic and clinical determinants of hip fracture risk: genome-wide association and Mendelian randomization study. _Cell Rep. Med._ **3**, 100776 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36260985)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589021)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assessment%20of%20the%20genetic%20and%20clinical%20determinants%20of%20hip%20fracture%20risk%3A%20genome-wide%20association%20and%20Mendelian%20randomization%20study&journal=Cell%20Rep.%20Med.&volume=3&publication_year=2022&author=Nethander%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36260985)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589021)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XislWksL7P)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assessment%20of%20the%20genetic%20and%20clinical%20determinants%20of%20hip%20fracture%20risk%3A%20genome-wide%20association%20and%20Mendelian%20randomization%20study&journal=Cell%20Rep.%20Med.&volume=3&publication_year=2022&author=Nethander%2CM) 
     
 75.  Butler-Laporte, G. et al. Increasing serum iron levels and their role in the risk of infectious diseases: a Mendelian randomization approach. _Int. J. Epidemiol._ **52**, 1163–1174 (2023).
     
@@ -406,7 +406,7 @@ References
     
 76.  Levin, M. G. et al. Genome-wide association and multi-trait analyses characterize the common genetic architecture of heart failure. _Nat. Commun._ **13**, 6914 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36376295)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9663424)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20and%20multi-trait%20analyses%20characterize%20the%20common%20genetic%20architecture%20of%20heart%20failure&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Levin%2CMG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36376295)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9663424)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XivFWks7fJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20association%20and%20multi-trait%20analyses%20characterize%20the%20common%20genetic%20architecture%20of%20heart%20failure&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Levin%2CMG) 
     
 77.  Pathak, G. A. et al. A first update on mapping the human genetic architecture of COVID-19. _Nature_ **608**, E1–E10 (2022).
     
@@ -414,23 +414,23 @@ References
     
 78.  Said, S. et al. Genetic analysis of over half a million people characterises C-reactive protein loci. _Nat. Commun._ **13**, 2198 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35459240)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9033829)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20analysis%20of%20over%20half%20a%20million%20people%20characterises%20C-reactive%20protein%20loci&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Said%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35459240)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9033829)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhtV2gtL3O)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20analysis%20of%20over%20half%20a%20million%20people%20characterises%20C-reactive%20protein%20loci&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Said%2CS) 
     
 79.  Stanzick, K. J. et al. Discovery and prioritization of variants and genes for kidney function in >1.2 million individuals. _Nat. Commun._ **12**, 4350 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34272381)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285412)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Discovery%20and%20prioritization%20of%20variants%20and%20genes%20for%20kidney%20function%20in%20%3E1.2%20million%20individuals&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Stanzick%2CKJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34272381)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285412)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhsFOkur3E)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Discovery%20and%20prioritization%20of%20variants%20and%20genes%20for%20kidney%20function%20in%20%3E1.2%20million%20individuals&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Stanzick%2CKJ) 
     
 80.  Lagou, V. et al. GWAS of random glucose in 476,326 individuals provide insights into diabetes pathophysiology, complications and treatment stratification. _Nat. Genet._ **55**, 1448–1461 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37679419)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10484788)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GWAS%20of%20random%20glucose%20in%20476%2C326%20individuals%20provide%20insights%20into%20diabetes%20pathophysiology%2C%20complications%20and%20treatment%20stratification&journal=Nat.%20Genet.&volume=55&pages=1448-1461&publication_year=2023&author=Lagou%2CV) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37679419)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10484788)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhvVOnsr3I)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GWAS%20of%20random%20glucose%20in%20476%2C326%20individuals%20provide%20insights%20into%20diabetes%20pathophysiology%2C%20complications%20and%20treatment%20stratification&journal=Nat.%20Genet.&volume=55&pages=1448-1461&publication_year=2023&author=Lagou%2CV) 
     
 81.  Bell, S. et al. A genome-wide meta-analysis yields 46 new loci associating with biomarkers of iron homeostasis. _Commun. Biol._ **4**, 156 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33536631)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7859200)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20meta-analysis%20yields%2046%20new%20loci%20associating%20with%20biomarkers%20of%20iron%20homeostasis&journal=Commun.%20Biol.&volume=4&publication_year=2021&author=Bell%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33536631)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7859200)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXjsVCitrg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20genome-wide%20meta-analysis%20yields%2046%20new%20loci%20associating%20with%20biomarkers%20of%20iron%20homeostasis&journal=Commun.%20Biol.&volume=4&publication_year=2021&author=Bell%2CS) 
     
 82.  Mallard, T. T. et al. Multivariate GWAS of psychiatric disorders and their cardinal symptoms reveal two dimensions of cross-cutting genetic liabilities. _Cell Genom._ **2**, 100140 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35812988)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9264403)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multivariate%20GWAS%20of%20psychiatric%20disorders%20and%20their%20cardinal%20symptoms%20reveal%20two%20dimensions%20of%20cross-cutting%20genetic%20liabilities&journal=Cell%20Genom.&volume=2&publication_year=2022&author=Mallard%2CTT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35812988)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9264403)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XitlClu77L)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multivariate%20GWAS%20of%20psychiatric%20disorders%20and%20their%20cardinal%20symptoms%20reveal%20two%20dimensions%20of%20cross-cutting%20genetic%20liabilities&journal=Cell%20Genom.&volume=2&publication_year=2022&author=Mallard%2CTT) 
     
 83.  Watanabe, K., Taskesen, E., van Bochoven, A. & Posthuma, D. Functional mapping and annotation of genetic associations with FUMA. _Nat. Commun._ **8**, 1826 (2017).
     
@@ -438,11 +438,11 @@ References
     
 84.  Grotzinger, A. D. et al. Genetic architecture of 11 major psychiatric disorders at biobehavioral, functional genomic and molecular genetic levels of analysis. _Nat. Genet._ **54**, 548–559 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35513722)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9117465)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%2011%20major%20psychiatric%20disorders%20at%20biobehavioral%2C%20functional%20genomic%20and%20molecular%20genetic%20levels%20of%20analysis&journal=Nat.%20Genet.&volume=54&pages=548-559&publication_year=2022&author=Grotzinger%2CAD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35513722)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9117465)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xht1agt7fL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genetic%20architecture%20of%2011%20major%20psychiatric%20disorders%20at%20biobehavioral%2C%20functional%20genomic%20and%20molecular%20genetic%20levels%20of%20analysis&journal=Nat.%20Genet.&volume=54&pages=548-559&publication_year=2022&author=Grotzinger%2CAD) 
     
 85.  Finucane, H. K. et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. _Nat. Genet._ **47**, 1228–1235 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26414678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626285)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Partitioning%20heritability%20by%20functional%20annotation%20using%20genome-wide%20association%20summary%20statistics&journal=Nat.%20Genet.&volume=47&pages=1228-1235&publication_year=2015&author=Finucane%2CHK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26414678)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626285)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhsFKqu7rF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Partitioning%20heritability%20by%20functional%20annotation%20using%20genome-wide%20association%20summary%20statistics&journal=Nat.%20Genet.&volume=47&pages=1228-1235&publication_year=2015&author=Finucane%2CHK) 
     
 86.  Ardlie, K. G. et al. The Genotype-Tissue Expression (GTEx) pilot analysis: multitissue gene regulation in humans. _Science_ **348**, 648–660 (2015).
     
@@ -450,23 +450,23 @@ References
     
 87.  Pers, T. H. et al. Biological interpretation of genome-wide association studies using predicted gene functions. _Nat. Commun._ **6**, 5890 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25597830)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Biological%20interpretation%20of%20genome-wide%20association%20studies%20using%20predicted%20gene%20functions&journal=Nat.%20Commun.&volume=6&publication_year=2015&author=Pers%2CTH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25597830)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhtF2itrjE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Biological%20interpretation%20of%20genome-wide%20association%20studies%20using%20predicted%20gene%20functions&journal=Nat.%20Commun.&volume=6&publication_year=2015&author=Pers%2CTH) 
     
 88.  Kundaje, A. et al. Integrative analysis of 111 reference human epigenomes. _Nature_ **518**, 317–330 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25693563)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4530010)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrative%20analysis%20of%20111%20reference%20human%20epigenomes&journal=Nature&volume=518&pages=317-330&publication_year=2015&author=Kundaje%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25693563)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4530010)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXjtVSktbc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrative%20analysis%20of%20111%20reference%20human%20epigenomes&journal=Nature&volume=518&pages=317-330&publication_year=2015&author=Kundaje%2CA) 
     
 89.  Karczewski, K. J. et al. The mutational constraint spectrum quantified from variation in 141,456 humans. _Nature_ **581**, 434–443 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32461654)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334197)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20mutational%20constraint%20spectrum%20quantified%20from%20variation%20in%20141%2C456%20humans&journal=Nature&volume=581&pages=434-443&publication_year=2020&author=Karczewski%2CKJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32461654)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334197)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtVanu7jF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20mutational%20constraint%20spectrum%20quantified%20from%20variation%20in%20141%2C456%20humans&journal=Nature&volume=581&pages=434-443&publication_year=2020&author=Karczewski%2CKJ) 
     
 90.  Grotzinger, A. D. et al. Multivariate genomic architecture of cortical thickness and surface area at multiple levels of analysis. _Nat. Commun._ **14**, 946 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36806290)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9941500)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multivariate%20genomic%20architecture%20of%20cortical%20thickness%20and%20surface%20area%20at%20multiple%20levels%20of%20analysis&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Grotzinger%2CAD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36806290)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9941500)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXjsFGns78%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multivariate%20genomic%20architecture%20of%20cortical%20thickness%20and%20surface%20area%20at%20multiple%20levels%20of%20analysis&journal=Nat.%20Commun.&volume=14&publication_year=2023&author=Grotzinger%2CAD) 
     
 91.  Grotzinger, A. D., de la Fuente, J., Davies, G., Nivard, M. G. & Tucker-Drob, E. M. Transcriptome-wide and stratified genomic structural equation modeling identify neurobiological pathways shared across diverse cognitive traits. _Nat. Commun._ **13**, 6280 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36271044)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586980)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome-wide%20and%20stratified%20genomic%20structural%20equation%20modeling%20identify%20neurobiological%20pathways%20shared%20across%20diverse%20cognitive%20traits&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Grotzinger%2CAD&author=de%20la%20Fuente%2CJ&author=Davies%2CG&author=Nivard%2CMG&author=Tucker-Drob%2CEM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36271044)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586980)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XislWiu77L)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptome-wide%20and%20stratified%20genomic%20structural%20equation%20modeling%20identify%20neurobiological%20pathways%20shared%20across%20diverse%20cognitive%20traits&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=Grotzinger%2CAD&author=de%20la%20Fuente%2CJ&author=Davies%2CG&author=Nivard%2CMG&author=Tucker-Drob%2CEM) 
     
 92.  de Leeuw, C. A., Mooij, J. M., Heskes, T. & Posthuma, D. MAGMA: generalized gene-set analysis of GWAS data. _PLoS Comput. Biol._ **11**, e1004219 (2015).
     
@@ -474,7 +474,7 @@ References
     
 93.  Aguet, F. et al. The GTEx Consortium atlas of genetic regulatory effects across human tissues. _Science_ **369**, 1318–1330 (2020).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20GTEx%20Consortium%20atlas%20of%20genetic%20regulatory%20effects%20across%20human%20tissues&journal=Science&volume=369&pages=1318-1330&publication_year=2020&author=Aguet%2CF) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsl2ksLfK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20GTEx%20Consortium%20atlas%20of%20genetic%20regulatory%20effects%20across%20human%20tissues&journal=Science&volume=369&pages=1318-1330&publication_year=2020&author=Aguet%2CF) 
     
 94.  de Leeuw, C. A., Stringer, S., Dekkers, I. A., Heskes, T. & Posthuma, D. Conditional and interaction gene-set analysis reveals novel functional pathways for blood pressure. _Nat. Commun._ **9**, 3768 (2018).
     
@@ -482,7 +482,7 @@ References
     
 95.  Zhu, Z. et al. Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets. _Nat. Genet._ **48**, 481–487 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27019110)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integration%20of%20summary%20data%20from%20GWAS%20and%20eQTL%20studies%20predicts%20complex%20trait%20gene%20targets&journal=Nat.%20Genet.&volume=48&pages=481-487&publication_year=2016&author=Zhu%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27019110)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XkvFGrs7g%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integration%20of%20summary%20data%20from%20GWAS%20and%20eQTL%20studies%20predicts%20complex%20trait%20gene%20targets&journal=Nat.%20Genet.&volume=48&pages=481-487&publication_year=2016&author=Zhu%2CZ) 
     
 96.  Wu, Y. et al. Integrative analysis of omics summary data reveals putative mechanisms underlying complex traits. _Nat. Commun._ **9**, 918 (2018).
     
@@ -494,19 +494,19 @@ References
     
 98.  Choi, S. W., Mak, T. S.-H. & O’Reilly, P. F. Tutorial: a guide to performing polygenic risk score analyses. _Nat. Protoc._ **15**, 2759–2772 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32709988)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612115)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tutorial%3A%20a%20guide%20to%20performing%20polygenic%20risk%20score%20analyses&journal=Nat.%20Protoc.&volume=15&pages=2759-2772&publication_year=2020&author=Choi%2CSW&author=Mak%2CTS-H&author=O%E2%80%99Reilly%2CPF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32709988)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612115)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsVGltLbI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tutorial%3A%20a%20guide%20to%20performing%20polygenic%20risk%20score%20analyses&journal=Nat.%20Protoc.&volume=15&pages=2759-2772&publication_year=2020&author=Choi%2CSW&author=Mak%2CTS-H&author=O%E2%80%99Reilly%2CPF) 
     
 99.  Krapohl, E. et al. Multi-polygenic score approach to trait prediction. _Mol. Psychiatry_ **23**, 1368–1374 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28785111)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-polygenic%20score%20approach%20to%20trait%20prediction&journal=Mol.%20Psychiatry&volume=23&pages=1368-1374&publication_year=2018&author=Krapohl%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28785111)  [CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DC%2BC1cflt1Oktg%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-polygenic%20score%20approach%20to%20trait%20prediction&journal=Mol.%20Psychiatry&volume=23&pages=1368-1374&publication_year=2018&author=Krapohl%2CE) 
     
 100.  Jung, H. et al. Integration of risk factor polygenic risk score with disease polygenic risk score for disease prediction. _Commun. Biol._ **7**, 180 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38351177)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10864389)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integration%20of%20risk%20factor%20polygenic%20risk%20score%20with%20disease%20polygenic%20risk%20score%20for%20disease%20prediction&journal=Commun.%20Biol.&volume=7&publication_year=2024&author=Jung%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38351177)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10864389)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXjs1Sru74%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integration%20of%20risk%20factor%20polygenic%20risk%20score%20with%20disease%20polygenic%20risk%20score%20for%20disease%20prediction&journal=Commun.%20Biol.&volume=7&publication_year=2024&author=Jung%2CH) 
     
 101.  Pain, O. et al. Evaluation of polygenic prediction methodology within a reference-standardized framework. _PLoS Genet._ **17**, e1009021 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33945532)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8121285)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20polygenic%20prediction%20methodology%20within%20a%20reference-standardized%20framework&journal=PLoS%20Genet.&volume=17&publication_year=2021&author=Pain%2CO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33945532)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8121285)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtFaltLbP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20polygenic%20prediction%20methodology%20within%20a%20reference-standardized%20framework&journal=PLoS%20Genet.&volume=17&publication_year=2021&author=Pain%2CO) 
     
 102.  Dickson, S. P. et al. GenoRisk: a polygenic risk score for Alzheimer’s disease. _Alzheimers Dement._ **7**, e12211 (2021).
     

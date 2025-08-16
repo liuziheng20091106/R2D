@@ -247,39 +247,39 @@ References
 
 1.  Zhou, Q. et al. Haplotype-resolved genome analyses of a heterozygous diploid potato. _Nat. Genet._ **52**, 1018–1023 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32989320)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7527274)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20genome%20analyses%20of%20a%20heterozygous%20diploid%20potato&journal=Nat.%20Genet.&volume=52&pages=1018-1023&publication_year=2020&author=Zhou%2CQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32989320)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7527274)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvFegurvO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20genome%20analyses%20of%20a%20heterozygous%20diploid%20potato&journal=Nat.%20Genet.&volume=52&pages=1018-1023&publication_year=2020&author=Zhou%2CQ) 
     
 2.  Murase, K. et al. Mechanism of self/nonself-discrimination in _Brassica_ self-incompatibility. _Nat. Commun._ **11**, 4916 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33004803)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530648)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mechanism%20of%20self%2Fnonself-discrimination%20in%20Brassica%20self-incompatibility&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Murase%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33004803)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530648)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvFyqt7jF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mechanism%20of%20self%2Fnonself-discrimination%20in%20Brassica%20self-incompatibility&journal=Nat.%20Commun.&volume=11&publication_year=2020&author=Murase%2CK) 
     
 3.  Chen, J. et al. Phosphatidic acid counteracts S-RNase signaling in pollen by stabilizing the actin cytoskeleton. _Plant Cell_ **30**, 1023–1039 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29716992)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002197)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phosphatidic%20acid%20counteracts%20S-RNase%20signaling%20in%20pollen%20by%20stabilizing%20the%20actin%20cytoskeleton&journal=Plant%20Cell&volume=30&pages=1023-1039&publication_year=2018&author=Chen%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29716992)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002197)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhvFOjtbzN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phosphatidic%20acid%20counteracts%20S-RNase%20signaling%20in%20pollen%20by%20stabilizing%20the%20actin%20cytoskeleton&journal=Plant%20Cell&volume=30&pages=1023-1039&publication_year=2018&author=Chen%2CJ) 
     
 4.  Huang, X. H. et al. Genomic architecture of heterosis for yield traits in rice. _Nature_ **537**, 629–633 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27602511)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20architecture%20of%20heterosis%20for%20yield%20traits%20in%20rice&journal=Nature&volume=537&pages=629-633&publication_year=2016&author=Huang%2CXH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27602511)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsVyhsb3K)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20architecture%20of%20heterosis%20for%20yield%20traits%20in%20rice&journal=Nature&volume=537&pages=629-633&publication_year=2016&author=Huang%2CXH) 
     
 5.  Sun, X. P. et al. Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication. _Nat. Genet._ **52**, 1423–1432 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33139952)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728601)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phased%20diploid%20genome%20assemblies%20and%20pan-genomes%20provide%20insights%20into%20the%20genetic%20history%20of%20apple%20domestication&journal=Nat.%20Genet.&volume=52&pages=1423-1432&publication_year=2020&author=Sun%2CXP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33139952)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728601)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXit1GjsbrL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Phased%20diploid%20genome%20assemblies%20and%20pan-genomes%20provide%20insights%20into%20the%20genetic%20history%20of%20apple%20domestication&journal=Nat.%20Genet.&volume=52&pages=1423-1432&publication_year=2020&author=Sun%2CXP) 
     
 6.  Zhang, X. T. et al. Haplotype-resolved genome assembly provides insights into evolutionary history of the tea plant _Camellia sinensis_. _Nat. Genet._ **53**, 1250–1259 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34267370)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8346365)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20genome%20assembly%20provides%20insights%20into%20evolutionary%20history%20of%20the%20tea%20plant%20Camellia%20sinensis&journal=Nat.%20Genet.&volume=53&pages=1250-1259&publication_year=2021&author=Zhang%2CXT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34267370)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8346365)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhsFOntLnJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20genome%20assembly%20provides%20insights%20into%20evolutionary%20history%20of%20the%20tea%20plant%20Camellia%20sinensis&journal=Nat.%20Genet.&volume=53&pages=1250-1259&publication_year=2021&author=Zhang%2CXT) 
     
 7.  Hu, G. B. et al. Two divergent haplotypes from a highly heterozygous lychee genome suggest independent domestication events for early and late-maturing cultivars. _Nat. Genet._ **54**, 73–83 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34980919)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8755541)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Two%20divergent%20haplotypes%20from%20a%20highly%20heterozygous%20lychee%20genome%20suggest%20independent%20domestication%20events%20for%20early%20and%20late-maturing%20cultivars&journal=Nat.%20Genet.&volume=54&pages=73-83&publication_year=2022&author=Hu%2CGB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34980919)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8755541)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xjtl2mug%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Two%20divergent%20haplotypes%20from%20a%20highly%20heterozygous%20lychee%20genome%20suggest%20independent%20domestication%20events%20for%20early%20and%20late-maturing%20cultivars&journal=Nat.%20Genet.&volume=54&pages=73-83&publication_year=2022&author=Hu%2CGB) 
     
 8.  Hu, W. et al. Allele-defined genome reveals biallelic differentiation during cassava evolution. _Mol. Plant_ **14**, 851–854 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33866024)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele-defined%20genome%20reveals%20biallelic%20differentiation%20during%20cassava%20evolution&journal=Mol.%20Plant&volume=14&pages=851-854&publication_year=2021&author=Hu%2CW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33866024)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtVGitLrP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele-defined%20genome%20reveals%20biallelic%20differentiation%20during%20cassava%20evolution&journal=Mol.%20Plant&volume=14&pages=851-854&publication_year=2021&author=Hu%2CW) 
     
 9.  Zhang, Q. et al. Genomic insights into the recent chromosome reduction of autopolyploid sugarcane _Saccharum spontaneum_. _Nat. Genet._ **54**, 885–896 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35654976)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20insights%20into%20the%20recent%20chromosome%20reduction%20of%20autopolyploid%20sugarcane%20Saccharum%20spontaneum&journal=Nat.%20Genet.&volume=54&pages=885-896&publication_year=2022&author=Zhang%2CQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35654976)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhsVGgsbzK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20insights%20into%20the%20recent%20chromosome%20reduction%20of%20autopolyploid%20sugarcane%20Saccharum%20spontaneum&journal=Nat.%20Genet.&volume=54&pages=885-896&publication_year=2022&author=Zhang%2CQ) 
     
 10.  Wu, J. et al. Diversification and independent domestication of Asian and European pears. _Genome Biol._ **19**, 77 (2018).
     
@@ -287,7 +287,7 @@ References
     
 11.  Wu, J. et al. The genome of the pear (_Pyrus bretschneideri_ Rehd.). _Genome Res._ **23**, 396–408 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23149293)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3561880)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20genome%20of%20the%20pear%20%28Pyrus%20bretschneideri%20Rehd.%29&journal=Genome%20Res.&volume=23&pages=396-408&publication_year=2013&author=Wu%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23149293)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3561880)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXitVemtLk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20genome%20of%20the%20pear%20%28Pyrus%20bretschneideri%20Rehd.%29&journal=Genome%20Res.&volume=23&pages=396-408&publication_year=2013&author=Wu%2CJ) 
     
 12.  Chagne, D. et al. The draft genome dequence of European pear (_Pyrus communis_ L. ‘Bartlett’). _PLoS ONE_ **9**, e92644 (2014).
     
@@ -299,11 +299,11 @@ References
     
 14.  Shi, D. Q. et al. Single-pollen-cell sequencing for gamete-based phased diploid genome assembly in plants. _Genome Res._ **29**, 1889–1899 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31649061)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836740)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-pollen-cell%20sequencing%20for%20gamete-based%20phased%20diploid%20genome%20assembly%20in%20plants&journal=Genome%20Res.&volume=29&pages=1889-1899&publication_year=2019&author=Shi%2CDQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31649061)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836740)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsVyqsr4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Single-pollen-cell%20sequencing%20for%20gamete-based%20phased%20diploid%20genome%20assembly%20in%20plants&journal=Genome%20Res.&volume=29&pages=1889-1899&publication_year=2019&author=Shi%2CDQ) 
     
 15.  Qi, Y. et al. Telomere-to-telomere genome assembly of two representative Asian and European pear cultivars. _Sci. Data_ **11**, 1170 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39461942)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11513147)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Telomere-to-telomere%20genome%20assembly%20of%20two%20representative%20Asian%20and%20European%20pear%20cultivars&journal=Sci.%20Data&volume=11&publication_year=2024&author=Qi%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39461942)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11513147)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXitlelu7zN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Telomere-to-telomere%20genome%20assembly%20of%20two%20representative%20Asian%20and%20European%20pear%20cultivars&journal=Sci.%20Data&volume=11&publication_year=2024&author=Qi%2CY) 
     
 16.  Chen, X. et al. Genome-wide genetic diversity and IBD analysis reveals historic dissemination routes of pear in China. _Tree Genet Genomes_ **18**, 1 (2022).
     
@@ -311,47 +311,47 @@ References
     
 17.  Zhou, Y. et al. Graph pangenome captures missing heritability and empowers tomato breeding. _Nature_ **606**, 527–534 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35676474)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200638)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Graph%20pangenome%20captures%20missing%20heritability%20and%20empowers%20tomato%20breeding&journal=Nature&volume=606&pages=527-534&publication_year=2022&author=Zhou%2CY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35676474)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200638)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhsFWhu7bO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Graph%20pangenome%20captures%20missing%20heritability%20and%20empowers%20tomato%20breeding&journal=Nature&volume=606&pages=527-534&publication_year=2022&author=Zhou%2CY) 
     
 18.  Cheng, H. Y. et al. Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm. _Nat. Methods_ **18**, 170–175 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33526886)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961889)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20de%20novo%20assembly%20using%20phased%20assembly%20graphs%20with%20hifiasm&journal=Nat.%20Methods&volume=18&pages=170-175&publication_year=2021&author=Cheng%2CHY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33526886)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961889)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXis1OntL0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Haplotype-resolved%20de%20novo%20assembly%20using%20phased%20assembly%20graphs%20with%20hifiasm&journal=Nat.%20Methods&volume=18&pages=170-175&publication_year=2021&author=Cheng%2CHY) 
     
 19.  Rautiainen, M. et al. Telomere-to-telomere assembly of diploid chromosomes with Verkko. _Nat. Biotechnol._ **41**, 1474–1482 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36797493)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10427740)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Telomere-to-telomere%20assembly%20of%20diploid%20chromosomes%20with%20Verkko&journal=Nat.%20Biotechnol.&volume=41&pages=1474-1482&publication_year=2023&author=Rautiainen%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36797493)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10427740)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXjsVKmtb0%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Telomere-to-telomere%20assembly%20of%20diploid%20chromosomes%20with%20Verkko&journal=Nat.%20Biotechnol.&volume=41&pages=1474-1482&publication_year=2023&author=Rautiainen%2CM) 
     
 20.  Nurk, S. et al. HiCanu: accurate assembly of segmental duplications, satellites, and allelic variants from high-fidelity long reads. _Genome Res._ **30**, 1291–1305 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32801147)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7545148)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HiCanu%3A%20accurate%20assembly%20of%20segmental%20duplications%2C%20satellites%2C%20and%20allelic%20variants%20from%20high-fidelity%20long%20reads&journal=Genome%20Res.&volume=30&pages=1291-1305&publication_year=2020&author=Nurk%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32801147)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7545148)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXltl2isw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=HiCanu%3A%20accurate%20assembly%20of%20segmental%20duplications%2C%20satellites%2C%20and%20allelic%20variants%20from%20high-fidelity%20long%20reads&journal=Genome%20Res.&volume=30&pages=1291-1305&publication_year=2020&author=Nurk%2CS) 
     
 21.  Ines, D. et al. CDC48 in plants and its emerging function in plant immunity. _Trends Plant Sci._ **29**, 786–798 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38218650)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=CDC48%20in%20plants%20and%20its%20emerging%20function%20in%20plant%20immunity&journal=Trends%20Plant%20Sci.&volume=29&pages=786-798&publication_year=2024&author=Ines%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38218650)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXisVSjsQ%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=CDC48%20in%20plants%20and%20its%20emerging%20function%20in%20plant%20immunity&journal=Trends%20Plant%20Sci.&volume=29&pages=786-798&publication_year=2024&author=Ines%2CD) 
     
 22.  Griesser, M. et al. Multi-substrate flavonol _O_\-glucosyltransferases from strawberry (_Fragaria_ x _ananassa_) achene and receptacle. _J. Exp. Bot._ **59**, 2611–2625 (2008).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18487633)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2486459)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-substrate%20flavonol%20O-glucosyltransferases%20from%20strawberry%20%28Fragaria%20x%20ananassa%29%20achene%20and%20receptacle&journal=J.%20Exp.%20Bot.&volume=59&pages=2611-2625&publication_year=2008&author=Griesser%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18487633)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2486459)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1cXot1Witrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-substrate%20flavonol%20O-glucosyltransferases%20from%20strawberry%20%28Fragaria%20x%20ananassa%29%20achene%20and%20receptacle&journal=J.%20Exp.%20Bot.&volume=59&pages=2611-2625&publication_year=2008&author=Griesser%2CM) 
     
 23.  Weber, M. et al. Distribution, silencing potential and evolutionary impact of promoter DNA methylation in the human genome. _Nat. Genet._ **39**, 457–466 (2007).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17334365)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Distribution%2C%20silencing%20potential%20and%20evolutionary%20impact%20of%20promoter%20DNA%20methylation%20in%20the%20human%20genome&journal=Nat.%20Genet.&volume=39&pages=457-466&publication_year=2007&author=Weber%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17334365)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXjsV2hsrk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Distribution%2C%20silencing%20potential%20and%20evolutionary%20impact%20of%20promoter%20DNA%20methylation%20in%20the%20human%20genome&journal=Nat.%20Genet.&volume=39&pages=457-466&publication_year=2007&author=Weber%2CM) 
     
 24.  Stroud, H. et al. Comprehensive analysis of silencing mutants reveals complex regulation of the _Arabidopsis_ methylome. _Cell_ **152**, 352–364 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23313553)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3597350)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Comprehensive%20analysis%20of%20silencing%20mutants%20reveals%20complex%20regulation%20of%20the%20Arabidopsis%20methylome&journal=Cell&volume=152&pages=352-364&publication_year=2013&author=Stroud%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23313553)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3597350)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXmvVKhtw%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Comprehensive%20analysis%20of%20silencing%20mutants%20reveals%20complex%20regulation%20of%20the%20Arabidopsis%20methylome&journal=Cell&volume=152&pages=352-364&publication_year=2013&author=Stroud%2CH) 
     
 25.  Li, J. et al. Natural variations in the PbCPK28 promoter regulate sugar content through interaction with PbTST4 and PbVHA-A1 in pear. _Plant J._ **114**, 124–141 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36710644)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20variations%20in%20the%20PbCPK28%20promoter%20regulate%20sugar%20content%20through%20interaction%20with%20PbTST4%20and%20PbVHA-A1%20in%20pear&journal=Plant%20J.&volume=114&pages=124-141&publication_year=2023&author=Li%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36710644)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXkvVSitrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20variations%20in%20the%20PbCPK28%20promoter%20regulate%20sugar%20content%20through%20interaction%20with%20PbTST4%20and%20PbVHA-A1%20in%20pear&journal=Plant%20J.&volume=114&pages=124-141&publication_year=2023&author=Li%2CJ) 
     
 26.  Lama, K. et al. Extreme sugar accumulation in late fig ripening is accompanied by global changes in sugar metabolism and transporter gene expression. _Physiol. Plant_ **174**, e13648 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35150009)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9305157)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Extreme%20sugar%20accumulation%20in%20late%20fig%20ripening%20is%20accompanied%20by%20global%20changes%20in%20sugar%20metabolism%20and%20transporter%20gene%20expression&journal=Physiol.%20Plant&volume=174&publication_year=2022&author=Lama%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35150009)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9305157)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XkvFWns7w%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Extreme%20sugar%20accumulation%20in%20late%20fig%20ripening%20is%20accompanied%20by%20global%20changes%20in%20sugar%20metabolism%20and%20transporter%20gene%20expression&journal=Physiol.%20Plant&volume=174&publication_year=2022&author=Lama%2CK) 
     
 27.  Xue, C. et al. PbrMYB169 positively regulates lignification of stone cells in pear fruit. _J. Exp. Bot._ **70**, 1801–1814 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30715420)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PbrMYB169%20positively%20regulates%20lignification%20of%20stone%20cells%20in%20pear%20fruit&journal=J.%20Exp.%20Bot.&volume=70&pages=1801-1814&publication_year=2019&author=Xue%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30715420)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXisVGmtr%2FK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PbrMYB169%20positively%20regulates%20lignification%20of%20stone%20cells%20in%20pear%20fruit&journal=J.%20Exp.%20Bot.&volume=70&pages=1801-1814&publication_year=2019&author=Xue%2CC) 
     
 28.  Barros, J. et al. 4-Coumarate 3-hydroxylase in the lignin biosynthesis pathway is a cytosolic ascorbate peroxidase. _Nat. Commun._ **10**, 1994 (2019).
     
@@ -359,45 +359,45 @@ References
     
 29.  Yang, C. Q. et al. Transcriptional regulation of plant secondary metabolism. _J. Integr. Plant Biol._ **54**, 703–712 (2012).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22947222)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptional%20regulation%20of%20plant%20secondary%20metabolism&journal=J.%20Integr.%20Plant%20Biol.&volume=54&pages=703-712&publication_year=2012&author=Yang%2CCQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22947222)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXosVKnug%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcriptional%20regulation%20of%20plant%20secondary%20metabolism&journal=J.%20Integr.%20Plant%20Biol.&volume=54&pages=703-712&publication_year=2012&author=Yang%2CCQ) 
     
 30.  Dodds, P. N. & Rathjen, J. P. Plant immunity: towards an integrated view of plant-pathogen interactions. _Nat. Rev. Genet._ **11**, 539–548 (2010).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20585331)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plant%20immunity%3A%20towards%20an%20integrated%20view%20of%20plant-pathogen%20interactions&journal=Nat.%20Rev.%20Genet.&volume=11&pages=539-548&publication_year=2010&author=Dodds%2CPN&author=Rathjen%2CJP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20585331)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXovFOhtrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plant%20immunity%3A%20towards%20an%20integrated%20view%20of%20plant-pathogen%20interactions&journal=Nat.%20Rev.%20Genet.&volume=11&pages=539-548&publication_year=2010&author=Dodds%2CPN&author=Rathjen%2CJP) 
     
 31.  Zhu, S. et al. The snapdragon genomes reveal the evolutionary dynamics of the S-locus supergene. _Mol. Biol. Evol._ **40**, msad080 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37014787)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10118302)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20snapdragon%20genomes%20reveal%20the%20evolutionary%20dynamics%20of%20the%20S-locus%20supergene&journal=Mol.%20Biol.%20Evol.&volume=40&publication_year=2023&author=Zhu%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37014787)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10118302)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsFylurzE)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20snapdragon%20genomes%20reveal%20the%20evolutionary%20dynamics%20of%20the%20S-locus%20supergene&journal=Mol.%20Biol.%20Evol.&volume=40&publication_year=2023&author=Zhu%2CS) 
     
 32.  Yang, Q. et al. Heterochromatic and genetic features are consistent with recombination suppression of the self-incompatibility locus in _Antirrhinum_. _Plant J._ **51**, 140–151 (2007).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17521415)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Heterochromatic%20and%20genetic%20features%20are%20consistent%20with%20recombination%20suppression%20of%20the%20self-incompatibility%20locus%20in%20Antirrhinum&journal=Plant%20J.&volume=51&pages=140-151&publication_year=2007&author=Yang%2CQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17521415)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXotVyru7c%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Heterochromatic%20and%20genetic%20features%20are%20consistent%20with%20recombination%20suppression%20of%20the%20self-incompatibility%20locus%20in%20Antirrhinum&journal=Plant%20J.&volume=51&pages=140-151&publication_year=2007&author=Yang%2CQ) 
     
 33.  Cohen, K. M. et al. The ICS International Chronostratigraphic Chart. _Episodes_ **36**, 199–204 (2013).
     
 34.  Guo, J. F. et al. Genomic clines across the species boundary between a hybrid pine and its progenitor in the eastern Tibetan Plateau. _Plant Commun._ **4**, 100574 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36906801)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10363505)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20clines%20across%20the%20species%20boundary%20between%20a%20hybrid%20pine%20and%20its%20progenitor%20in%20the%20eastern%20Tibetan%20Plateau&journal=Plant%20Commun.&volume=4&publication_year=2023&author=Guo%2CJF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36906801)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10363505)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXotlChtrY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20clines%20across%20the%20species%20boundary%20between%20a%20hybrid%20pine%20and%20its%20progenitor%20in%20the%20eastern%20Tibetan%20Plateau&journal=Plant%20Commun.&volume=4&publication_year=2023&author=Guo%2CJF) 
     
 35.  Petit, J. R. et al. Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica. _Nature_ **399**, 429–436 (1999).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Climate%20and%20atmospheric%20history%20of%20the%20past%20420%2C000%20years%20from%20the%20Vostok%20ice%20core%2C%20Antarctica&journal=Nature&volume=399&pages=429-436&publication_year=1999&author=Petit%2CJR) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1MXjvVyqu78%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Climate%20and%20atmospheric%20history%20of%20the%20past%20420%2C000%20years%20from%20the%20Vostok%20ice%20core%2C%20Antarctica&journal=Nature&volume=399&pages=429-436&publication_year=1999&author=Petit%2CJR) 
     
 36.  Liao, L. et al. Unraveling a genetic roadmap for improved taste in the domesticated apple. _Mol. Plant_ **14**, 1454–1471 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34022440)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unraveling%20a%20genetic%20roadmap%20for%20improved%20taste%20in%20the%20domesticated%20apple&journal=Mol.%20Plant&volume=14&pages=1454-1471&publication_year=2021&author=Liao%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34022440)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXhtlyiurrM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unraveling%20a%20genetic%20roadmap%20for%20improved%20taste%20in%20the%20domesticated%20apple&journal=Mol.%20Plant&volume=14&pages=1454-1471&publication_year=2021&author=Liao%2CL) 
     
 37.  Xu, S. et al. Auxin inhibits lignin and cellulose biosynthesis in stone cells of pear fruit via the PbrARF13-PbrNSC-PbrMYB132 transcriptional regulatory cascade. _Plant Biotechnol. J._ **21**, 1408–1425 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37031416)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10281602)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Auxin%20inhibits%20lignin%20and%20cellulose%20biosynthesis%20in%20stone%20cells%20of%20pear%20fruit%20via%20the%20PbrARF13-PbrNSC-PbrMYB132%20transcriptional%20regulatory%20cascade&journal=Plant%20Biotechnol.%20J.&volume=21&pages=1408-1425&publication_year=2023&author=Xu%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37031416)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10281602)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXnvVaku7g%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Auxin%20inhibits%20lignin%20and%20cellulose%20biosynthesis%20in%20stone%20cells%20of%20pear%20fruit%20via%20the%20PbrARF13-PbrNSC-PbrMYB132%20transcriptional%20regulatory%20cascade&journal=Plant%20Biotechnol.%20J.&volume=21&pages=1408-1425&publication_year=2023&author=Xu%2CS) 
     
 38.  Gong, X. et al. Multi-omics analyses reveal stone cell distribution pattern in pear fruit. _Plant J._ **113**, 626–642 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36546867)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-omics%20analyses%20reveal%20stone%20cell%20distribution%20pattern%20in%20pear%20fruit&journal=Plant%20J.&volume=113&pages=626-642&publication_year=2023&author=Gong%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36546867)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhs1Wqurc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-omics%20analyses%20reveal%20stone%20cell%20distribution%20pattern%20in%20pear%20fruit&journal=Plant%20J.&volume=113&pages=626-642&publication_year=2023&author=Gong%2CX) 
     
 39.  Xue, C. et al. PbrmiR397a regulates lignification during stone cell development in pear fruit. _Plant Biotechnol. J._ **17**, 103–117 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29754465)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PbrmiR397a%20regulates%20lignification%20during%20stone%20cell%20development%20in%20pear%20fruit&journal=Plant%20Biotechnol.%20J.&volume=17&pages=103-117&publication_year=2019&author=Xue%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29754465)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXotVWqsg%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PbrmiR397a%20regulates%20lignification%20during%20stone%20cell%20development%20in%20pear%20fruit&journal=Plant%20Biotechnol.%20J.&volume=17&pages=103-117&publication_year=2019&author=Xue%2CC) 
     
 40.  Li, Y. et al. Genomic analyses of an extensive collection of wild and cultivated accessions provide new insights into peach breeding history. _Genome Biol._ **20**, 36 (2019).
     
@@ -405,7 +405,7 @@ References
     
 41.  Azzi, L. et al. Fruit growth-related genes in tomato. _J. Exp. Bot._ **66**, 1075–1086 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25573859)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fruit%20growth-related%20genes%20in%20tomato&journal=J.%20Exp.%20Bot.&volume=66&pages=1075-1086&publication_year=2015&author=Azzi%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25573859)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXitVWhsLnJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fruit%20growth-related%20genes%20in%20tomato&journal=J.%20Exp.%20Bot.&volume=66&pages=1075-1086&publication_year=2015&author=Azzi%2CL) 
     
 42.  Jiang, S. et al. The UBP14-CDKB1;1-CDKG2 cascade controls endore-duplication and cell growth in _Arabidopsis_. _Plant Cell_ **34**, 1308–1325 (2022).
     
@@ -417,79 +417,79 @@ References
     
 44.  Fang, D. D. et al. An EMS-induced mutation in a tetratricopeptide repeat-like superfamily protein gene (Ghir\_A12G008870) on chromosome A12 is responsible for the liy short fiber phenotype in cotton. _Theor. Appl. Genet._ **133**, 271–282 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31624873)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20EMS-induced%20mutation%20in%20a%20tetratricopeptide%20repeat-like%20superfamily%20protein%20gene%20%28Ghir_A12G008870%29%20on%20chromosome%20A12%20is%20responsible%20for%20the%20liy%20short%20fiber%20phenotype%20in%20cotton&journal=Theor.%20Appl.%20Genet.&volume=133&pages=271-282&publication_year=2020&author=Fang%2CDD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31624873)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhvFynu7nN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20EMS-induced%20mutation%20in%20a%20tetratricopeptide%20repeat-like%20superfamily%20protein%20gene%20%28Ghir_A12G008870%29%20on%20chromosome%20A12%20is%20responsible%20for%20the%20liy%20short%20fiber%20phenotype%20in%20cotton&journal=Theor.%20Appl.%20Genet.&volume=133&pages=271-282&publication_year=2020&author=Fang%2CDD) 
     
 45.  Zhang, M. et al. A tetratricopeptide repeat domain-containing protein SSR1 located in mitochondria is involved in root development and auxin polar transport in _Arabidopsis_. _Plant J._ **83**, 582–599 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26072661)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20tetratricopeptide%20repeat%20domain-containing%20protein%20SSR1%20located%20in%20mitochondria%20is%20involved%20in%20root%20development%20and%20auxin%20polar%20transport%20in%20Arabidopsis&journal=Plant%20J.&volume=83&pages=582-599&publication_year=2015&author=Zhang%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26072661)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhtFWmur7I)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20tetratricopeptide%20repeat%20domain-containing%20protein%20SSR1%20located%20in%20mitochondria%20is%20involved%20in%20root%20development%20and%20auxin%20polar%20transport%20in%20Arabidopsis&journal=Plant%20J.&volume=83&pages=582-599&publication_year=2015&author=Zhang%2CM) 
     
 46.  Wang, H. et al. A pear S1-bZIP transcription factor PpbZIP44 modulates carbohydrate metabolism, amino acid, and flavonoid accumulation in fruits. _Hortic. Res._ **10**, uhad140 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37575657)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10421730)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20pear%20S1-bZIP%20transcription%20factor%20PpbZIP44%20modulates%20carbohydrate%20metabolism%2C%20amino%20acid%2C%20and%20flavonoid%20accumulation%20in%20fruits&journal=Hortic.%20Res.&volume=10&publication_year=2023&author=Wang%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37575657)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10421730)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXhsV2rtbnJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20pear%20S1-bZIP%20transcription%20factor%20PpbZIP44%20modulates%20carbohydrate%20metabolism%2C%20amino%20acid%2C%20and%20flavonoid%20accumulation%20in%20fruits&journal=Hortic.%20Res.&volume=10&publication_year=2023&author=Wang%2CH) 
     
 47.  Jia, L. et al. PbrbZIP15 promotes sugar accumulation in pear via activating the transcription of the glucose isomerase gene PbrXylA1. _Plant J._ **117**, 1392–1412 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38044792)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PbrbZIP15%20promotes%20sugar%20accumulation%20in%20pear%20via%20activating%20the%20transcription%20of%20the%20glucose%20isomerase%20gene%20PbrXylA1&journal=Plant%20J.&volume=117&pages=1392-1412&publication_year=2024&author=Jia%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38044792)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXisFahsr3J)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PbrbZIP15%20promotes%20sugar%20accumulation%20in%20pear%20via%20activating%20the%20transcription%20of%20the%20glucose%20isomerase%20gene%20PbrXylA1&journal=Plant%20J.&volume=117&pages=1392-1412&publication_year=2024&author=Jia%2CL) 
     
 48.  Zhang, H., Tao, X., Fan, X., Zhang, S. & Qin, G. PpybZIP43 contributes to sucrose synthesis in pear fruits by activating PpySPS3 expression and interacts with PpySTOP1. _Physiol. Plant_ **174**, e13732 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35689502)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PpybZIP43%20contributes%20to%20sucrose%20synthesis%20in%20pear%20fruits%20by%20activating%20PpySPS3%20expression%20and%20interacts%20with%20PpySTOP1&journal=Physiol.%20Plant&volume=174&publication_year=2022&author=Zhang%2CH&author=Tao%2CX&author=Fan%2CX&author=Zhang%2CS&author=Qin%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35689502)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xhs1ajtLfJ)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PpybZIP43%20contributes%20to%20sucrose%20synthesis%20in%20pear%20fruits%20by%20activating%20PpySPS3%20expression%20and%20interacts%20with%20PpySTOP1&journal=Physiol.%20Plant&volume=174&publication_year=2022&author=Zhang%2CH&author=Tao%2CX&author=Fan%2CX&author=Zhang%2CS&author=Qin%2CG) 
     
 49.  Shang, L. et al. A super pan-genomic landscape of rice. _Cell Res._ **32**, 878–896 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35821092)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9525306)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20super%20pan-genomic%20landscape%20of%20rice&journal=Cell%20Res.&volume=32&pages=878-896&publication_year=2022&author=Shang%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35821092)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9525306)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xit1yit7rL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20super%20pan-genomic%20landscape%20of%20rice&journal=Cell%20Res.&volume=32&pages=878-896&publication_year=2022&author=Shang%2CL) 
     
 50.  Chen, S. et al. Gene mining and genomics-assisted breeding empowered by the pangenome of tea plant _Camellia sinensis_. _Nat. Plants_ **9**, 1986–1999 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38012346)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20mining%20and%20genomics-assisted%20breeding%20empowered%20by%20the%20pangenome%20of%20tea%20plant%20Camellia%20sinensis&journal=Nat.%20Plants&volume=9&pages=1986-1999&publication_year=2023&author=Chen%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38012346)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXisFGit77I)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gene%20mining%20and%20genomics-assisted%20breeding%20empowered%20by%20the%20pangenome%20of%20tea%20plant%20Camellia%20sinensis&journal=Nat.%20Plants&volume=9&pages=1986-1999&publication_year=2023&author=Chen%2CS) 
     
 51.  Hiwasa, K. et al. Ethylene is required for both the initiation and progression of softening in pear (_Pyrus communis_ L.) fruit. _J. Exp. Bot._ **54**, 771–779 (2003).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12554720)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ethylene%20is%20required%20for%20both%20the%20initiation%20and%20progression%20of%20softening%20in%20pear%20%28Pyrus%20communis%20L.%29%20fruit&journal=J.%20Exp.%20Bot.&volume=54&pages=771-779&publication_year=2003&author=Hiwasa%2CK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12554720)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3sXit1aru7o%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ethylene%20is%20required%20for%20both%20the%20initiation%20and%20progression%20of%20softening%20in%20pear%20%28Pyrus%20communis%20L.%29%20fruit&journal=J.%20Exp.%20Bot.&volume=54&pages=771-779&publication_year=2003&author=Hiwasa%2CK) 
     
 52.  Paul, V., Pandey, R. & Srivastava, G. C. The fading distinctions between classical patterns of ripening in climacteric and non-climacteric fruit and the ubiquity of ethylene—an overview. _J. Food Sci. Technol._ **49**, 1–21 (2012).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23572821)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20fading%20distinctions%20between%20classical%20patterns%20of%20ripening%20in%20climacteric%20and%20non-climacteric%20fruit%20and%20the%20ubiquity%20of%20ethylene%E2%80%94an%20overview&journal=J.%20Food%20Sci.%20Technol.&volume=49&pages=1-21&publication_year=2012&author=Paul%2CV&author=Pandey%2CR&author=Srivastava%2CGC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23572821)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXhsF2rurjM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20fading%20distinctions%20between%20classical%20patterns%20of%20ripening%20in%20climacteric%20and%20non-climacteric%20fruit%20and%20the%20ubiquity%20of%20ethylene%E2%80%94an%20overview&journal=J.%20Food%20Sci.%20Technol.&volume=49&pages=1-21&publication_year=2012&author=Paul%2CV&author=Pandey%2CR&author=Srivastava%2CGC) 
     
 53.  Song, Q. et al. Diurnal down-regulation of ethylene biosynthesis mediates biomass heterosis. _Proc. Natl Acad. Sci. USA_ **115**, 5606–5611 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29735680)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003462)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Diurnal%20down-regulation%20of%20ethylene%20biosynthesis%20mediates%20biomass%20heterosis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=115&pages=5606-5611&publication_year=2018&author=Song%2CQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29735680)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003462)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhvVOltLfL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Diurnal%20down-regulation%20of%20ethylene%20biosynthesis%20mediates%20biomass%20heterosis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=115&pages=5606-5611&publication_year=2018&author=Song%2CQ) 
     
 54.  Liu, C. et al. The OsWRKY72-OsAAT30/OsGSTU26 module mediates reactive oxygen species scavenging to drive heterosis for salt tolerance in hybrid rice. _J. Integr. Plant Biol._ **66**, 709–730 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38483018)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20OsWRKY72-OsAAT30%2FOsGSTU26%20module%20mediates%20reactive%20oxygen%20species%20scavenging%20to%20drive%20heterosis%20for%20salt%20tolerance%20in%20hybrid%20rice&journal=J.%20Integr.%20Plant%20Biol.&volume=66&pages=709-730&publication_year=2024&author=Liu%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38483018)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXmvVyrt74%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20OsWRKY72-OsAAT30%2FOsGSTU26%20module%20mediates%20reactive%20oxygen%20species%20scavenging%20to%20drive%20heterosis%20for%20salt%20tolerance%20in%20hybrid%20rice&journal=J.%20Integr.%20Plant%20Biol.&volume=66&pages=709-730&publication_year=2024&author=Liu%2CC) 
     
 55.  Dombrecht, B. et al. MYC2 differentially modulates diverse jasmonate-dependent functions in _Arabidopsis_. _Plant Cell_ **19**, 2225–2245 (2007).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17616737)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955694)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MYC2%20differentially%20modulates%20diverse%20jasmonate-dependent%20functions%20in%20Arabidopsis&journal=Plant%20Cell&volume=19&pages=2225-2245&publication_year=2007&author=Dombrecht%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17616737)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955694)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtValurzO)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MYC2%20differentially%20modulates%20diverse%20jasmonate-dependent%20functions%20in%20Arabidopsis&journal=Plant%20Cell&volume=19&pages=2225-2245&publication_year=2007&author=Dombrecht%2CB) 
     
 56.  Hu, D. G. et al. The regulatory module MdPUB29-MdbHLH3 connects ethylene biosynthesis with fruit quality in apple. _N. Phytol._ **221**, 1966–1982 (2019).
     
-    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20regulatory%20module%20MdPUB29-MdbHLH3%20connects%20ethylene%20biosynthesis%20with%20fruit%20quality%20in%20apple&journal=N.%20Phytol.&volume=221&pages=1966-1982&publication_year=2019&author=Hu%2CDG) 
+    [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXisFChtrw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20regulatory%20module%20MdPUB29-MdbHLH3%20connects%20ethylene%20biosynthesis%20with%20fruit%20quality%20in%20apple&journal=N.%20Phytol.&volume=221&pages=1966-1982&publication_year=2019&author=Hu%2CDG) 
     
 57.  He, L. et al. DNA methylation-free _Arabidopsis_ reveals crucial roles of DNA methylation in regulating gene expression and development. _Nat. Commun._ **13**, 1335 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35288562)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8921224)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DNA%20methylation-free%20Arabidopsis%20reveals%20crucial%20roles%20of%20DNA%20methylation%20in%20regulating%20gene%20expression%20and%20development&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=He%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35288562)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8921224)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XntVamtLY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DNA%20methylation-free%20Arabidopsis%20reveals%20crucial%20roles%20of%20DNA%20methylation%20in%20regulating%20gene%20expression%20and%20development&journal=Nat.%20Commun.&volume=13&publication_year=2022&author=He%2CL) 
     
 58.  Zhang, J. et al. Autotetraploid rice methylome analysis reveals methylation variation of transposable elements and their effects on gene expression. _Proc. Natl Acad. Sci. USA_ **112**, E7022–E7029 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26621743)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4687577)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Autotetraploid%20rice%20methylome%20analysis%20reveals%20methylation%20variation%20of%20transposable%20elements%20and%20their%20effects%20on%20gene%20expression&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=112&pages=E7022-E7029&publication_year=2015&author=Zhang%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26621743)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4687577)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXhvFWqtbfN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Autotetraploid%20rice%20methylome%20analysis%20reveals%20methylation%20variation%20of%20transposable%20elements%20and%20their%20effects%20on%20gene%20expression&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=112&pages=E7022-E7029&publication_year=2015&author=Zhang%2CJ) 
     
 59.  Shao, L. et al. Patterns of genome-wide allele-specific expression in hybrid rice and the implications on the genetic basis of heterosis. _Proc. Natl Acad. Sci. USA_ **116**, 5653–5658 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30833384)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6431163)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Patterns%20of%20genome-wide%20allele-specific%20expression%20in%20hybrid%20rice%20and%20the%20implications%20on%20the%20genetic%20basis%20of%20heterosis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=116&pages=5653-5658&publication_year=2019&author=Shao%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30833384)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6431163)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXlsFeksrs%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Patterns%20of%20genome-wide%20allele-specific%20expression%20in%20hybrid%20rice%20and%20the%20implications%20on%20the%20genetic%20basis%20of%20heterosis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=116&pages=5653-5658&publication_year=2019&author=Shao%2CL) 
     
 60.  Han, X. et al. Two haplotype-resolved, gap-free genome assemblies for _Actinidia latifolia_ and _Actinidia chinensis_ shed light on the regulatory mechanisms of vitamin C and sucrose metabolism in kiwifruit. _Mol. Plant_ **16**, 452–470 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36588343)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Two%20haplotype-resolved%2C%20gap-free%20genome%20assemblies%20for%20Actinidia%20latifolia%20and%20Actinidia%20chinensis%20shed%20light%20on%20the%20regulatory%20mechanisms%20of%20vitamin%20C%20and%20sucrose%20metabolism%20in%20kiwifruit&journal=Mol.%20Plant&volume=16&pages=452-470&publication_year=2023&author=Han%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36588343)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsVymsbw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Two%20haplotype-resolved%2C%20gap-free%20genome%20assemblies%20for%20Actinidia%20latifolia%20and%20Actinidia%20chinensis%20shed%20light%20on%20the%20regulatory%20mechanisms%20of%20vitamin%20C%20and%20sucrose%20metabolism%20in%20kiwifruit&journal=Mol.%20Plant&volume=16&pages=452-470&publication_year=2023&author=Han%2CX) 
     
 61.  Hu, H. et al. Allele-specific expression reveals multiple paths to highland adaptation in maize. _Mol. Biol. Evol._ **39**, msac239 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36327321)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9692238)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele-specific%20expression%20reveals%20multiple%20paths%20to%20highland%20adaptation%20in%20maize&journal=Mol.%20Biol.%20Evol.&volume=39&publication_year=2022&author=Hu%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36327321)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9692238)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXptlyqsbY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele-specific%20expression%20reveals%20multiple%20paths%20to%20highland%20adaptation%20in%20maize&journal=Mol.%20Biol.%20Evol.&volume=39&publication_year=2022&author=Hu%2CH) 
     
 62.  Swetha, C. et al. Major domestication-related phenotypes in indica rice are due to loss of miRNA-mediated laccase silencing. _Plant Cell_ **30**, 2649–2662 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30341147)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6305975)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Major%20domestication-related%20phenotypes%20in%20indica%20rice%20are%20due%20to%20loss%20of%20miRNA-mediated%20laccase%20silencing&journal=Plant%20Cell&volume=30&pages=2649-2662&publication_year=2018&author=Swetha%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30341147)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6305975)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXmvFGnsLk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Major%20domestication-related%20phenotypes%20in%20indica%20rice%20are%20due%20to%20loss%20of%20miRNA-mediated%20laccase%20silencing&journal=Plant%20Cell&volume=30&pages=2649-2662&publication_year=2018&author=Swetha%2CC) 
     
 63.  Nham, N. T. et al. A transcriptome approach towards understanding the development of ripening capacity in ‘Bartlett’ pears (_Pyrus communis_ L.). _BMC Genom._ **16**, 762 (2015).
     
@@ -497,35 +497,35 @@ References
     
 64.  Li, D. et al. The multi-omics basis of potato heterosis. _J. Integr. Plant Biol._ **64**, 671–687 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34963038)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20multi-omics%20basis%20of%20potato%20heterosis&journal=J.%20Integr.%20Plant%20Biol.&volume=64&pages=671-687&publication_year=2022&author=Li%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34963038)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xhtl2lurbK)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20multi-omics%20basis%20of%20potato%20heterosis&journal=J.%20Integr.%20Plant%20Biol.&volume=64&pages=671-687&publication_year=2022&author=Li%2CD) 
     
 65.  Ma, X. et al. An enhanced network of energy metabolism, lysine acetylation, and growth-promoting protein accumulation is associated with heterosis in elite hybrid rice. _Plant Commun._ **4**, 100560 (2023).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36774536)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10363507)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20enhanced%20network%20of%20energy%20metabolism%2C%20lysine%20acetylation%2C%20and%20growth-promoting%20protein%20accumulation%20is%20associated%20with%20heterosis%20in%20elite%20hybrid%20rice&journal=Plant%20Commun.&volume=4&publication_year=2023&author=Ma%2CX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36774536)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10363507)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXlslWitr8%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20enhanced%20network%20of%20energy%20metabolism%2C%20lysine%20acetylation%2C%20and%20growth-promoting%20protein%20accumulation%20is%20associated%20with%20heterosis%20in%20elite%20hybrid%20rice&journal=Plant%20Commun.&volume=4&publication_year=2023&author=Ma%2CX) 
     
 66.  Zhang, J. et al. Extensive sequence divergence between the reference genomes of two elite indica rice varieties Zhenshan 97 and Minghui 63. _Proc. Natl Acad. Sci. USA_ **113**, E5163–E5171 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27535938)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024649)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Extensive%20sequence%20divergence%20between%20the%20reference%20genomes%20of%20two%20elite%20indica%20rice%20varieties%20Zhenshan%2097%20and%20Minghui%2063&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=113&pages=E5163-E5171&publication_year=2016&author=Zhang%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27535938)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024649)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhtlGmt77M)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Extensive%20sequence%20divergence%20between%20the%20reference%20genomes%20of%20two%20elite%20indica%20rice%20varieties%20Zhenshan%2097%20and%20Minghui%2063&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=113&pages=E5163-E5171&publication_year=2016&author=Zhang%2CJ) 
     
 67.  Shen, G. et al. The regulatory network mediated by circadian clock genes is related to heterosis in rice. _J. Integr. Plant Biol._ **57**, 300–312 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25040350)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20regulatory%20network%20mediated%20by%20circadian%20clock%20genes%20is%20related%20to%20heterosis%20in%20rice&journal=J.%20Integr.%20Plant%20Biol.&volume=57&pages=300-312&publication_year=2015&author=Shen%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25040350)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXjvVOnur4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20regulatory%20network%20mediated%20by%20circadian%20clock%20genes%20is%20related%20to%20heterosis%20in%20rice&journal=J.%20Integr.%20Plant%20Biol.&volume=57&pages=300-312&publication_year=2015&author=Shen%2CG) 
     
 68.  Yang, M. et al. Genomic architecture of biomass heterosis in _Arabidopsis_. _Proc. Natl Acad. Sci. USA_ **114**, 8101–8106 (2017).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28696287)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544317)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20architecture%20of%20biomass%20heterosis%20in%20Arabidopsis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=114&pages=8101-8106&publication_year=2017&author=Yang%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28696287)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544317)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtFCgsr3J)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genomic%20architecture%20of%20biomass%20heterosis%20in%20Arabidopsis&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=114&pages=8101-8106&publication_year=2017&author=Yang%2CM) 
     
 69.  Yang, Q. et al. ABA-responsive ABRE-BINDING FACTOR3 activates DAM3 expression to promote bud dormancy in Asian pear. _Plant Cell Environ._ **43**, 1360–1375 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32092154)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ABA-responsive%20ABRE-BINDING%20FACTOR3%20activates%20DAM3%20expression%20to%20promote%20bud%20dormancy%20in%20Asian%20pear&journal=Plant%20Cell%20Environ.&volume=43&pages=1360-1375&publication_year=2020&author=Yang%2CQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32092154)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtVWntbfM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ABA-responsive%20ABRE-BINDING%20FACTOR3%20activates%20DAM3%20expression%20to%20promote%20bud%20dormancy%20in%20Asian%20pear&journal=Plant%20Cell%20Environ.&volume=43&pages=1360-1375&publication_year=2020&author=Yang%2CQ) 
     
 70.  Fu, J. et al. Genome-wide identification of _Petunia_ HSF genes and potential function of PhHSF19 in benzenoid/phenylpropanoid biosynthesis. _Int. J. Mol. Sci._ **23**, 2974 (2022).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35328393)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8951162)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20identification%20of%20Petunia%20HSF%20genes%20and%20potential%20function%20of%20PhHSF19%20in%20benzenoid%2Fphenylpropanoid%20biosynthesis&journal=Int.%20J.%20Mol.%20Sci.&volume=23&publication_year=2022&author=Fu%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35328393)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8951162)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XoslWrurg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome-wide%20identification%20of%20Petunia%20HSF%20genes%20and%20potential%20function%20of%20PhHSF19%20in%20benzenoid%2Fphenylpropanoid%20biosynthesis&journal=Int.%20J.%20Mol.%20Sci.&volume=23&publication_year=2022&author=Fu%2CJ) 
     
 71.  Zhang, N. et al. Changes to the core and flanking sequences of G-box elements lead to increases and decreases in gene expression in both native and synthetic soybean promoters. _Plant Biotechnol. J._ **17**, 724–735 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30191675)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Changes%20to%20the%20core%20and%20flanking%20sequences%20of%20G-box%20elements%20lead%20to%20increases%20and%20decreases%20in%20gene%20expression%20in%20both%20native%20and%20synthetic%20soybean%20promoters&journal=Plant%20Biotechnol.%20J.&volume=17&pages=724-735&publication_year=2019&author=Zhang%2CN) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30191675)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXkvFWju78%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Changes%20to%20the%20core%20and%20flanking%20sequences%20of%20G-box%20elements%20lead%20to%20increases%20and%20decreases%20in%20gene%20expression%20in%20both%20native%20and%20synthetic%20soybean%20promoters&journal=Plant%20Biotechnol.%20J.&volume=17&pages=724-735&publication_year=2019&author=Zhang%2CN) 
     
 72.  Zhang, M. Y. et al. Genome-wide association studies provide insights into the genetic determination of fruit traits of pear. _Nat. Commun._ **12**, 1141 (2021).
     
@@ -533,15 +533,15 @@ References
     
 73.  Zhang, X. T. et al. Assembly of allele-aware, chromosomal-scale autopolyploid genomes based on Hi-C data. _Nat. Plants_ **5**, 833–845 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31383970)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assembly%20of%20allele-aware%2C%20chromosomal-scale%20autopolyploid%20genomes%20based%20on%20Hi-C%20data&journal=Nat.%20Plants&volume=5&pages=833-845&publication_year=2019&author=Zhang%2CXT) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31383970)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsFCmsr3O)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assembly%20of%20allele-aware%2C%20chromosomal-scale%20autopolyploid%20genomes%20based%20on%20Hi-C%20data&journal=Nat.%20Plants&volume=5&pages=833-845&publication_year=2019&author=Zhang%2CXT) 
     
 74.  Li, H. Minimap2: pairwise alignment for nucleotide sequences. _Bioinformatics_ **34**, 3094–3100 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29750242)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137996)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Minimap2%3A%20pairwise%20alignment%20for%20nucleotide%20sequences&journal=Bioinformatics&volume=34&pages=3094-3100&publication_year=2018&author=Li%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29750242)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137996)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhtVamu73J)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Minimap2%3A%20pairwise%20alignment%20for%20nucleotide%20sequences&journal=Bioinformatics&volume=34&pages=3094-3100&publication_year=2018&author=Li%2CH) 
     
 75.  Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows–Wheeler transform. _Bioinformatics_ **25**, 1754–1760 (2009).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19451168)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705234)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%20and%20accurate%20short%20read%20alignment%20with%20Burrows%E2%80%93Wheeler%20transform&journal=Bioinformatics&volume=25&pages=1754-1760&publication_year=2009&author=Li%2CH&author=Durbin%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19451168)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705234)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXot1Cjtbo%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%20and%20accurate%20short%20read%20alignment%20with%20Burrows%E2%80%93Wheeler%20transform&journal=Bioinformatics&volume=25&pages=1754-1760&publication_year=2009&author=Li%2CH&author=Durbin%2CR) 
     
 76.  Li, H. et al. The sequence alignment/map format and SAMtools. _Bioinformatics_ **25**, 2078–2079 (2009).
     
@@ -553,11 +553,11 @@ References
     
 78.  Manni, M. et al. BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes. _Mol. Biol. Evol._ **38**, 4647–4654 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34320186)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476166)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=BUSCO%20update%3A%20novel%20and%20streamlined%20workflows%20along%20with%20broader%20and%20deeper%20phylogenetic%20coverage%20for%20scoring%20of%20eukaryotic%2C%20prokaryotic%2C%20and%20viral%20genomes&journal=Mol.%20Biol.%20Evol.&volume=38&pages=4647-4654&publication_year=2021&author=Manni%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34320186)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8476166)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XhslaktbzF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=BUSCO%20update%3A%20novel%20and%20streamlined%20workflows%20along%20with%20broader%20and%20deeper%20phylogenetic%20coverage%20for%20scoring%20of%20eukaryotic%2C%20prokaryotic%2C%20and%20viral%20genomes&journal=Mol.%20Biol.%20Evol.&volume=38&pages=4647-4654&publication_year=2021&author=Manni%2CM) 
     
 79.  Rhie, A. et al. Merqury: reference-free quality, completeness, and phasing assessment for genome assemblies. _Genome Biol._ **21**, 245 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32928274)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7488777)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Merqury%3A%20reference-free%20quality%2C%20completeness%2C%20and%20phasing%20assessment%20for%20genome%20assemblies&journal=Genome%20Biol.&volume=21&publication_year=2020&author=Rhie%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32928274)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7488777)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvVKmu7rF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Merqury%3A%20reference-free%20quality%2C%20completeness%2C%20and%20phasing%20assessment%20for%20genome%20assemblies&journal=Genome%20Biol.&volume=21&publication_year=2020&author=Rhie%2CA) 
     
 80.  Servant, N. et al. HiC-Pro: an optimized and flexible pipeline for Hi-C data processing. _Genome Biol._ **16**, 259 (2015).
     
@@ -569,11 +569,11 @@ References
     
 82.  Price, A. L. et al. De novo identification of repeat families in large genomes. _Bioinformatics_ **21**, I351–I358 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15961478)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20identification%20of%20repeat%20families%20in%20large%20genomes&journal=Bioinformatics&volume=21&pages=I351-I358&publication_year=2005&author=Price%2CAL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15961478)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXlslyrsrg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20identification%20of%20repeat%20families%20in%20large%20genomes&journal=Bioinformatics&volume=21&pages=I351-I358&publication_year=2005&author=Price%2CAL) 
     
 83.  Edgar, R. C. & Myers, E. W. PILER: identification and classification of genomic repeats. _Bioinformatics_ **21**, I152–I158 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15961452)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PILER%3A%20identification%20and%20classification%20of%20genomic%20repeats&journal=Bioinformatics&volume=21&pages=I152-I158&publication_year=2005&author=Edgar%2CRC&author=Myers%2CEW) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15961452)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXlslyrsL8%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PILER%3A%20identification%20and%20classification%20of%20genomic%20repeats&journal=Bioinformatics&volume=21&pages=I152-I158&publication_year=2005&author=Edgar%2CRC&author=Myers%2CEW) 
     
 84.  Xu, Z. & Wang, H. LTR\_FINDER: an efficient tool for the prediction of full-length LTR retrotransposons. _Nucleic Acids Res._ **35**, W265–W268 (2007).
     
@@ -581,7 +581,7 @@ References
     
 85.  Flynn, J. M. et al. RepeatModeler2 for automated genomic discovery of transposable element families. _Proc. Natl Acad. Sci. USA_ **117**, 9451–9457 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32300014)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196820)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RepeatModeler2%20for%20automated%20genomic%20discovery%20of%20transposable%20element%20families&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=9451-9457&publication_year=2020&author=Flynn%2CJM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32300014)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196820)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXnvFeqt74%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RepeatModeler2%20for%20automated%20genomic%20discovery%20of%20transposable%20element%20families&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&volume=117&pages=9451-9457&publication_year=2020&author=Flynn%2CJM) 
     
 86.  Tarailo-Graovac, M. & Chen, N. Using RepeatMasker to identify repetitive elements in genomic sequences. _Curr Protoc Bioinformatics_ **25**, 4.10.1–4.10.14 (2009).
     
@@ -589,39 +589,39 @@ References
     
 87.  Benson, G. Tandem repeats finder: a program to analyze DNA sequences. _Nucleic Acids Res._ **27**, 573–580 (1999).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9862982)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC148217)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tandem%20repeats%20finder%3A%20a%20program%20to%20analyze%20DNA%20sequences&journal=Nucleic%20Acids%20Res.&volume=27&pages=573-580&publication_year=1999&author=Benson%2CG) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9862982)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC148217)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK1MXhtVKmtrg%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tandem%20repeats%20finder%3A%20a%20program%20to%20analyze%20DNA%20sequences&journal=Nucleic%20Acids%20Res.&volume=27&pages=573-580&publication_year=1999&author=Benson%2CG) 
     
 88.  Altschul, S. F. et al. Basic local alignment search tool. _J. Mol. Biol._ **215**, 403–410 (1990).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=2231712)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Basic%20local%20alignment%20search%20tool&journal=J.%20Mol.%20Biol.&volume=215&pages=403-410&publication_year=1990&author=Altschul%2CSF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=2231712)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK3MXitVGmsA%3D%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Basic%20local%20alignment%20search%20tool&journal=J.%20Mol.%20Biol.&volume=215&pages=403-410&publication_year=1990&author=Altschul%2CSF) 
     
 89.  Birney, E. et al. GeneWise and genomewise. _Genome Res._ **14**, 988–995 (2004).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15123596)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC479130)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GeneWise%20and%20genomewise&journal=Genome%20Res.&volume=14&pages=988-995&publication_year=2004&author=Birney%2CE) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15123596)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC479130)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2cXjvFyku7c%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GeneWise%20and%20genomewise&journal=Genome%20Res.&volume=14&pages=988-995&publication_year=2004&author=Birney%2CE) 
     
 90.  Urnov, F. D. et al. Highly efficient endogenous human gene correction using designed zinc-finger nucleases. _Nature_ **435**, 646–651 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15806097)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Highly%20efficient%20endogenous%20human%20gene%20correction%20using%20designed%20zinc-finger%20nucleases&journal=Nature&volume=435&pages=646-651&publication_year=2005&author=Urnov%2CFD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15806097)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXks1OgtLk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Highly%20efficient%20endogenous%20human%20gene%20correction%20using%20designed%20zinc-finger%20nucleases&journal=Nature&volume=435&pages=646-651&publication_year=2005&author=Urnov%2CFD) 
     
 91.  Majoros, W. H. et al. TigrScan and GlimmerHMM: two open source ab initio eukaryotic gene-finders. _Bioinformatics_ **20**, 2878–2879 (2004).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15145805)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=TigrScan%20and%20GlimmerHMM%3A%20two%20open%20source%20ab%20initio%20eukaryotic%20gene-finders&journal=Bioinformatics&volume=20&pages=2878-2879&publication_year=2004&author=Majoros%2CWH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15145805)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2cXhtVSru77E)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=TigrScan%20and%20GlimmerHMM%3A%20two%20open%20source%20ab%20initio%20eukaryotic%20gene-finders&journal=Bioinformatics&volume=20&pages=2878-2879&publication_year=2004&author=Majoros%2CWH) 
     
 92.  Burge, C. & Karlin, S. Prediction of complete gene structures in human genomic DNA. _J. Mol. Biol._ **268**, 78–94 (1997).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9149143)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prediction%20of%20complete%20gene%20structures%20in%20human%20genomic%20DNA&journal=J.%20Mol.%20Biol.&volume=268&pages=78-94&publication_year=1997&author=Burge%2CC&author=Karlin%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9149143)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DyaK2sXjtlSqtL4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prediction%20of%20complete%20gene%20structures%20in%20human%20genomic%20DNA&journal=J.%20Mol.%20Biol.&volume=268&pages=78-94&publication_year=1997&author=Burge%2CC&author=Karlin%2CS) 
     
 93.  Kim, D. et al. Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype. _Nat. Biotechnol._ **37**, 907–915 (2019).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31375807)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605509)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Graph-based%20genome%20alignment%20and%20genotyping%20with%20HISAT2%20and%20HISAT-genotype&journal=Nat.%20Biotechnol.&volume=37&pages=907-915&publication_year=2019&author=Kim%2CD) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31375807)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605509)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsFWqtL7O)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Graph-based%20genome%20alignment%20and%20genotyping%20with%20HISAT2%20and%20HISAT-genotype&journal=Nat.%20Biotechnol.&volume=37&pages=907-915&publication_year=2019&author=Kim%2CD) 
     
 94.  Trapnell, C. et al. Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation. _Nat. Biotechnol._ **28**, 511–515 (2010).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20436464)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3146043)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcript%20assembly%20and%20quantification%20by%20RNA-Seq%20reveals%20unannotated%20transcripts%20and%20isoform%20switching%20during%20cell%20differentiation&journal=Nat.%20Biotechnol.&volume=28&pages=511-515&publication_year=2010&author=Trapnell%2CC) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20436464)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3146043)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXlsVyitLY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transcript%20assembly%20and%20quantification%20by%20RNA-Seq%20reveals%20unannotated%20transcripts%20and%20isoform%20switching%20during%20cell%20differentiation&journal=Nat.%20Biotechnol.&volume=28&pages=511-515&publication_year=2010&author=Trapnell%2CC) 
     
 95.  Haas, B. J. et al. De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and analysis. _Nat. Protoc._ **8**, 1494–1512 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23845962)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20transcript%20sequence%20reconstruction%20from%20RNA-seq%20using%20the%20Trinity%20platform%20for%20reference%20generation%20and%20analysis&journal=Nat.%20Protoc.&volume=8&pages=1494-1512&publication_year=2013&author=Haas%2CBJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23845962)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhtVyrsLvF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20transcript%20sequence%20reconstruction%20from%20RNA-seq%20using%20the%20Trinity%20platform%20for%20reference%20generation%20and%20analysis&journal=Nat.%20Protoc.&volume=8&pages=1494-1512&publication_year=2013&author=Haas%2CBJ) 
     
 96.  Haas, B. J. et al. Automated eukaryotic gene structure annotation using EVidenceModeler and the program to assemble spliced alignments. _Genome Biol._ **9**, R7 (2008).
     
@@ -629,7 +629,7 @@ References
     
 97.  Cantalapiedra, C. P. et al. eggNOG-mapper v2: functional annotation, orthology assignments, and domain prediction at the metagenomic scale. _Mol. Biol. Evol._ **38**, 5825–5829 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34597405)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662613)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=eggNOG-mapper%20v2%3A%20functional%20annotation%2C%20orthology%20assignments%2C%20and%20domain%20prediction%20at%20the%20metagenomic%20scale&journal=Mol.%20Biol.%20Evol.&volume=38&pages=5825-5829&publication_year=2021&author=Cantalapiedra%2CCP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34597405)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662613)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38Xhslyrt78%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=eggNOG-mapper%20v2%3A%20functional%20annotation%2C%20orthology%20assignments%2C%20and%20domain%20prediction%20at%20the%20metagenomic%20scale&journal=Mol.%20Biol.%20Evol.&volume=38&pages=5825-5829&publication_year=2021&author=Cantalapiedra%2CCP) 
     
 98.  Tang, H. et al. JCVI: A versatile toolkit for comparative genomics analysis. _Imeta_ **12**, e211 (2024).
     
@@ -637,27 +637,27 @@ References
     
 99.  Katoh, K. & Standley, D. M. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. _Mol. Biol. Evol._ **30**, 772–780 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23329690)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603318)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MAFFT%20multiple%20sequence%20alignment%20software%20version%207%3A%20improvements%20in%20performance%20and%20usability&journal=Mol.%20Biol.%20Evol.&volume=30&pages=772-780&publication_year=2013&author=Katoh%2CK&author=Standley%2CDM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23329690)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603318)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXksFWisLc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MAFFT%20multiple%20sequence%20alignment%20software%20version%207%3A%20improvements%20in%20performance%20and%20usability&journal=Mol.%20Biol.%20Evol.&volume=30&pages=772-780&publication_year=2013&author=Katoh%2CK&author=Standley%2CDM) 
     
 100.  Zhang, Z. et al. ParaAT: a parallel tool for constructing multiple protein-coding DNA alignments. _Biochem. Biophys. Res. Commun._ **419**, 779–781 (2012).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22390928)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ParaAT%3A%20a%20parallel%20tool%20for%20constructing%20multiple%20protein-coding%20DNA%20alignments&journal=Biochem.%20Biophys.%20Res.%20Commun.&volume=419&pages=779-781&publication_year=2012&author=Zhang%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22390928)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38Xjs1yjtL4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ParaAT%3A%20a%20parallel%20tool%20for%20constructing%20multiple%20protein-coding%20DNA%20alignments&journal=Biochem.%20Biophys.%20Res.%20Commun.&volume=419&pages=779-781&publication_year=2012&author=Zhang%2CZ) 
     
 101.  Yang, Z. PAML 4: phylogenetic analysis by maximum likelihood. _Mol. Biol. Evol._ **24**, 1586–1591 (2007).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17483113)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood&journal=Mol.%20Biol.%20Evol.&volume=24&pages=1586-1591&publication_year=2007&author=Yang%2CZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17483113)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXpsVGrs7c%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood&journal=Mol.%20Biol.%20Evol.&volume=24&pages=1586-1591&publication_year=2007&author=Yang%2CZ) 
     
 102.  Li, L. et al. OrthoMCL: identification of ortholog groups for eukaryotic genomes. _Genome Res._ **13**, 2178–2189 (2003).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12952885)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC403725)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=OrthoMCL%3A%20identification%20of%20ortholog%20groups%20for%20eukaryotic%20genomes&journal=Genome%20Res.&volume=13&pages=2178-2189&publication_year=2003&author=Li%2CL) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12952885)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC403725)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3sXnslKhtLk%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=OrthoMCL%3A%20identification%20of%20ortholog%20groups%20for%20eukaryotic%20genomes&journal=Genome%20Res.&volume=13&pages=2178-2189&publication_year=2003&author=Li%2CL) 
     
 103.  Edgar, R. MUSCLE: multiple sequence alignment with high accuracy and high throughput. _Nucleic Acids Res_ **32**, 1792–1797 (2004).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15034147)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC390337)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MUSCLE%3A%20multiple%20sequence%20alignment%20with%20high%20accuracy%20and%20high%20throughput&journal=Nucleic%20Acids%20Res&volume=32&pages=1792-1797&publication_year=2004&author=Edgar%2CR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15034147)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC390337)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2cXisF2ks7w%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MUSCLE%3A%20multiple%20sequence%20alignment%20with%20high%20accuracy%20and%20high%20throughput&journal=Nucleic%20Acids%20Res&volume=32&pages=1792-1797&publication_year=2004&author=Edgar%2CR) 
     
 104.  Stamatakis, A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. _Bioinformatics_ **30**, 1312–1313 (2014).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24451623)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998144)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RAxML%20version%208%3A%20a%20tool%20for%20phylogenetic%20analysis%20and%20post-analysis%20of%20large%20phylogenies&journal=Bioinformatics&volume=30&pages=1312-1313&publication_year=2014&author=Stamatakis%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24451623)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998144)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXmvFCjsbc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=RAxML%20version%208%3A%20a%20tool%20for%20phylogenetic%20analysis%20and%20post-analysis%20of%20large%20phylogenies&journal=Bioinformatics&volume=30&pages=1312-1313&publication_year=2014&author=Stamatakis%2CA) 
     
 105.  De Bie, T. et al. CAFE: a computational tool for the study of gene family evolution. _Bioinformatics_ **22**, 1269–1271 (2006).
     
@@ -677,27 +677,27 @@ References
     
 109.  Thorvaldsdottir, H. et al. Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration. _Brief. Bioinform._ **14**, 178–192 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22517427)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrative%20Genomics%20Viewer%20%28IGV%29%3A%20high-performance%20genomics%20data%20visualization%20and%20exploration&journal=Brief.%20Bioinform.&volume=14&pages=178-192&publication_year=2013&author=Thorvaldsdottir%2CH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22517427)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXkvFKrur4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrative%20Genomics%20Viewer%20%28IGV%29%3A%20high-performance%20genomics%20data%20visualization%20and%20exploration&journal=Brief.%20Bioinform.&volume=14&pages=178-192&publication_year=2013&author=Thorvaldsdottir%2CH) 
     
 110.  Zhang, J. et al. Allele-defined genome of the autopolyploid sugarcane _Saccharum spontaneum_ L. _Nat. Genet._ **50**, 1565–1573 (2018).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30297971)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele-defined%20genome%20of%20the%20autopolyploid%20sugarcane%20Saccharum%20spontaneum%20L&journal=Nat.%20Genet.&volume=50&pages=1565-1573&publication_year=2018&author=Zhang%2CJ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30297971)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXitVCitL3F)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Allele-defined%20genome%20of%20the%20autopolyploid%20sugarcane%20Saccharum%20spontaneum%20L&journal=Nat.%20Genet.&volume=50&pages=1565-1573&publication_year=2018&author=Zhang%2CJ) 
     
 111.  Wu, T. D. & Watanabe, C. K. GMAP: a genomic mapping and alignment program for mRNA and EST sequences. _Bioinformatics_ **21**, 1859–1875 (2005).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15728110)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GMAP%3A%20a%20genomic%20mapping%20and%20alignment%20program%20for%20mRNA%20and%20EST%20sequences&journal=Bioinformatics&volume=21&pages=1859-1875&publication_year=2005&author=Wu%2CTD&author=Watanabe%2CCK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15728110)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2MXjsl2ntLw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GMAP%3A%20a%20genomic%20mapping%20and%20alignment%20program%20for%20mRNA%20and%20EST%20sequences&journal=Bioinformatics&volume=21&pages=1859-1875&publication_year=2005&author=Wu%2CTD&author=Watanabe%2CCK) 
     
 112.  Bolger, A. M. et al. Trimmomatic: a flexible trimmer for Illumina sequence data. _Bioinformatics_ **30**, 2114–2120 (2014).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24695404)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103590)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trimmomatic%3A%20a%20flexible%20trimmer%20for%20Illumina%20sequence%20data&journal=Bioinformatics&volume=30&pages=2114-2120&publication_year=2014&author=Bolger%2CAM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24695404)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103590)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXht1Sqt7nP)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trimmomatic%3A%20a%20flexible%20trimmer%20for%20Illumina%20sequence%20data&journal=Bioinformatics&volume=30&pages=2114-2120&publication_year=2014&author=Bolger%2CAM) 
     
 113.  Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. _Bioinformatics_ **29**, 15–21 (2013).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23104886)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=STAR%3A%20ultrafast%20universal%20RNA-seq%20aligner&journal=Bioinformatics&volume=29&pages=15-21&publication_year=2013&author=Dobin%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23104886)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhvV2gsbnF)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=STAR%3A%20ultrafast%20universal%20RNA-seq%20aligner&journal=Bioinformatics&volume=29&pages=15-21&publication_year=2013&author=Dobin%2CA) 
     
 114.  Pertea, M. et al. StringTie enables improved reconstruction of a transcriptome from RNA-seq reads. _Nat. Biotechnol._ **33**, 290–295 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25690850)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643835)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=StringTie%20enables%20improved%20reconstruction%20of%20a%20transcriptome%20from%20RNA-seq%20reads&journal=Nat.%20Biotechnol.&volume=33&pages=290-295&publication_year=2015&author=Pertea%2CM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25690850)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643835)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXivFais70%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=StringTie%20enables%20improved%20reconstruction%20of%20a%20transcriptome%20from%20RNA-seq%20reads&journal=Nat.%20Biotechnol.&volume=33&pages=290-295&publication_year=2015&author=Pertea%2CM) 
     
 115.  Love, M. I. et al. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. _Genome Biol._ **15**, 550 (2014).
     
@@ -705,19 +705,19 @@ References
     
 116.  Lan, X. & Pritchard, J. K. Coregulation of tandem duplicate genes slows evolution of subfunctionalization in mammals. _Science_ **352**, 1009–1013 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27199432)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5182070)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coregulation%20of%20tandem%20duplicate%20genes%20slows%20evolution%20of%20subfunctionalization%20in%20mammals&journal=Science&volume=352&pages=1009-1013&publication_year=2016&author=Lan%2CX&author=Pritchard%2CJK) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27199432)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5182070)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XotVSktLc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coregulation%20of%20tandem%20duplicate%20genes%20slows%20evolution%20of%20subfunctionalization%20in%20mammals&journal=Science&volume=352&pages=1009-1013&publication_year=2016&author=Lan%2CX&author=Pritchard%2CJK) 
     
 117.  Song, B. et al. Increased DNA methylation contributes to the early ripening of pear fruits during domestication and improvement. _Genome Biol._ **25**, 87 (2024).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38581061)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10996114)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Increased%20DNA%20methylation%20contributes%20to%20the%20early%20ripening%20of%20pear%20fruits%20during%20domestication%20and%20improvement&journal=Genome%20Biol.&volume=25&publication_year=2024&author=Song%2CB) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38581061)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10996114)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXotVWntbc%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Increased%20DNA%20methylation%20contributes%20to%20the%20early%20ripening%20of%20pear%20fruits%20during%20domestication%20and%20improvement&journal=Genome%20Biol.&volume=25&publication_year=2024&author=Song%2CB) 
     
 118.  Krueger, F. & Andrews, S. R. Bismark: a flexible aligner and methylation caller for bisulfite-Seq applications. _Bioinformatics_ **27**, 1571–1572 (2011).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21493656)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102221)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bismark%3A%20a%20flexible%20aligner%20and%20methylation%20caller%20for%20bisulfite-Seq%20applications&journal=Bioinformatics&volume=27&pages=1571-1572&publication_year=2011&author=Krueger%2CF&author=Andrews%2CSR) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21493656)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102221)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXmvVWqurw%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bismark%3A%20a%20flexible%20aligner%20and%20methylation%20caller%20for%20bisulfite-Seq%20applications&journal=Bioinformatics&volume=27&pages=1571-1572&publication_year=2011&author=Krueger%2CF&author=Andrews%2CSR) 
     
 119.  Ramirez, F. et al. deepTools2: a next generation web server for deep-sequencing data analysis. _Nucleic Acids Res._ **44**, W160–W165 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27079975)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987876)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=deepTools2%3A%20a%20next%20generation%20web%20server%20for%20deep-sequencing%20data%20analysis&journal=Nucleic%20Acids%20Res.&volume=44&pages=W160-W165&publication_year=2016&author=Ramirez%2CF) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27079975)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987876)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhtV2itrfI)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=deepTools2%3A%20a%20next%20generation%20web%20server%20for%20deep-sequencing%20data%20analysis&journal=Nucleic%20Acids%20Res.&volume=44&pages=W160-W165&publication_year=2016&author=Ramirez%2CF) 
     
 120.  Hickey, G. et al. Genotyping structural variants in pangenome graphs using the vg toolkit. _Genome Biol._ **21**, 35 (2020).
     
@@ -725,7 +725,7 @@ References
     
 121.  Danecek, P. et al. The variant call format and VCFtools. _Bioinformatics_ **27**, 2156–2158 (2011).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21653522)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3MXptFCqt7w%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20variant%20call%20format%20and%20VCFtools&journal=Bioinformatics&volume=27&pages=2156-2158&publication_year=2011&author=Danecek%2CP) 
     
 122.  Wang, J. et al. A pangenome analysis pipeline provides insights into functional gene identification in rice. _Genome Biol._ **24**, 19 (2023).
     
@@ -733,19 +733,19 @@ References
     
 123.  McKenna, A. et al. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. _Genome Res._ **20**, 1297–1303 (2010).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20644199)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928508)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Genome%20Analysis%20Toolkit%3A%20a%20MapReduce%20framework%20for%20analyzing%20next-generation%20DNA%20sequencing%20data&journal=Genome%20Res.&volume=20&pages=1297-1303&publication_year=2010&author=McKenna%2CA) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20644199)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928508)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXhtFeru7jM)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Genome%20Analysis%20Toolkit%3A%20a%20MapReduce%20framework%20for%20analyzing%20next-generation%20DNA%20sequencing%20data&journal=Genome%20Res.&volume=20&pages=1297-1303&publication_year=2010&author=McKenna%2CA) 
     
 124.  Minh, B. Q. et al. IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era. _Mol. Biol. Evol._ **37**, 1530–1534 (2020).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32011700)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182206)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=IQ-TREE%202%3A%20new%20models%20and%20efficient%20methods%20for%20phylogenetic%20inference%20in%20the%20genomic%20era&journal=Mol.%20Biol.%20Evol.&volume=37&pages=1530-1534&publication_year=2020&author=Minh%2CBQ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32011700)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182206)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXis1egsLbL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=IQ-TREE%202%3A%20new%20models%20and%20efficient%20methods%20for%20phylogenetic%20inference%20in%20the%20genomic%20era&journal=Mol.%20Biol.%20Evol.&volume=37&pages=1530-1534&publication_year=2020&author=Minh%2CBQ) 
     
 125.  Alexander, D. H. et al. Fast model-based estimation of ancestry in unrelated individuals. _Genome Res._ **19**, 1655–1664 (2009).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19648217)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752134)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%20model-based%20estimation%20of%20ancestry%20in%20unrelated%20individuals&journal=Genome%20Res.&volume=19&pages=1655-1664&publication_year=2009&author=Alexander%2CDH) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19648217)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752134)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD1MXhtFCjsLvL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fast%20model-based%20estimation%20of%20ancestry%20in%20unrelated%20individuals&journal=Genome%20Res.&volume=19&pages=1655-1664&publication_year=2009&author=Alexander%2CDH) 
     
 126.  Purcell, S. et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. _Am. J. Hum. Genet_. **81**, 559–575 (2007).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17701901)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950838)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD2sXhtVSqurrL)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=PLINK%3A%20a%20tool%20set%20for%20whole-genome%20association%20and%20population-based%20linkage%20analyses&journal=Am.%20J.%20Hum.%20Genet&volume=81&pages=559-575&publication_year=2007&author=Purcell%2CS) 
     
 127.  Korneliussen, T. S. et al. ANGSD: analysis of next generation sequencing data. _BMC Bioinf._ **15**, 356 (2014).
     
@@ -753,7 +753,7 @@ References
     
 128.  Liu, X. & Fu, Y. X. Exploring population size changes using SNP frequency spectra. _Nat. Genet._ **47**, 555–559 (2015).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25848749)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414822)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20population%20size%20changes%20using%20SNP%20frequency%20spectra&journal=Nat.%20Genet.&volume=47&pages=555-559&publication_year=2015&author=Liu%2CX&author=Fu%2CYX) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25848749)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414822)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXlvFajurY%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20population%20size%20changes%20using%20SNP%20frequency%20spectra&journal=Nat.%20Genet.&volume=47&pages=555-559&publication_year=2015&author=Liu%2CX&author=Fu%2CYX) 
     
 129.  Liu, X. & Fu, Y. X. Stairway Plot 2: demographic history inference with folded SNP frequency spectra. _Genome Biol._ **21**, 280 (2020).
     
@@ -765,11 +765,11 @@ References
     
 131.  Zhang, M. Y. et al. Distinct transcriptome profiles reveal gene expression patterns during fruit development and maturation in five main cultivated species of pear (Pyrus L.). _Sci. Rep._ **6**, 28130 (2016).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27305967)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910100)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Distinct%20transcriptome%20profiles%20reveal%20gene%20expression%20patterns%20during%20fruit%20development%20and%20maturation%20in%20five%20main%20cultivated%20species%20of%20pear%20%28Pyrus%20L.%29&journal=Sci.%20Rep.&volume=6&publication_year=2016&author=Zhang%2CMY) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27305967)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910100)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhtVahsL%2FN)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Distinct%20transcriptome%20profiles%20reveal%20gene%20expression%20patterns%20during%20fruit%20development%20and%20maturation%20in%20five%20main%20cultivated%20species%20of%20pear%20%28Pyrus%20L.%29&journal=Sci.%20Rep.&volume=6&publication_year=2016&author=Zhang%2CMY) 
     
 132.  Wang, R. Z. et al. A systems genetics approach reveals PbrNSC as a regulator of lignin and cellulose biosynthesis in stone cells of pear fruit. _Genome Biol._ **22**, 313 (2021).
     
-    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34776004)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590786)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systems%20genetics%20approach%20reveals%20PbrNSC%20as%20a%20regulator%20of%20lignin%20and%20cellulose%20biosynthesis%20in%20stone%20cells%20of%20pear%20fruit&journal=Genome%20Biol.&volume=22&publication_year=2021&author=Wang%2CRZ) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34776004)  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590786)  [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB38XksFaqur4%3D)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systems%20genetics%20approach%20reveals%20PbrNSC%20as%20a%20regulator%20of%20lignin%20and%20cellulose%20biosynthesis%20in%20stone%20cells%20of%20pear%20fruit&journal=Genome%20Biol.&volume=22&publication_year=2021&author=Wang%2CRZ) 
     
 133.  Lin, T. B. Resveratrol production of tomato transformed with a vitis stilbene synthase gene. _Life Sci. Res_ **7**, 262–266 (2003).
     
