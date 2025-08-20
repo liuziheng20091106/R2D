@@ -12,6 +12,26 @@ Abstract
 
 Although three-dimensional (3D) genome structures are altered in cancer, it remains unclear how these changes evolve and diversify during cancer progression. Leveraging genome-wide chromatin tracing to visualize 3D genome folding directly in tissues, we generated 3D genome cancer atlases of oncogenic Kras-driven mouse lung adenocarcinoma (LUAD) and pancreatic ductal adenocarcinoma. Here we define nonmonotonic, stage-specific alterations in 3D genome compaction, heterogeneity and compartmentalization as cancers progress from normal to preinvasive and ultimately to invasive tumors, discovering a potential structural bottleneck in early tumor progression. Remarkably, 3D genome architectures distinguish morphologic cancer states in single cells, despite considerable cell-to-cell heterogeneity. Analyses of genome compartmentalization changes not only showed that compartment-associated genes are more homogeneously regulated but also elucidated prognostic and dependency genes in LUAD, as well as an unexpected role for Rnf2 in 3D genome regulation. Our results highlight the power of single-cell 3D genome mapping to identify diagnostic, prognostic and therapeutic biomarkers in cancer.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs42003-025-07647-2/MediaObjects/42003_2025_7647_Fig1_HTML.png)
+
+### [3D genome landscape of primary and metastatic colorectal carcinoma reveals the regulatory mechanism of tumorigenic and metastatic gene expression](https://www.nature.com/articles/s42003-025-07647-2?fromPaywallRec=false)
+
+Article Open access 04 March 2025
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-025-02188-0/MediaObjects/41588_2025_2188_Fig1_HTML.png)
+
+### [Three-dimensional genome landscape of primary human cancers](https://www.nature.com/articles/s41588-025-02188-0?fromPaywallRec=false)
+
+Article Open access 12 May 2025
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41586-023-06054-z/MediaObjects/41586_2023_6054_Fig1_HTML.png)
+
+### [Pan-cancer whole-genome comparison of primary and metastatic solid tumours](https://www.nature.com/articles/s41586-023-06054-z?fromPaywallRec=false)
+
+Article Open access 10 May 2023
+
 Main
 ----
 

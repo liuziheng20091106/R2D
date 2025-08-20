@@ -18,19 +18,19 @@ Access Nature and 54 other Nature Portfolio journals
 
 Get Nature+, our best-value online-access subscription
 
-27,99 € / 30 days
+$32.99 / 30 days
 
 cancel any time
 
-[Learn more](https://shop.nature.com/products/plus/?region=ROW)
+[Learn more](https://shop-amers.nature.com/products/plus/?region=US)
 
 Subscribe to this journal
 
 Receive 12 print issues and online access
 
-195,33 € per year
+$209.00 per year
 
-only 16,28 € per issue
+only $17.42 per issue
 
 [Learn more](https://www.nature.com/ng/subscribe)
 
