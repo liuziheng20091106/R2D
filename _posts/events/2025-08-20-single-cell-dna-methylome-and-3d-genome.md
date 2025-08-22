@@ -12,6 +12,26 @@ Abstract
 
 The cell-type-level epigenomic landscape of human subcutaneous adipose tissue (SAT) is not well characterized. Here, we elucidate the epigenomic landscape across SAT cell types using snm3C-seq. We find that SAT CG methylation (mCG) displays pronounced hypermethylation in myeloid cells and hypomethylation in adipocytes and adipose stem and progenitor cells, driving nearly half of the 705,063 differentially methylated regions (DMRs). Moreover, _TET1_ and _DNMT3A_ are identified as plausible regulators of the cell-type-level mCG profiles. Both global mCG profiles and chromosomal compartmentalization reflect SAT cell-type lineage. Notably, adipocytes display more short-range chromosomal interactions, forming complex local 3D genomic structures that regulate transcriptional functions, including adipogenesis. Furthermore, adipocyte DMRs and A compartments are enriched for abdominal obesity genome-wide association study (GWAS) variants and polygenic risk, while myeloid A compartments are enriched for inflammation. Together, we characterize the SAT single-cell-level epigenomic landscape and link GWAS variants and partitioned polygenic risk of abdominal obesity and inflammation to the SAT epigenome.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-023-38439-z/MediaObjects/41467_2023_38439_Fig1_HTML.png)
+
+### [Integrative genomic analyses in adipocytes implicate DNA methylation in human obesity and diabetes](https://www.nature.com/articles/s41467-023-38439-z?fromPaywallRec=false)
+
+Article Open access 15 May 2023
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41387-022-00228-w/MediaObjects/41387_2022_228_Fig1_HTML.png)
+
+### [DNA methylation and gene expression analysis in adipose tissue to identify new loci associated with T2D development in obesity](https://www.nature.com/articles/s41387-022-00228-w?fromPaywallRec=false)
+
+Article Open access 19 December 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs42255-023-00820-z/MediaObjects/42255_2023_820_Fig1_HTML.png)
+
+### [Adipogenic and SWAT cells separate from a common progenitor in human brown and white adipose depots](https://www.nature.com/articles/s42255-023-00820-z?fromPaywallRec=false)
+
+Article Open access 19 June 2023
+
 Main
 ----
 

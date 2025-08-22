@@ -73,6 +73,26 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02292-1/MediaObjects/41588_2025_2292_Fig7_HTML.png)
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41408-021-00474-8/MediaObjects/41408_2021_474_Fig1_HTML.png)
+
+### [Chromosome 1q21 abnormalities in multiple myeloma](https://www.nature.com/articles/s41408-021-00474-8?fromPaywallRec=true)
+
+Article Open access 29 April 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41388-022-02227-8/MediaObjects/41388_2022_2227_Fig1_HTML.png)
+
+### [p53-NEIL1 co-abnormalities induce genomic instability and promote synthetic lethality with Chk1 inhibition in multiple myeloma having concomitant 17p13(del) and 1q21(gain)](https://www.nature.com/articles/s41388-022-02227-8?fromPaywallRec=true)
+
+Article 21 February 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-024-45000-z/MediaObjects/41467_2024_45000_Fig1_HTML.png)
+
+### [Multi-dimensional scaling techniques unveiled gain1q&loss13q co-occurrence in Multiple Myeloma patients with specific genomic, transcriptional and adverse clinical features](https://www.nature.com/articles/s41467-024-45000-z?fromPaywallRec=true)
+
+Article Open access 20 February 2024
+
 Data availability
 -----------------
 

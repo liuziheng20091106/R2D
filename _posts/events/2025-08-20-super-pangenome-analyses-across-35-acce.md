@@ -69,6 +69,26 @@ Prices may be subject to local taxes which are calculated during checkout
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02294-z/MediaObjects/41588_2025_2294_Fig6_HTML.png)
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41586-022-04732-y/MediaObjects/41586_2022_4732_Fig1_HTML.png)
+
+### [The mosaic oat genome gives insights into a uniquely healthy cereal crop](https://www.nature.com/articles/s41586-022-04732-y?fromPaywallRec=true)
+
+Article Open access 18 May 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41477-024-01866-x/MediaObjects/41477_2024_1866_Fig1_HTML.png)
+
+### [The near-complete genome assembly of hexaploid wild oat reveals its genome evolution and divergence with cultivated oats](https://www.nature.com/articles/s41477-024-01866-x?fromPaywallRec=true)
+
+Article 03 December 2024
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41588-022-01127-7/MediaObjects/41588_2022_1127_Fig1_HTML.png)
+
+### [Reference genome assemblies reveal the origin and evolution of allohexaploid oat](https://www.nature.com/articles/s41588-022-01127-7?fromPaywallRec=true)
+
+Article Open access 18 July 2022
+
 Data availability
 -----------------
 
