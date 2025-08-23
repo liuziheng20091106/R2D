@@ -14,6 +14,12 @@ Developmental stuttering is a highly heritable, common speech condition characte
 
 ### Similar content being viewed by others
 
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41380-025-03170-2/MediaObjects/41380_2025_3170_Fig1_HTML.png)
+
+### [De novo protein-coding gene variants in developmental stuttering](https://www.nature.com/articles/s41380-025-03170-2?fromPaywallRec=false)
+
+Article Open access 20 August 2025
+
 ![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-024-46128-8/MediaObjects/41467_2024_46128_Fig1_HTML.png)
 
 ### [Structural models of genome-wide covariance identify multiple common dimensions in autism](https://www.nature.com/articles/s41467-024-46128-8?fromPaywallRec=false)
@@ -25,12 +31,6 @@ Article Open access 27 February 2024
 ### [Genome-wide association study of school grades identifies genetic overlap between language ability, psychopathology and creativity](https://www.nature.com/articles/s41598-022-26845-0?fromPaywallRec=false)
 
 Article Open access 09 January 2023
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41380-024-02409-8/MediaObjects/41380_2024_2409_Fig1_HTML.png)
-
-### [Genetic architecture of childhood speech disorder: a review](https://www.nature.com/articles/s41380-024-02409-8?fromPaywallRec=false)
-
-Article Open access 16 February 2024
 
 Main
 ----
