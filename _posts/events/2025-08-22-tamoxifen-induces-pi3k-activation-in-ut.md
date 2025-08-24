@@ -12,6 +12,26 @@ Abstract
 
 Mutagenic processes and clonal selection contribute to the development of therapy-associated secondary neoplasms, a known complication of cancer treatment. The association between tamoxifen therapy and secondary uterine cancers is uncommon but well established; however, the genetic mechanisms underlying tamoxifen-driven tumorigenesis remain unclear. We find that oncogenic _PIK3CA_ mutations, common in spontaneously arising estrogen-associated de novo uterine cancer, are significantly less frequent in tamoxifen-associated tumors. In vivo, tamoxifen-induced estrogen receptor stimulation activates phosphoinositide 3-kinase (PI3K) signaling in normal mouse uterine tissue, potentially eliminating the selective benefit of PI3K-activating mutations in tamoxifen-associated uterine cancer. Together, we present a unique pathway of therapy-associated carcinogenesis in which tamoxifen-induced activation of the PI3K pathway acts as a non-genetic driver event, contributing to the multistep model of uterine carcinogenesis. While this PI3K mechanism is specific to tamoxifen-associated uterine cancer, the concept of treatment-induced signaling events may have broader applicability to other routes of tumorigenesis.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41419-021-03904-4/MediaObjects/41419_2021_3904_Fig1_HTML.png)
+
+### [USP35, regulated by estrogen and AKT, promotes breast tumorigenesis by stabilizing and enhancing transcriptional activity of estrogen receptor α](https://www.nature.com/articles/s41419-021-03904-4?fromPaywallRec=false)
+
+Article Open access 15 June 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41416-021-01293-1/MediaObjects/41416_2021_1293_Fig1_HTML.png)
+
+### [PI3K activation promotes resistance to eribulin in HER2-negative breast cancer](https://www.nature.com/articles/s41416-021-01293-1?fromPaywallRec=false)
+
+Article 15 March 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-022-09889-0/MediaObjects/41598_2022_9889_Fig1_HTML.png)
+
+### [Pan-cancer analysis on the role of PIK3R1 and PIK3R2 in human tumors](https://www.nature.com/articles/s41598-022-09889-0?fromPaywallRec=false)
+
+Article Open access 08 April 2022
+
 Main
 ----
 
