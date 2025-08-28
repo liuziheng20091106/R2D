@@ -12,6 +12,26 @@ Abstract
 
 Despite the high prevalence of ERG transcription factor translocations in prostate cancer, the mechanism of tumorigenicity remains poorly understood. Using lineage tracing, we find the tumor-initiating activity of ERG resides in a subpopulation of murine basal cells that coexpress luminal genes (BasalLum) and not in the larger population of ERG+ luminal cells. Upon ERG activation, BasalLum cells give rise to highly proliferative intermediate (IM) cells with stem-like features that coexpress basal, luminal, hillock and club marker genes, before transitioning to Krt8+ luminal cells. Transcriptomic analysis of ERG+ human prostate cancers confirms the presence of rare ERG+ BasalLum cells, as well as IM cells whose presence is associated with a worse prognosis. Single-cell analysis revealed a chromatin state in ERG+ IM cells enriched for STAT3 transcription factor binding sites and elevated expression of the KMT2A/MLL1 and DOT1L, all three of which are essential for ERG-driven tumorigenicity in vivo. In addition to providing translational opportunities, this work illustrates how single-cell approaches combined with lineage tracing can identify cancer vulnerabilities not evident from bulk analysis.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-021-27322-4/MediaObjects/41467_2021_27322_Fig1_HTML.png)
+
+### [Single-cell analysis of human primary prostate cancer reveals the heterogeneity of tumor-associated epithelial cell states](https://www.nature.com/articles/s41467-021-27322-4?fromPaywallRec=false)
+
+Article Open access 10 January 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41417-022-00454-5/MediaObjects/41417_2022_454_Fig1_HTML.png)
+
+### [TMPRSS2-ERG promotes the initiation of prostate cancer by suppressing oncogene-induced senescence](https://www.nature.com/articles/s41417-022-00454-5?fromPaywallRec=false)
+
+Article 07 April 2022
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41388-022-02586-2/MediaObjects/41388_2022_2586_Fig1_HTML.png)
+
+### [Triple negative breast tumors contain heterogeneous cancer cells expressing distinct KRAS-dependent collective and disseminative invasion programs](https://www.nature.com/articles/s41388-022-02586-2?fromPaywallRec=false)
+
+Article 05 January 2023
+
 Main
 ----
 

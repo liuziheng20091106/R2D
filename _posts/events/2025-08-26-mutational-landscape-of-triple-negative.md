@@ -12,6 +12,26 @@ Abstract
 
 African American (AA) women have the highest incidence of triple-negative breast cancer (TNBC) among all racial groups, but are underrepresented in cancer genomic studies. In 462 AA women with TNBC, we characterized the tumor mutational landscape by whole-exome sequencing and RNA sequencing. We unveiled a high-resolution mutational portrait of TNBC in AA women reminiscent of that in Asian and non-Hispanic white women, with no evidence of associations of mutational features with African ancestry. We also made some distinctive discoveries, including an almost complete dominance of _TP53_ mutations, low frequency of _PIK3CA_ mutations and mutational signature-based subtypes with etiologic and prognostic significance. These findings do not support major racial differences in TNBC biology at the level of somatic mutations. Our study contributes considerably to diversifying the knowledge base of breast cancer genomics and provides insights into the disease etiology, disparities and therapeutic vulnerability of TNBC in AA women.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41523-025-00809-9/MediaObjects/41523_2025_809_Fig1_HTML.png)
+
+### [Genomic landscapes of breast cancer in African populations: a systematic review](https://www.nature.com/articles/s41523-025-00809-9?fromPaywallRec=false)
+
+Article Open access 14 August 2025
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-021-88613-w/MediaObjects/41598_2021_88613_Fig1_HTML.png)
+
+### [Investigation of triple-negative breast cancer risk alleles in an International African-enriched cohort](https://www.nature.com/articles/s41598-021-88613-w?fromPaywallRec=false)
+
+Article Open access 29 April 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41523-021-00215-x/MediaObjects/41523_2021_215_Fig1_HTML.png)
+
+### [Ancestry-associated transcriptomic profiles of breast cancer in patients of African, Arab, and European ancestry](https://www.nature.com/articles/s41523-021-00215-x?fromPaywallRec=false)
+
+Article Open access 08 February 2021
+
 Main
 ----
 
