@@ -12,6 +12,26 @@ Abstract
 
 Electronic health record (EHR)-based phenotype risk scores (PheRS) leverage individuals’ health trajectories to estimate disease risk, similar to how polygenic scores (PGS) use genetic information. While PGS generalizability has been studied, less is known about PheRS generalizability across healthcare systems and whether PheRS are complementary to PGS. We trained elastic-net-based PheRS to predict the onset of 13 common diseases for 845,929 individuals (age = 32–70 years) from three biobank-based studies in Finland (FinnGen), the UK (UKB) and Estonia (EstB). All PheRS were statistically significantly associated with the diseases of interest and most generalized well without retraining when applied to other studies. PheRS and PGS were only moderately correlated and models including both predictors improved onset prediction compared to PGS alone for 8 of 13 diseases. Our results indicate that EHR-based risk scores can transfer well between EHRs, capture largely independent information from PGS, and provide additive benefits for disease risk prediction.
 
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-024-48938-2/MediaObjects/41467_2024_48938_Fig1_HTML.png)
+
+### [A unified framework for estimating country-specific cumulative incidence for 18 diseases stratified by polygenic risk](https://www.nature.com/articles/s41467-024-48938-2?fromPaywallRec=false)
+
+Article Open access 12 June 2024
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41431-025-01850-9/MediaObjects/41431_2025_1850_Fig1_HTML.png)
+
+### [The Spanish Polygenic Score reference distribution: a resource for personalized medicine](https://www.nature.com/articles/s41431-025-01850-9?fromPaywallRec=false)
+
+Article Open access 24 April 2025
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-025-05838-9/MediaObjects/41598_2025_5838_Fig1_HTML.png)
+
+### [A computational framework for defining and validating reproducible phenotyping algorithms of 313 diseases in the UK Biobank](https://www.nature.com/articles/s41598-025-05838-9?fromPaywallRec=false)
+
+Article Open access 09 July 2025
+
 Main
 ----
 
