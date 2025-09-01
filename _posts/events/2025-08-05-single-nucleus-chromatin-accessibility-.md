@@ -28,9 +28,9 @@ Subscribe to this journal
 
 Receive 12 print issues and online access
 
-195,33 € per year
+251,40 € per year
 
-only 16,28 € per issue
+only 20,95 € per issue
 
 [Learn more](https://www.nature.com/ng/subscribe)
 
